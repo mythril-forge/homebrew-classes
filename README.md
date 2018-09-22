@@ -1,10 +1,10 @@
 # The Mythril Forge
-#### As a Dungeon Master, I have many homebrew rules for D&D...
+##### As a Dungeon Master, I have many homebrew rules for D&D...
 ...And this website is dedicated to those special rules. I refer to default rules as *vanilla*, and homebrew rules as *chocolate*
 
 ## Character Creation
 
-Vanilla:
+Vanilla Order:
 1. Choose a Race
 2. Choose a Class
 3. Determine Ability Scores
@@ -12,7 +12,7 @@ Vanilla:
 5. Choose Equipment
 6. Come Together
 
-Chocolate:
+Chocolate Order:
 1. Determine Ability Scores
 2. Choose a Race
 3. Choose a Class
