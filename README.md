@@ -21,13 +21,12 @@ Chocolate Order:
 6. Come Together
 
 ### Stat Generation
-You have one of two options...
+Choose one of two options...
 
 - Roll for Stats:
-roll 6d4 drop highest six times. Arrange the results however you see fit.
-
+	- roll 6d4 drop highest six times. Arrange the results however you see fit.
 - Take the Standard Array:
-take the six stats [15,13,12,11,9,7] Arrange the results however you see fit.
+	- take the six stats [15,13,12,11,9,7] Arrange the results however you see fit.
 
 ### Racial Abilities
 
