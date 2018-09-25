@@ -33,3 +33,76 @@ Choose one of two options...
 
 ### Class Features
 
+- Character Creation
+	- Class Features
+		- Barbarian
+		- Bard
+		- Cleric
+		- Druid
+		- Fighter
+		- Monk
+		- Paladin
+		- Ranger
+		- Rogue
+		- Sorcerer
+		- Warlock
+		- Wizard
+		- Artificer
+		- Blood Hunter
+		- Mystic
+	- Racial Abilities
+		- Aarakocra
+		- Aasimar
+		- Aetherborn
+		- Aven
+		- Bugbear
+		- Centaur
+		- Changeling
+		- Dragonborn
+		- Dwarf
+		- Elf
+		- Firbolg
+		- Genasi
+		- Gith
+		- Gnome
+		- Goblin
+		- Goliath
+		- Half-elf
+		- Half-orc
+		- Halfling
+		- Hobgoblin
+		- Human
+		- Kalashtar
+		- Kenku
+		- Khenra
+		- Kobold
+		- Kor
+		- Lizardfolk
+		- Loxodon
+		- Merfolk
+		- Minotaur
+		- Naga
+		- Orc
+		- Revenant
+		- Shifter
+		- Simic Hybrid
+		- Siren
+		- Tabaxi
+		- Tiefling
+		- Tortle
+		- Triton
+		- Vampire
+		- Vedalken
+		- Viashino
+		- Warforged
+		- Yuan-Ti Pureblood
+	- Background Knacks
+	- Stat Generation
+		- Standard Array
+		- Rolling Dice
+	- Choose Equipment
+	- Come Together
+- Special
+	- Magic Spells
+	- Special Feats
+	- Epic Boons
