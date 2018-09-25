@@ -51,6 +51,15 @@ Choose one of two options...
 		- Blood Hunter
 		- Mystic
 	- Racial Abilities
+		- Dragonborn
+		- Dwarf
+		- Elf
+		- Gnome
+		- Halfling
+		- Human
+		- Orc
+		- Tiefling
+
 		- Aarakocra
 		- Aasimar
 		- Aetherborn
@@ -58,20 +67,14 @@ Choose one of two options...
 		- Bugbear
 		- Centaur
 		- Changeling
-		- Dragonborn
-		- Dwarf
-		- Elf
 		- Firbolg
 		- Genasi
 		- Gith
-		- Gnome
 		- Goblin
 		- Goliath
 		- Half-elf
 		- Half-orc
-		- Halfling
 		- Hobgoblin
-		- Human
 		- Kalashtar
 		- Kenku
 		- Khenra
@@ -82,13 +85,11 @@ Choose one of two options...
 		- Merfolk
 		- Minotaur
 		- Naga
-		- Orc
 		- Revenant
 		- Shifter
 		- Simic Hybrid
 		- Siren
 		- Tabaxi
-		- Tiefling
 		- Tortle
 		- Triton
 		- Vampire
