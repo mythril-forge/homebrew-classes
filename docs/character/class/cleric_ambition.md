@@ -1,7 +1,13 @@
-Ambition Domain (PSA)
-"The worthy shall strive for greatness—supremacy in life leads to supremacy in the afterlife."
+# Ambition Domain (PSA)
+> _"The worthy shall strive for greatness—supremacy in life leads to supremacy in the afterlife."_
+> _—Bontu_
+
 Bontu has fully embraced this dictum, and though she expends little effort in teaching it, she surely leads by example. Her viziers subtly plant the seeds that flower into the ambition the God-Pharaoh desires. Through insinuation, they remind acolytes and initiates alike that achieving one's place in the afterlife at the expense of others is not shameful, but is proof of the initiate's determination and drive. Nothing is more important than that drive, they suggest—not the bonds of a crop, not friendship or love. Not even devotion to a deity.
+
+
+## Spellcasting
 At each indicated cleric level, add the listed spells to your spells prepared.
+
 Ambition Domain Spells
 Cleric Level	Spells
 1st	bane, disguise self
