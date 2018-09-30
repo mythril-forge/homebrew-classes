@@ -2,6 +2,7 @@
 Zeal Domain (PSA)
 "The worthy shall rush to the God-Pharaoh's side with relentless zeal, rising to overcome every obstacle in their way."
 The God-Pharaoh expects those he welcomes into the afterlife to desire it above all other pleasures and achievements, and for them to show their dedication, passion, and fervor through their actions. Hazoret is charged with cultivating this zeal in the initiates who come under her care, and she has undertaken the task with appropriate enthusiasm. She recognizes, however, that the best way to teach zeal is by demonstrating it.
+## Spellcasting
 At each indicated cleric level, add the listed spells to your spells prepared.
 Zeal Domain Spells
 Cleric Level	Spells

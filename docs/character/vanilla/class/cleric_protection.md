@@ -1,5 +1,6 @@
 Protection Domain (UA)
 The protection domain is the purview of deities who charge their followers to shield the weak from the strong. The gods' faithful dwell in villages and towns on the borderlands, where they help bolster defenses and seek out evils to defeat. These gods believe that a strong shield and a suit of armor is the best defense against evil, second only to a stout mace on hand to respond to any attacks in kind. Deities who grant this domain include Helm, Ilmater, Torm, Tyr, Heironeous, St. Cuthbert, Paladine, Dol Dorn, the Silver Flame, Bahamut, Yondalla, Athena, and Odin.
+## Spellcasting
 At each indicated cleric level, add the listed spells to your spells prepared.
 Protection Domain Spells
 Cleric Level	Spells

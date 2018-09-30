@@ -134,32 +134,34 @@ You are proficient with the following items, in addition to any proficiencies pr
 ### Starting Equipment
 You start with the following items, plus anything provided by your background.
 - (a) a mace or (b) a warhammer (if proficient)
-- (a) scale mail, (b) leather armor, or (c) chain mail (if proficient)
-- (a) a light crossbow and 20 bolts or (b) any simple weapon
+- (a) padded armor, (b) hide armor, or (c) chain mail (if proficient)
+- (a) a simple crossbow and 12 bolts or (b) any simple weapon
 - (a) a priest's pack or (b) an explorer's pack
 - A shield and a holy symbol
-- Alternatively, you may start with 5d4 × 10 gp to buy your own equipment.
+- A 200-coin capacity purse containing 5d4 × 10 sp
 
 ## Spellcasting
 As a conduit for divine power, you can cast cleric spells. See chapter 10 for the general rules of spellcasting and chapter 11 for a selection of cleric spells.
 
+Clerics know every spell for which they can cast — however they must prepare a set number at the beginning of the day before using them.
+
 ### Cantrips
-At 1st level, you know three cantrips of your choice from the cleric spell list. You learn additional cleric cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Cleric table.
+Clerics can prepare cantrips alongside their other spells of 1st level and higher.
 
 ### Preparing and Casting Spells
 The Cleric table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
-You prepare the list of cleric spells that are available for you to cast, choosing from the cleric spell list. When you do so, choose a number of cleric spells equal to your Wisdom modifier + your cleric level (minimum of one spell). The spells must be of a level for which you have spell slots.
+You prepare the list of cleric spells that are available for you to cast, choosing from the cleric spell list. When you do so, choose a number of cleric spells equal to `your Wisdom modifier + your Proficiency Bonus + your cleric level (minimum of one spell).` The spells must be either a cantrip or of a level for which you have spell slots.
 
-For example, if you are a 3rd-level cleric, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell cure wounds, you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
+For example, if you are a 3rd-level cleric, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include eight spells of 0th, 1st, or 2nd level, in any combination. If you prepare the 1st-level spell cure wounds, you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
 
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of cleric spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
 
 ### Spellcasting Ability
 Wisdom is your spellcasting ability for your cleric spells. The power of your spells comes from your devotion to your deity. You use your Wisdom whenever a cleric spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a cleric spell you cast and when making an attack roll with one.
 
-Spell save DC = 8 + your proficiency bonus + your Wisdom modifier  
-Spell attack modifier = your proficiency bonus + your Wisdom modifier
+`Spell save DC = 8 + your proficiency bonus + your Wisdom modifier`  
+`Spell attack modifier = your proficiency bonus + your Wisdom modifier`
 
 ### Ritual Casting
 You can cast a cleric spell as a ritual if that spell has the ritual tag and you have the spell prepared.
@@ -185,29 +187,30 @@ Some Channel Divinity effects require saving throws. When you use such an effect
 Beginning at 6th level, you can use your Channel Divinity twice between rests, and beginning at 18th level, you can use it three times between rests. When you finish a short or long rest, you regain your expended uses.
 
 ### Channel Divinity: Turn Undead
-As an action, you present your holy symbol and speak a prayer censuring the undead. Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.
+As an action, you present your holy symbol and speak a prayer censuring the undead. Each undead that can see or hear you within 30 feet of you must make a ~Wisdom~ saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it faces any malevolent action from another creature.
 
 A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
 
-## Ability Score Improvement
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
-
-If your DM allows the use of feats, you may instead take a feat.
-
-## Destroy Undead
-Starting at 5th level, when an undead fails its saving throw against your Turn Undead feature, the creature is instantly destroyed if its Challenge Rating (CR) is at or below a certain threshold, as shown in the Destroy Undead table.
+#### Destroy Undead
+When an undead fails its saving throw against your Turn Undead feature, the creature is instantly destroyed if its Challenge Rating (CR) is at or below a certain threshold, as shown in the Destroy Undead table.
 
 |  Cleric Level  |  Destroys Undead of CR...  |
 |  :----------:  |  :-----------------------  |
+|  2nd  |  0 or lower |
 |  5th  |  1/2 or lower |
 |  8th  |  1 or lower   |
 |  11th |  2 or lower   |
 |  14th |  3 or lower   |
 |  17th |  4 or lower   |
 
+## Ability Score Improvement
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
 ## Divine Intervention
 Beginning at 10th level, you can call on your deity to intervene on your behalf when your need is great.
 
-Imploring your deity's aid requires you to use your action. Describe the assistance you seek, and roll percentile dice. If you roll a number equal to or lower than your cleric level, your deity intervenes. The DM chooses the nature of the intervention; the effect of any cleric spell or cleric domain spell would be appropriate. If your deity intervenes, you can't use this feature again for 7 days. Otherwise, you can use it again after you finish a long rest.
+Imploring your deity's aid requires you to use your action. Describe the assistance you seek, and roll 1d120 + your cleric level + your Wisdom modifier. If the resulting number is equal to or above 100, your deity intervenes. The DM chooses the nature of the intervention; the effect of any cleric spell or cleric domain spell would be appropriate. If your deity intervenes, you can't use this feature again for 7 days. Otherwise, you can use it again after you finish a long rest.
 
-At 20th level, your call for intervention succeeds automatically, no roll required.
+At 20th level, you can roll 1d120 twice and take the higher roll.

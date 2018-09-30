@@ -1,6 +1,7 @@
 Solidarity Domain (PSA)
 "The worthy must know and respect all others whom the God-Pharaoh deems worthy, for in the afterlife, all will be united in purpose and action."
 Oketra is charged with expounding upon this teaching of the God-Pharaoh, instilling in every initiate the virtue of solidarity. She forges each group of children into a crop of acolytes with just one purpose: to be judged worthy of a glorious afterlife. And she instills in each crop the ability to unite in a single action in pursuit of that purpose. She is fond of poetic imagery to communicate her ideals.
+## Spellcasting
 At each indicated cleric level, add the listed spells to your spells prepared.
 Solidarity Domain Spells
 Cleric Level	Spells

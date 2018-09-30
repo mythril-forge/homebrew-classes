@@ -20,25 +20,26 @@ Your proficiency bonus is doubled for any ability check you make that uses eithe
 
 ## Channel Divinity
 ### Channel Divinity: Knowledge of the Ages
-Starting at 2nd level, you can use your Channel Divinity to tap into a divine well of knowledge. As an action, you choose one skill or tool. For 10 minutes, you have proficiency with the chosen skill or tool.
+Starting at 2nd level, you can use your Channel Divinity to tap into a divine well of knowledge. As an action, you choose one skill or tool. For 10 minutes, you replace your d20 with a d24 on ability checks using the chosen skill or tool.
+
+When you reach 11th level, you replace your d20 with a d30 on these ability checks.
 
 ### Channel Divinity: Read Thoughts
 At 6th level, you can use your Channel Divinity to read a creature's thoughts. You can then use your access to the creature's mind to command it.
 
-As an action, choose one creature that you can see within 60 feet of you. That creature must make a Wisdom saving throw. If the creature succeeds on the saving throw, you can't use this feature on it again until you finish a long rest.
+As an action, choose one creature on the same plane of existance as you that you can see clearly. That creature must make a Charisma saving throw. If the creature succeeds on the saving throw, you can't use this feature on it again until you finish a long rest.
 
-If the creature fails its save, you can read its surface thoughts (those foremost in its mind, reflecting its current emotions and what it is actively thinking about) when it is within 60 feet of you. This effect lasts for 1 minute.
+If the creature fails its save, you can read its surface thoughts (those foremost in its mind, reflecting its current emotions and what it is actively thinking about) whenever you can see it clearly or it is within 60 feet of you. This effect lasts 1 hour and requires no concentration.
 
-During that time, you can use your action to end this effect and cast the suggestion spell on the creature without expending a spell slot. The target automatically fails its saving throw against the spell.
+During that time, you can use your action to cast the suggestion spell on the creature without expending a spell slot. The target automatically fails its saving throw against the spell.
 
 ## Potent Spellcasting
-Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip.
+Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric spell.
 
 ## Visions of the Past
-Starting at 17th level, you can call up visions of the past that relate to an object you hold or your immediate surroundings. You spend at least 1 minute in meditation and prayer, then receive dreamlike, shadowy glimpses of recent events. You can meditate in this way for a number of minutes equal to your Wisdom score and must maintain concentration during that time, as if you were casting a spell.
+Starting at 17th level, you can call up visions of the past that relate to an object you hold or your immediate surroundings. You spend at least 1 minute in meditation and prayer, then receive dreamlike, shadowy glimpses of recent events. You can meditate in this way indefinately but must maintain concentration during that time, as if you were casting a spell.
+
+- **Object Reading.** Holding an object as you meditate, you can see visions of the object's previous owner. After meditating for 1 minute, you learn how the owner acquired and lost the object, as well as the most recent significant event involving the object and that owner. If the object was owned by another creature in the recent past, you can spend 1 additional minute for each owner to learn the same information about that creature.
+- **Area Reading.** As you meditate, you see visions of recent events in your immediate vicinity (a room, street, tunnel, clearing, or the like, up to a 50-foot cube), going back a certain number of days. For each minute you meditate, you learn about one significant event, beginning with the most recent. Significant events typically involve powerful emotions, such as battles and betrayals, marriages and murders, births and funerals. However, they might also include more mundane events that are nevertheless important in your current situation.
 
 Once you use this feature, you can't use it again until you finish a short or long rest.
-
-Object Reading. Holding an object as you meditate, you can see visions of the object's previous owner. After meditating for 1 minute, you learn how the owner acquired and lost the object, as well as the most recent significant event involving the object and that owner. If the object was owned by another creature in the recent past (within a number of days equal to your Wisdom score), you can spend 1 additional minute for each owner to learn the same information about that creature.
-
-Area Reading. As you meditate, you see visions of recent events in your immediate vicinity (a room, street, tunnel, clearing, or the like, up to a 50-foot cube), going back a number of days equal to your Wisdom score. For each minute you meditate, you learn about one significant event, beginning with the most recent. Significant events typically involve powerful emotions, such as battles and betrayals, marriages and murders, births and funerals. However, they might also include more mundane events that are nevertheless important in your current situation.

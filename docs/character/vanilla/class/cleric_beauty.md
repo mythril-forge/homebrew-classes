@@ -1,18 +1,24 @@
-Beauty Domain (Twitter)
+# Beauty Domain (Twitter)
 [Note: this subclass is likely not intended as official content: "For the curious, when building stuff for my own campaign I kind of don't care about balance. Anything I can break in design I can counterbreak five times as bad during a session, as needed. Plus, IMO stuff going sideways and weird is why I play the game." — Mike Mearls]
+
 Beauty can both bend minds and inspire hearts. It is the force that compels others to lose control and give in to their impulses, but it can also awaken strength and determination to steel a forlorn heart.
+
 Clerics of Beauty bring joy and hope to the world. They are the beacon of light that reminds us that some things are worth fighting for. They seek to bring peace and amity among the world's folk. They fight only when they must, and prefer to use their magic to end fights with as little bloodshed as possible.
+## Spellcasting
 At each indicated cleric level, you add the listed spells to your spells prepared.
-Beauty Domain Spells
+
+### Beauty Domain Spells
 Cleric Level	Spells
 1st	charm person, heroism
 3rd	enthrall, suggestion
 5th	beacon of hope, hypnotic pattern
 7th	charm monster, compulsion
 9th	dominate person, hold monster
-Beauty's Refuge
+
+## Beauty's Refuge
 Starting at 1st level, your mere presence is enough to inspire hope and determination in others. When you complete a short or long rest, up to 12 allies of your choice gain temporary hit points equal to your Charisma modifier (minimum 1).
-Rebuke the Defiler
+
+## Rebuke the Defiler
 When you select this domain at 1st level, you gain the ability to rebuke those who lash out at your in violence.
 As a reaction when a creature you can see within 30 feet of you inflicts damage, you force that creature to make a Wisdom save. On a failed saving throw, it takes psychic damage equal to the damage dealt. On a successful save, it takes half that damage.
 If the creature made multiple attacks, select one attack to determine the damage dealt. If the creature used one or more effects that damaged multiple targets, choose the damage take by one of those targets from one of the effects.

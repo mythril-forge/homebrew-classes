@@ -1,6 +1,7 @@
 Destruction Domain (Twitter)
 [Note: this subclass is likely not intended as official content: "For the curious, when building stuff for my own campaign I kind of don't care about balance. Anything I can break in design I can counterbreak five times as bad during a session, as needed. Plus, IMO stuff going sideways and weird is why I play the game." — Mike Mearls]
 Custom built for clerics of Gruumsh, and perhaps Tiamat.
+## Spellcasting
 At each indicated cleric level, you add the listed spells to your spells prepared.
 Destruction Domain Spells
 Cleric Level	Spells
