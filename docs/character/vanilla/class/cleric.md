@@ -51,6 +51,7 @@ Some temples are cut off from the world so that their occupants can focus on dev
 Many clerics have items among their personal gear that symbolize their faith, remind them of their vows, or otherwise help to keep them on their chosen paths. Even though such an item is not imbued with divine power, it is vitally important to its owner because of what it represents.
 
 ### Keepsakes Table
+
 | d6  | Keepsake   |
 |:---:|:-----------|
 | 1   | The finger bone of a saint  |
@@ -65,6 +66,7 @@ No mortal soul is entirely free of second thoughts or doubt. Even a cleric must 
 If you haven't considered this aspect of your character yet, see the table entries for some possibilities, or use them for inspiration. Your deep, dark secret might involve something you did (or are doing), or it could be rooted in the way you feel about the world and your role in it.
 
 ### Secrets Table
+
 | d6  | Secret   |
 |:---:|:---------|
 | 1   | An imp offers you counsel. You try to ignore the creature, but sometimes its advice is helpful.  |
@@ -85,6 +87,7 @@ If you haven't considered this aspect of your character yet, see the table entri
 
 # Class Features
 ## Table: The Cleric
+
 | Level | Proficiency Bonus | Features                                                                 | Cantrips Known / 0th |  1st  |  2nd  |  3rd  |  4th  |  5th  |  6th  |  7th  |  8th  |  9th  |
 |:-----:|:-----------------:|:-------------------------------------------------------------------------|:--------------------:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | 1     | +2                | Spellcasting, Divine Domain                                              | 3                    | 2     | -     | -     | -     | -     | -     | -     | -     | -     |

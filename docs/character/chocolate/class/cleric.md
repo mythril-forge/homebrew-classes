@@ -51,6 +51,7 @@ Some temples are cut off from the world so that their occupants can focus on dev
 Many clerics have items among their personal gear that symbolize their faith, remind them of their vows, or otherwise help to keep them on their chosen paths. Even though such an item is not imbued with divine power, it is vitally important to its owner because of what it represents.
 
 ### Keepsakes Table
+
 | d6  | Keepsake   |
 |:---:|:-----------|
 | 1   | The finger bone of a saint  |
@@ -65,6 +66,7 @@ No mortal soul is entirely free of second thoughts or doubt. Even a cleric must 
 If you haven't considered this aspect of your character yet, see the table entries for some possibilities, or use them for inspiration. Your deep, dark secret might involve something you did (or are doing), or it could be rooted in the way you feel about the world and your role in it.
 
 ### Secrets Table
+
 | d6  | Secret   |
 |:---:|:---------|
 | 1   | An imp offers you counsel. You try to ignore the creature, but sometimes its advice is helpful.  |
@@ -85,6 +87,7 @@ If you haven't considered this aspect of your character yet, see the table entri
 
 # Class Features
 ## Table: The Cleric
+
 | Level | Proficiency Bonus | Features                                                                 |  1st  |  2nd  |  3rd  |  4th  |  5th  |  6th  |  7th  |  8th  |  9th  |
 | :---: | :---------------: | :----------------------------------------------------------------------- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1     | +2                | Spellcasting, Divine Domain                                              | 2     | -     | -     | -     | -     | -     | -     | -     | -     |
@@ -210,6 +213,6 @@ If your DM allows the use of feats, you may instead take a feat.
 ## Divine Intervention
 Beginning at 10th level, you can call on your deity to intervene on your behalf when your need is great.
 
-Imploring your deity's aid requires you to use your action. Describe the assistance you seek, and roll 1d120 + your cleric level + your Wisdom modifier. If the resulting number is equal to or above 100, your deity intervenes. The DM chooses the nature of the intervention; the effect of any cleric spell or cleric domain spell would be appropriate. If your deity intervenes, you can't use this feature again for 7 days. Otherwise, you can use it again after you finish a long rest.
+Imploring your deity's aid requires you to use your action. Describe the assistance you seek, and roll `1d120 + your cleric level + your Wisdom modifier`. If the resulting number is equal to or above 100, your deity intervenes. The DM chooses the nature of the intervention; the effect of any cleric spell or cleric domain spell would be appropriate. If your deity intervenes, you can't use this feature again for 7 days. Otherwise, you can use it again after you finish a long rest.
 
 At 20th level, you can roll 1d120 twice and take the higher roll.
