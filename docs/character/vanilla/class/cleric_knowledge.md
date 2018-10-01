@@ -5,13 +5,14 @@ The gods of knowledge—including Oghma, Boccob, Gilean, Aureon, and Thoth—val
 At each indicated cleric level, you add the listed spells to your spells prepared.
 
 ### Knowledge Domain Spells
-|  Cleric Level  |  Spells  |
-|:--------------:|:---------|
-|  1st  |  command, identify  |
-|  3rd  |  augury, suggestion  |
-|  5th  |  nondetection, speak with dead  |
-|  7th  |  arcane eye, confusion  |
-|  9th  |  legend lore, scrying  |
+
+| Cleric Level | Spells                         |
+|:------------:|:-------------------------------|
+| 1st          | command, identify              |
+| 3rd          | augury, suggestion             |
+| 5th          | nondetection, speak with dead  |
+| 7th          | arcane eye, confusion          |
+| 9th          | legend lore, scrying           |
 
 ## Blessings of Knowledge
 At 1st level, you learn two languages of your choice. You also become proficient in your choice of two of the following skills: Arcana, History, Nature, or Religion.

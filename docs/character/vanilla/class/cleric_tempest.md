@@ -5,13 +5,14 @@ Gods whose portfolios include the Tempest domain—including Talos, Umberlee, Ko
 At each indicated cleric level, you add the listed spells to your spells prepared.
 
 ### Tempest Domain Spells
-|  Cleric Level  |  Spells  |
-|:-----:|:------------------|
-|  1st  |  fog cloud, thunderwave  |
-|  3rd  |  gust of wind, shatter  |
-|  5th  |  call lightning, sleet storm  |
-|  7th  |  control water, ice storm  |
-|  9th  |  destructive wave, insect plague  |
+
+| Cleric Level | Spells                           |
+|:------------:|:---------------------------------|
+| 1st          | fog cloud, thunderwave           |
+| 3rd          | gust of wind, shatter            |
+| 5th          | call lightning, sleet storm      |
+| 7th          | control water, ice storm         |
+| 9th          | destructive wave, insect plague  |
 
 ## Bonus Proficiencies
 At 1st level, you gain proficiency with martial weapons and heavy armor.
