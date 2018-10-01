@@ -10,11 +10,11 @@ At each indicated cleric level, you add the listed spells to your spells prepare
 |  1st  |  fog cloud, thunderwave  |
 |  3rd  |  gust of wind, shatter  |
 |  5th  |  call lightning, sleet storm  |
-|  7th  |  control water, ice storm  |
+|  7th  |  storm sphere, ice storm  |
 |  9th  |  destructive wave, insect plague  |
 
 ## Bonus Proficiencies
-At 1st level, you gain proficiency with exotic weapons, martial weapons, and heavy armor.
+At 1st level, you gain proficiency with martial weapons, and heavy armor.
 
 ## Wrath of the Storm
 Also at 1st level, you can thunderously rebuke attackers. When a creature within 5 feet of you that you can see hits you with an attack, you can use your reaction to cause the creature to make a Dexterity saving throw. The creature takes 2d8 lightning or thunder damage (your choice) on a failed saving throw, and half as much damage on a successful one.
