@@ -38,41 +38,41 @@ Most clerics start their lives of service as priests in an order, then later rea
 Some temples are cut off from the world so that their occupants can focus on devotions, while other temples open their doors to minister to and heal the masses. What is noteworthy about the temple you studied at?
 
 ### Temples Table
-|  d6 |  Temple  |
+| d6  | Temple   |
 |:---:|:---------|
-|  1  |  Your temple is said to be the oldest surviving structure built to honor your god.  |
-|  2  |  Acolytes of several like-minded deities all received instruction together in your temple.  |
-|  3  |  You come from a temple famed for the brewery it operates. Some say you smell like one of its ales.  |
-|  4  |  Your temple is a fortress and a proving ground that trains warrior-priests.  |
-|  5  |  Your temple is a peaceful, humble place, filled with vegetable gardens and simple priests.  |
-|  6  |  You served in a temple in the Outer Planes.  |
+| 1   | Your temple is said to be the oldest surviving structure built to honor your god. |
+| 2   | Acolytes of several like-minded deities all received instruction together in your temple. |
+| 3   | You come from a temple famed for the brewery it operates. Some say you smell like one of its ales. |
+| 4   | Your temple is a fortress and a proving ground that trains warrior-priests. |
+| 5   | Your temple is a peaceful, humble place, filled with vegetable gardens and simple priests. |
+| 6   | You served in a temple in the Outer Planes. |
 
 ## Keepsake
 Many clerics have items among their personal gear that symbolize their faith, remind them of their vows, or otherwise help to keep them on their chosen paths. Even though such an item is not imbued with divine power, it is vitally important to its owner because of what it represents.
 
 ### Keepsakes Table
-|  d6 |  Keepsake  |
+| d6  | Keepsake   |
 |:---:|:-----------|
-|  1  |  The finger bone of a saint  |
-|  2  |  A metal-bound book that tells how to hunt and destroy infernal creatures  |
-|  3  |  A pig's whistle that reminds you of your humble and beloved mentor  |
-|  4  |  A braid of hair woven from the tail of a unicorn  |
-|  5  |  A scroll that describes how best to rid the world of necromancers  |
-|  6  |  A runestone said to be blessed by your god  |
+| 1   | The finger bone of a saint  |
+| 2   | A metal-bound book that tells how to hunt and destroy infernal creatures  |
+| 3   | A pig's whistle that reminds you of your humble and beloved mentor  |
+| 4   | A braid of hair woven from the tail of a unicorn  |
+| 5   | A scroll that describes how best to rid the world of necromancers  |
+| 6   | A runestone said to be blessed by your god  |
 
 ## Secret
 No mortal soul is entirely free of second thoughts or doubt. Even a cleric must grapple with dark desires or the forbidden attraction of turning against the teachings of one's deity.
 If you haven't considered this aspect of your character yet, see the table entries for some possibilities, or use them for inspiration. Your deep, dark secret might involve something you did (or are doing), or it could be rooted in the way you feel about the world and your role in it.
 
 ### Secrets Table
-|  d6 |  Secret  |
+| d6  | Secret   |
 |:---:|:---------|
-|  1  |  An imp offers you counsel. You try to ignore the creature, but sometimes its advice is helpful.  |
-|  2  |  You believe that, in the final analysis, the gods are nothing more than ultrapowerful mortal creatures.  |
-|  3  |  You acknowledge the power of the gods, but you think that most events are dictated by pure chance.  |
-|  4  |  Even though you can work divine magic, you have never truly felt the presence of a divine essence within yourself.  |
-|  5  |  You are plagued by nightmares that you believe are sent by your god as punishment for some unknown transgression.  |
-|  6  |  In times of despair, you feel that you are but a plaything of the gods, and you resent their remoteness.  |
+| 1   | An imp offers you counsel. You try to ignore the creature, but sometimes its advice is helpful.  |
+| 2   | You believe that, in the final analysis, the gods are nothing more than ultrapowerful mortal creatures.  |
+| 3   | You acknowledge the power of the gods, but you think that most events are dictated by pure chance.  |
+| 4   | Even though you can work divine magic, you have never truly felt the presence of a divine essence within yourself.  |
+| 5   | You are plagued by nightmares that you believe are sent by your god as punishment for some unknown transgression.  |
+| 6   | In times of despair, you feel that you are but a plaything of the gods, and you resent their remoteness.  |
 
 > #### Serving a Pantheon, Philosophy, or Force
 > The typical cleric is an ordained servant of a particular god and chooses a Divine Domain associated with that deity. The cleric's magic flows from the god or the god's sacred realm, and often the cleric bears a holy symbol that represents that divinity.
@@ -84,30 +84,29 @@ If you haven't considered this aspect of your character yet, see the table entri
 > The cleric's class features often refer to your deity. If you are devoted to a pantheon, cosmic force, or philosophy, your cleric features still work for you as written. Think of the references to a god as references to the divine thing you serve that gives you your magic.
 
 # Class Features
-
 ## Table: The Cleric
-|Level|  Proficiency Bonus  |  Features         |  Cantrips Known / 0th | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-|:---:|:-------------------:|:------------------|:---------------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  1  |  +2  |  Spellcasting, Divine Domain                       |  3  |  2  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
-|  2  |  +2  |  Channel Divinity (1/rest), Divine Domain feature  |  3  |  3  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
-|  3  |  +2  |  -                                                 |  3  |  4  |  2  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
-|  4  |  +2  |  Ability Score Improvement                         |  4  |  4  |  3  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
-|  5  |  +3  |  Destroy Undead (CR 1/2)                           |  4  |  4  |  3  |  2  |  -  |  -  |  -  |  -  |  -  |  -  |
-|  6  |  +3  |  Channel Divinity (2/rest), Divine Domain feature  |  4  |  4  |  3  |  3  |  -  |  -  |  -  |  -  |  -  |  -  |
-|  7  |  +3  |  -                                                 |  4  |  4  |  3  |  3  |  1  |  -  |  -  |  -  |  -  |  -  |
-|  8  |  +3  |  Ability Score Improvement, Destroy Undead (CR 1), Divine Domain feature   |  4  |  4  |  3  |  3  |  2  |  -  |  -  |  -  |  -  |  -  |
-|  9  |  +4  |  -                                                 |  4  |  4  |  3  |  3  |  3  |  1  |  -  |  -  |  -  |  -  |
-|  10 |  +4  |  Divine Intervention                               |  5  |  4  |  3  |  3  |  3  |  2  |  -  |  -  |  -  |  -  |
-|  11 |  +4  |  Destroy Undead (CR 2)                             |  5  |  4  |  3  |  3  |  3  |  2  |  1  |  -  |  -  |  -  |
-|  12 |  +4  |  Ability Score Improvement                         |  5  |  4  |  3  |  3  |  3  |  2  |  1  |  -  |  -  |  -  |
-|  13 |  +5  |  -                                                 |  5  |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  -  |  -  |
-|  14 |  +5  |  Destroy Undead (CR 3)                             |  5  |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  -  |  -  |
-|  15 |  +5  |  -                                                 |  5  |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |  -  |
-|  16 |  +5  |  Ability Score Improvement                         |  5  |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |  -  |
-|  17 |  +6  |  Destroy Undead (CR 4), Divine Domain feature      |  5  |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |  1  |
-|  18 |  +6  |  Channel Divinity (3/rest)                         |  5  |  4  |  3  |  3  |  3  |  3  |  1  |  1  |  1  |  1  |
-|  19 |  +6  |  Ability Score Improvement                         |  5  |  4  |  3  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |
-|  20 |  +6  |  Divine Intervention improvement                   |  5  |  4  |  3  |  3  |  3  |  3  |  2  |  2  |  1  |  1  |
+| Level | Proficiency Bonus | Features                                                                 |  1st  |  2nd  |  3rd  |  4th  |  5th  |  6th  |  7th  |  8th  |  9th  |
+| :---: | :---------------: | :----------------------------------------------------------------------- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 1     | +2                | Spellcasting, Divine Domain                                              | 2     | -     | -     | -     | -     | -     | -     | -     | -     |
+| 2     | +2                | Channel Divinity (1/rest), Divine Domain feature                         | 3     | -     | -     | -     | -     | -     | -     | -     | -     |
+| 3     | +2                | -                                                                        | 4     | 2     | -     | -     | -     | -     | -     | -     | -     |
+| 4     | +2                | Ability Score Improvement                                                | 4     | 3     | -     | -     | -     | -     | -     | -     | -     |
+| 5     | +3                | Destroy Undead (CR 1/2)                                                  | 4     | 3     | 2     | -     | -     | -     | -     | -     | -     |
+| 6     | +3                | Channel Divinity (2/rest), Divine Domain feature                         | 4     | 3     | 3     | -     | -     | -     | -     | -     | -     |
+| 7     | +3                | -                                                                        | 4     | 3     | 3     | 1     | -     | -     | -     | -     | -     |
+| 8     | +3                | Ability Score Improvement, Destroy Undead (CR 1), Divine Domain feature  | 4     | 3     | 3     | 2     | -     | -     | -     | -     | -     |
+| 9     | +4                | -                                                                        | 4     | 3     | 3     | 3     | 1     | -     | -     | -     | -     |
+| 10    | +4                | Divine Intervention                                                      | 4     | 3     | 3     | 3     | 2     | -     | -     | -     | -     |
+| 11    | +4                | Destroy Undead (CR 2)                                                    | 4     | 3     | 3     | 3     | 2     | 1     | -     | -     | -     |
+| 12    | +4                | Ability Score Improvement                                                | 4     | 3     | 3     | 3     | 2     | 1     | -     | -     | -     |
+| 13    | +5                | -                                                                        | 4     | 3     | 3     | 3     | 2     | 1     | 1     | -     | -     |
+| 14    | +5                | Destroy Undead (CR 3)                                                    | 4     | 3     | 3     | 3     | 2     | 1     | 1     | -     | -     |
+| 15    | +5                | -                                                                        | 4     | 3     | 3     | 3     | 2     | 1     | 1     | 1     | -     |
+| 16    | +5                | Ability Score Improvement                                                | 4     | 3     | 3     | 3     | 2     | 1     | 1     | 1     | -     |
+| 17    | +6                | Destroy Undead (CR 4), Divine Domain feature                             | 4     | 3     | 3     | 3     | 2     | 1     | 1     | 1     | 1     |
+| 18    | +6                | Channel Divinity (3/rest)                                                | 4     | 3     | 3     | 3     | 3     | 1     | 1     | 1     | 1     |
+| 19    | +6                | Ability Score Improvement                                                | 4     | 3     | 3     | 3     | 3     | 2     | 1     | 1     | 1     |
+| 20    | +6                | Divine Intervention improvement                                          | 4     | 3     | 3     | 3     | 3     | 2     | 2     | 1     | 1     |
 
 ## Creating a Cleric
 As you create a cleric, the most important question to consider is which deity to serve and what principles you want your character to embody. The Gods of the Multiverse section includes lists of many of the gods of the multiverse. Check with your DM to learn which deities are in your campaign.
@@ -153,7 +152,7 @@ The Cleric table shows how many spell slots you have to cast your spells of 1st 
 
 You prepare the list of cleric spells that are available for you to cast, choosing from the cleric spell list. When you do so, choose a number of cleric spells equal to `your Wisdom modifier + your Proficiency Bonus + your cleric level (minimum of one spell).` The spells must be either a cantrip or of a level for which you have spell slots.
 
-For example, if you are a 3rd-level cleric, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include eight spells of 0th, 1st, or 2nd level, in any combination. If you prepare the 1st-level spell cure wounds, you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
+For example, if you are a 3rd-level cleric, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include eight cantrips or spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell cure wounds, you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
 
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of cleric spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
 
@@ -194,14 +193,14 @@ A turned creature must spend its turns trying to move as far away from you as it
 #### Destroy Undead
 When an undead fails its saving throw against your Turn Undead feature, the creature is instantly destroyed if its Challenge Rating (CR) is at or below a certain threshold, as shown in the Destroy Undead table.
 
-|  Cleric Level  |  Destroys Undead of CR...  |
-|  :----------:  |  :-----------------------  |
-|  2nd  |  0 or lower |
-|  5th  |  1/2 or lower |
-|  8th  |  1 or lower   |
-|  11th |  2 or lower   |
-|  14th |  3 or lower   |
-|  17th |  4 or lower   |
+| Cleric Level | Destroys Undead of CR... |
+|:------------:|:-------------------------|
+| 2nd          | 0 or lower               |
+| 5th          | 1/2 or lower             |
+| 8th          | 1 or lower               |
+| 11th         | 2 or lower               |
+| 14th         | 3 or lower               |
+| 17th         | 4 or lower               |
 
 ## Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
