@@ -6,13 +6,13 @@ At each indicated cleric level, you add the listed spells to your spells prepare
 
 ### Knowledge Domain Spells
 
-| Cleric Level | Spells                         |
-|:------------:|:-------------------------------|
-| 1st          | guidance, command, identify    |
-| 3rd          | augury, suggestion             |
-| 5th          | nondetection, speak with dead  |
-| 7th          | arcane eye, confusion          |
-| 9th          | legend lore, scrying           |
+| Cleric Level | Spells                                      |
+|:------------:|:--------------------------------------------|
+| 1st          | guidance, comprehend languages, identify    | 1 1
+| 3rd          | augury, suggestion                          | 1
+| 5th          | nondetection, speak with dead               | 1
+| 7th          | arcane eye, confusion                       |
+| 9th          | legend lore, scrying                        | 1 1
 
 ## Blessings of Knowledge
 At 1st level, you learn two languages of your choice. You also become proficient in your choice of two of the following skills: Arcana, History, Nature, or Religion.
@@ -28,11 +28,9 @@ When you reach 14th level, you replace your d20 with a d30 on these ability chec
 ### Channel Divinity: Read Thoughts
 At 6th level, you can use your Channel Divinity to read a creature's thoughts. You can then use your access to the creature's mind to command it.
 
-As an action, choose one creature on the same plane of existance as you that you can see clearly. That creature must make a Charisma saving throw. If the creature succeeds on the saving throw, you can't use this feature on it again until you finish a long rest.
+As an action, you can cast the *Detect Thoughts* spell without expending a spell slot. For you, its range is infinite—provided that you can see the target creature.
 
-If the creature fails its save, you can read its surface thoughts (those foremost in its mind, reflecting its current emotions and what it is actively thinking about) whenever you can see it clearly or it is within 60 feet of you. This effect lasts 1 hour and requires no concentration.
-
-During that time, you can use your action to cast the suggestion spell on the creature without expending a spell slot. The target automatically fails its saving throw against the spell.
+If you successfully probe a creature's deep thoughts by using this spell, you can use your action to end this effect and cast the *Suggestion* spell on it without expending a spell slot. The target automatically fails its saving throw against the spell.
 
 ## Potent Spellcasting
 Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric spell.

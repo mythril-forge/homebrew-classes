@@ -8,11 +8,11 @@ At each indicated cleric level, you add the listed spells to your spells prepare
 
 | Cleric Level | Spells                           |
 |:------------:|:---------------------------------|
-| 1st          | fog cloud, thunderwave           |
+| 1st          | fog cloud, thunderwave           | 1
 | 3rd          | gust of wind, shatter            |
 | 5th          | call lightning, sleet storm      |
-| 7th          | control water, ice storm         |
-| 9th          | destructive wave, insect plague  |
+| 7th          | control water, ice storm         | 1
+| 9th          | destructive wave, insect plague  | 1 1
 
 ## Bonus Proficiencies
 At 1st level, you gain proficiency with martial weapons and heavy armor.
