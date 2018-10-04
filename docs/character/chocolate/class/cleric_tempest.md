@@ -8,11 +8,11 @@ At each indicated cleric level, you add the listed spells to your spells prepare
 
 | Cleric Level | Spells                                 |
 |:------------:|:---------------------------------------|
-| 1st          | shocking grasp, fog cloud, thunderwave | 1
-| 3rd          | gust of wind, shatter                  |
-| 5th          | call lightning, sleet storm            |
-| 7th          | ice storm, storm sphere                |
-| 9th          | destructive wave, control winds        | 1 1
+| 1st          | shocking grasp, fog cloud, thunderwave |
+| 3rd          | warding wind, gust of wind             |
+| 5th          | call lightning, summon storm           |
+| 7th          | control water, blizzard                |
+| 9th          | destructive wave, lightning strike     |
 
 ## Bonus Proficiencies
 At 1st level, you gain proficiency with martial weapons, and heavy armor.
@@ -26,13 +26,19 @@ You can use this feature a number of times equal to your Wisdom modifier (a mini
 ### Channel Divinity: Destructive Wrath
 Starting at 2nd level, you can use your Channel Divinity to wield the power of the storm with unchecked ferocity.
 
-When you roll lightning or thunder damage, you can use your Channel Divinity to deal maximum damage, instead of rolling.
+When you roll thunder or lightning damage, you can use your Channel Divinity to deal maximum damage, instead of rolling.
 
-## Thunderbolt Strike
-At 6th level, when you deal lightning or thunder damage to a Large or smaller creature, you can also push it up to 10 feet away from you.
+### Channel Divinity: Thunderbolt Strike
+At 6th level, you can use your Channel Divinity to further enhance your combat capabilities.
+
+When you roll thunder damage, lightning damage, or hit a target with a melee attack, you can use your Channel Divinity to cast *Thunderous Smite* and immediately apply its effects to an attack.
+
+For you, it does not require a bonus action, it does not require concentration, its duration is instantaneous, and triggers instantly.
+
+If the source of the trigger would effect multiple creatures, they all suffer the effects of the spell.
 
 ## Divine Strike
-At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 thunder damage to the target. When you reach 14th level, the extra damage increases to 2d8.
+At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 lightning damage to the target. When you reach 14th level, the extra damage increases to 2d8
 
 ## Stormborn
 At 17th level, you have a flying speed equal to your current walking speed whenever you are not underground or indoors.

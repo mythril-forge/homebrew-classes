@@ -8,10 +8,10 @@ At each indicated cleric level, you add the listed spells to your spells prepare
 
 | Cleric Level | Spells                                      |
 |:------------:|:--------------------------------------------|
-| 1st          | guidance, comprehend languages, identify    |
+| 1st          | guidance, " ", identify                     |
 | 3rd          | augury, see invisibility                    |
-| 5th          | clairvoyance, nondetection                  |
-| 7th          | arcane eye, confusion                       |
+| 5th          | clairvoyance, " "                           |
+| 7th          | arcane eye, " "                             |
 | 9th          | legend lore, scrying                        |
 
 ## Blessings of Knowledge
@@ -30,7 +30,7 @@ At 6th level, you can use your Channel Divinity to read a creature's thoughts. Y
 
 As an action, you can cast the *Detect Thoughts* spell without expending a spell slot. For you, its range is infinite—provided that you can see the target creature.
 
-If you successfully probe a creature's deep thoughts by using this spell, you can use your action to end this effect and cast the *Suggestion* spell on it without expending a spell slot. The target automatically fails its saving throw against the spell.
+During that time, you can use your action to end this effect and cast the *Suggestion* spell on the creature without expending a spell slot. If you can read the target's deepest thoughts, then the target automatically fails its saving throw against this spell.
 
 ## Potent Spellcasting
 Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric spell.

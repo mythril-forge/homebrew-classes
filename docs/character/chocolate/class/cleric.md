@@ -91,26 +91,26 @@ If you haven't considered this aspect of your character yet, see the table entri
 
 | Level | Proficiency Bonus | Features                                                                 |  1st  |  2nd  |  3rd  |  4th  |  5th  |  6th  |  7th  |  8th  |  9th  |
 | :---: | :---------------: | :----------------------------------------------------------------------- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1     | +2                | Spellcasting, Divine Domain                                              | 2     | -     | -     | -     | -     | -     | -     | -     | -     |
-| 2     | +2                | Channel Divinity (1/rest), Divine Domain feature                         | 3     | -     | -     | -     | -     | -     | -     | -     | -     |
-| 3     | +2                | -                                                                        | 4     | 2     | -     | -     | -     | -     | -     | -     | -     |
-| 4     | +2                | Ability Score Improvement                                                | 4     | 3     | -     | -     | -     | -     | -     | -     | -     |
-| 5     | +3                | Destroy Undead (CR 1/2)                                                  | 4     | 3     | 2     | -     | -     | -     | -     | -     | -     |
-| 6     | +3                | Channel Divinity (2/rest), Divine Domain feature                         | 4     | 3     | 3     | -     | -     | -     | -     | -     | -     |
-| 7     | +3                | -                                                                        | 4     | 3     | 3     | 1     | -     | -     | -     | -     | -     |
-| 8     | +3                | Ability Score Improvement, Destroy Undead (CR 1), Divine Domain feature  | 4     | 3     | 3     | 2     | -     | -     | -     | -     | -     |
-| 9     | +4                | -                                                                        | 4     | 3     | 3     | 3     | 1     | -     | -     | -     | -     |
-| 10    | +4                | Divine Intervention                                                      | 4     | 3     | 3     | 3     | 2     | -     | -     | -     | -     |
-| 11    | +4                | Destroy Undead (CR 2)                                                    | 4     | 3     | 3     | 3     | 2     | 1     | -     | -     | -     |
-| 12    | +4                | Ability Score Improvement                                                | 4     | 3     | 3     | 3     | 2     | 1     | -     | -     | -     |
-| 13    | +5                | -                                                                        | 4     | 3     | 3     | 3     | 2     | 1     | 1     | -     | -     |
-| 14    | +5                | Destroy Undead (CR 3)                                                    | 4     | 3     | 3     | 3     | 2     | 1     | 1     | -     | -     |
-| 15    | +5                | -                                                                        | 4     | 3     | 3     | 3     | 2     | 1     | 1     | 1     | -     |
-| 16    | +5                | Ability Score Improvement                                                | 4     | 3     | 3     | 3     | 2     | 1     | 1     | 1     | -     |
-| 17    | +6                | Destroy Undead (CR 4), Divine Domain feature                             | 4     | 3     | 3     | 3     | 2     | 1     | 1     | 1     | 1     |
-| 18    | +6                | Channel Divinity (3/rest)                                                | 4     | 3     | 3     | 3     | 3     | 1     | 1     | 1     | 1     |
-| 19    | +6                | Ability Score Improvement                                                | 4     | 3     | 3     | 3     | 3     | 2     | 1     | 1     | 1     |
-| 20    | +6                | Divine Intervention improvement                                          | 4     | 3     | 3     | 3     | 3     | 2     | 2     | 1     | 1     |
+| 1     | +1d4 (+2)         | Spellcasting, Divine Domain                                              | 2     | -     | -     | -     | -     | -     | -     | -     | -     |
+| 2     | +1d4 (+2)         | Channel Divinity (1/rest), Divine Domain feature                         | 3     | -     | -     | -     | -     | -     | -     | -     | -     |
+| 3     | +1d4 (+2)         | -                                                                        | 4     | 2     | -     | -     | -     | -     | -     | -     | -     |
+| 4     | +1d4 (+2)         | Ability Score Improvement                                                | 4     | 3     | -     | -     | -     | -     | -     | -     | -     |
+| 5     | +1d6 (+3)         | Destroy Undead (CR 1/2)                                                  | 4     | 3     | 2     | -     | -     | -     | -     | -     | -     |
+| 6     | +1d6 (+3)         | Channel Divinity (2/rest), Divine Domain feature                         | 4     | 3     | 3     | -     | -     | -     | -     | -     | -     |
+| 7     | +1d6 (+3)         | -                                                                        | 4     | 3     | 3     | 1     | -     | -     | -     | -     | -     |
+| 8     | +1d6 (+3)         | Ability Score Improvement, Destroy Undead (CR 1), Divine Domain feature  | 4     | 3     | 3     | 2     | -     | -     | -     | -     | -     |
+| 9     | +1d8 (+4)         | -                                                                        | 4     | 3     | 3     | 3     | 1     | -     | -     | -     | -     |
+| 10    | +1d8 (+4)         | Divine Intervention                                                      | 4     | 3     | 3     | 3     | 2     | -     | -     | -     | -     |
+| 11    | +1d8 (+4)         | Destroy Undead (CR 2)                                                    | 4     | 3     | 3     | 3     | 2     | 1     | -     | -     | -     |
+| 12    | +1d8 (+4)         | Ability Score Improvement                                                | 4     | 3     | 3     | 3     | 2     | 1     | -     | -     | -     |
+| 13    | +1d10 (+5)        | -                                                                        | 4     | 3     | 3     | 3     | 2     | 1     | 1     | -     | -     |
+| 14    | +1d10 (+5)        | Destroy Undead (CR 3)                                                    | 4     | 3     | 3     | 3     | 2     | 1     | 1     | -     | -     |
+| 15    | +1d10 (+5)        | -                                                                        | 4     | 3     | 3     | 3     | 2     | 1     | 1     | 1     | -     |
+| 16    | +1d10 (+5)        | Ability Score Improvement                                                | 4     | 3     | 3     | 3     | 2     | 1     | 1     | 1     | -     |
+| 17    | +1d12 (+6)        | Destroy Undead (CR 4), Divine Domain feature                             | 4     | 3     | 3     | 3     | 2     | 1     | 1     | 1     | 1     |
+| 18    | +1d12 (+6)        | Channel Divinity (3/rest)                                                | 4     | 3     | 3     | 3     | 3     | 1     | 1     | 1     | 1     |
+| 19    | +1d12 (+6)        | Ability Score Improvement                                                | 4     | 3     | 3     | 3     | 3     | 2     | 1     | 1     | 1     |
+| 20    | +1d12 (+6)        | Divine Intervention improvement                                          | 4     | 3     | 3     | 3     | 3     | 2     | 2     | 1     | 1     |
 
 ## Creating a Cleric
 As you create a cleric, the most important question to consider is which deity to serve and what principles you want your character to embody. The Gods of the Multiverse section includes lists of many of the gods of the multiverse. Check with your DM to learn which deities are in your campaign.
@@ -136,7 +136,7 @@ You are proficient with the following items, in addition to any proficiencies pr
 
 ### Starting Equipment
 You start with the following items, plus anything provided by your background.
-- (a) a mace or (b) a warhammer (if proficient)
+- (a) a mace or (b) a warhammer (if proficient) or (c) a maul (if proficient)
 - (a) padded armor, (b) hide armor, or (c) chain mail (if proficient)
 - (a) a simple crossbow and 12 bolts or (b) any simple weapon
 - (a) a priest's pack or (b) an explorer's pack
