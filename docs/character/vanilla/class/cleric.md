@@ -1,3 +1,15 @@
+<a href="https://noltron000.github.io/mythril-forge/character/chocolate/class/cleric.html">Base Cleric (original)</a>
+
+<a href="https://noltron000.github.io/mythril-forge/character/vanilla/class/cleric.html">Base Cleric (modified)</a>
+
+<a href="https://noltron000.github.io/mythril-forge/character/chocolate/class/cleric_tempest.html">Cleric — Tempest Domain (original)</a>
+
+<a href="https://noltron000.github.io/mythril-forge/character/vanilla/class/cleric_tempest.html">Cleric — Tempest Domain (modified)</a>
+
+<a href="https://noltron000.github.io/mythril-forge/character/chocolate/class/cleric_knowledge.html">Cleric — Knowledge Domain (original)</a>
+
+<a href="https://noltron000.github.io/mythril-forge/character/vanilla/class/cleric_knowledge.html">Cleric — Knowledge Domain (modified)</a>
+
 # Cleric
 Arms and eyes upraised toward the sun and a prayer on his lips, an elf begins to glow with an inner light that spills out to heal his battle-worn companions.
 

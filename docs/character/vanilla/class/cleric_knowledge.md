@@ -1,3 +1,15 @@
+<a href="https://noltron000.github.io/mythril-forge/character/chocolate/class/cleric.html">Base Cleric (original)</a>
+
+<a href="https://noltron000.github.io/mythril-forge/character/vanilla/class/cleric.html">Base Cleric (modified)</a>
+
+<a href="https://noltron000.github.io/mythril-forge/character/chocolate/class/cleric_tempest.html">Cleric — Tempest Domain (original)</a>
+
+<a href="https://noltron000.github.io/mythril-forge/character/vanilla/class/cleric_tempest.html">Cleric — Tempest Domain (modified)</a>
+
+<a href="https://noltron000.github.io/mythril-forge/character/chocolate/class/cleric_knowledge.html">Cleric — Knowledge Domain (original)</a>
+
+<a href="https://noltron000.github.io/mythril-forge/character/vanilla/class/cleric_knowledge.html">Cleric — Knowledge Domain (modified)</a>
+
 # Knowledge Domain
 The gods of knowledge—including Oghma, Boccob, Gilean, Aureon, and Thoth—value learning and understanding above all. Some teach that knowledge is to be gathered and shared in libraries and universities, or promote the practical knowledge of craft and invention. Some deities hoard knowledge and keep its secrets to themselves. And some promise their followers that they will gain tremendous power if they unlock the secrets of the multiverse. Followers of these gods study esoteric lore, collect old tomes, delve into the secret places of the earth, and learn all they can. Some gods of knowledge promote the practical knowledge of craft and invention, including smith deities like Gond, Reorx, Onatar, Moradin, Hephaestus, and Goibhniu.
 
