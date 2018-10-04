@@ -31,8 +31,8 @@ At 1st level, you learn two languages of your choice. You also become proficient
 
 Your proficiency bonus is doubled for any ability check you make that uses either of those skills.
 
-## All Seeing Eye
-
+## Eyes of the Gods
+You do not require concentration on any divination spell.
 
 ## Channel Divinity
 ### Channel Divinity: Knowledge of the Ages
