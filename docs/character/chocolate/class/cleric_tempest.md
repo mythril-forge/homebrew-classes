@@ -31,9 +31,9 @@ When you roll thunder or lightning damage, you can use your Channel Divinity to 
 ### Channel Divinity: Thunderbolt Strike
 At 6th level, you can use your Channel Divinity to further enhance your combat capabilities.
 
-When you roll thunder damage, lightning damage, or hit a target with a melee attack, you can use your Channel Divinity to cast *Thunderous Smite* and immediately apply its effects to an attack.
+As a bonus action, you can use your Channel Divinity to cast *Thunderous Smite* without expending a spell slot.
 
-For you, it does not require a bonus action, it does not require concentration, its duration is instantaneous, and triggers instantly.
+For you, it does not require concentration, and its effects trigger when you deal thunder damage, lightning damage, or hit with a melee weapon attack.
 
 If the source of the trigger would effect multiple creatures, they all suffer the effects of the spell.
 
