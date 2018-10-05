@@ -32,7 +32,9 @@ At 1st level, you learn two languages of your choice. You also become proficient
 Your proficiency bonus is doubled for any ability check you make that uses either of those skills.
 
 ## Eyes of the Gods
-You do not require concentration on any divination spell.
+Also at 1st level, you can use an action to mutter a prayer. If there is something hidden within five feet of you, such as a secret door or trap, your attention is drawn to it as an illusionary glow briefly envelops the object of importance. Only you can see this glow.
+
+You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.
 
 ## Channel Divinity
 ### Channel Divinity: Knowledge of the Ages
@@ -51,9 +53,9 @@ During that time, you can use your action to end this effect and cast the *Sugge
 Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric spell.
 
 ## Visions of the Past
-Starting at 17th level, you can call up visions of the past that relate to an object you hold or your immediate surroundings. You spend at least 1 minute in meditation and prayer, then receive dreamlike, shadowy glimpses of recent events. You can meditate in this way indefinately but must maintain concentration during that time, as if you were casting a spell.
+Starting at 17th level, you can call up visions of the past that relate to an object you hold or your immediate surroundings. You spend at least 5 minutes in meditation and prayer, then receive dreamlike, shadowy glimpses of recent events. You can meditate in this way indefinately but must maintain concentration during that time, as if you were casting a spell.
 
-- **Object Reading.** Holding an object as you meditate, you can see visions of the object's previous owner. After meditating for 1 minute, you learn how the owner acquired and lost the object, as well as the most recent significant event involving the object and that owner. If the object was owned by another creature in the recent past, you can spend 1 additional minute for each owner to learn the same information about that creature.
-- **Area Reading.** As you meditate, you see visions of recent events in your immediate vicinity (a room, street, tunnel, clearing, or the like, up to a 50-foot cube), going back a certain number of days. For each minute you meditate, you learn about one significant event, beginning with the most recent. Significant events typically involve powerful emotions, such as battles and betrayals, marriages and murders, births and funerals. However, they might also include more mundane events that are nevertheless important in your current situation.
+- **Object Reading.** Holding an object as you meditate, you can see visions of the object's previous owner. After meditating for 5 minutes, you learn how the owner acquired and lost the object, as well as the most recent significant event involving the object and that owner. If the object was owned by another creature in the recent past, you can spend 5 additional minutes for each owner to learn the same information about that creature.
+- **Area Reading.** As you meditate, you see visions of recent events in your immediate vicinity (a room, street, tunnel, clearing, or the like, up to a 50-foot cube), going back a certain number of days. For every 5 minutes that you meditate, you learn about one significant event, beginning with the most recent. Significant events typically involve powerful emotions, such as battles and betrayals, marriages and murders, births and funerals. However, they might also include more mundane events that are nevertheless important in your current situation.
 
 Once you use this feature, you can't use it again until you finish a short or long rest.
