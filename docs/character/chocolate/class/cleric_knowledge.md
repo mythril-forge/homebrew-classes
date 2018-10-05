@@ -32,7 +32,7 @@ At 1st level, you learn two languages of your choice. You also become proficient
 Your proficiency bonus is doubled for any ability check you make that uses either of those skills.
 
 ## Eyes of the Gods
-Also at 1st level, you can use an action to mutter a prayer. If there is something hidden within five feet of you, such as a secret door or trap, your attention is drawn to it as an illusionary glow briefly envelops the object of importance. Only you can see this glow.
+Also at 1st level, you can use an action to mutter a prayer. If there is something hidden within five feet of you, such as a secret door or trap, your attention is drawn to it. An illusionary glow and hum briefly envelops the object of importance. Only you can sense these effects.
 
 You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.
 
