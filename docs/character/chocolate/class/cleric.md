@@ -99,31 +99,6 @@ If you haven't considered this aspect of your character yet, see the table entri
 > The cleric's class features often refer to your deity. If you are devoted to a pantheon, cosmic force, or philosophy, your cleric features still work for you as written. Think of the references to a god as references to the divine thing you serve that gives you your magic.
 
 # Class Features
-## Table: The Cleric
-
-| Level | Proficiency Bonus | Features                                                                 |  1st  |  2nd  |  3rd  |  4th  |  5th  |  6th  |  7th  |  8th  |  9th  |
-| :---: | :---------------: | :----------------------------------------------------------------------- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1     | +1d4 (+2)         | Spellcasting, Divine Domain                                              | 2     | -     | -     | -     | -     | -     | -     | -     | -     |
-| 2     | +1d4 (+2)         | Channel Divinity (1/rest), Divine Domain feature                         | 3     | -     | -     | -     | -     | -     | -     | -     | -     |
-| 3     | +1d4 (+2)         | -                                                                        | 4     | 2     | -     | -     | -     | -     | -     | -     | -     |
-| 4     | +1d4 (+2)         | Ability Score Improvement                                                | 4     | 3     | -     | -     | -     | -     | -     | -     | -     |
-| 5     | +1d6 (+3)         | Destroy Undead (CR 1/2)                                                  | 4     | 3     | 2     | -     | -     | -     | -     | -     | -     |
-| 6     | +1d6 (+3)         | Channel Divinity (2/rest), Divine Domain feature                         | 4     | 3     | 3     | -     | -     | -     | -     | -     | -     |
-| 7     | +1d6 (+3)         | -                                                                        | 4     | 3     | 3     | 1     | -     | -     | -     | -     | -     |
-| 8     | +1d6 (+3)         | Ability Score Improvement, Destroy Undead (CR 1), Divine Domain feature  | 4     | 3     | 3     | 2     | -     | -     | -     | -     | -     |
-| 9     | +1d8 (+4)         | -                                                                        | 4     | 3     | 3     | 3     | 1     | -     | -     | -     | -     |
-| 10    | +1d8 (+4)         | Divine Intervention                                                      | 4     | 3     | 3     | 3     | 2     | -     | -     | -     | -     |
-| 11    | +1d8 (+4)         | Destroy Undead (CR 2)                                                    | 4     | 3     | 3     | 3     | 2     | 1     | -     | -     | -     |
-| 12    | +1d8 (+4)         | Ability Score Improvement                                                | 4     | 3     | 3     | 3     | 2     | 1     | -     | -     | -     |
-| 13    | +1d10 (+5)        | -                                                                        | 4     | 3     | 3     | 3     | 2     | 1     | 1     | -     | -     |
-| 14    | +1d10 (+5)        | Destroy Undead (CR 3)                                                    | 4     | 3     | 3     | 3     | 2     | 1     | 1     | -     | -     |
-| 15    | +1d10 (+5)        | -                                                                        | 4     | 3     | 3     | 3     | 2     | 1     | 1     | 1     | -     |
-| 16    | +1d10 (+5)        | Ability Score Improvement                                                | 4     | 3     | 3     | 3     | 2     | 1     | 1     | 1     | -     |
-| 17    | +1d12 (+6)        | Destroy Undead (CR 4), Divine Domain feature                             | 4     | 3     | 3     | 3     | 2     | 1     | 1     | 1     | 1     |
-| 18    | +1d12 (+6)        | Channel Divinity (3/rest)                                                | 4     | 3     | 3     | 3     | 3     | 1     | 1     | 1     | 1     |
-| 19    | +1d12 (+6)        | Ability Score Improvement                                                | 4     | 3     | 3     | 3     | 3     | 2     | 1     | 1     | 1     |
-| 20    | +1d12 (+6)        | Divine Intervention improvement                                          | 4     | 3     | 3     | 3     | 3     | 2     | 2     | 1     | 1     |
-
 ## Creating a Cleric
 As you create a cleric, the most important question to consider is which deity to serve and what principles you want your character to embody. The Gods of the Multiverse section includes lists of many of the gods of the multiverse. Check with your DM to learn which deities are in your campaign.
 
@@ -154,6 +129,31 @@ You start with the following items, plus anything provided by your background.
 - (a) a priest's pack or (b) an explorer's pack
 - A shield and a holy symbol
 - A 200-coin capacity purse containing 5d4 × 10 sp
+
+## Table: The Cleric
+
+| Level | Proficiency Bonus | Features                                                                 |  1st  |  2nd  |  3rd  |  4th  |  5th  |  6th  |  7th  |  8th  |  9th  |
+| :---: | :---------------: | :----------------------------------------------------------------------- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 1     | +1d4 (+2)         | Spellcasting, Divine Domain                                              | 2     | -     | -     | -     | -     | -     | -     | -     | -     |
+| 2     | +1d4 (+2)         | Channel Divinity (1/rest), Divine Domain feature                         | 3     | -     | -     | -     | -     | -     | -     | -     | -     |
+| 3     | +1d4 (+2)         | -                                                                        | 4     | 2     | -     | -     | -     | -     | -     | -     | -     |
+| 4     | +1d4 (+2)         | Ability Score Improvement                                                | 4     | 3     | -     | -     | -     | -     | -     | -     | -     |
+| 5     | +1d6 (+3)         | Destroy Undead (CR 1/2)                                                  | 4     | 3     | 2     | -     | -     | -     | -     | -     | -     |
+| 6     | +1d6 (+3)         | Channel Divinity (2/rest), Divine Domain feature                         | 4     | 3     | 3     | -     | -     | -     | -     | -     | -     |
+| 7     | +1d6 (+3)         | -                                                                        | 4     | 3     | 3     | 1     | -     | -     | -     | -     | -     |
+| 8     | +1d6 (+3)         | Ability Score Improvement, Destroy Undead (CR 1), Divine Domain feature  | 4     | 3     | 3     | 2     | -     | -     | -     | -     | -     |
+| 9     | +1d8 (+4)         | -                                                                        | 4     | 3     | 3     | 3     | 1     | -     | -     | -     | -     |
+| 10    | +1d8 (+4)         | Divine Intervention                                                      | 4     | 3     | 3     | 3     | 2     | -     | -     | -     | -     |
+| 11    | +1d8 (+4)         | Destroy Undead (CR 2)                                                    | 4     | 3     | 3     | 3     | 2     | 1     | -     | -     | -     |
+| 12    | +1d8 (+4)         | Ability Score Improvement                                                | 4     | 3     | 3     | 3     | 2     | 1     | -     | -     | -     |
+| 13    | +1d10 (+5)        | -                                                                        | 4     | 3     | 3     | 3     | 2     | 1     | 1     | -     | -     |
+| 14    | +1d10 (+5)        | Destroy Undead (CR 3)                                                    | 4     | 3     | 3     | 3     | 2     | 1     | 1     | -     | -     |
+| 15    | +1d10 (+5)        | -                                                                        | 4     | 3     | 3     | 3     | 2     | 1     | 1     | 1     | -     |
+| 16    | +1d10 (+5)        | Ability Score Improvement                                                | 4     | 3     | 3     | 3     | 2     | 1     | 1     | 1     | -     |
+| 17    | +1d12 (+6)        | Destroy Undead (CR 4), Divine Domain feature                             | 4     | 3     | 3     | 3     | 2     | 1     | 1     | 1     | 1     |
+| 18    | +1d12 (+6)        | Channel Divinity (3/rest)                                                | 4     | 3     | 3     | 3     | 3     | 1     | 1     | 1     | 1     |
+| 19    | +1d12 (+6)        | Ability Score Improvement                                                | 4     | 3     | 3     | 3     | 3     | 2     | 1     | 1     | 1     |
+| 20    | +1d12 (+6)        | Divine Intervention improvement                                          | 4     | 3     | 3     | 3     | 3     | 2     | 2     | 1     | 1     |
 
 ## Spellcasting
 As a conduit for divine power, you can cast cleric spells. See chapter 10 for the general rules of spellcasting and chapter 11 for a selection of cleric spells.

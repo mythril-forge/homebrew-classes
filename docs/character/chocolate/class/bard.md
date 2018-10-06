@@ -19,7 +19,7 @@ Only rarely do bards settle in one place for long, and their natural desire to t
 
 ---
 
-> _Music is the fruit of the divine tree that vibrates with the Words of Creation. But the question I ask you is, can a bard go to the root of this tree? Can one tap into the source of that power? Ah, then what manner of music they would bring to this world!_
+> _Music is the fruit of the divine tree that vibrates with the Words of Creation. But the question I ask you is, can a bard go to the root of this tree? Can one tap into the source of that power? Ah, then what manner of music they would bring to this world!_  
 > _—Fletcher Danairia, master bard_
 
 Bards bring levity during grave times; they impart wisdom to offset ignorance; and they make the ridiculous seem sublime. Bards are preservers of ancient history, their songs and tales perpetuating the memory of great events down through time—knowledge so important that it is memorized and passed along as oral history, to survive even when no written record remains.
@@ -87,11 +87,43 @@ The ways that a performance can go wrong are as varied as the fish in the sea. N
 > 
 > If your bard character has a muse, it could be one of the three described here, or one of your own devising.
 > 
-> Nature. You feel a kinship with the natural world, and its beauty and mystery inspire you. For you, a tree is deeply symbolic, its roots delving into the dark unknown to draw forth the power of the earth, while its branches reach toward the sun to nourish their flowers and fruit. Nature is the ancient witness who has seen every kingdom rise and fall, even those whose names have been forgotten and wait to be rediscovered. The gods of nature share their secrets with druids and sages, opening their hearts and minds to new ways of seeing, and as with those individuals, you find that your creativity blossoms while you wander in an open field of waving grass or walk in silent reverence through a grove of ancient oaks.  
-> Love. You are on a quest to identify the essence of true love. Though you do not disdain the superficial love of flesh and form, the deeper form of love that can inspire thousands or bring joy to one's every moment is what you are interested in. Love of this sort takes on many forms, and you can see its presence everywhere—from the sparkling of a beautiful gem to the song of a simple fisher thanking the sea for its bounty. You are on the trail of love, that most precious and mysterious of emotions, and your search fills your stories and your songs with vitality and passion.  
+> Nature. You feel a kinship with the natural world, and its beauty and mystery inspire you. For you, a tree is deeply symbolic, its roots delving into the dark unknown to draw forth the power of the earth, while its branches reach toward the sun to nourish their flowers and fruit. Nature is the ancient witness who has seen every kingdom rise and fall, even those whose names have been forgotten and wait to be rediscovered. The gods of nature share their secrets with druids and sages, opening their hearts and minds to new ways of seeing, and as with those individuals, you find that your creativity blossoms while you wander in an open field of waving grass or walk in silent reverence through a grove of ancient oaks.
+> 
+> Love. You are on a quest to identify the essence of true love. Though you do not disdain the superficial love of flesh and form, the deeper form of love that can inspire thousands or bring joy to one's every moment is what you are interested in. Love of this sort takes on many forms, and you can see its presence everywhere—from the sparkling of a beautiful gem to the song of a simple fisher thanking the sea for its bounty. You are on the trail of love, that most precious and mysterious of emotions, and your search fills your stories and your songs with vitality and passion.
+> 
 > Conflict. Drama embodies conflict, and the best stories have conflict as a key element. From the morning-after tale of a tavern brawl to the saga of an epic battle, from a lover's spat to a rift between powerful dynasties, conflict is what inspires tale-tellers like you to create your best work. Conflict can bring out the best in some people, causing their heroic nature to shine forth and transform the world, but it can cause others to gravitate toward darkness and fall under the sway of evil. You strive to experience or witness all forms of conflict, great and small, so as to study this eternal aspect of life and immortalize it in your words and music.
 
 # Class Features
+## Creating a Bard
+Bards thrive on stories, whether those stories are true or not. Your character’s background and motivations are not as important as the stories that he or she tells about them. Perhaps you had a secure and mundane childhood. There’s no good story to be told about that, so you might paint yourself as an orphan raised by a hag in a dismal swamp. Or your childhood might be worthy of a story. Some bards acquire their magical music through extraordinary means, including the inspiration of fey or other supernatural creatures.
+
+Did you serve an apprenticeship, studying under a master, following the more experienced bard until you were ready to strike out on your own? Or did you attend a college where you studied bardic lore and practiced your musical magic? Perhaps you were a young runaway or orphan, befriended by a wandering bard who became your mentor. Or you might have been a spoiled noble child tutored by a master. Perhaps you stumbled into the clutches of a hag, making a bargain for a musical gift in addition to your life and freedom, but at what cost?
+
+> #### Quick Build
+> 
+> You can make a bard quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Dexterity. Second, choose the entertainer background. Third, choose the dancing lights and vicious mockery cantrips, along with the following 1st-level spells: charm person, detect magic, healing word, and thunderwave.
+
+### Hit Points
+- **Hit Dice:** 1d8
+- **Hit Points at 1st Level:** 8 + your Constitution modifier
+- **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per Bard level after 1st
+
+### Proficiencies
+You are proficient with the following items, in addition to any proficiencies provided by your race or background.
+- **Armor:** light armor
+- **Weapons:** simple weapons, hand crossbows, longswords, rapiers, shortswords
+- **Tools:** three musical instruments of your choice
+- **Saving Throws:** Dexterity, Charisma
+- **Skills:** Choose any three.
+
+### Starting Equipment
+You start with the following items, plus anything provided by your background.
+- (a) a rapier, (b) a longsword, or (c) any simple weapon
+- (a) a diplomat's pack or (b) an entertainer's pack
+- (a) a lute or (b) any other musical instrument
+- Leather armor, and a dagger
+- Alternatively, you may start with 5d4 × 10 gp to buy your own equipment.
+
 ## Table: The Bard
 
 | Level | Proficiency Bonus | Features                                             | Cantrips Known / 0th | Spells Known |  1st  |  2nd  |  3rd  |  4th  |  5th  |  6th  |  7th  |  8th  |  9th  |
@@ -116,32 +148,3 @@ The ways that a performance can go wrong are as varied as the fish in the sea. N
 | 18    | +6                | Magical Secrets                                      | 4                    | 22           | 4     | 3     | 3     | 3     | 3     | 1     | 1     | 1     | 1     |
 | 19    | +6                | Ability Score Improvement                            | 4                    | 22           | 4     | 3     | 3     | 3     | 3     | 2     | 1     | 1     | 1     |
 | 20    | +6                | Superior Inspiration                                 | 4                    | 22           | 4     | 3     | 3     | 3     | 3     | 2     | 2     | 1     | 1     |
-
-## Creating a Bard
-Bards thrive on stories, whether those stories are true or not. Your character’s background and motivations are not as important as the stories that he or she tells about them. Perhaps you had a secure and mundane childhood. There’s no good story to be told about that, so you might paint yourself as an orphan raised by a hag in a dismal swamp. Or your childhood might be worthy of a story. Some bards acquire their magical music through extraordinary means, including the inspiration of fey or other supernatural creatures.
-
-Did you serve an apprenticeship, studying under a master, following the more experienced bard until you were ready to strike out on your own? Or did you attend a college where you studied bardic lore and practiced your musical magic? Perhaps you were a young runaway or orphan, befriended by a wandering bard who became your mentor. Or you might have been a spoiled noble child tutored by a master. Perhaps you stumbled into the clutches of a hag, making a bargain for a musical gift in addition to your life and freedom, but at what cost?
-
-> #### Quick Build
-> 
-> You can make a bard quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Dexterity. Second, choose the entertainer background. Third, choose the dancing lights and vicious mockery cantrips, along with the following 1st-level spells: charm person, detect magic, healing word, and thunderwave.
-
-Hit Points
-Hit Dice: 1d8
-Hit Points at 1st Level: 8 + your Constitution modifier
-Hit Points at Higher Levels: 1d8 (or 5) + your Constitution modifier per Bard level after 1st
-Proficiencies
-You are proficient with the following items, in addition to any proficiencies provided by your race or background.
-Armor: light armor
-Weapons: simple weapons, hand crossbows, longswords, rapiers, shortswords
-Tools: three musical instruments of your choice
-Saving Throws: Dexterity, Charisma
-Skills: Choose any three.
-Starting Equipment
-You start with the following items, plus anything provided by your background.
-
-(a) a rapier, (b) a longsword, or (c) any simple weapon
-(a) a diplomat's pack or (b) an entertainer's pack
-(a) a lute or (b) any other musical instrument
-Leather armor, and a dagger
-Alternatively, you may start with 5d4 × 10 gp to buy your own equipment.
