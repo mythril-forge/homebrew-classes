@@ -1,4 +1,4 @@
-Bard
+# Bard
 Humming as she traces her fingers over an ancient monument in a long-forgotten ruin, a half-elf in rugged leathers finds knowledge springing into her mind, conjured forth by the magic of her song—knowledge of the people who constructed the monument and the mythic saga it depicts.
 
 A stern human warrior bangs his sword rhythmically against his scale mail, setting the tempo for his war chant and exhorting his companions to bravery and heroism. The magic of his song fortifies and emboldens them.
@@ -7,19 +7,20 @@ Laughing as she tunes her cittern, a gnome weaves her subtle magic over the asse
 
 Whether scholar, skald, or scoundrel, a bard weaves magic through words and music to inspire allies, demoralize foes, manipulate minds, create illusions, and even heal wounds.
 
-Music and Magic
+## Music and Magic
 In the worlds of D&D, words and music are not just vibrations of air, but vocalizations with power all their own. The bard is a master of song, speech, and the magic they contain. Bards say that the multiverse was spoken into existence, that the words of the gods gave it shape, and that echoes of these primordial Words of Creation still resound throughout the cosmos. The music of bards is an attempt to snatch and harness those echoes, subtly woven into their spells and powers.
 
 The greatest strength of bards is their sheer versatility. Many bards prefer to stick to the sidelines in combat, using their magic to inspire their allies and hinder their foes from a distance. But bards are capable of defending themselves in melee if necessary, using their magic to bolster their swords and armor. Their spells lean toward charms and illusions rather than blatantly destructive spells. They have a wide-ranging knowledge of many subjects and a natural aptitude that lets them do almost anything well. Bards become masters of the talents they set their minds to perfecting, from musical performance to esoteric knowledge.
 
-Learning from Experience
+## Learning from Experience
 True bards are not common in the world. Not every minstrel singing in a tavern or jester cavorting in a royal court is a bard. Discovering the magic hidden in music requires hard study and some measure of natural talent that most troubadours and jongleurs lack. It can be hard to spot the difference between these performers and true bards, though. A bard’s life is spent wandering across the land gathering lore, telling stories, and living on the gratitude of audiences, much like any other entertainer. But a depth of knowledge, a level of musical skill, and a touch of magic set bards apart from their fellows.
 
 Only rarely do bards settle in one place for long, and their natural desire to travel—to find new tales to tell, new skills to learn, and new discoveries beyond the horizon—makes an adventuring career a natural calling. Every adventure is an opportunity to learn, practice a variety of skills, enter long-forgotten tombs, discover lost works of magic, decipher old tomes, travel to strange places, or encounter exotic creatures. Bards love to accompany heroes to witness their deeds firsthand. A bard who can tell an awe-inspiring story from personal experience earns renown among other bards. Indeed, after telling so many stories about heroes accomplishing mighty deeds, many bards take these themes to heart and assume heroic roles themselves.
 
-Bard
-Music is the fruit of the divine tree that vibrates with the Words of Creation. But the question I ask you is, can a bard go to the root of this tree? Can one tap into the source of that power? Ah, then what manner of music they would bring to this world!
-— Fletcher Danairia, master bard
+---
+
+> _Music is the fruit of the divine tree that vibrates with the Words of Creation. But the question I ask you is, can a bard go to the root of this tree? Can one tap into the source of that power? Ah, then what manner of music they would bring to this world!_
+> _—Fletcher Danairia, master bard_
 
 Bards bring levity during grave times; they impart wisdom to offset ignorance; and they make the ridiculous seem sublime. Bards are preservers of ancient history, their songs and tales perpetuating the memory of great events down through time—knowledge so important that it is memorized and passed along as oral history, to survive even when no written record remains.
 
@@ -31,45 +32,52 @@ To grab and hold the attention of an audience, bards are typically flamboyant an
 
 You can add some unique aspects to your bard character by considering the suggestions that follow.
 
-Defining Work
+## Defining Work
 Every successful bard is renowned for at least one piece of performance art, typically a song or a poem that is popular with everyone who hears it. These performances are spoken about for years by those who view them, and some spectators have had their lives forever changed because of the experience.
 
 If your character is just starting out, your ultimate defining work is likely in the future. But in order to make any sort of living at your profession, chances are you already have a piece or two in your repertoire that have proven to be audience pleasers.
 
-Defining Work
-d6  Defining Work
-1  "The Three Flambinis," a ribald song concerning mistaken identities and unfettered desire
-2  "Waltz of the Myconids," an upbeat tune that children in particular enjoy
-3  "Asmodeus's Golden Arse," a dramatic poem you claim was inspired by your personal visit to Avernus
-4  "The Pirates of Luskan," your firsthand account of being kidnapped by sea reavers as a child
-5  "A Hoop, Two Pigeons, and a Hell Hound," a subtle parody of an incompetent noble
-6  "A Fool in the Abyss," a comedic poem about a jester's travels among demons
-Instrument
+### Defining Work Table
+| d6  | Defining Work                                                                                      |
+|:---:|:---------------------------------------------------------------------------------------------------|
+| 1   | "The Three Flambinis," a ribald song concerning mistaken identities and unfettered desire          |
+| 2   | "Waltz of the Myconids," an upbeat tune that children in particular enjoy                          |
+| 3   | "Asmodeus's Golden Arse," a dramatic poem you claim was inspired by your personal visit to Avernus |
+| 4   | "The Pirates of Luskan," your firsthand account of being kidnapped by sea reavers as a child       |
+| 5   | "A Hoop, Two Pigeons, and a Hell Hound," a subtle parody of an incompetent noble                   |
+| 6   | "A Fool in the Abyss," a comedic poem about a jester's travels among demons                        |
+
+## Instrument
 In a bard's quest for the ultimate performance and the highest acclaim, one's instrument is at least as important as one's vocal ability. The instrument's quality of manufacture is a critical factor, of course; the best ones make the best music, and some bards are continually on the lookout for an improvement. Perhaps just as important, though, is the instrument's own entertainment value; those that are bizarrely constructed or made of exotic materials are likely to leave a lasting impression on an audience.
 
 You might have an "off the rack" instrument, perhaps because it's all you can afford right now. Or, if your first instrument was gifted to you, it might be of a more elaborate sort. Are you satisfied with the instrument you have, or do you aspire to replace it with something truly distinctive?
 
-Instrument
-d6  Instrument
-1  A masterfully crafted halfling fiddle
-2  A mithral horn made by elves
-3  A zither made with drow spider silk
-4  An orcish drum
-5  A wooden bullywug croak box
-6  A tinker's harp of gnomish design
-Embarrassment
+### Instrument Table
+
+| d6  | Instrument                            |
+|:---:|:--------------------------------------|
+| 1   | A masterfully crafted halfling fiddle |
+| 2   | A mithral horn made by elves          |
+| 3   | A zither made with drow spider silk   |
+| 4   | An orcish drum                        |
+| 5   | A wooden bullywug croak box           |
+| 6   | A tinker's harp of gnomish design     |
+
+## Embarrassment
 Almost every bard has suffered at least one bad experience in front of an audience, and chances are you're no exception. No one becomes famous right away, after all; perhaps you had a few small difficulties early in your career, or maybe it took you a while to restore your reputation after one agonizing night when the fates conspired to bring about your theatrical ruin.
 
 The ways that a performance can go wrong are as varied as the fish in the sea. No matter what sort of disaster might occur, however, a bard has the courage and the confidence to rebound from it—either pressing on with the show (if possible) or promising to come back tomorrow with a new performance that's guaranteed to please.
 
-Embarrassment
-d6  Embarrassment
-1  The time when your comedic song, "Big Tom's Hijinks"—which, by the way, you thought was brilliant—did not go over well with Big Tom
-2  The matinee performance when a circus's owlbear got loose and terrorized the crowd
-3  When your opening song was your enthusiastic but universally hated rendition of "Song of the Froghemoth"
-4  The first and last public performance of "Mirt, Man about Town"
-5  The time on stage when your wig caught fire and you threw it down—which set fire to the stage
-6  When you sat on your lute by mistake during the final stanza of "Starlight Serenade"
+### Embarrassment Table
+
+| d6  | Embarrassment                                                                                                                       |
+|:---:|:------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | The time when your comedic song, "Big Tom's Hijinks"—which, by the way, you thought was brilliant—did not go over well with Big Tom |
+| 2   | The matinee performance when a circus's owlbear got loose and terrorized the crowd                                                  |
+| 3   | When your opening song was your enthusiastic but universally hated rendition of "Song of the Froghemoth"                            |
+| 4   | The first and last public performance of "Mirt, Man about Town"                                                                     |
+| 5   | The time on stage when your wig caught fire and you threw it down—which set fire to the stage                                       |
+| 6   | When you sat on your lute by mistake during the final stanza of "Starlight Serenade"                                                |
 
 
 > #### A Bard's Muse
@@ -79,10 +87,8 @@ d6  Embarrassment
 > 
 > If your bard character has a muse, it could be one of the three described here, or one of your own devising.
 > 
-> Nature. You feel a kinship with the natural world, and its beauty and mystery inspire you. For you, a tree is deeply symbolic, its roots delving into the dark unknown to draw forth the power of the earth, while its branches reach toward the sun to nourish their flowers and fruit. Nature is the ancient witness who has seen every kingdom rise and fall, even those whose names have been forgotten and wait to be rediscovered. The gods of nature share their secrets with druids and sages, opening their hearts and minds to new ways of seeing, and as with those individuals, you find that your creativity blossoms while you wander in an open field of waving grass or walk in silent reverence through a grove of ancient oaks.
-> 
-> Love. You are on a quest to identify the essence of true love. Though you do not disdain the superficial love of flesh and form, the deeper form of love that can inspire thousands or bring joy to one's every moment is what you are interested in. Love of this sort takes on many forms, and you can see its presence everywhere—from the sparkling of a beautiful gem to the song of a simple fisher thanking the sea for its bounty. You are on the trail of love, that most precious and mysterious of emotions, and your search fills your stories and your songs with vitality and passion.
-> 
+> Nature. You feel a kinship with the natural world, and its beauty and mystery inspire you. For you, a tree is deeply symbolic, its roots delving into the dark unknown to draw forth the power of the earth, while its branches reach toward the sun to nourish their flowers and fruit. Nature is the ancient witness who has seen every kingdom rise and fall, even those whose names have been forgotten and wait to be rediscovered. The gods of nature share their secrets with druids and sages, opening their hearts and minds to new ways of seeing, and as with those individuals, you find that your creativity blossoms while you wander in an open field of waving grass or walk in silent reverence through a grove of ancient oaks.  
+> Love. You are on a quest to identify the essence of true love. Though you do not disdain the superficial love of flesh and form, the deeper form of love that can inspire thousands or bring joy to one's every moment is what you are interested in. Love of this sort takes on many forms, and you can see its presence everywhere—from the sparkling of a beautiful gem to the song of a simple fisher thanking the sea for its bounty. You are on the trail of love, that most precious and mysterious of emotions, and your search fills your stories and your songs with vitality and passion.  
 > Conflict. Drama embodies conflict, and the best stories have conflict as a key element. From the morning-after tale of a tavern brawl to the saga of an epic battle, from a lover's spat to a rift between powerful dynasties, conflict is what inspires tale-tellers like you to create your best work. Conflict can bring out the best in some people, causing their heroic nature to shine forth and transform the world, but it can cause others to gravitate toward darkness and fall under the sway of evil. You strive to experience or witness all forms of conflict, great and small, so as to study this eternal aspect of life and immortalize it in your words and music.
 
 # Class Features
