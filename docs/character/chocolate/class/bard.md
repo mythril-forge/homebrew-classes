@@ -37,39 +37,39 @@ Every successful bard is renowned for at least one piece of performance art, typ
 If your character is just starting out, your ultimate defining work is likely in the future. But in order to make any sort of living at your profession, chances are you already have a piece or two in your repertoire that have proven to be audience pleasers.
 
 Defining Work
-d6	Defining Work
-1	"The Three Flambinis," a ribald song concerning mistaken identities and unfettered desire
-2	"Waltz of the Myconids," an upbeat tune that children in particular enjoy
-3	"Asmodeus's Golden Arse," a dramatic poem you claim was inspired by your personal visit to Avernus
-4	"The Pirates of Luskan," your firsthand account of being kidnapped by sea reavers as a child
-5	"A Hoop, Two Pigeons, and a Hell Hound," a subtle parody of an incompetent noble
-6	"A Fool in the Abyss," a comedic poem about a jester's travels among demons
+d6  Defining Work
+1  "The Three Flambinis," a ribald song concerning mistaken identities and unfettered desire
+2  "Waltz of the Myconids," an upbeat tune that children in particular enjoy
+3  "Asmodeus's Golden Arse," a dramatic poem you claim was inspired by your personal visit to Avernus
+4  "The Pirates of Luskan," your firsthand account of being kidnapped by sea reavers as a child
+5  "A Hoop, Two Pigeons, and a Hell Hound," a subtle parody of an incompetent noble
+6  "A Fool in the Abyss," a comedic poem about a jester's travels among demons
 Instrument
 In a bard's quest for the ultimate performance and the highest acclaim, one's instrument is at least as important as one's vocal ability. The instrument's quality of manufacture is a critical factor, of course; the best ones make the best music, and some bards are continually on the lookout for an improvement. Perhaps just as important, though, is the instrument's own entertainment value; those that are bizarrely constructed or made of exotic materials are likely to leave a lasting impression on an audience.
 
 You might have an "off the rack" instrument, perhaps because it's all you can afford right now. Or, if your first instrument was gifted to you, it might be of a more elaborate sort. Are you satisfied with the instrument you have, or do you aspire to replace it with something truly distinctive?
 
 Instrument
-d6	Instrument
-1	A masterfully crafted halfling fiddle
-2	A mithral horn made by elves
-3	A zither made with drow spider silk
-4	An orcish drum
-5	A wooden bullywug croak box
-6	A tinker's harp of gnomish design
+d6  Instrument
+1  A masterfully crafted halfling fiddle
+2  A mithral horn made by elves
+3  A zither made with drow spider silk
+4  An orcish drum
+5  A wooden bullywug croak box
+6  A tinker's harp of gnomish design
 Embarrassment
 Almost every bard has suffered at least one bad experience in front of an audience, and chances are you're no exception. No one becomes famous right away, after all; perhaps you had a few small difficulties early in your career, or maybe it took you a while to restore your reputation after one agonizing night when the fates conspired to bring about your theatrical ruin.
 
 The ways that a performance can go wrong are as varied as the fish in the sea. No matter what sort of disaster might occur, however, a bard has the courage and the confidence to rebound from it—either pressing on with the show (if possible) or promising to come back tomorrow with a new performance that's guaranteed to please.
 
 Embarrassment
-d6	Embarrassment
-1	The time when your comedic song, "Big Tom's Hijinks"—which, by the way, you thought was brilliant—did not go over well with Big Tom
-2	The matinee performance when a circus's owlbear got loose and terrorized the crowd
-3	When your opening song was your enthusiastic but universally hated rendition of "Song of the Froghemoth"
-4	The first and last public performance of "Mirt, Man about Town"
-5	The time on stage when your wig caught fire and you threw it down—which set fire to the stage
-6	When you sat on your lute by mistake during the final stanza of "Starlight Serenade"
+d6  Embarrassment
+1  The time when your comedic song, "Big Tom's Hijinks"—which, by the way, you thought was brilliant—did not go over well with Big Tom
+2  The matinee performance when a circus's owlbear got loose and terrorized the crowd
+3  When your opening song was your enthusiastic but universally hated rendition of "Song of the Froghemoth"
+4  The first and last public performance of "Mirt, Man about Town"
+5  The time on stage when your wig caught fire and you threw it down—which set fire to the stage
+6  When you sat on your lute by mistake during the final stanza of "Starlight Serenade"
 
 
 > #### A Bard's Muse
@@ -88,49 +88,49 @@ d6	Embarrassment
 # Class Features
 ## Table: The Bard
 
-| Level | Proficiency Bonus | Features                                                                 | Cantrips Known / 0th |  1st  |  2nd  |  3rd  |  4th  |  5th  |  6th  |  7th  |  8th  |  9th  |
-|:-----:|:-----------------:|:-------------------------------------------------------------------------|:--------------------:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 1     | +2                | Spellcasting, Divine Domain                                              | 3                    | 2     | -     | -     | -     | -     | -     | -     | -     | -     |
-| 2     | +2                | Channel Divinity (1/rest), Divine Domain feature                         | 3                    | 3     | -     | -     | -     | -     | -     | -     | -     | -     |
-| 3     | +2                | -                                                                        | 3                    | 4     | 2     | -     | -     | -     | -     | -     | -     | -     |
-| 4     | +2                | Ability Score Improvement                                                | 4                    | 4     | 3     | -     | -     | -     | -     | -     | -     | -     |
-| 5     | +3                | Destroy Undead (CR 1/2)                                                  | 4                    | 4     | 3     | 2     | -     | -     | -     | -     | -     | -     |
-| 6     | +3                | Channel Divinity (2/rest), Divine Domain feature                         | 4                    | 4     | 3     | 3     | -     | -     | -     | -     | -     | -     |
-| 7     | +3                | -                                                                        | 4                    | 4     | 3     | 3     | 1     | -     | -     | -     | -     | -     |
-| 8     | +3                | Ability Score Improvement, Destroy Undead (CR 1), Divine Domain feature  | 4                    | 4     | 3     | 3     | 2     | -     | -     | -     | -     | -     |
-| 9     | +4                | -                                                                        | 4                    | 4     | 3     | 3     | 3     | 1     | -     | -     | -     | -     |
-| 10    | +4                | Divine Intervention                                                      | 5                    | 4     | 3     | 3     | 3     | 2     | -     | -     | -     | -     |
-| 11    | +4                | Destroy Undead (CR 2)                                                    | 5                    | 4     | 3     | 3     | 3     | 2     | 1     | -     | -     | -     |
-| 12    | +4                | Ability Score Improvement                                                | 5                    | 4     | 3     | 3     | 3     | 2     | 1     | -     | -     | -     |
-| 13    | +5                | -                                                                        | 5                    | 4     | 3     | 3     | 3     | 2     | 1     | 1     | -     | -     |
-| 14    | +5                | Destroy Undead (CR 3)                                                    | 5                    | 4     | 3     | 3     | 3     | 2     | 1     | 1     | -     | -     |
-| 15    | +5                | -                                                                        | 5                    | 4     | 3     | 3     | 3     | 2     | 1     | 1     | 1     | -     |
-| 16    | +5                | Ability Score Improvement                                                | 5                    | 4     | 3     | 3     | 3     | 2     | 1     | 1     | 1     | -     |
-| 17    | +6                | Destroy Undead (CR 4), Divine Domain feature                             | 5                    | 4     | 3     | 3     | 3     | 2     | 1     | 1     | 1     | 1     |
-| 18    | +6                | Channel Divinity (3/rest)                                                | 5                    | 4     | 3     | 3     | 3     | 3     | 1     | 1     | 1     | 1     |
-| 19    | +6                | Ability Score Improvement                                                | 5                    | 4     | 3     | 3     | 3     | 3     | 2     | 1     | 1     | 1     |
-| 20    | +6                | Divine Intervention improvement                                          | 5                    | 4     | 3     | 3     | 3     | 3     | 2     | 2     | 1     | 1     |
+| Level | Proficiency Bonus | Features                                             | Cantrips Known / 0th |  1st  |  2nd  |  3rd  |  4th  |  5th  |  6th  |  7th  |  8th  |  9th  |
+|:-----:|:-----------------:|:-----------------------------------------------------|:--------------------:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| 1     | +2                | Bardic Inspiration, Spellcasting                     | 3                    | 2     | -     | -     | -     | -     | -     | -     | -     | -     |
+| 2     | +2                | Jack of All Trades, Song of Rest (d6)                | 3                    | 3     | -     | -     | -     | -     | -     | -     | -     | -     |
+| 3     | +2                | Bard College, Expertise                              | 3                    | 4     | 2     | -     | -     | -     | -     | -     | -     | -     |
+| 4     | +2                | Ability Score Improvement                            | 4                    | 4     | 3     | -     | -     | -     | -     | -     | -     | -     |
+| 5     | +3                | Bardic Inspiration (d8), Font of Inspiration         | 4                    | 4     | 3     | 2     | -     | -     | -     | -     | -     | -     |
+| 6     | +3                | Countercharm, Bard College feature                   | 4                    | 4     | 3     | 3     | -     | -     | -     | -     | -     | -     |
+| 7     | +3                | —                                                    | 4                    | 4     | 3     | 3     | 1     | -     | -     | -     | -     | -     |
+| 8     | +3                | Ability Score Improvement                            | 4                    | 4     | 3     | 3     | 2     | -     | -     | -     | -     | -     |
+| 9     | +4                | Song of Rest (d8)                                    | 4                    | 4     | 3     | 3     | 3     | 1     | -     | -     | -     | -     |
+| 10    | +4                | Bardic Inspiration (d10), Expertise, Magical Secrets | 5                    | 4     | 3     | 3     | 3     | 2     | -     | -     | -     | -     |
+| 11    | +4                | —                                                    | 5                    | 4     | 3     | 3     | 3     | 2     | 1     | -     | -     | -     |
+| 12    | +4                | Ability Score Improvement                            | 5                    | 4     | 3     | 3     | 3     | 2     | 1     | -     | -     | -     |
+| 13    | +5                | Song of Rest (d10)                                   | 5                    | 4     | 3     | 3     | 3     | 2     | 1     | 1     | -     | -     |
+| 14    | +5                | Magical Secrets, Bard College feature                | 5                    | 4     | 3     | 3     | 3     | 2     | 1     | 1     | -     | -     |
+| 15    | +5                | Bardic Inspiration (d12)                             | 5                    | 4     | 3     | 3     | 3     | 2     | 1     | 1     | 1     | -     |
+| 16    | +5                | Ability Score Improvement                            | 5                    | 4     | 3     | 3     | 3     | 2     | 1     | 1     | 1     | -     |
+| 17    | +6                | Song of Rest (d12)                                   | 5                    | 4     | 3     | 3     | 3     | 2     | 1     | 1     | 1     | 1     |
+| 18    | +6                | Magical Secrets                                      | 5                    | 4     | 3     | 3     | 3     | 3     | 1     | 1     | 1     | 1     |
+| 19    | +6                | Ability Score Improvement                            | 5                    | 4     | 3     | 3     | 3     | 3     | 2     | 1     | 1     | 1     |
+| 20    | +6                | Superior Inspiration                                 | 5                    | 4     | 3     | 3     | 3     | 3     | 2     | 2     | 1     | 1     |
 
-1st	+2	Bardic Inspiration, Spellcasting	2	4	2	—	—	—	—	—	—	—	—
-2nd	+2	Jack of All Trades, Song of Rest (d6)	2	5	3	—	—	—	—	—	—	—	—
-3rd	+2	Bard College, Expertise	2	6	4	2	—	—	—	—	—	—	—
-4th	+2	Ability Score Improvement	3	7	4	3	—	—	—	—	—	—	—
-5th	+3	Bardic Inspiration (d8), Font of Inspiration	3	8	4	3	2	—	—	—	—	—	—
-6th	+3	Countercharm, Bard College feature	3	9	4	3	3	—	—	—	—	—	—
-7th	+3	—	3	10	4	3	3	1	—	—	—	—	—
-8th	+3	Ability Score Improvement	3	11	4	3	3	2	—	—	—	—	—
-9th	+4	Song of Rest (d8)	3	12	4	3	3	3	1	—	—	—	—
-10th	+4	Bardic Inspiration (d10), Expertise, Magical Secrets	4	14	4	3	3	3	2	—	—	—	—
-11th	+4	—	4	15	4	3	3	3	2	1	—	—	—
-12th	+4	Ability Score Improvement	4	15	4	3	3	3	2	1	—	—	—
-13th	+5	Song of Rest (d10)	4	16	4	3	3	3	2	1	1	—	—
-14th	+5	Magical Secrets, Bard College feature	4	18	4	3	3	3	2	1	1	—	—
-15th	+5	Bardic Inspiration (d12)	4	19	4	3	3	3	2	1	1	1	—
-16th	+5	Ability Score Improvement	4	19	4	3	3	3	2	1	1	1	—
-17th	+6	Song of Rest (d12)	4	20	4	3	3	3	2	1	1	1	1
-18th	+6	Magical Secrets	4	22	4	3	3	3	3	1	1	1	1
-19th	+6	Ability Score Improvement	4	22	4	3	3	3	3	2	1	1	1
-20th	+6	Superior Inspiration	4	22	4	3	3	3	3	2	2	1	1
+1st   +2      2  4  2  —  —  —  —  —  —  —  —
+2nd   +2      2  5  3  —  —  —  —  —  —  —  —
+3rd   +2      2  6  4  2  —  —  —  —  —  —  —
+4th   +2      3  7  4  3  —  —  —  —  —  —  —
+5th   +3      3  8  4  3  2  —  —  —  —  —  —
+6th   +3      3  9  4  3  3  —  —  —  —  —  —
+7th   +3      3  10  4  3  3  1  —  —  —  —  —
+8th   +3      3  11  4  3  3  2  —  —  —  —  —
+9th   +4      3  12  4  3  3  3  1  —  —  —  —
+10th  +4      4  14  4  3  3  3  2  —  —  —  —
+11th  +4      4  15  4  3  3  3  2  1  —  —  —
+12th  +4      4  15  4  3  3  3  2  1  —  —  —
+13th  +5      4  16  4  3  3  3  2  1  1  —  —
+14th  +5      4  18  4  3  3  3  2  1  1  —  —
+15th  +5      4  19  4  3  3  3  2  1  1  1  —
+16th  +5      4  19  4  3  3  3  2  1  1  1  —
+17th  +6      4  20  4  3  3  3  2  1  1  1  1
+18th  +6      4  22  4  3  3  3  3  1  1  1  1
+19th  +6      4  22  4  3  3  3  3  2  1  1  1
+20th  +6      4  22  4  3  3  3  3  2  2  1  1
 
 ## Creating a Bard
 Bards thrive on stories, whether those stories are true or not. Your character’s background and motivations are not as important as the stories that he or she tells about them. Perhaps you had a secure and mundane childhood. There’s no good story to be told about that, so you might paint yourself as an orphan raised by a hag in a dismal swamp. Or your childhood might be worthy of a story. Some bards acquire their magical music through extraordinary means, including the inspiration of fey or other supernatural creatures.
