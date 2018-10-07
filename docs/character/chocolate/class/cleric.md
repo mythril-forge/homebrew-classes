@@ -158,7 +158,7 @@ You start with the following items, plus anything provided by your background.
 ## Spellcasting
 As a conduit for divine power, you can cast cleric spells. See chapter 10 for the general rules of spellcasting and chapter 11 for a selection of cleric spells.
 
-Clerics know every spell for which they can cast — however they must prepare a set number at the beginning of the day before using them.
+Clerics know every spell for which they can cast — however, they must prepare a set number of spells at the beginning of the day before using them.
 
 ### Cantrips
 Clerics can prepare cantrips alongside their other spells of 1st level and higher.

@@ -121,33 +121,33 @@ You start with the following items, plus anything provided by your background.
 - (a) a rapier, (b) a longsword, or (c) any simple weapon
 - (a) a diplomat's pack or (b) an entertainer's pack
 - (a) a lute or (b) any other musical instrument
-- Leather armor, and a dagger
-- Alternatively, you may start with 5d4 × 10 gp to buy your own equipment.
+- Padded armor and a dagger
+- A 200-coin capacity purse containing 5d4 × 10 sp
 
 ## Table: The Bard
 
-| Level | Proficiency Bonus | Features                                             | Cantrips Known / 0th | Spells Known |  1st  |  2nd  |  3rd  |  4th  |  5th  |  6th  |  7th  |  8th  |  9th  |
-|:-----:|:-----------------:|:-----------------------------------------------------|:--------------------:|:------------:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 1     | +2                | Bardic Inspiration, Spellcasting                     | 2                    | 4            | 2     | -     | -     | -     | -     | -     | -     | -     | -     |
-| 2     | +2                | Jack of All Trades, Song of Rest (d6)                | 2                    | 5            | 3     | -     | -     | -     | -     | -     | -     | -     | -     |
-| 3     | +2                | Bard College, Expertise                              | 2                    | 6            | 4     | 2     | -     | -     | -     | -     | -     | -     | -     |
-| 4     | +2                | Ability Score Improvement                            | 3                    | 7            | 4     | 3     | -     | -     | -     | -     | -     | -     | -     |
-| 5     | +3                | Bardic Inspiration (d8), Font of Inspiration         | 3                    | 8            | 4     | 3     | 2     | -     | -     | -     | -     | -     | -     |
-| 6     | +3                | Countercharm, Bard College feature                   | 3                    | 9            | 4     | 3     | 3     | -     | -     | -     | -     | -     | -     |
-| 7     | +3                | —                                                    | 3                    | 10           | 4     | 3     | 3     | 1     | -     | -     | -     | -     | -     |
-| 8     | +3                | Ability Score Improvement                            | 3                    | 11           | 4     | 3     | 3     | 2     | -     | -     | -     | -     | -     |
-| 9     | +4                | Song of Rest (d8)                                    | 3                    | 12           | 4     | 3     | 3     | 3     | 1     | -     | -     | -     | -     |
-| 10    | +4                | Bardic Inspiration (d10), Expertise, Magical Secrets | 4                    | 14           | 4     | 3     | 3     | 3     | 2     | -     | -     | -     | -     |
-| 11    | +4                | —                                                    | 4                    | 15           | 4     | 3     | 3     | 3     | 2     | 1     | -     | -     | -     |
-| 12    | +4                | Ability Score Improvement                            | 4                    | 15           | 4     | 3     | 3     | 3     | 2     | 1     | -     | -     | -     |
-| 13    | +5                | Song of Rest (d10)                                   | 4                    | 16           | 4     | 3     | 3     | 3     | 2     | 1     | 1     | -     | -     |
-| 14    | +5                | Magical Secrets, Bard College feature                | 4                    | 18           | 4     | 3     | 3     | 3     | 2     | 1     | 1     | -     | -     |
-| 15    | +5                | Bardic Inspiration (d12)                             | 4                    | 19           | 4     | 3     | 3     | 3     | 2     | 1     | 1     | 1     | -     |
-| 16    | +5                | Ability Score Improvement                            | 4                    | 19           | 4     | 3     | 3     | 3     | 2     | 1     | 1     | 1     | -     |
-| 17    | +6                | Song of Rest (d12)                                   | 4                    | 20           | 4     | 3     | 3     | 3     | 2     | 1     | 1     | 1     | 1     |
-| 18    | +6                | Magical Secrets                                      | 4                    | 22           | 4     | 3     | 3     | 3     | 3     | 1     | 1     | 1     | 1     |
-| 19    | +6                | Ability Score Improvement                            | 4                    | 22           | 4     | 3     | 3     | 3     | 3     | 2     | 1     | 1     | 1     |
-| 20    | +6                | Superior Inspiration                                 | 4                    | 22           | 4     | 3     | 3     | 3     | 3     | 2     | 2     | 1     | 1     |
+| Level | Proficiency Bonus | Features                                             | Spells Known |  1st  |  2nd  |  3rd  |  4th  |  5th  |  6th  |  7th  |  8th  |  9th  |
+|:-----:|:-----------------:|:-----------------------------------------------------|:------------:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| 1     | +1d4 (+2)         | Bardic Inspiration, Spellcasting                     | 6            | 2     | -     | -     | -     | -     | -     | -     | -     | -     |
+| 2     | +1d4 (+2)         | Jack of All Trades, Song of Rest (d6)                | 7            | 3     | -     | -     | -     | -     | -     | -     | -     | -     |
+| 3     | +1d4 (+2)         | Bard College, Expertise                              | 8            | 4     | 2     | -     | -     | -     | -     | -     | -     | -     |
+| 4     | +1d4 (+2)         | Ability Score Improvement                            | 10           | 4     | 3     | -     | -     | -     | -     | -     | -     | -     |
+| 5     | +1d6 (+3)         | Bardic Inspiration (d8), Font of Inspiration         | 11           | 4     | 3     | 2     | -     | -     | -     | -     | -     | -     |
+| 6     | +1d6 (+3)         | Countercharm, Bard College feature                   | 12           | 4     | 3     | 3     | -     | -     | -     | -     | -     | -     |
+| 7     | +1d6 (+3)         | —                                                    | 14           | 4     | 3     | 3     | 1     | -     | -     | -     | -     | -     |
+| 8     | +1d6 (+3)         | Ability Score Improvement                            | 15           | 4     | 3     | 3     | 2     | -     | -     | -     | -     | -     |
+| 9     | +1d8 (+4)         | Song of Rest (d8)                                    | 16           | 4     | 3     | 3     | 3     | 1     | -     | -     | -     | -     |
+| 10    | +1d8 (+4)         | Bardic Inspiration (d10), Expertise, Magical Secrets | 18           | 4     | 3     | 3     | 3     | 2     | -     | -     | -     | -     |
+| 11    | +1d8 (+4)         | —                                                    | 19           | 4     | 3     | 3     | 3     | 2     | 1     | -     | -     | -     |
+| 12    | +1d8 (+4)         | Ability Score Improvement                            | 20           | 4     | 3     | 3     | 3     | 2     | 1     | -     | -     | -     |
+| 13    | +1d10 (+5)        | Song of Rest (d10)                                   | 21           | 4     | 3     | 3     | 3     | 2     | 1     | 1     | -     | -     |
+| 14    | +1d10 (+5)        | Magical Secrets, Bard College feature                | 22           | 4     | 3     | 3     | 3     | 2     | 1     | 1     | -     | -     |
+| 15    | +1d10 (+5)        | Bardic Inspiration (d12)                             | 23           | 4     | 3     | 3     | 3     | 2     | 1     | 1     | 1     | -     |
+| 16    | +1d10 (+5)        | Ability Score Improvement                            | 24           | 4     | 3     | 3     | 3     | 2     | 1     | 1     | 1     | -     |
+| 17    | +1d12 (+6)        | Song of Rest (d12)                                   | 25           | 4     | 3     | 3     | 3     | 2     | 1     | 1     | 1     | 1     |
+| 18    | +1d12 (+6)        | Magical Secrets                                      | 25           | 4     | 3     | 3     | 3     | 3     | 1     | 1     | 1     | 1     |
+| 19    | +1d12 (+6)        | Ability Score Improvement                            | 26           | 4     | 3     | 3     | 3     | 3     | 2     | 1     | 1     | 1     |
+| 20    | +1d12 (+6)        | Superior Inspiration                                 | 26           | 4     | 3     | 3     | 3     | 3     | 2     | 2     | 1     | 1     |
 
 ## Bardic Inspiration
 You can inspire others through stirring words or music. To do so, you use a bonus action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Bardic Inspiration die, a d6.
@@ -160,6 +160,8 @@ Your Bardic Inspiration die changes when you reach certain levels in this class.
 
 ## Spellcasting
 You have learned to untangle and reshape the fabric of reality in harmony with your wishes and music. Your spells are part of your vast repertoire, magic that you can tune to different situations. See chapter 10 for the general rules of spellcasting and chapter 11 for the bard spell list.
+
+Bards must learn each of their spells before they can cast them — however, once they know a spell, they always have it prepared to use.
 
 ### Cantrips
 You know two cantrips of your choice from the bard spell list. You learn additional bard cantrips of your choice at higher levels, learning a 3rd cantrip at 4th level and a 4th at 10th level.
@@ -179,8 +181,8 @@ Additionally, when you gain a level in this class, you can choose one of the bar
 ### Spellcasting Ability
 Charisma is your spellcasting ability for your bard spells. Your magic comes from the heart and soul you pour into the performance of your music or oration. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a bard spell you cast and when making an attack roll with one.
 
-Spell save DC = 8 + your proficiency bonus + your Charisma modifier  
-Spell attack modifier = your proficiency bonus + your Charisma modifier
+`Spell save DC = 8 + your proficiency bonus + your Charisma modifier`  
+`Spell attack modifier = your proficiency bonus + your Charisma modifier`
 
 ### Ritual Casting
 You can cast any bard spell you know as a ritual if that spell has the ritual tag.
