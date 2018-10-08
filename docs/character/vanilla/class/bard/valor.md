@@ -1,0 +1,23 @@
+Bard College
+At 3rd level, you delve into the advanced techniques of a bard college of your choice from the list of available colleges. Your choice grants you features at 3rd level and again at 6th and 14th level.
+
+College of Valor
+Bards of the College of Valor are daring skalds whose tales keep alive the memory of the great heroes of the past, and thereby inspire a new generation of heroes. These bards gather in mead halls or around great bonfires to sing the deeds of the mighty, both past and present. They travel the land to witness great events firsthand and to ensure that the memory of those events doesn't pass from the world. With their songs, they inspire others to reach the same heights of accomplishment as the heroes of old.
+
+Bonus Proficiencies
+When you join the College of Valor at 3rd level, you gain proficiency with medium armor, shields, and martial weapons.
+
+Combat Inspiration
+Also at 3rd level, you learn to inspire others in battle. A creature that has a Bardic Inspiration die from you can roll that die and add the number rolled to a weapon damage roll it just made. Alternatively, when an attack roll is made against the creature, it can use its reaction to roll the Bardic Inspiration die and add the number rolled to its AC against that attack, after seeing the roll but before knowing whether it hits or misses.
+
+Bard College feature
+At 6th level, you gain a feature from your Bard College.
+
+Extra Attack
+Starting at 6th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+
+Bard College feature
+At 14th level, you gain a feature from your Bard College.
+
+Battle Magic
+At 14th level, you have mastered the art of weaving spellcasting and weapon use into a single harmonious act. When you use your action to cast a bard spell, you can make one weapon attack as a bonus action.
