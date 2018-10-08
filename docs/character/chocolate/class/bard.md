@@ -191,14 +191,8 @@ You can use this feature a number of times equal to your Charisma modifier (a mi
 
 Your Bardic Inspiration die changes when you reach certain levels in this class. The die becomes a d8 at 5th level, a d10 at 10th level, and a d12 at 15th level.
 
-### Song of Rest
+## Song of Rest
 When you reach 2nd level, you can use soothing music or oration to help revitalize your wounded allies during a short rest. If you or any friendly creatures who can hear your performance regain hit points by spending Hit Dice at the end of the short rest, each of those creatures regains an extra Bardic Inspiration die of hit points.
-
-### Font of Inspiration
-Beginning when you reach 5th level, you regain all of your expended uses of Bardic Inspiration when you finish a short or long rest.
-
-### Superior Inspiration
-At 20th level, when you use your Bardic Inspiration, you can target multiple beneficiaries by expending one use of Bardic Inspiration per additional target.
 
 ## Jack of All Trades
 Starting at 2nd level, you can add half your proficiency bonus, rounded down, to any ability check you make that doesn't already include your proficiency bonus.
@@ -218,6 +212,9 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 
 If your DM allows the use of feats, you may instead take a feat.
 
+## Font of Inspiration
+Beginning when you reach 5th level, you regain all of your expended uses of Bardic Inspiration when you finish a short or long rest.
+
 ## Countercharm
 At 6th level, you gain the ability to use musical notes or words of power to disrupt mind-influencing effects. As an action, you can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have advantage on saving throws against being frightened or charmed. A creature must be able to hear you to gain this benefit. The performance ends early if you are incapacitated or silenced or if you voluntarily end it (no action required).
 
@@ -227,3 +224,6 @@ By 10th level, you have plundered magical knowledge from a wide spectrum of disc
 The chosen spells count as bard spells for you and are included in the number in the Spells Known column of the Bard table.
 
 You learn two additional spells from any class at 14th level and again at 18th level.
+
+## Superior Inspiration
+At 20th level, when you use your Bardic Inspiration, you can target multiple beneficiaries by expending one use of Bardic Inspiration per additional target.
