@@ -19,7 +19,8 @@ At each indicated cleric level, add the listed spells to your spells prepared. T
 ## Arcane Initiate
 When you choose this domain at 1st level, you gain proficiency in the Arcana skill, and you gain two cantrips of your choice from the wizard spell list. For you, these cantrips count as cleric cantrips.
 
-## Channel Divinity: Arcane Abjuration
+## Channel Divinity
+### Channel Divinity: Arcane Abjuration
 Starting at 2nd level, you can use your Channel Divinity to abjure otherworldly creatures
 
 As an action, you present your holy symbol, and one celestial, elemental, fey, or fiend of your choice that is within 30 feet of you must make a Wisdom saving throw, provided that the creature can see or hear you. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.
@@ -29,12 +30,14 @@ A turned creature must spend its turns trying to move as far away from you as it
 After you reach 5th level, when a creature fails its saving throw against you Arcane Abjuration feature, the creature is banished for 1 minute (as in the banishment spell, no concentration required) if it isn't on its plane of origin, and its challenge rating is at or below a certain threshold, as shown below.
 
 ## Arcane Banishment
-Cleric level	Banishes Creatures of CR...
-5th	1/2 or lower
-8th	1 or lower
-11th	2 or lower
-14th	3 or lower
-17th	4 or lower
+
+| Cleric level | Banishes Creatures of CR... |
+|:------------:|:----------------------------|
+| 5th          | 1/2 or lower                |
+| 8th          | 1 or lower                  |
+| 11th         | 2 or lower                  |
+| 14th         | 3 or lower                  |
+| 17th         | 4 or lower                  |
 
 ## Spell Breaker
 Starting at 6th level, when you restore hit points to an ally with a spell of 1st level or higher, you can also end one spell of your choice on that creature. The level of the spell you end must be equal to or lower than the level of the spell slot you use to cast the healing spell.
