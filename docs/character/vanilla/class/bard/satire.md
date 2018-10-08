@@ -1,7 +1,3 @@
-
-Bard College
-At 3rd level, you delve into the advanced techniques of a bard college of your choice from the list of available colleges. Your choice grants you features at 3rd level and again at 6th and 14th level.
-
 College of Satire
 Bards of the College of Satire are called jesters. They use lowbrow stories, daring acrobatics, and cutting jokes to entertain audiences, ranging from the crowds in a rundown dockside pub to the nobles of a king's royal court. Where other bards seek forgotten lore or tales of epic bravery, jesters ferret out embarrassing and hilarious stories of all kinds. Whether telling the ribald tale of a brawny stable hand's affair with an aged duchess or a mocking satire of a paladin of Helm's cloying innocence, a jester never lets taste, social decorum, or shame get in the way of a good laugh.
 
