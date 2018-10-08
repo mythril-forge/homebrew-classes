@@ -38,6 +38,7 @@ Every successful bard is renowned for at least one piece of performance art, typ
 If your character is just starting out, your ultimate defining work is likely in the future. But in order to make any sort of living at your profession, chances are you already have a piece or two in your repertoire that have proven to be audience pleasers.
 
 ### Defining Work Table
+
 | d6  | Defining Work                                                                                      |
 |:---:|:---------------------------------------------------------------------------------------------------|
 | 1   | "The Three Flambinis," a ribald song concerning mistaken identities and unfettered desire          |
