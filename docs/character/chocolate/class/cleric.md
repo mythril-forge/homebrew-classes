@@ -135,7 +135,7 @@ You start with the following items, plus anything provided by your background.
 | Level | Proficiency Bonus | Features                                                                 |  1st  |  2nd  |  3rd  |  4th  |  5th  |  6th  |  7th  |  8th  |  9th  |
 | :---: | :---------------: | :----------------------------------------------------------------------- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1     | +1d4 (+2)         | Spellcasting, Divine Domain                                              | 2     | -     | -     | -     | -     | -     | -     | -     | -     |
-| 2     | +1d4 (+2)         | Channel Divinity (1/rest), Divine Domain feature                         | 3     | -     | -     | -     | -     | -     | -     | -     | -     |
+| 2     | +1d4 (+2)         | Channel Divinity (1/rest), Destroy Undead (CR 0), Divine Domain feature  | 3     | -     | -     | -     | -     | -     | -     | -     | -     |
 | 3     | +1d4 (+2)         | -                                                                        | 4     | 2     | -     | -     | -     | -     | -     | -     | -     |
 | 4     | +1d4 (+2)         | Ability Score Improvement                                                | 4     | 3     | -     | -     | -     | -     | -     | -     | -     |
 | 5     | +1d6 (+3)         | Destroy Undead (CR 1/2)                                                  | 4     | 3     | 2     | -     | -     | -     | -     | -     | -     |

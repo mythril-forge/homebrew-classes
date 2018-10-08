@@ -128,7 +128,7 @@ You start with the following items, plus anything provided by your background.
 
 | Level | Proficiency Bonus | Features                                             | Cantrips Known / 0th | Spells Known |  1st  |  2nd  |  3rd  |  4th  |  5th  |  6th  |  7th  |  8th  |  9th  |
 |:-----:|:-----------------:|:-----------------------------------------------------|:--------------------:|:------------:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 1     | +2                | Bardic Inspiration, Spellcasting                     | 2                    | 4            | 2     | -     | -     | -     | -     | -     | -     | -     | -     |
+| 1     | +2                | Bardic Inspiration (d6), Spellcasting                | 2                    | 4            | 2     | -     | -     | -     | -     | -     | -     | -     | -     |
 | 2     | +2                | Jack of All Trades, Song of Rest (d6)                | 2                    | 5            | 3     | -     | -     | -     | -     | -     | -     | -     | -     |
 | 3     | +2                | Bard College, Expertise                              | 2                    | 6            | 4     | 2     | -     | -     | -     | -     | -     | -     | -     |
 | 4     | +2                | Ability Score Improvement                            | 3                    | 7            | 4     | 3     | -     | -     | -     | -     | -     | -     | -     |
