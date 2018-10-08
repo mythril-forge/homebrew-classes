@@ -127,7 +127,7 @@ You start with the following items, plus anything provided by your background.
 
 ## Table: The Bard
 
-| Level | Proficiency Bonus | Features                                             | Cantrips Known / 0th | Spells Known |  1st  |  2nd  |  3rd  |  4th  |  5th  |  6th  |  7th  |  8th  |  9th  |
+| Level | Proficiency Bonus | Features                                             | Cantrips Known / 0th | Spells Known |  1st   | 2nd   | 3rd   | 4th   | 5th   | 6th   | 7th   | 8th   | 9th  |
 |:-----:|:-----------------:|:-----------------------------------------------------|:--------------------:|:------------:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | 1     | +2                | Bardic Inspiration (d6), Spellcasting                | 2                    | 4            | 2     | -     | -     | -     | -     | -     | -     | -     | -     |
 | 2     | +2                | Jack of All Trades, Song of Rest (d6)                | 2                    | 5            | 3     | -     | -     | -     | -     | -     | -     | -     | -     |

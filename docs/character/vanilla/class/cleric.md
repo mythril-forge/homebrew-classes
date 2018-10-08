@@ -132,28 +132,28 @@ You start with the following items, plus anything provided by your background.
 
 ## Table: The Cleric
 
-| Level | Proficiency Bonus | Features                                                                 | Cantrips Known / 0th |  1st  |  2nd  |  3rd  |  4th  |  5th  |  6th  |  7th  |  8th  |  9th  |
-|:-----:|:-----------------:|:-------------------------------------------------------------------------|:--------------------:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 1     | +2                | Spellcasting, Divine Domain                                              | 3                    | 2     | -     | -     | -     | -     | -     | -     | -     | -     |
-| 2     | +2                | Channel Divinity (1/rest), Divine Domain feature                         | 3                    | 3     | -     | -     | -     | -     | -     | -     | -     | -     |
-| 3     | +2                | -                                                                        | 3                    | 4     | 2     | -     | -     | -     | -     | -     | -     | -     |
-| 4     | +2                | Ability Score Improvement                                                | 4                    | 4     | 3     | -     | -     | -     | -     | -     | -     | -     |
-| 5     | +3                | Destroy Undead (CR 1/2)                                                  | 4                    | 4     | 3     | 2     | -     | -     | -     | -     | -     | -     |
-| 6     | +3                | Channel Divinity (2/rest), Divine Domain feature                         | 4                    | 4     | 3     | 3     | -     | -     | -     | -     | -     | -     |
-| 7     | +3                | -                                                                        | 4                    | 4     | 3     | 3     | 1     | -     | -     | -     | -     | -     |
-| 8     | +3                | Ability Score Improvement, Destroy Undead (CR 1), Divine Domain feature  | 4                    | 4     | 3     | 3     | 2     | -     | -     | -     | -     | -     |
-| 9     | +4                | -                                                                        | 4                    | 4     | 3     | 3     | 3     | 1     | -     | -     | -     | -     |
-| 10    | +4                | Divine Intervention                                                      | 5                    | 4     | 3     | 3     | 3     | 2     | -     | -     | -     | -     |
-| 11    | +4                | Destroy Undead (CR 2)                                                    | 5                    | 4     | 3     | 3     | 3     | 2     | 1     | -     | -     | -     |
-| 12    | +4                | Ability Score Improvement                                                | 5                    | 4     | 3     | 3     | 3     | 2     | 1     | -     | -     | -     |
-| 13    | +5                | -                                                                        | 5                    | 4     | 3     | 3     | 3     | 2     | 1     | 1     | -     | -     |
-| 14    | +5                | Destroy Undead (CR 3)                                                    | 5                    | 4     | 3     | 3     | 3     | 2     | 1     | 1     | -     | -     |
-| 15    | +5                | -                                                                        | 5                    | 4     | 3     | 3     | 3     | 2     | 1     | 1     | 1     | -     |
-| 16    | +5                | Ability Score Improvement                                                | 5                    | 4     | 3     | 3     | 3     | 2     | 1     | 1     | 1     | -     |
-| 17    | +6                | Destroy Undead (CR 4), Divine Domain feature                             | 5                    | 4     | 3     | 3     | 3     | 2     | 1     | 1     | 1     | 1     |
-| 18    | +6                | Channel Divinity (3/rest)                                                | 5                    | 4     | 3     | 3     | 3     | 3     | 1     | 1     | 1     | 1     |
-| 19    | +6                | Ability Score Improvement                                                | 5                    | 4     | 3     | 3     | 3     | 3     | 2     | 1     | 1     | 1     |
-| 20    | +6                | Divine Intervention improvement                                          | 5                    | 4     | 3     | 3     | 3     | 3     | 2     | 2     | 1     | 1     |
+| Level | Proficiency Bonus | Features                                                                 | Cantrips Known / 0th | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+|:-----:|:-----------------:|:-------------------------------------------------------------------------|:--------------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 1     | +2                | Spellcasting, Divine Domain                                              | 3                    | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 2     | +2                | Channel Divinity (1/rest), Divine Domain feature                         | 3                    | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 3     | +2                | -                                                                        | 3                    | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
+| 4     | +2                | Ability Score Improvement                                                | 4                    | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
+| 5     | +3                | Destroy Undead (CR 1/2)                                                  | 4                    | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   |
+| 6     | +3                | Channel Divinity (2/rest), Divine Domain feature                         | 4                    | 4   | 3   | 3   | -   | -   | -   | -   | -   | -   |
+| 7     | +3                | -                                                                        | 4                    | 4   | 3   | 3   | 1   | -   | -   | -   | -   | -   |
+| 8     | +3                | Ability Score Improvement, Destroy Undead (CR 1), Divine Domain feature  | 4                    | 4   | 3   | 3   | 2   | -   | -   | -   | -   | -   |
+| 9     | +4                | -                                                                        | 4                    | 4   | 3   | 3   | 3   | 1   | -   | -   | -   | -   |
+| 10    | +4                | Divine Intervention                                                      | 5                    | 4   | 3   | 3   | 3   | 2   | -   | -   | -   | -   |
+| 11    | +4                | Destroy Undead (CR 2)                                                    | 5                    | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
+| 12    | +4                | Ability Score Improvement                                                | 5                    | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
+| 13    | +5                | -                                                                        | 5                    | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
+| 14    | +5                | Destroy Undead (CR 3)                                                    | 5                    | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
+| 15    | +5                | -                                                                        | 5                    | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
+| 16    | +5                | Ability Score Improvement                                                | 5                    | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
+| 17    | +6                | Destroy Undead (CR 4), Divine Domain feature                             | 5                    | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
+| 18    | +6                | Channel Divinity (3/rest)                                                | 5                    | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
+| 19    | +6                | Ability Score Improvement                                                | 5                    | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 20    | +6                | Divine Intervention improvement                                          | 5                    | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 
 ## Spellcasting
 As a conduit for divine power, you can cast cleric spells. See chapter 10 for the general rules of spellcasting and chapter 11 for a selection of cleric spells.
