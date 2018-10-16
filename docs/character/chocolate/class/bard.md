@@ -223,11 +223,11 @@ If your DM allows the use of feats, you may instead take a feat.
 Beginning when you reach 5th level, you regain all of your expended uses of Bardic Inspiration when you finish a short or long rest.
 
 ## Charming Chords
-At 6th level, you gain the ability to use musical notes or words of power to influence the mind. As an action, you can start a performance that lasts until the end of your next turn.
+At 6th level, you gain the ability to use musical notes or words of power to influence the mind. As an action, you can start a performance that lasts until the end of your next turn. You must concentrate on this feature as if it were a spell.
 
-During that time, you and any friendly creatures within 30 feet of you have advantage on saving throws against enchantments and being frightened or charmed—while other creatures in the area have disadvantage on these checks. A creature must be able to hear you to gain these effects.
+During that time, you and any friendly creatures within 30 feet of you have advantage on saving throws against enchantments and being frightened or charmed, while other creatures in the area have disadvantage on these checks. A creature must be able to hear you to gain these effects.
 
-The performance ends early if you are incapacitated or silenced or if you voluntarily end it (no action required).
+The performance ends early if you are incapacitated or silenced, if your concentration ends, or if you voluntarily end it (no action required).
 
 ## Superior Inspiration
-At 20th level, when you use your Bardic Inspiration, you can target multiple beneficiaries by expending one use of Bardic Inspiration per additional target.
+At 20th level, when you use your Bardic Inspiration, you can target multiple beneficiaries by expending one additional use of Bardic Inspiration per additional target.
