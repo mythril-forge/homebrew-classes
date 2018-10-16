@@ -130,11 +130,11 @@ You start with the following items, plus anything provided by your background.
 | Level | Proficiency Bonus | Features                                             | Spells Known | 1st   | 2nd   | 3rd   | 4th   | 5th   | 6th   | 7th   | 8th   | 9th   |
 |:-----:|:-----------------:|:-----------------------------------------------------|:------------:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | 1     | +1d4 (+2)         | Bardic Inspiration (d6), Spellcasting                | 6            | 2     | -     | -     | -     | -     | -     | -     | -     | -     |
-| 2     | +1d4 (+2)         | Jack of All Trades, Song of Rest                     | 7            | 3     | -     | -     | -     | -     | -     | -     | -     | -     |
+| 2     | +1d4 (+2)         | Jack of All Trades, Magical Secrets, Song of Rest    | 7            | 3     | -     | -     | -     | -     | -     | -     | -     | -     |
 | 3     | +1d4 (+2)         | Bard College, Expertise                              | 8            | 4     | 2     | -     | -     | -     | -     | -     | -     | -     |
 | 4     | +1d4 (+2)         | Ability Score Improvement                            | 10           | 4     | 3     | -     | -     | -     | -     | -     | -     | -     |
 | 5     | +1d6 (+3)         | Bardic Inspiration (d8), Font of Inspiration         | 11           | 4     | 3     | 2     | -     | -     | -     | -     | -     | -     |
-| 6     | +1d6 (+3)         | Countercharm, Bard College feature                   | 12           | 4     | 3     | 3     | -     | -     | -     | -     | -     | -     |
+| 6     | +1d6 (+3)         | Countercharm, Bard College feature, Magical Secrets  | 12           | 4     | 3     | 3     | -     | -     | -     | -     | -     | -     |
 | 7     | +1d6 (+3)         | —                                                    | 14           | 4     | 3     | 3     | 1     | -     | -     | -     | -     | -     |
 | 8     | +1d6 (+3)         | Ability Score Improvement                            | 15           | 4     | 3     | 3     | 2     | -     | -     | -     | -     | -     |
 | 9     | +1d8 (+4)         | —                                                    | 16           | 4     | 3     | 3     | 3     | 1     | -     | -     | -     | -     |
@@ -146,7 +146,7 @@ You start with the following items, plus anything provided by your background.
 | 15    | +1d10 (+5)        | Bardic Inspiration (d12)                             | 23           | 4     | 3     | 3     | 3     | 2     | 1     | 1     | 1     | -     |
 | 16    | +1d10 (+5)        | Ability Score Improvement                            | 24           | 4     | 3     | 3     | 3     | 2     | 1     | 1     | 1     | -     |
 | 17    | +1d12 (+6)        | —                                                    | 25           | 4     | 3     | 3     | 3     | 2     | 1     | 1     | 1     | 1     |
-| 18    | +1d12 (+6)        | Magical Secrets                                      | 25           | 4     | 3     | 3     | 3     | 3     | 1     | 1     | 1     | 1     |
+| 18    | +1d12 (+6)        | Magical Secrets                                      | 26           | 4     | 3     | 3     | 3     | 3     | 1     | 1     | 1     | 1     |
 | 19    | +1d12 (+6)        | Ability Score Improvement                            | 26           | 4     | 3     | 3     | 3     | 3     | 2     | 1     | 1     | 1     |
 | 20    | +1d12 (+6)        | Superior Inspiration                                 | 26           | 4     | 3     | 3     | 3     | 3     | 2     | 2     | 1     | 1     |
 
@@ -164,11 +164,11 @@ The Bard table shows how many spell slots you have to cast your spells of 1st le
 For example, if you know the 1st-level spell cure wounds and have a 1st-level and a 2nd-level spell slot available, you can cast cure wounds using either slot.
 
 ### Spells Known of 1st Level and Higher
-You know four 1st-level spells of your choice from the bard spell list.
+You know six cantrips or 1st-level spells of your choice from the bard spell list.
 
-You learn an additional bard spell of your choice at each level except 12th, 16th, 19th, and 20th. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 3rd level in this class, you can learn one new spell of 1st or 2nd level.
+You learn one additional bard spells of your choice at each level except 4th, 7th, 10th, 19th and 20th. At 4th, 7th, and 10th level, you instead learn two additional bard spells of your choice. At 19th and 20th level, you do not learn any new bard spells. Each of these spells must be either a cantrip or of a level for which you have spell slots. For instance, when you reach 3rd level in this class, you can learn one new cantrip or spell of 1st or 2nd level.
 
-Additionally, when you gain a level in this class, you can choose one of the bard spells you know and replace it with another spell from the bard spell list, which also must be of a level for which you have spell slots.
+Additionally, when you gain a level in this class, you can choose one of the bard spells you know and replace it with another spell from the bard spell list, which also must be either a cantrip or of a level for which you have spell slots.
 
 ### Spellcasting Ability
 Charisma is your spellcasting ability for your bard spells. Your magic comes from the heart and soul you pour into the performance of your music or oration. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a bard spell you cast and when making an attack roll with one.
@@ -199,6 +199,13 @@ Starting at 2nd level, you can add half your proficiency bonus, rounded down, to
 
 For example, if you have a proficiency bonus of +1d4 and you roll a 4, it gives you bonus of +2. If you roll a 1, it gives you a bonus of +0.
 
+## Magical Secrets
+By 2nd level, you have plundered magical knowledge from a wide spectrum of disciplines. When you learn a new spell from level-up, it can be from any class, including this one. A spell that you choose must be either a cantrip or of a level you can cast, as shown on the Bard table.
+
+The chosen spells count as bard spells for you and are included in the number in the Spells Known column of the Bard table.
+
+You learn additional spells from any class at 6th, 10th, 14th, and 18th level.
+
 ## Bard College
 At 3rd level, you delve into the advanced techniques of a bard college of your choice from the list of available colleges. Your choice grants you features at 3rd level and again at 6th and 14th level.
 
@@ -215,15 +222,12 @@ If your DM allows the use of feats, you may instead take a feat.
 ## Font of Inspiration
 Beginning when you reach 5th level, you regain all of your expended uses of Bardic Inspiration when you finish a short or long rest.
 
-## Countercharm
-At 6th level, you gain the ability to use musical notes or words of power to disrupt mind-influencing effects. As an action, you can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have advantage on saving throws against being frightened or charmed. A creature must be able to hear you to gain this benefit. The performance ends early if you are incapacitated or silenced or if you voluntarily end it (no action required).
+## Charming Chords
+At 6th level, you gain the ability to use musical notes or words of power to influence the mind. As an action, you can start a performance that lasts until the end of your next turn.
 
-## Magical Secrets
-By 10th level, you have plundered magical knowledge from a wide spectrum of disciplines. Choose two spells from any class, including this one. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip.
+During that time, you and any friendly creatures within 30 feet of you have advantage on saving throws against enchantments and being frightened or charmed—while other creatures in the area have disadvantage on these checks. A creature must be able to hear you to gain these effects.
 
-The chosen spells count as bard spells for you and are included in the number in the Spells Known column of the Bard table.
-
-You learn two additional spells from any class at 14th level and again at 18th level.
+The performance ends early if you are incapacitated or silenced or if you voluntarily end it (no action required).
 
 ## Superior Inspiration
 At 20th level, when you use your Bardic Inspiration, you can target multiple beneficiaries by expending one use of Bardic Inspiration per additional target.
