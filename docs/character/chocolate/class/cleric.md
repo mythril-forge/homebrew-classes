@@ -1,15 +1,3 @@
-<a href="https://noltron000.github.io/mythril-forge/character/vanilla/class/cleric.html">Base Cleric (original)</a>
-
-<a href="https://noltron000.github.io/mythril-forge/character/chocolate/class/cleric.html">Base Cleric (modified)</a>
-
-<a href="https://noltron000.github.io/mythril-forge/character/vanilla/class/cleric/tempest.html">Cleric — Tempest Domain (original)</a>
-
-<a href="https://noltron000.github.io/mythril-forge/character/chocolate/class/cleric/tempest.html">Cleric — Tempest Domain (modified)</a>
-
-<a href="https://noltron000.github.io/mythril-forge/character/vanilla/class/cleric/knowledge.html">Cleric — Knowledge Domain (original)</a>
-
-<a href="https://noltron000.github.io/mythril-forge/character/chocolate/class/cleric/knowledge.html">Cleric — Knowledge Domain (modified)</a>
-
 # Cleric
 Arms and eyes upraised toward the sun and a prayer on his lips, an elf begins to glow with an inner light that spills out to heal his battle-worn companions.
 
@@ -49,7 +37,7 @@ Most clerics start their lives of service as priests in an order, then later rea
 
 Some temples are cut off from the world so that their occupants can focus on devotions, while other temples open their doors to minister to and heal the masses. What is noteworthy about the temple you studied at?
 
-### Temples Table
+##### Temples Table
 
 | d6  | Temple                                                                                             |
 |:---:|:---------------------------------------------------------------------------------------------------|
@@ -63,7 +51,7 @@ Some temples are cut off from the world so that their occupants can focus on dev
 ## Keepsake
 Many clerics have items among their personal gear that symbolize their faith, remind them of their vows, or otherwise help to keep them on their chosen paths. Even though such an item is not imbued with divine power, it is vitally important to its owner because of what it represents.
 
-### Keepsakes Table
+##### Keepsakes Table
 
 | d6  | Keepsake                                                                  |
 |:---:|:--------------------------------------------------------------------------|
@@ -78,7 +66,7 @@ Many clerics have items among their personal gear that symbolize their faith, re
 No mortal soul is entirely free of second thoughts or doubt. Even a cleric must grapple with dark desires or the forbidden attraction of turning against the teachings of one's deity.
 If you haven't considered this aspect of your character yet, see the table entries for some possibilities, or use them for inspiration. Your deep, dark secret might involve something you did (or are doing), or it could be rooted in the way you feel about the world and your role in it.
 
-### Secrets Table
+##### Secrets Table
 
 | d6  | Secret                                                                                                              |
 |:---:|:--------------------------------------------------------------------------------------------------------------------|
@@ -89,7 +77,7 @@ If you haven't considered this aspect of your character yet, see the table entri
 | 5   | You are plagued by nightmares that you believe are sent by your god as punishment for some unknown transgression.   |
 | 6   | In times of despair, you feel that you are but a plaything of the gods, and you resent their remoteness.            |
 
-> #### Serving a Pantheon, Philosophy, or Force
+> ##### Serving a Pantheon, Philosophy, or Force
 > The typical cleric is an ordained servant of a particular god and chooses a Divine Domain associated with that deity. The cleric's magic flows from the god or the god's sacred realm, and often the cleric bears a holy symbol that represents that divinity.
 >
 > Some clerics, especially in a world like Eberron, serve a whole pantheon, rather than a single deity. In certain campaigns, a cleric might instead serve a cosmic force, such as life or death, or a philosophy or concept, such as love, peace, or one of the nine alignments. Chapter 1 of the Dungeon Master's Guide explores options like these, in the section "Gods of Your World."
@@ -104,7 +92,7 @@ As you create a cleric, the most important question to consider is which deity t
 
 Once you’ve chosen a deity, consider your cleric’s relationship to that god. Did you enter this service willingly? Or did the god choose you, impelling you into service with no regard for your wishes? How do the temple priests of your faith regard you: as a champion or a troublemaker? What are your ultimate goals? Does your deity have a special task in mind for you? Or are you striving to prove yourself worthy of a great quest?
 
-> #### Quick Build
+> ##### Quick Build
 > 
 > You can make a cleric quickly by following these suggestions. First, Wisdom should be your highest ability score, followed by Strength or Constitution. Second, choose the acolyte background.
 

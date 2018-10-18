@@ -10,8 +10,5 @@ Also at 3rd level, you learn to inspire others in battle. A creature that has a 
 ## Extra Attack
 Starting at 6th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
-## Bard College feature
-At 14th level, you gain a feature from your Bard College.
-
 ## Battle Magic
 At 14th level, you have mastered the art of weaving spellcasting and weapon use into a single harmonious act. When you use your action to cast a bard spell, you can make one weapon attack as a bonus action.
