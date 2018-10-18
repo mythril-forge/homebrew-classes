@@ -24,6 +24,7 @@ Most adventuring clerics maintain some connection to established temples and ord
 ---
 
 > _To become a cleric is to become a messenger of the gods. The power the divine offers is great, but it always comes with tremendous responsibility._
+> 
 > _—Riggby the patriarch_
 
 Almost all the folk in the world who revere a deity live their lives without ever being directly touched by a divine being. As such, they can never know what it feels like to be a cleric—someone who is not only a devout worshiper, but who has also been invested with a measure of a deity's power.
@@ -97,9 +98,9 @@ Once you’ve chosen a deity, consider your cleric’s relationship to that god.
 > You can make a cleric quickly by following these suggestions. First, Wisdom should be your highest ability score, followed by Strength or Constitution. Second, choose the acolyte background.
 
 ### Hit Points
-- **Hit Dice:** 1d8
-- **Hit Points at 1st Level:** 8 + your Constitution modifier
-- **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per Cleric level after 1st
+- **Hit Dice:** `1d8`
+- **Hit Points at 1st Level:** `8 + your Constitution modifier`
+- **Hit Points at Higher Levels:** `1d8, reroll 1's (or 5) + your Constitution modifier per Cleric level after 1st`
 
 ### Proficiencies
 You are proficient with the following items, in addition to any proficiencies provided by your race or background.
@@ -122,22 +123,22 @@ You start with the following items, plus anything provided by your background.
 
 | Level | Proficiency Bonus | Features                                                                 | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 |:-----:|:-----------------:|:-------------------------------------------------------------------------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1     | +1d4 (+2)         | Spellcasting, Divine Domain                                              | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
-| 2     | +1d4 (+2)         | Channel Divinity (1/rest), Destroy Undead (CR 0), Divine Domain feature  | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
-| 3     | +1d4 (+2)         | -                                                                        | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
-| 4     | +1d4 (+2)         | Ability Score Improvement                                                | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
-| 5     | +1d6 (+3)         | Destroy Undead (CR 1/2)                                                  | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   |
-| 6     | +1d6 (+3)         | Channel Divinity (2/rest), Divine Domain feature                         | 4   | 3   | 3   | -   | -   | -   | -   | -   | -   |
-| 7     | +1d6 (+3)         | -                                                                        | 4   | 3   | 3   | 1   | -   | -   | -   | -   | -   |
-| 8     | +1d6 (+3)         | Ability Score Improvement, Destroy Undead (CR 1), Divine Domain feature  | 4   | 3   | 3   | 2   | -   | -   | -   | -   | -   |
-| 9     | +1d8 (+4)         | -                                                                        | 4   | 3   | 3   | 3   | 1   | -   | -   | -   | -   |
-| 10    | +1d8 (+4)         | Divine Intervention                                                      | 4   | 3   | 3   | 3   | 2   | -   | -   | -   | -   |
-| 11    | +1d8 (+4)         | Destroy Undead (CR 2)                                                    | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
-| 12    | +1d8 (+4)         | Ability Score Improvement                                                | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
-| 13    | +1d10 (+5)        | -                                                                        | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
-| 14    | +1d10 (+5)        | Destroy Undead (CR 3)                                                    | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
-| 15    | +1d10 (+5)        | -                                                                        | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
-| 16    | +1d10 (+5)        | Ability Score Improvement                                                | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
+| 1     | +1d4 (+2)         | Spellcasting, Divine Domain                                              | 2   | —   | —   | —   | —   | —   | —   | —   | —   |
+| 2     | +1d4 (+2)         | Channel Divinity (1/rest), Destroy Undead (CR 0), Divine Domain feature  | 3   | —   | —   | —   | —   | —   | —   | —   | —   |
+| 3     | +1d4 (+2)         | —                                                                        | 4   | 2   | —   | —   | —   | —   | —   | —   | —   |
+| 4     | +1d4 (+2)         | Ability Score Improvement                                                | 4   | 3   | —   | —   | —   | —   | —   | —   | —   |
+| 5     | +1d6 (+3)         | Destroy Undead (CR 1/2)                                                  | 4   | 3   | 2   | —   | —   | —   | —   | —   | —   |
+| 6     | +1d6 (+3)         | Channel Divinity (2/rest), Divine Domain feature                         | 4   | 3   | 3   | —   | —   | —   | —   | —   | —   |
+| 7     | +1d6 (+3)         | —                                                                        | 4   | 3   | 3   | 1   | —   | —   | —   | —   | —   |
+| 8     | +1d6 (+3)         | Ability Score Improvement, Destroy Undead (CR 1), Divine Domain feature  | 4   | 3   | 3   | 2   | —   | —   | —   | —   | —   |
+| 9     | +1d8 (+4)         | —                                                                        | 4   | 3   | 3   | 3   | 1   | —   | —   | —   | —   |
+| 10    | +1d8 (+4)         | Divine Intervention                                                      | 4   | 3   | 3   | 3   | 2   | —   | —   | —   | —   |
+| 11    | +1d8 (+4)         | Destroy Undead (CR 2)                                                    | 4   | 3   | 3   | 3   | 2   | 1   | —   | —   | —   |
+| 12    | +1d8 (+4)         | Ability Score Improvement                                                | 4   | 3   | 3   | 3   | 2   | 1   | —   | —   | —   |
+| 13    | +1d10 (+5)        | —                                                                        | 4   | 3   | 3   | 3   | 2   | 1   | 1   | —   | —   |
+| 14    | +1d10 (+5)        | Destroy Undead (CR 3)                                                    | 4   | 3   | 3   | 3   | 2   | 1   | 1   | —   | —   |
+| 15    | +1d10 (+5)        | —                                                                        | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | —   |
+| 16    | +1d10 (+5)        | Ability Score Improvement                                                | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | —   |
 | 17    | +1d12 (+6)        | Destroy Undead (CR 4), Divine Domain feature                             | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
 | 18    | +1d12 (+6)        | Channel Divinity (3/rest)                                                | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
 | 19    | +1d12 (+6)        | Ability Score Improvement                                                | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
@@ -163,7 +164,8 @@ You can change your list of prepared spells when you finish a long rest. Prepari
 ### Spellcasting Ability
 Wisdom is your spellcasting ability for your cleric spells. The power of your spells comes from your devotion to your deity. You use your Wisdom whenever a cleric spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a cleric spell you cast and when making an attack roll with one.
 
-`Spell save DC = 8 + your proficiency bonus + your Wisdom modifier`  
+`Spell save DC = 8 + your proficiency bonus + your Wisdom modifier`
+
 `Spell attack modifier = your proficiency bonus + your Wisdom modifier`
 
 ### Ritual Casting
@@ -197,6 +199,7 @@ A turned creature must spend its turns trying to move as far away from you as it
 #### Destroy Undead
 When an undead fails its saving throw against your Turn Undead feature, the creature is instantly destroyed if its Challenge Rating (CR) is at or below a certain threshold, as shown in the Destroy Undead table.
 
+##### Destroy Undead Table
 | Cleric Level | Destroys Undead of CR... |
 |:------------:|:-------------------------|
 | 2nd          | 0 or lower               |

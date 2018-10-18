@@ -1,15 +1,3 @@
-<a href="https://noltron000.github.io/mythril-forge/character/vanilla/class/cleric.html">Base Cleric (original)</a>
-
-<a href="https://noltron000.github.io/mythril-forge/character/chocolate/class/cleric.html">Base Cleric (modified)</a>
-
-<a href="https://noltron000.github.io/mythril-forge/character/vanilla/class/cleric/tempest.html">Cleric — Tempest Domain (original)</a>
-
-<a href="https://noltron000.github.io/mythril-forge/character/chocolate/class/cleric/tempest.html">Cleric — Tempest Domain (modified)</a>
-
-<a href="https://noltron000.github.io/mythril-forge/character/vanilla/class/cleric/knowledge.html">Cleric — Knowledge Domain (original)</a>
-
-<a href="https://noltron000.github.io/mythril-forge/character/chocolate/class/cleric/knowledge.html">Cleric — Knowledge Domain (modified)</a>
-
 # Knowledge Domain
 The gods of knowledge—including Oghma, Boccob, Gilean, Aureon, and Thoth—value learning and understanding above all. Some teach that knowledge is to be gathered and shared in libraries and universities, or promote the practical knowledge of craft and invention. Some deities hoard knowledge and keep its secrets to themselves. And some promise their followers that they will gain tremendous power if they unlock the secrets of the multiverse. Followers of these gods study esoteric lore, collect old tomes, delve into the secret places of the earth, and learn all they can. Some gods of knowledge promote the practical knowledge of craft and invention, including smith deities like Gond, Reorx, Onatar, Moradin, Hephaestus, and Goibhniu.
 
@@ -40,7 +28,7 @@ You can use this feature a number of times equal to your Wisdom modifier (a mini
 ### Channel Divinity: Knowledge of the Ages
 Starting at 2nd level, you can use your Channel Divinity to tap into a divine well of knowledge. As an action, you choose one skill or tool. For 10 minutes, you replace your d20 with a d24 on ability checks using the chosen skill or tool.
 
-When you reach 14th level, you replace your d20 with a d30 on these ability checks.
+When you reach 14th level, you use a d30 instead.
 
 ### Channel Divinity: Read Thoughts
 At 6th level, you can use your Channel Divinity to read a creature's thoughts. You can then use your access to the creature's mind to command it.

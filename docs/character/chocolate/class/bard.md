@@ -20,6 +20,7 @@ Only rarely do bards settle in one place for long, and their natural desire to t
 ---
 
 > _Music is the fruit of the divine tree that vibrates with the Words of Creation. But the question I ask you is, can a bard go to the root of this tree? Can one tap into the source of that power? Ah, then what manner of music they would bring to this world!_  
+> 
 > _—Fletcher Danairia, master bard_
 
 Bards bring levity during grave times; they impart wisdom to offset ignorance; and they make the ridiculous seem sublime. Bards are preservers of ancient history, their songs and tales perpetuating the memory of great events down through time—knowledge so important that it is memorized and passed along as oral history, to survive even when no written record remains.
@@ -105,9 +106,9 @@ Did you serve an apprenticeship, studying under a master, following the more exp
 > You can make a bard quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Dexterity. Second, choose the entertainer background. Third, choose the dancing lights and vicious mockery cantrips, along with the following 1st-level spells: charm person, detect magic, healing word, and thunderwave.
 
 ### Hit Points
-- **Hit Dice:** 1d8
-- **Hit Points at 1st Level:** 8 + your Constitution modifier
-- **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per Bard level after 1st
+- **Hit Dice:** `1d8`
+- **Hit Points at 1st Level:** `8 + your Constitution modifier`
+- **Hit Points at Higher Levels:** `1d8, reroll 1's (or 5) + your Constitution modifier per Bard level after 1st`
 
 ### Proficiencies
 You are proficient with the following items, in addition to any proficiencies provided by your race or background.

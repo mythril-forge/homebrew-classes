@@ -1,0 +1,31 @@
+<style>
+	.phb{
+		background : white;
+	}
+	.phb img{
+		display : none;
+	}
+	.phb hr+blockquote{
+		background : white;
+	}
+	.phb .classTable {
+		border-image-repeat: stretch;
+	}
+	.phb .descriptive {
+		border-image-repeat: stretch;
+	}
+	.phb code {
+		visibility: visible;
+		font-family: monospace;
+		letter-spacing: -0.0625em;
+	}
+	.phb#p1 {
+		counter-increment: none;
+	}
+	.phb#p1{
+		text-align:center;
+	}
+	.phb#p1:after{
+		display:none;
+	}
+</style>
