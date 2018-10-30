@@ -126,7 +126,7 @@ You start with the following items, plus anything provided by your background.
 - (a) a component pouch or (b) an arcane focus
 - (a) a dungeoneer's pack or (b) an explorer's pack
 - Two daggers
-- Alternatively, you may start with 3d4 × 10 gp to buy your own equipment.
+- A 200-coin capacity purse containing 3d4 × 10 sp
 
 ## Table: The Sorcerer
 
@@ -192,63 +192,83 @@ Your choice grants you features when you choose it at 1st level and again at 6th
 At 2nd level, you tap into a deep wellspring of magic within yourself. This wellspring is represented by sorcery points, which allow you to create a variety of magical effects.
 
 ### Sorcery Points
-You have 2 sorcery points, and you gain one additional point every time you level up, to a maximum of 20 at level 20. You can never have more sorcery points than shown on the table for your level. Likewise, you can never have more spell slots than shown on the class table for your level. You regain all spent sorcery points when you finish a long rest.
+You have 2 sorcery points, and you gain one additional point every time you level up, as shown on the Sorcerer table. You regain all spent sorcery points and lose any superfluous sorcery points when you finish a long rest.
 
 You learn several different ways to use your sorcery points as you reach higher levels.
 
 #### Flexible Casting
 You can use your sorcery points to recover spell slots, or sacrifice spell slots to gain additional sorcery points.
 
-***Converting Sorcery Points to a Spell Slot.*** You can transform unexpended sorcery points into one spell slot as a bonus action on your turn. The created spell slots vanish at the end of a long rest. The Creating Spell Slots table shows the cost of creating a spell slot of a given level. You can create spell slots no higher in level than 5th.
+***Converting Sorcery Points to a Spell Slot.*** You can transform unexpended sorcery points into one spell slot as a bonus action on your turn. The created spell slots vanish at the end of a long rest. The Creating Spell Slots table shows the cost of creating a spell slot of a given level.
 
 ***Converting a Spell Slot to Sorcery Points.*** As a bonus action on your turn, you can expend one spell slot and gain a number of sorcery points equal to the slot's level.
 
 ##### Sorcery Points Table
 
-| Spell Slot Level | Sorcery Point Cost |
-|:----------------:|:------------------:|
-| 1st              | 2                  |
-| 2nd              | 3                  |
-| 3rd              | 5                  |
-| 4th              | 6                  |
-| 5th              | 7                  |
-| 6th              | 9                  |
-| 7th              | 10                 |
-| 8th              | 11                 |
-| 9th              | 12                 |
+| Spell Slot Level | Sorcery Point Conversion Rate |
+|:----------------:|:-----------------------------:|
+| Cantrip          | 0                             |
+| 1st              | 2                             |
+| 2nd              | 3                             |
+| 3rd              | 5                             |
+| 4th              | 6                             |
+| 5th              | 7                             |
+| 6th              | 9                             |
+| 7th              | 10                            |
+| 8th              | 11                            |
+| 9th              | 12                            |
 
 #### Metamagic
-At 3rd level, you gain the ability to twist your spells to suit your needs. You gain two of the following Metamagic options of your choice. You gain another one at 10th and 17th level.
+At 3rd level, you gain the ability to twist your spells to suit your needs. You gain two of the following Metamagic options of your choice. You gain two more at 10th and 17th level.
 
 You can use only one Metamagic option on a spell when you cast it, unless otherwise noted.
 
+##### Cantrip Mastery
+You can use 1 sorcery point to cast any cantrip on the sorcerer spell list – even if you haven't learned the spell.
+
+You can use Cantrip Mastery even if you have already used a different Metamagic option during the casting of the spell.
+
 ##### Careful Spell
-When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell's full force. To do so, you spend 1 sorcery point and choose a number of those creatures up to your Charisma modifier (minimum of one creature). A chosen creature automatically succeeds on its saving throw against the spell.
+When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell's full force.
+
+To do so, you must spend 1 sorcery point for each creature that you want to protect. A chosen creature has advantage on any saving throws directly induced by the spell.
+
+You can instead spend 3 sorcery points per creature to completely mitigate any of the spell's effects against them.
 
 ##### Distant Spell
-When you cast a spell that has a range of 5 feet or greater, you can spend 1 sorcery point to double the range of the spell.
+When you cast a spell that has a casting range that is greater than self, you can spend 1 sorcery point to increase the range of the spell.
 
-When you cast a spell that has a range of touch, you can spend 1 sorcery point to make the range of the spell 30 feet.
+The spell's range increases to either double range or to 30ft, whichever is greater.
 
 ##### Empowered Spell
-When you roll damage for a spell, you can spend 1 sorcery point to reroll a number of the damage dice up to your Charisma modifier (minimum of one). You must use the new rolls.
+When you roll damage for a spell, you can spend 2 sorcery points to reroll the results. You must use the new rolls.
 
 You can use Empowered Spell even if you have already used a different Metamagic option during the casting of the spell.
 
 ##### Extended Spell
-When you cast a spell that has a duration of 1 minute or longer, you can spend 1 sorcery point to double its duration, to a maximum duration of 24 hours.
+When you cast a spell that has a duration of 1 minute or longer, you can spend 1 sorcery point to double its duration.
+
+In addition, you have advantage on any concentration checks made to maintain this spell.
 
 ##### Heightened Spell
-When you cast a spell that forces a creature to make a saving throw to resist its effects, you can spend 3 sorcery points to give one target of the spell disadvantage on its first saving throw made against the spell.
+When you cast a spell that forces other creatures to make a saving throw, you can intensify the spell's full force on some of those creatures. 
+
+To do so, you must spend 3 sorcery points for each creature that you want to affect. A chosen creature has disadvantage on any saving throws directly induced by the spell.
 
 ##### Quickened Spell
-When you cast a spell that has a casting time of 1 action, you can spend 2 sorcery points to change the casting time to 1 bonus action for this casting.
+When you cast a spell that has a casting time of 1 action, you can spend a number of sorcery points equal to the spell's conversion rate to change the casting time to 1 bonus action for this casting.
+
+This metamagic's cost is 1 sorcery point if the spell that you cast is a cantrip.
 
 ##### Subtle Spell
 When you cast a spell, you can spend 1 sorcery point to cast it without any somatic or verbal components.
 
 ##### Twinned Spell
-When you cast a spell that doesn't have a range of self and is incapable of targeting more than one creature at the spell's current level, you can spend a number of sorcery points equal to the spell's level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip).
+When you cast a spell that doesn't have a range of self, you can spend a number of sorcery points equal to the spell's conversion rate cast the spell a second time simultaneously.
+
+If a creature would be effected by both castings of this spell, it is instead only effected by one of them.
+
+This metamagic's cost is 1 sorcery point if the spell that you cast is a cantrip.
 
 ## Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
