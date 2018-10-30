@@ -132,7 +132,7 @@ You start with the following items, plus anything provided by your background.
 
 | Level | Proficiency Bonus | Features                       | Sorcery Points | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 |:-----:|:-----------------:|:------------------------------:|:--------------:|:------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1     | +1d4 (+2)         | Spellcasting, Sorcerous Origin | —              | 6            | 1   | —   | —   | —   | —   | —   | —   | —   | —   |
+| 1     | +1d4 (+2)         | Spellcasting, Sorcerous Origin | 1              | 6            | 1   | —   | —   | —   | —   | —   | —   | —   | —   |
 | 2     | +1d4 (+2)         | Font of Magic                  | 2              | 8            | 2   | —   | —   | —   | —   | —   | —   | —   | —   |
 | 3     | +1d4 (+2)         | Metamagic                      | 3              | 9            | 2   | 1   | —   | —   | —   | —   | —   | —   | —   |
 | 4     | +1d4 (+2)         | Ability Score Improvement      | 4              | 11           | 3   | 2   | —   | —   | —   | —   | —   | —   | —   |
@@ -189,10 +189,10 @@ Choose a sorcerous origin, which describes the source of your innate magical pow
 Your choice grants you features when you choose it at 1st level and again at 6th, 14th, and 18th level.
 
 ## Font of Magic
-At 2nd level, you tap into a deep wellspring of magic within yourself. This wellspring is represented by sorcery points, which allow you to create a variety of magical effects.
+You can tap into a deep wellspring of magic within yourself. This wellspring is represented by sorcery points, which allow you to create a variety of magical effects.
 
 ### Sorcery Points
-You have 2 sorcery points, and you gain one additional point every time you level up, as shown on the Sorcerer table. You regain all spent sorcery points and lose any superfluous sorcery points when you finish a long rest.
+You have 1 sorcery point, and you gain one additional point every time you level up, as shown on the Sorcerer table. You regain all spent sorcery points and lose any superfluous sorcery points when you finish a long rest.
 
 You learn several different ways to use your sorcery points as you reach higher levels.
 
@@ -223,12 +223,8 @@ At 3rd level, you gain the ability to twist your spells to suit your needs. You 
 
 You can use only one Metamagic option on a spell when you cast it, unless otherwise noted.
 
-##### Cantrip Mastery
-You can use 1 sorcery point to cast any cantrip on the sorcerer spell list – even if you haven't learned the spell.
-
-You can use Cantrip Mastery even if you have already used a different Metamagic option during the casting of the spell.
-
 ##### Careful Spell
+***Cost: 1—3 points / creature***
 When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell's full force.
 
 To do so, you must spend 1 sorcery point for each creature that you want to protect. A chosen creature has advantage on any saving throws directly induced by the spell.
@@ -236,35 +232,50 @@ To do so, you must spend 1 sorcery point for each creature that you want to prot
 You can instead spend 3 sorcery points per creature to completely mitigate any of the spell's effects against them.
 
 ##### Distant Spell
+***Cost: 1 point***
 When you cast a spell that has a casting range that is greater than self, you can spend 1 sorcery point to increase the range of the spell.
 
 The spell's range increases to either double range or to 30ft, whichever is greater.
 
 ##### Empowered Spell
+***Cost: 2 points***
 When you roll damage for a spell, you can spend 2 sorcery points to reroll the results. You must use the new rolls.
 
 You can use Empowered Spell even if you have already used a different Metamagic option during the casting of the spell.
 
 ##### Extended Spell
+***Cost: 1 point***
 When you cast a spell that has a duration of 1 minute or longer, you can spend 1 sorcery point to double its duration.
 
 In addition, you have advantage on any concentration checks made to maintain this spell.
 
 ##### Heightened Spell
+***Cost: 3 points / creature***
 When you cast a spell that forces other creatures to make a saving throw, you can intensify the spell's full force on some of those creatures. 
 
 To do so, you must spend 3 sorcery points for each creature that you want to affect. A chosen creature has disadvantage on any saving throws directly induced by the spell.
 
+##### Instinctive Spell
+***Cost: Variable***
+You can spend a number of sorcery points equal to the spell's conversion rate to cast any spell on the sorcerer spell list – even if you haven't learned the spell.
+
+As normal, you must spend the associated level spell slot.
+
+This metamagic's cost is 1 sorcery point if the spell that you cast is a cantrip.
+
 ##### Quickened Spell
+***Cost: Variable***
 When you cast a spell that has a casting time of 1 action, you can spend a number of sorcery points equal to the spell's conversion rate to change the casting time to 1 bonus action for this casting.
 
 This metamagic's cost is 1 sorcery point if the spell that you cast is a cantrip.
 
 ##### Subtle Spell
+***Cost: 1 point***
 When you cast a spell, you can spend 1 sorcery point to cast it without any somatic or verbal components.
 
 ##### Twinned Spell
-When you cast a spell that doesn't have a range of self, you can spend a number of sorcery points equal to the spell's conversion rate cast the spell a second time simultaneously.
+***Cost: Variable***
+When you cast a spell, you can spend a number of sorcery points equal to the spell's conversion rate cast the spell a second time simultaneously.
 
 If a creature would be effected by both castings of this spell, it is instead only effected by one of them.
 
