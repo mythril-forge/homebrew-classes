@@ -40,13 +40,14 @@ Does your character know the source of your magical power? Does it tie back to s
 
 ### Arcane Origins Table
 
-| d6  | Origin                                                 |
-| 1   | Your power arises from your family's bloodline. You are related to some powerful creature, or you inherited a blessing or a curse.
-| 2   | You are the reincarnation of a being from another plane of existence.
-| 3   | A powerful entity entered the world. Its magic changed you.
-| 4   | Your birth was prophesied in an ancient text, and you are foretold to use your power for terrible ends.
-| 5   | You are the product of generations of careful, selective breeding.
-| 6   | You were made in a vat by an alchemist.
+| d6  | Origin                                                                                                                             |
+|:---:|::----------------------------------------------------------------------------------------------------------------------------------|
+| 1   | Your power arises from your family's bloodline. You are related to some powerful creature, or you inherited a blessing or a curse. |
+| 2   | You are the reincarnation of a being from another plane of existence.                                                              |
+| 3   | A powerful entity entered the world. Its magic changed you.                                                                        |
+| 4   | Your birth was prophesied in an ancient text, and you are foretold to use your power for terrible ends.                            |
+| 5   | You are the product of generations of careful, selective breeding.                                                                 |
+| 6   | You were made in a vat by an alchemist.                                                                                            |
 
 ## Reaction
 When a new sorcerer enters the world, either at birth or later when one's power becomes evident, the consequences of that event depend greatly on how its witnesses react to what they have seen.
@@ -55,13 +56,14 @@ When your sorcerer's powers appeared, how did the world around you respond? Were
 
 ### Reactions Table
 
-| d6  | Reaction                                                 |
-| 1   | Your powers are seen as a great blessing by those around you, and you are expected to use them in service to your community.
-| 2   | Your powers caused destruction and even a death when they became evident, and you were treated as a criminal.
-| 3   | Your neighbors hate and fear your power, causing them to shun you.
-| 4   | You came to the attention of a sinister cult that plans on exploiting your abilities.
-| 5   | People around you believe that your powers are a curse levied on your family for a past transgression.
-| 6   | Your powers are believed to be tied to an ancient line of mad kings that supposedly ended in a bloody revolt over a century ago.
+| d6  | Reaction                                                                                                                         |
+|:---:|:---------------------------------------------------------------------------------------------------------------------------------|
+| 1   | Your powers are seen as a great blessing by those around you, and you are expected to use them in service to your community.     |
+| 2   | Your powers caused destruction and even a death when they became evident, and you were treated as a criminal.                    |
+| 3   | Your neighbors hate and fear your power, causing them to shun you.                                                               |
+| 4   | You came to the attention of a sinister cult that plans on exploiting your abilities.                                            |
+| 5   | People around you believe that your powers are a curse levied on your family for a past transgression.                           |
+| 6   | Your powers are believed to be tied to an ancient line of mad kings that supposedly ended in a bloody revolt over a century ago. |
 
 ## Supernatural Mark
 A sorcerer at rest is almost indistinguishable from a normal person; it's only when their magic flies forth that sorcerers reveal their true nature. Even so, many sorcerers have a subtle but telling physical trait that sets them apart from other folk.
@@ -70,13 +72,14 @@ If your sorcerer has a supernatural mark, it might be one that's easily conceale
 
 ### Supernatural Marks Table
 
-| d6  | Mark                                                 |
-| 1   | Your eyes are an unusual color, such as red.
-| 2   | You have an extra toe on one foot.
-| 3   | One of your ears is noticeably larger than the other.
-| 4   | Your hair grows at a prodigious rate.
-| 5   | You wrinkle your nose repeatedly while you are chewing.
-| 6   | A red splotch appears on your neck once a day, then vanishes after an hour.
+| d6  | Mark                                                                        |
+|:---:|:----------------------------------------------------------------------------|
+| 1   | Your eyes are an unusual color, such as red.                                |
+| 2   | You have an extra toe on one foot.                                          |
+| 3   | One of your ears is noticeably larger than the other.                       |
+| 4   | Your hair grows at a prodigious rate.                                       |
+| 5   | You wrinkle your nose repeatedly while you are chewing.                     |
+| 6   | A red splotch appears on your neck once a day, then vanishes after an hour. |
 
 ## Signs of Sorcery
 As the world well knows, some sorcerers are better than others at controlling their spellcasting. Sometimes a wild display of magic gone awry emanates from a sorcerer who casts a spell. But even when one's magic goes off as planned, the act of casting is often accompanied by a telltale sign that makes it clear where that magical energy came from.
@@ -85,13 +88,14 @@ When your sorcerer character casts a spell, does the effort reveal itself in a s
 
 ### Signs of Sorcery Table
 
-| d6  | Sign
-| 1   | You deliver the verbal components of your spells in the booming voice of a titan.
-| 2   | For a moment after you cast a spell, the area around you grows dark and gloomy.
-| 3   | You sweat profusely while casting a spell and for a few seconds thereafter.
-| 4   | Your hair and garments are briefly buffeted about, as if by a breeze, whenever you call forth a spell.
-| 5   | If you are standing when you cast a spell, you rise six inches into the air and gently float back down.
-| 6   | Illusory blue flames wreathe your head as you begin your casting, then abruptly disappear.
+| d6  | Sign                                                                                                    |
+|:---:|:--------------------------------------------------------------------------------------------------------|
+| 1   | You deliver the verbal components of your spells in the booming voice of a titan.                       |
+| 2   | For a moment after you cast a spell, the area around you grows dark and gloomy.                         |
+| 3   | You sweat profusely while casting a spell and for a few seconds thereafter.                             |
+| 4   | Your hair and garments are briefly buffeted about, as if by a breeze, whenever you call forth a spell.  |
+| 5   | If you are standing when you cast a spell, you rise six inches into the air and gently float back down. |
+| 6   | Illusory blue flames wreathe your head as you begin your casting, then abruptly disappear.              |
 
 # Class Features
 ## Creating a Sorcerer
@@ -126,152 +130,130 @@ You start with the following items, plus anything provided by your background.
 
 ## Table: The Sorcerer
 
-| Level | Proficiency Bonus | Features                       | Sorcery Points | Cantrips Known | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-|:-----:|:-----------------:|:------------------------------:|:--------------:|:--------------:|:------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1     | +1d4 (+2)         | Spellcasting, Sorcerous Origin | —              | 4              | 2            | 2   | —   | —   | —   | —   | —   | —   | —   | —   |
-| 2     | +1d4 (+2)         | Font of Magic                  | 2              | 4              | 3            | 3   | —   | —   | —   | —   | —   | —   | —   | —   |
-| 3     | +1d4 (+2)         | Metamagic                      | 3              | 4              | 4            | 4   | 2   | —   | —   | —   | —   | —   | —   | —   |
-| 4     | +1d4 (+2)         | Ability Score Improvement      | 4              | 5              | 5            | 4   | 3   | —   | —   | —   | —   | —   | —   | —   |
-| 5     | +1d6 (+3)         | —                              | 5              | 5              | 6            | 4   | 3   | 2   | —   | —   | —   | —   | —   | —   |
-| 6     | +1d6 (+3)         | Sorcerous Origin feature       | 6              | 5              | 7            | 4   | 3   | 3   | —   | —   | —   | —   | —   | —   |
-| 7     | +1d6 (+3)         | —                              | 7              | 5              | 8            | 4   | 3   | 3   | 1   | —   | —   | —   | —   | —   |
-| 8     | +1d6 (+3)         | Ability Score Improvement      | 8              | 5              | 9            | 4   | 3   | 3   | 2   | —   | —   | —   | —   | —   |
-| 9     | +1d8 (+4)         | —                              | 9              | 5              | 10           | 4   | 3   | 3   | 3   | 1   | —   | —   | —   | —   |
-| 10    | +1d8 (+4)         | Metamagic                      | 10             | 6              | 11           | 4   | 3   | 3   | 3   | 2   | —   | —   | —   | —   |
-| 11    | +1d8 (+4)         | —                              | 11             | 6              | 12           | 4   | 3   | 3   | 3   | 2   | 1   | —   | —   | —   |
-| 12    | +1d8 (+4)         | Ability Score Improvement      | 12             | 6              | 12           | 4   | 3   | 3   | 3   | 2   | 1   | —   | —   | —   |
-| 13    | +1d10 (+5)        | —                              | 13             | 6              | 13           | 4   | 3   | 3   | 3   | 2   | 1   | 1   | —   | —   |
-| 14    | +1d10 (+5)        | Sorcerous Origin feature       | 14             | 6              | 13           | 4   | 3   | 3   | 3   | 2   | 1   | 1   | —   | —   |
-| 15    | +1d10 (+5)        | —                              | 15             | 6              | 14           | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | —   |
-| 16    | +1d10 (+5)        | Ability Score Improvement      | 16             | 6              | 14           | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | —   |
-| 17    | +1d12 (+6)        | Metamagic                      | 17             | 6              | 15           | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
-| 18    | +1d12 (+6)        | Sorcerous Origin feature       | 18             | 6              | 15           | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
-| 19    | +1d12 (+6)        | Ability Score Improvement      | 19             | 6              | 15           | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
-| 20    | +1d12 (+6)        | Sorcerous Restoration          | 20             | 6              | 15           | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
+| Level | Proficiency Bonus | Features                       | Sorcery Points | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+|:-----:|:-----------------:|:------------------------------:|:--------------:|:------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 1     | +1d4 (+2)         | Spellcasting, Sorcerous Origin | —              | 6            | 1   | —   | —   | —   | —   | —   | —   | —   | —   |
+| 2     | +1d4 (+2)         | Font of Magic                  | 2              | 8            | 2   | —   | —   | —   | —   | —   | —   | —   | —   |
+| 3     | +1d4 (+2)         | Metamagic                      | 3              | 9            | 2   | 1   | —   | —   | —   | —   | —   | —   | —   |
+| 4     | +1d4 (+2)         | Ability Score Improvement      | 4              | 11           | 3   | 2   | —   | —   | —   | —   | —   | —   | —   |
+| 5     | +1d6 (+3)         | —                              | 5              | 12           | 3   | 2   | 1   | —   | —   | —   | —   | —   | —   |
+| 6     | +1d6 (+3)         | Sorcerous Origin feature       | 6              | 14           | 4   | 3   | 1   | —   | —   | —   | —   | —   | —   |
+| 7     | +1d6 (+3)         | —                              | 7              | 15           | 4   | 3   | 2   | 1   | —   | —   | —   | —   | —   |
+| 8     | +1d6 (+3)         | Ability Score Improvement      | 8              | 15           | 4   | 4   | 2   | 1   | —   | —   | —   | —   | —   |
+| 9     | +1d8 (+4)         | —                              | 9              | 16           | 4   | 4   | 2   | 2   | 1   | —   | —   | —   | —   |
+| 10    | +1d8 (+4)         | Metamagic                      | 10             | 16           | 4   | 4   | 3   | 2   | 1   | —   | —   | —   | —   |
+| 11    | +1d8 (+4)         | —                              | 11             | 17           | 4   | 4   | 3   | 2   | 2   | 1   | —   | —   | —   |
+| 12    | +1d8 (+4)         | Ability Score Improvement      | 12             | 17           | 4   | 4   | 3   | 3   | 2   | 1   | —   | —   | —   |
+| 13    | +1d10 (+5)        | —                              | 13             | 18           | 4   | 4   | 3   | 3   | 2   | 1   | 1   | —   | —   |
+| 14    | +1d10 (+5)        | Sorcerous Origin feature       | 14             | 18           | 4   | 4   | 3   | 3   | 3   | 1   | 1   | —   | —   |
+| 15    | +1d10 (+5)        | —                              | 15             | 19           | 4   | 4   | 3   | 3   | 3   | 1   | 1   | 1   | —   |
+| 16    | +1d10 (+5)        | Ability Score Improvement      | 16             | 19           | 4   | 4   | 3   | 3   | 3   | 2   | 1   | 1   | —   |
+| 17    | +1d12 (+6)        | Metamagic                      | 17             | 20           | 4   | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 18    | +1d12 (+6)        | Sorcerous Origin feature       | 18             | 20           | 4   | 4   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
+| 19    | +1d12 (+6)        | Ability Score Improvement      | 19             | 21           | 4   | 4   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
+| 20    | +1d12 (+6)        | Sorcerous Restoration          | 20             | 21           | 4   | 4   | 3   | 3   | 3   | 2   | 2   | 2   | 1   |
 
-Spellcasting
+## Spellcasting
 An event in your past, or in the life of a parent or ancestor, left an indelible mark on you, infusing you with arcane magic. This font of magic, whatever its origin, fuels your spells. See chapter 10 for the general rules of spellcasting and chapter 11 for the sorcerer spell list.
 
-Cantrips
-At 1st level, you know four cantrips of your choice from the sorcerer spell list. You learn an additional sorcerer cantrip of your choice at 4th level and another at 10th level.
+Sorcerers must learn each of their spells before they can cast them — however, once they know a spell, they always have it prepared to use.
 
-Spell Slots
+### Cantrips
+Sorcerers can learn cantrips alongside their other spells of 1st level and higher.
+
+## Spell Slots
 The Sorcerer table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these sorcerer spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
 For example, if you know the 1st-level spell burning hands and have a 1st-level and a 2nd-level spell slot available, you can cast burning hands using either slot.
 
-Spells Known of 1st Level and Higher
-You know two 1st-level spells of your choice from the sorcerer spell list.
+### Spells Known of 1st Level and Higher
+You know sox 1st-level spells of your choice from the sorcerer spell list.
 
 You learn an additional sorcerer spell of your choice at each level except 12th, 14th, 16th, 18th, 19th, and 20th. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 3rd level in this class, you can learn one new spell of 1st or 2nd level.
 
 Additionally, when you gain a level in this class, you can choose one of the sorcerer spells you know and replace it with another spell from the sorcerer spell list, which also must be of a level for which you have spell slots.
 
-Spellcasting Ability
+### Spellcasting Ability
 Charisma is your spellcasting ability for your sorcerer spells, since the power of your magic relies on your ability to project your will into the world. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a sorcerer spell you cast and when making an attack roll with one.
 
-Spell save DC = 8 + your proficiency bonus + your Charisma modifier
+`Spell save DC = 8 + your proficiency bonus + your Charisma modifier`
 
-Spell attack modifier = your proficiency bonus + your Charisma modifier
+`Spell attack modifier = your proficiency bonus + your Charisma modifier`
 
-Spellcasting Focus
+### Spellcasting Focus
 You can use an arcane focus (found in chapter 5) as a spellcasting focus for your sorcerer spells.
 
-Sorcerous Origin
+## Sorcerous Origin
 Choose a sorcerous origin, which describes the source of your innate magical power, from the list of available origins
 
 Your choice grants you features when you choose it at 1st level and again at 6th, 14th, and 18th level.
 
-Font of Magic
-At 2nd level, you tap into a deep wellspring of magic within yourself. This wellspring is represented by sorcery points, which allow you to create a variety of magical effects
+## Font of Magic
+At 2nd level, you tap into a deep wellspring of magic within yourself. This wellspring is represented by sorcery points, which allow you to create a variety of magical effects.
 
-Sorcery Points
-You have 2 sorcery points, and you gain one additional point every time you level up, to a maximum of 20 at level 20. You can never have more sorcery points than shown on the table for your level. You regain all spent sorcery points when you finish a long rest.
+### Sorcery Points
+You have 2 sorcery points, and you gain one additional point every time you level up, to a maximum of 20 at level 20. You can never have more sorcery points than shown on the table for your level. Likewise, you can never have more spell slots than shown on the class table for your level. You regain all spent sorcery points when you finish a long rest.
 
-Flexible Casting
-You can use your sorcery points to gain additional spell slots, or sacrifice spell slots to gain additional sorcery points. You learn other ways to use your sorcery points as you reach higher levels.
+You learn several different ways to use your sorcery points as you reach higher levels.
 
-Creating Spell Slots. You can transform unexpended sorcery points into one spell slot as a bonus action on your turn. The created spell slots vanish at the end of a long rest. The Creating Spell Slots table shows the cost of creating a spell slot of a given level. You can create spell slots no higher in level than 5th.
-Creating Spell Slots
-Spell Slot Level	Sorcery Point Cost
-1st	2
-2nd	3
-3rd	5
-4th	6
-5th	7
-Converting a Spell Slot to Sorcery Points. As a bonus action on your turn, you can expend one spell slot and gain a number of sorcery points equal to the slot's level.
-Metamagic
+#### Flexible Casting
+You can use your sorcery points to recover spell slots, or sacrifice spell slots to gain additional sorcery points.
+
+***Converting Sorcery Points to a Spell Slot.*** You can transform unexpended sorcery points into one spell slot as a bonus action on your turn. The created spell slots vanish at the end of a long rest. The Creating Spell Slots table shows the cost of creating a spell slot of a given level. You can create spell slots no higher in level than 5th.
+
+***Converting a Spell Slot to Sorcery Points.*** As a bonus action on your turn, you can expend one spell slot and gain a number of sorcery points equal to the slot's level.
+
+##### Sorcery Points Table
+
+| Spell Slot Level | Sorcery Point Cost |
+|:----------------:|:------------------:|
+| 1st              | 2                  |
+| 2nd              | 3                  |
+| 3rd              | 5                  |
+| 4th              | 6                  |
+| 5th              | 7                  |
+| 6th              | 9                  |
+| 7th              | 10                 |
+| 8th              | 11                 |
+| 9th              | 12                 |
+
+#### Metamagic
 At 3rd level, you gain the ability to twist your spells to suit your needs. You gain two of the following Metamagic options of your choice. You gain another one at 10th and 17th level.
 
 You can use only one Metamagic option on a spell when you cast it, unless otherwise noted.
 
-Careful Spell
+##### Careful Spell
 When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell's full force. To do so, you spend 1 sorcery point and choose a number of those creatures up to your Charisma modifier (minimum of one creature). A chosen creature automatically succeeds on its saving throw against the spell.
 
-Distant Spell
+##### Distant Spell
 When you cast a spell that has a range of 5 feet or greater, you can spend 1 sorcery point to double the range of the spell.
 
 When you cast a spell that has a range of touch, you can spend 1 sorcery point to make the range of the spell 30 feet.
 
-Empowered Spell
+##### Empowered Spell
 When you roll damage for a spell, you can spend 1 sorcery point to reroll a number of the damage dice up to your Charisma modifier (minimum of one). You must use the new rolls.
 
 You can use Empowered Spell even if you have already used a different Metamagic option during the casting of the spell.
 
-Extended Spell
+##### Extended Spell
 When you cast a spell that has a duration of 1 minute or longer, you can spend 1 sorcery point to double its duration, to a maximum duration of 24 hours.
 
-Heightened Spell
+##### Heightened Spell
 When you cast a spell that forces a creature to make a saving throw to resist its effects, you can spend 3 sorcery points to give one target of the spell disadvantage on its first saving throw made against the spell.
 
-Quickened Spell
+##### Quickened Spell
 When you cast a spell that has a casting time of 1 action, you can spend 2 sorcery points to change the casting time to 1 bonus action for this casting.
 
-Subtle Spell
+##### Subtle Spell
 When you cast a spell, you can spend 1 sorcery point to cast it without any somatic or verbal components.
 
-Twinned Spell
+##### Twinned Spell
 When you cast a spell that doesn't have a range of self and is incapable of targeting more than one creature at the spell's current level, you can spend a number of sorcery points equal to the spell's level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip).
 
-Ability Score Improvement
-When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+## Ability Score Improvement
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
 
-Sorcerous Origin feature
-At 6th level, you gain a feature granted by your Sorcerous Origin.
-
-Ability Score Improvement
-When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
-
-If your DM allows the use of feats, you may instead take a feat.
-
-Metamagic
-At 10th level, you learn an additional metamagic option.
-
-Ability Score Improvement
-When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
-
-If your DM allows the use of feats, you may instead take a feat.
-
-Sorcerous Origin feature
-At 14th level, you gain a feature granted by your Sorcerous Origin.
-
-Ability Score Improvement
-When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
-
-If your DM allows the use of feats, you may instead take a feat.
-
-Metamagic
-At 17th level, you learn an additional metamagic option.
-
-Sorcerous Origin feature
-At 18th level, you gain a feature granted by your Sorcerous Origin.
-
-Ability Score Improvement
-When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
-
-If your DM allows the use of feats, you may instead take a feat.
-
-Sorcerous Restoration
+## Sorcerous Restoration
 At 20th level, you regain 4 expended sorcery points whenever you finish a short rest.
