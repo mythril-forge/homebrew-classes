@@ -161,7 +161,7 @@ Sorcerers must learn each of their spells before they can cast them — however
 ### Cantrips
 Sorcerers can learn cantrips alongside their other spells of 1st level and higher.
 
-## Spell Slots
+### Spell Slots
 The Sorcerer table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these sorcerer spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
 For example, if you know the 1st-level spell burning hands and have a 1st-level and a 2nd-level spell slot available, you can cast burning hands using either slot.
