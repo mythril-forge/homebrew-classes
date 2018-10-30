@@ -24,7 +24,6 @@ Most adventuring clerics maintain some connection to established temples and ord
 ---
 
 > _To become a cleric is to become a messenger of the gods. The power the divine offers is great, but it always comes with tremendous responsibility._
-> 
 > _—Riggby the patriarch_
 
 Almost all the folk in the world who revere a deity live their lives without ever being directly touched by a divine being. As such, they can never know what it feels like to be a cleric—someone who is not only a devout worshiper, but who has also been invested with a measure of a deity's power.
@@ -38,7 +37,7 @@ Most clerics start their lives of service as priests in an order, then later rea
 
 Some temples are cut off from the world so that their occupants can focus on devotions, while other temples open their doors to minister to and heal the masses. What is noteworthy about the temple you studied at?
 
-##### Temples Table
+### Temples Table
 
 | d6  | Temple                                                                                             |
 |:---:|:---------------------------------------------------------------------------------------------------|
@@ -52,7 +51,7 @@ Some temples are cut off from the world so that their occupants can focus on dev
 ## Keepsake
 Many clerics have items among their personal gear that symbolize their faith, remind them of their vows, or otherwise help to keep them on their chosen paths. Even though such an item is not imbued with divine power, it is vitally important to its owner because of what it represents.
 
-##### Keepsakes Table
+### Keepsakes Table
 
 | d6  | Keepsake                                                                  |
 |:---:|:--------------------------------------------------------------------------|
@@ -67,7 +66,7 @@ Many clerics have items among their personal gear that symbolize their faith, re
 No mortal soul is entirely free of second thoughts or doubt. Even a cleric must grapple with dark desires or the forbidden attraction of turning against the teachings of one's deity.
 If you haven't considered this aspect of your character yet, see the table entries for some possibilities, or use them for inspiration. Your deep, dark secret might involve something you did (or are doing), or it could be rooted in the way you feel about the world and your role in it.
 
-##### Secrets Table
+### Secrets Table
 
 | d6  | Secret                                                                                                              |
 |:---:|:--------------------------------------------------------------------------------------------------------------------|
@@ -78,7 +77,7 @@ If you haven't considered this aspect of your character yet, see the table entri
 | 5   | You are plagued by nightmares that you believe are sent by your god as punishment for some unknown transgression.   |
 | 6   | In times of despair, you feel that you are but a plaything of the gods, and you resent their remoteness.            |
 
-> ##### Serving a Pantheon, Philosophy, or Force
+> #### Serving a Pantheon, Philosophy, or Force
 > The typical cleric is an ordained servant of a particular god and chooses a Divine Domain associated with that deity. The cleric's magic flows from the god or the god's sacred realm, and often the cleric bears a holy symbol that represents that divinity.
 >
 > Some clerics, especially in a world like Eberron, serve a whole pantheon, rather than a single deity. In certain campaigns, a cleric might instead serve a cosmic force, such as life or death, or a philosophy or concept, such as love, peace, or one of the nine alignments. Chapter 1 of the Dungeon Master's Guide explores options like these, in the section "Gods of Your World."
@@ -93,14 +92,14 @@ As you create a cleric, the most important question to consider is which deity t
 
 Once you’ve chosen a deity, consider your cleric’s relationship to that god. Did you enter this service willingly? Or did the god choose you, impelling you into service with no regard for your wishes? How do the temple priests of your faith regard you: as a champion or a troublemaker? What are your ultimate goals? Does your deity have a special task in mind for you? Or are you striving to prove yourself worthy of a great quest?
 
-> ##### Quick Build
+> #### Quick Build
 > 
 > You can make a cleric quickly by following these suggestions. First, Wisdom should be your highest ability score, followed by Strength or Constitution. Second, choose the acolyte background.
 
 ### Hit Points
-- **Hit Dice:** `1d8`
-- **Hit Points at 1st Level:** `8 + your Constitution modifier`
-- **Hit Points at Higher Levels:** `1d8, reroll 1's (or 5) + your Constitution modifier per Cleric level after 1st`
+- **Hit Dice:** 1d8
+- **Hit Points at 1st Level:** 8 + your Constitution modifier
+- **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per Cleric level after 1st
 
 ### Proficiencies
 You are proficient with the following items, in addition to any proficiencies provided by your race or background.
@@ -112,61 +111,58 @@ You are proficient with the following items, in addition to any proficiencies pr
 
 ### Starting Equipment
 You start with the following items, plus anything provided by your background.
-- (a) a mace or (b) a warhammer (if proficient) or (c) a maul (if proficient)
-- (a) padded armor, (b) hide armor, or (c) chain mail (if proficient)
-- (a) a simple crossbow and 12 bolts or (b) any simple weapon
+- (a) a mace or (b) a warhammer (if proficient)
+- (a) scale mail, (b) leather armor, or (c) chain mail (if proficient)
+- (a) a light crossbow and 20 bolts or (b) any simple weapon
 - (a) a priest's pack or (b) an explorer's pack
 - A shield and a holy symbol
-- A 200-coin capacity purse containing 5d4 × 10 sp
+- Alternatively, you may start with 5d4 × 10 gp to buy your own equipment.
 
 ## Table: The Cleric
 
-| Level | Proficiency Bonus | Features                                                                 | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-|:-----:|:-----------------:|:-------------------------------------------------------------------------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1     | +1d4 (+2)         | Spellcasting, Divine Domain                                              | 2   | —   | —   | —   | —   | —   | —   | —   | —   |
-| 2     | +1d4 (+2)         | Channel Divinity (1/rest), Destroy Undead (CR 0), Divine Domain feature  | 3   | —   | —   | —   | —   | —   | —   | —   | —   |
-| 3     | +1d4 (+2)         | —                                                                        | 4   | 2   | —   | —   | —   | —   | —   | —   | —   |
-| 4     | +1d4 (+2)         | Ability Score Improvement                                                | 4   | 3   | —   | —   | —   | —   | —   | —   | —   |
-| 5     | +1d6 (+3)         | Destroy Undead (CR 1/2)                                                  | 4   | 3   | 2   | —   | —   | —   | —   | —   | —   |
-| 6     | +1d6 (+3)         | Channel Divinity (2/rest), Divine Domain feature                         | 4   | 3   | 3   | —   | —   | —   | —   | —   | —   |
-| 7     | +1d6 (+3)         | —                                                                        | 4   | 3   | 3   | 1   | —   | —   | —   | —   | —   |
-| 8     | +1d6 (+3)         | Ability Score Improvement, Destroy Undead (CR 1), Divine Domain feature  | 4   | 3   | 3   | 2   | —   | —   | —   | —   | —   |
-| 9     | +1d8 (+4)         | —                                                                        | 4   | 3   | 3   | 3   | 1   | —   | —   | —   | —   |
-| 10    | +1d8 (+4)         | Divine Intervention                                                      | 4   | 3   | 3   | 3   | 2   | —   | —   | —   | —   |
-| 11    | +1d8 (+4)         | Destroy Undead (CR 2)                                                    | 4   | 3   | 3   | 3   | 2   | 1   | —   | —   | —   |
-| 12    | +1d8 (+4)         | Ability Score Improvement                                                | 4   | 3   | 3   | 3   | 2   | 1   | —   | —   | —   |
-| 13    | +1d10 (+5)        | —                                                                        | 4   | 3   | 3   | 3   | 2   | 1   | 1   | —   | —   |
-| 14    | +1d10 (+5)        | Destroy Undead (CR 3)                                                    | 4   | 3   | 3   | 3   | 2   | 1   | 1   | —   | —   |
-| 15    | +1d10 (+5)        | —                                                                        | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | —   |
-| 16    | +1d10 (+5)        | Ability Score Improvement                                                | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | —   |
-| 17    | +1d12 (+6)        | Destroy Undead (CR 4), Divine Domain feature                             | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
-| 18    | +1d12 (+6)        | Channel Divinity (3/rest)                                                | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
-| 19    | +1d12 (+6)        | Ability Score Improvement                                                | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
-| 20    | +1d12 (+6)        | Divine Intervention improvement                                          | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
+| Level | Proficiency Bonus | Features                                                                 | Cantrips Known / 0th | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+|:-----:|:-----------------:|:-------------------------------------------------------------------------|:--------------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 1     | +2                | Spellcasting, Divine Domain                                              | 3                    | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 2     | +2                | Channel Divinity (1/rest), Divine Domain feature                         | 3                    | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 3     | +2                | -                                                                        | 3                    | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
+| 4     | +2                | Ability Score Improvement                                                | 4                    | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
+| 5     | +3                | Destroy Undead (CR 1/2)                                                  | 4                    | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   |
+| 6     | +3                | Channel Divinity (2/rest), Divine Domain feature                         | 4                    | 4   | 3   | 3   | -   | -   | -   | -   | -   | -   |
+| 7     | +3                | -                                                                        | 4                    | 4   | 3   | 3   | 1   | -   | -   | -   | -   | -   |
+| 8     | +3                | Ability Score Improvement, Destroy Undead (CR 1), Divine Domain feature  | 4                    | 4   | 3   | 3   | 2   | -   | -   | -   | -   | -   |
+| 9     | +4                | -                                                                        | 4                    | 4   | 3   | 3   | 3   | 1   | -   | -   | -   | -   |
+| 10    | +4                | Divine Intervention                                                      | 5                    | 4   | 3   | 3   | 3   | 2   | -   | -   | -   | -   |
+| 11    | +4                | Destroy Undead (CR 2)                                                    | 5                    | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
+| 12    | +4                | Ability Score Improvement                                                | 5                    | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
+| 13    | +5                | -                                                                        | 5                    | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
+| 14    | +5                | Destroy Undead (CR 3)                                                    | 5                    | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
+| 15    | +5                | -                                                                        | 5                    | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
+| 16    | +5                | Ability Score Improvement                                                | 5                    | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
+| 17    | +6                | Destroy Undead (CR 4), Divine Domain feature                             | 5                    | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
+| 18    | +6                | Channel Divinity (3/rest)                                                | 5                    | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
+| 19    | +6                | Ability Score Improvement                                                | 5                    | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 20    | +6                | Divine Intervention improvement                                          | 5                    | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 
 ## Spellcasting
 As a conduit for divine power, you can cast cleric spells. See chapter 10 for the general rules of spellcasting and chapter 11 for a selection of cleric spells.
 
-Clerics know every spell for which they can cast — however, they must prepare a set number of spells at the beginning of the day before using them.
-
 ### Cantrips
-Clerics can prepare cantrips alongside their other spells of 1st level and higher.
+At 1st level, you know three cantrips of your choice from the cleric spell list. You learn additional cleric cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Cleric table.
 
 ### Preparing and Casting Spells
 The Cleric table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
-You prepare the list of cleric spells that are available for you to cast, choosing from the cleric spell list. When you do so, choose a number of cleric spells equal to `your Wisdom modifier + your Proficiency Bonus + your cleric level (minimum of one spell).` The spells must be either a cantrip or of a level for which you have spell slots.
+You prepare the list of cleric spells that are available for you to cast, choosing from the cleric spell list. When you do so, choose a number of cleric spells equal to your Wisdom modifier + your cleric level (minimum of one spell). The spells must be of a level for which you have spell slots.
 
-For example, if you are a 3rd-level cleric, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include eight cantrips or spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell cure wounds, you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
+For example, if you are a 3rd-level cleric, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell cure wounds, you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
 
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of cleric spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
 
 ### Spellcasting Ability
 Wisdom is your spellcasting ability for your cleric spells. The power of your spells comes from your devotion to your deity. You use your Wisdom whenever a cleric spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a cleric spell you cast and when making an attack roll with one.
 
-`Spell save DC = 8 + your proficiency bonus + your Wisdom modifier`
-
-`Spell attack modifier = your proficiency bonus + your Wisdom modifier`
+Spell save DC = 8 + your proficiency bonus + your Wisdom modifier  
+Spell attack modifier = your proficiency bonus + your Wisdom modifier
 
 ### Ritual Casting
 You can cast a cleric spell as a ritual if that spell has the ritual tag and you have the spell prepared.
@@ -192,31 +188,29 @@ Some Channel Divinity effects require saving throws. When you use such an effect
 Beginning at 6th level, you can use your Channel Divinity twice between rests, and beginning at 18th level, you can use it three times between rests. When you finish a short or long rest, you regain your expended uses.
 
 ### Channel Divinity: Turn Undead
-As an action, you present your holy symbol and speak a prayer censuring the undead. Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it faces any malevolent action from another creature.
+As an action, you present your holy symbol and speak a prayer censuring the undead. Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.
 
 A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
-
-#### Destroy Undead
-When an undead fails its saving throw against your Turn Undead feature, the creature is instantly destroyed if its Challenge Rating (CR) is at or below a certain threshold, as shown in the Destroy Undead table.
-
-##### Destroy Undead Table
-| Cleric Level | Destroys Undead of CR... |
-|:------------:|:-------------------------|
-| 2nd          | 0 or lower               |
-| 5th          | 1/2 or lower             |
-| 8th          | 1 or lower               |
-| 11th         | 2 or lower               |
-| 14th         | 3 or lower               |
-| 17th         | 4 or lower               |
 
 ## Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
 
+## Destroy Undead
+Starting at 5th level, when an undead fails its saving throw against your Turn Undead feature, the creature is instantly destroyed if its Challenge Rating (CR) is at or below a certain threshold, as shown in the Destroy Undead table.
+
+| Cleric Level | Destroys Undead of CR... |
+|:------------:|:-------------------------|
+| 5th          | 1/2 or lower             |
+| 8th          | 1 or lower               |
+| 11th         | 2 or lower               |
+| 14th         | 3 or lower               |
+| 17th         | 4 or lower               |
+
 ## Divine Intervention
 Beginning at 10th level, you can call on your deity to intervene on your behalf when your need is great.
 
-Imploring your deity's aid requires you to use your action. Describe the assistance you seek, and roll `1d120 + your cleric level + your Wisdom modifier`. If the resulting number is equal to or above 120, your deity intervenes. The DM chooses the nature of the intervention; the effect of any cleric spell or cleric domain spell would be appropriate. If your deity intervenes, you can't use this feature again for 7 days. Otherwise, you can use it again after you finish a long rest.
+Imploring your deity's aid requires you to use your action. Describe the assistance you seek, and roll percentile dice. If you roll a number equal to or lower than your cleric level, your deity intervenes. The DM chooses the nature of the intervention; the effect of any cleric spell or cleric domain spell would be appropriate. If your deity intervenes, you can't use this feature again for 7 days. Otherwise, you can use it again after you finish a long rest.
 
-At 20th level, you can roll 1d120 twice and take the higher roll.
+At 20th level, your call for intervention succeeds automatically, no roll required.

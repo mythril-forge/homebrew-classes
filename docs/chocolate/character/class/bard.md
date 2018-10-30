@@ -128,28 +128,28 @@ You start with the following items, plus anything provided by your background.
 
 ## Table: The Bard
 
-| Level | Proficiency Bonus | Features                                             | Spells Known | 1st   | 2nd   | 3rd   | 4th   | 5th   | 6th   | 7th   | 8th   | 9th   |
-|:-----:|:-----------------:|:-----------------------------------------------------|:------------:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 1     | +1d4 (+2)         | Bardic Inspiration (d6), Spellcasting                | 6            | 2     | -     | -     | -     | -     | -     | -     | -     | -     |
-| 2     | +1d4 (+2)         | Jack of All Trades, Magical Secrets, Song of Rest    | 7            | 3     | -     | -     | -     | -     | -     | -     | -     | -     |
-| 3     | +1d4 (+2)         | Bard College, Expertise                              | 8            | 4     | 2     | -     | -     | -     | -     | -     | -     | -     |
-| 4     | +1d4 (+2)         | Ability Score Improvement                            | 10           | 4     | 3     | -     | -     | -     | -     | -     | -     | -     |
-| 5     | +1d6 (+3)         | Bardic Inspiration (d8), Font of Inspiration         | 11           | 4     | 3     | 2     | -     | -     | -     | -     | -     | -     |
-| 6     | +1d6 (+3)         | Countercharm, Bard College feature, Magical Secrets  | 12           | 4     | 3     | 3     | -     | -     | -     | -     | -     | -     |
-| 7     | +1d6 (+3)         | —                                                    | 14           | 4     | 3     | 3     | 1     | -     | -     | -     | -     | -     |
-| 8     | +1d6 (+3)         | Ability Score Improvement                            | 15           | 4     | 3     | 3     | 2     | -     | -     | -     | -     | -     |
-| 9     | +1d8 (+4)         | —                                                    | 16           | 4     | 3     | 3     | 3     | 1     | -     | -     | -     | -     |
-| 10    | +1d8 (+4)         | Bardic Inspiration (d10), Expertise, Magical Secrets | 18           | 4     | 3     | 3     | 3     | 2     | -     | -     | -     | -     |
-| 11    | +1d8 (+4)         | —                                                    | 19           | 4     | 3     | 3     | 3     | 2     | 1     | -     | -     | -     |
-| 12    | +1d8 (+4)         | Ability Score Improvement                            | 20           | 4     | 3     | 3     | 3     | 2     | 1     | -     | -     | -     |
-| 13    | +1d10 (+5)        | —                                                    | 21           | 4     | 3     | 3     | 3     | 2     | 1     | 1     | -     | -     |
-| 14    | +1d10 (+5)        | Magical Secrets, Bard College feature                | 22           | 4     | 3     | 3     | 3     | 2     | 1     | 1     | -     | -     |
-| 15    | +1d10 (+5)        | Bardic Inspiration (d12)                             | 23           | 4     | 3     | 3     | 3     | 2     | 1     | 1     | 1     | -     |
-| 16    | +1d10 (+5)        | Ability Score Improvement                            | 24           | 4     | 3     | 3     | 3     | 2     | 1     | 1     | 1     | -     |
-| 17    | +1d12 (+6)        | —                                                    | 25           | 4     | 3     | 3     | 3     | 2     | 1     | 1     | 1     | 1     |
-| 18    | +1d12 (+6)        | Magical Secrets                                      | 26           | 4     | 3     | 3     | 3     | 3     | 1     | 1     | 1     | 1     |
-| 19    | +1d12 (+6)        | Ability Score Improvement                            | 26           | 4     | 3     | 3     | 3     | 3     | 2     | 1     | 1     | 1     |
-| 20    | +1d12 (+6)        | Superior Inspiration                                 | 26           | 4     | 3     | 3     | 3     | 3     | 2     | 2     | 1     | 1     |
+| Level | Proficiency Bonus | Features                                             | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+|:-----:|:-----------------:|:-----------------------------------------------------|:------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 1     | +1d4 (+2)         | Bardic Inspiration (d6), Spellcasting                | 6            | 1   | —   | —   | —   | —   | —   | —   | —   | —   |
+| 2     | +1d4 (+2)         | Jack of All Trades, Magical Secrets, Song of Rest    | 7            | 2   | —   | —   | —   | —   | —   | —   | —   | —   |
+| 3     | +1d4 (+2)         | Bard College, Expertise                              | 8            | 2   | 1   | —   | —   | —   | —   | —   | —   | —   |
+| 4     | +1d4 (+2)         | Ability Score Improvement                            | 10           | 3   | 2   | —   | —   | —   | —   | —   | —   | —   |
+| 5     | +1d6 (+3)         | Bardic Inspiration (d8), Font of Inspiration         | 11           | 3   | 2   | 1   | —   | —   | —   | —   | —   | —   |
+| 6     | +1d6 (+3)         | Countercharm, Bard College feature, Magical Secrets  | 12           | 4   | 3   | 1   | —   | —   | —   | —   | —   | —   |
+| 7     | +1d6 (+3)         | —                                                    | 14           | 4   | 3   | 2   | 1   | —   | —   | —   | —   | —   |
+| 8     | +1d6 (+3)         | Ability Score Improvement                            | 15           | 4   | 4   | 2   | 1   | —   | —   | —   | —   | —   |
+| 9     | +1d8 (+4)         | —                                                    | 16           | 4   | 4   | 2   | 2   | 1   | —   | —   | —   | —   |
+| 10    | +1d8 (+4)         | Bardic Inspiration (d10), Expertise, Magical Secrets | 18           | 4   | 4   | 3   | 2   | 1   | —   | —   | —   | —   |
+| 11    | +1d8 (+4)         | —                                                    | 19           | 4   | 4   | 3   | 2   | 2   | 1   | —   | —   | —   |
+| 12    | +1d8 (+4)         | Ability Score Improvement                            | 20           | 4   | 4   | 3   | 3   | 2   | 1   | —   | —   | —   |
+| 13    | +1d10 (+5)        | —                                                    | 21           | 4   | 4   | 3   | 3   | 2   | 1   | 1   | —   | —   |
+| 14    | +1d10 (+5)        | Magical Secrets, Bard College feature                | 22           | 4   | 4   | 3   | 3   | 3   | 1   | 1   | —   | —   |
+| 15    | +1d10 (+5)        | Bardic Inspiration (d12)                             | 23           | 4   | 4   | 3   | 3   | 3   | 1   | 1   | 1   | —   |
+| 16    | +1d10 (+5)        | Ability Score Improvement                            | 24           | 4   | 4   | 3   | 3   | 3   | 2   | 1   | 1   | —   |
+| 17    | +1d12 (+6)        | —                                                    | 25           | 4   | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 18    | +1d12 (+6)        | Magical Secrets                                      | 26           | 4   | 4   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
+| 19    | +1d12 (+6)        | Ability Score Improvement                            | 26           | 4   | 4   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
+| 20    | +1d12 (+6)        | Superior Inspiration                                 | 26           | 4   | 4   | 3   | 3   | 3   | 2   | 2   | 2   | 1   |
 
 ## Spellcasting
 You have learned to untangle and reshape the fabric of reality in harmony with your wishes and music. Your spells are part of your vast repertoire, magic that you can tune to different situations. See chapter 10 for the general rules of spellcasting and chapter 11 for the bard spell list.
@@ -174,7 +174,8 @@ Additionally, when you gain a level in this class, you can choose one of the bar
 ### Spellcasting Ability
 Charisma is your spellcasting ability for your bard spells. Your magic comes from the heart and soul you pour into the performance of your music or oration. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a bard spell you cast and when making an attack roll with one.
 
-`Spell save DC = 8 + your proficiency bonus + your Charisma modifier`  
+`Spell save DC = 8 + your proficiency bonus + your Charisma modifier`
+
 `Spell attack modifier = your proficiency bonus + your Charisma modifier`
 
 ### Ritual Casting
@@ -232,3 +233,5 @@ The performance ends early if you are incapacitated or silenced, if your concent
 
 ## Superior Inspiration
 At 20th level, when you use your Bardic Inspiration, you can target multiple beneficiaries by expending one additional use of Bardic Inspiration per additional target.
+
+In addition, when you roll initiative, you regain one use of Bardic Inspiration.
