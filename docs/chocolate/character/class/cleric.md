@@ -38,7 +38,7 @@ Most clerics start their lives of service as priests in an order, then later rea
 
 Some temples are cut off from the world so that their occupants can focus on devotions, while other temples open their doors to minister to and heal the masses. What is noteworthy about the temple you studied at?
 
-##### Temples Table
+###### Temples Table
 
 | d6  | Temple                                                                                             |
 |:---:|:---------------------------------------------------------------------------------------------------|
@@ -52,7 +52,7 @@ Some temples are cut off from the world so that their occupants can focus on dev
 ## Keepsake
 Many clerics have items among their personal gear that symbolize their faith, remind them of their vows, or otherwise help to keep them on their chosen paths. Even though such an item is not imbued with divine power, it is vitally important to its owner because of what it represents.
 
-##### Keepsakes Table
+###### Keepsakes Table
 
 | d6  | Keepsake                                                                  |
 |:---:|:--------------------------------------------------------------------------|
@@ -67,7 +67,7 @@ Many clerics have items among their personal gear that symbolize their faith, re
 No mortal soul is entirely free of second thoughts or doubt. Even a cleric must grapple with dark desires or the forbidden attraction of turning against the teachings of one's deity.
 If you haven't considered this aspect of your character yet, see the table entries for some possibilities, or use them for inspiration. Your deep, dark secret might involve something you did (or are doing), or it could be rooted in the way you feel about the world and your role in it.
 
-##### Secrets Table
+###### Secrets Table
 
 | d6  | Secret                                                                                                              |
 |:---:|:--------------------------------------------------------------------------------------------------------------------|
@@ -208,7 +208,7 @@ A turned creature must spend its turns trying to move as far away from you as it
 #### Destroy Undead
 When an undead fails its saving throw against your Turn Undead feature, the creature is instantly destroyed if its Challenge Rating (CR) is at or below a certain threshold, as shown in the Destroy Undead table.
 
-##### Destroy Undead Table
+###### Destroy Undead Table
 | Cleric Level | Destroys Undead of CR... |
 |:------------:|:-------------------------|
 | 2nd          | 0 or lower               |

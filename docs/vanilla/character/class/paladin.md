@@ -34,7 +34,7 @@ The precepts of a paladin's oath provide purpose to the character and dictate an
 
 If your paladin character has a personal goal, it might be drawn from some life event and thus not directly tied to the oath.
 
-### Personal Goal Table
+###### Personal Goal Table
 
 d6	Personal Goal
 1	Peace. You fight so that future generations will not have to.
@@ -49,7 +49,7 @@ Paladins are mindful of the influence of symbols, and many of them adopt or desi
 
 Your symbol might be displayed on a banner, a flag, or your clothing for all to see. Or it could be less obvious, such as a trinket or a token that you carry concealed on your person.
 
-### Symbol Table
+###### Symbol Table
 
 d6	Symbol
 1	A dragon, emblematic of your nobility in peace and your ferocity in combat
@@ -64,7 +64,7 @@ Their adherence to a sacred oath demands that paladins take an active stance in 
 
 Your paladin character might have an enemy that dates from the days before you took up your path. Or you could be a target because when you became a paladin, you immediately attracted the attention of those that would do you in. If you have a nemesis, who or what is it? Whom among your enemies do you consider to be the biggest threat to achieving your goals?
 
-### Nemesis Table
+###### Nemesis Table
 
 d6	Nemesis
 1	A mighty orc war chief who threatens to overrun and destroy everything you hold sacred
@@ -79,7 +79,7 @@ Although paladins are dedicated to their oaths, they are mortals, and thus they 
 
 What is the temptation that your character succumbs to or finds it difficult to resist?
 
-### Temptation Table
+###### Temptation Table
 
 d6	Temptation
 1	Fury. When your anger is roused, you have trouble thinking straight, and you fear you might do something you'll regret.
