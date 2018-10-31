@@ -199,9 +199,16 @@ You learn several different ways to use your sorcery points as you reach higher 
 #### Flexible Casting
 You can use your sorcery points to recover spell slots, or sacrifice spell slots to gain additional sorcery points.
 
-***Converting Sorcery Points to a Spell Slot.*** You can transform unexpended sorcery points into one spell slot as a bonus action on your turn. The created spell slots vanish at the end of a long rest. The Creating Spell Slots table shows the cost of creating a spell slot of a given level.
+##### Converting Sorcery Points
+You can transform unexpended sorcery points into one spell slot as a bonus action on your turn. To do so, spend a number of sorcery points equal to the spell's conversion rate, as shown in the Sorcery Points Table.
 
-***Converting a Spell Slot to Sorcery Points.*** As a bonus action on your turn, you can expend one spell slot and gain a number of sorcery points equal to the slot's level.
+Superfluous spell slots vanish at the end of a long rest.
+
+##### Converting a Spell Slot
+As a bonus action on your turn, you can expend one spell slot and gain a number of sorcery points equal to the spell's conversion rate, as shown in the Sorcery Points Table.
+
+Superfluous sorcery points vanish at the end of a long rest.
+
 
 ###### Sorcery Points Table
 
@@ -224,7 +231,7 @@ At 3rd level, you gain the ability to twist your spells to suit your needs. You 
 You can use only one Metamagic option on a spell when you cast it, unless otherwise noted.
 
 ##### Careful Spell
-***Cost: 1—3 points / creature***
+***Cost: 1—3 points / creature***  
 When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell's full force.
 
 To do so, you must spend 1 sorcery point for each creature that you want to protect. A chosen creature has advantage on any saving throws directly induced by the spell until the start of your next turn..
@@ -232,13 +239,13 @@ To do so, you must spend 1 sorcery point for each creature that you want to prot
 You can instead spend 3 sorcery points per creature to completely mitigate any of the spell's direct effects against them until the start of your next turn.
 
 ##### Distant Spell
-***Cost: 1 point***
+***Cost: 1 point***  
 When you cast a spell that has a casting range that is greater than self, you can spend 1 sorcery point to increase the range of the spell.
 
 The spell's range increases to either double range or to 30ft, whichever is greater.
 
 ##### Elemental Spell
-***Cost: Variable***
+***Cost: variable***  
 When you cast a spell that deals acid, cold, fire, lightning, poison, or thunder damage, you can spend a number of sorcery points equal to the spell's conversion rate to change its damage type to another one of those listed.
 
 This metamagic's cost is 1 sorcery point if the spell that you cast is a cantrip.
@@ -246,19 +253,19 @@ This metamagic's cost is 1 sorcery point if the spell that you cast is a cantrip
 You can use Empowered Spell even if you have already used a different Metamagic option during the casting of the spell.
 
 ##### Empowered Spell
-***Cost: 2 points***
+***Cost: 2 points***  
 When you roll damage for a spell, you can spend 2 sorcery points to reroll the results. You must use the new rolls.
 
 You can use Empowered Spell even if you have already used a different Metamagic option during the casting of the spell.
 
 ##### Extended Spell
-***Cost: 1 point***
+***Cost: 1 point***  
 When you cast a spell that has a duration of 1 minute or longer, you can spend 1 sorcery point to double its duration.
 
 In addition, you have advantage on any concentration checks made to maintain this spell.
 
 ##### Heightened Spell
-***Cost: 3–5 points / creature***
+***Cost: 3–5 points / creature***  
 When you cast a spell that forces other creatures to make a saving throw, you can intensify the spell's full force on some of those creatures. 
 
 To do so, you must spend 3 sorcery points for each creature that you want to affect. A chosen creature has disadvantage on any saving throws directly induced by the spell until the start of your next turn.
@@ -266,7 +273,7 @@ To do so, you must spend 3 sorcery points for each creature that you want to aff
 You can instead spend 5 sorcery points per creature to make them automatically fail any saving throws directly induced by the spell until the start of your next turn.
 
 ##### Instinctive Spell
-***Cost: Variable***
+***Cost: variable***  
 You can spend a number of sorcery points equal to the spell's conversion rate to cast any spell on the sorcerer spell list — even if you haven't learned the spell.
 
 As normal, you must spend the associated level spell slot when you cast the spell.
@@ -274,17 +281,17 @@ As normal, you must spend the associated level spell slot when you cast the spel
 This metamagic's cost is 1 sorcery point if the spell that you cast is a cantrip.
 
 ##### Quickened Spell
-***Cost: Variable***
+***Cost: variable***  
 When you cast a spell that has a casting time of 1 action, you can spend a number of sorcery points equal to the spell's conversion rate to change the casting time to 1 bonus action for this casting.
 
 This metamagic's cost is 1 sorcery point if the spell that you cast is a cantrip.
 
 ##### Subtle Spell
-***Cost: 1 point***
+***Cost: 1 point***  
 When you cast a spell, you can spend 1 sorcery point to cast it without any somatic or verbal components.
 
 ##### Twinned Spell
-***Cost: Variable***
+***Cost: variable***
 When you cast a spell, you can spend a number of sorcery points equal to the spell's conversion rate cast the spell a second time simultaneously.
 
 If a creature would be effected by both castings of this spell, it is instead only effected by one of them.
