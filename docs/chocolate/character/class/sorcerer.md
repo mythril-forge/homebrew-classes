@@ -133,23 +133,23 @@ You start with the following items, plus anything provided by your background.
 | Level | Proficiency Bonus | Features                       | Sorcery Points | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 |:-----:|:-----------------:|:------------------------------:|:--------------:|:------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 1     | +1d4 (+2)         | Spellcasting, Sorcerous Origin | 2              | 6            | 1   | —   | —   | —   | —   | —   | —   | —   | —   |
-| 2     | +1d4 (+2)         | Font of Magic                  | 4              | 8            | 2   | —   | —   | —   | —   | —   | —   | —   | —   |
-| 3     | +1d4 (+2)         | Metamagic                      | 6              | 9            | 2   | 1   | —   | —   | —   | —   | —   | —   | —   |
-| 4     | +1d4 (+2)         | Ability Score Improvement      | 8              | 11           | 3   | 2   | —   | —   | —   | —   | —   | —   | —   |
-| 5     | +1d6 (+3)         | —                              | 10             | 12           | 3   | 2   | 1   | —   | —   | —   | —   | —   | —   |
-| 6     | +1d6 (+3)         | Sorcerous Origin feature       | 12             | 14           | 4   | 3   | 1   | —   | —   | —   | —   | —   | —   |
-| 7     | +1d6 (+3)         | —                              | 14             | 15           | 4   | 3   | 2   | 1   | —   | —   | —   | —   | —   |
-| 8     | +1d6 (+3)         | Ability Score Improvement      | 16             | 15           | 4   | 4   | 2   | 1   | —   | —   | —   | —   | —   |
-| 9     | +1d8 (+4)         | —                              | 18             | 16           | 4   | 4   | 2   | 2   | 1   | —   | —   | —   | —   |
-| 10    | +1d8 (+4)         | Metamagic                      | 20             | 16           | 4   | 4   | 3   | 2   | 1   | —   | —   | —   | —   |
-| 11    | +1d8 (+4)         | —                              | 21             | 17           | 4   | 4   | 3   | 2   | 2   | 1   | —   | —   | —   |
-| 12    | +1d8 (+4)         | Ability Score Improvement      | 22             | 17           | 4   | 4   | 3   | 3   | 2   | 1   | —   | —   | —   |
-| 13    | +1d10 (+5)        | —                              | 23             | 18           | 4   | 4   | 3   | 3   | 2   | 1   | 1   | —   | —   |
-| 14    | +1d10 (+5)        | Sorcerous Origin feature       | 24             | 18           | 4   | 4   | 3   | 3   | 3   | 1   | 1   | —   | —   |
-| 15    | +1d10 (+5)        | —                              | 25             | 19           | 4   | 4   | 3   | 3   | 3   | 1   | 1   | 1   | —   |
-| 16    | +1d10 (+5)        | Ability Score Improvement      | 26             | 19           | 4   | 4   | 3   | 3   | 3   | 2   | 1   | 1   | —   |
-| 17    | +1d12 (+6)        | Metamagic                      | 27             | 20           | 4   | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
-| 18    | +1d12 (+6)        | Sorcerous Origin feature       | 28             | 20           | 4   | 4   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
+| 2     | +1d4 (+2)         | Font of Magic                  | 3              | 8            | 2   | —   | —   | —   | —   | —   | —   | —   | —   |
+| 3     | +1d4 (+2)         | Metamagic                      | 5              | 9            | 2   | 1   | —   | —   | —   | —   | —   | —   | —   |
+| 4     | +1d4 (+2)         | Ability Score Improvement      | 6              | 11           | 3   | 2   | —   | —   | —   | —   | —   | —   | —   |
+| 5     | +1d6 (+3)         | —                              | 8              | 12           | 3   | 2   | 1   | —   | —   | —   | —   | —   | —   |
+| 6     | +1d6 (+3)         | Sorcerous Origin feature       | 9              | 14           | 4   | 3   | 1   | —   | —   | —   | —   | —   | —   |
+| 7     | +1d6 (+3)         | —                              | 11             | 15           | 4   | 3   | 2   | 1   | —   | —   | —   | —   | —   |
+| 8     | +1d6 (+3)         | Ability Score Improvement      | 12             | 15           | 4   | 4   | 2   | 1   | —   | —   | —   | —   | —   |
+| 9     | +1d8 (+4)         | —                              | 14             | 16           | 4   | 4   | 2   | 2   | 1   | —   | —   | —   | —   |
+| 10    | +1d8 (+4)         | Metamagic                      | 15             | 16           | 4   | 4   | 3   | 2   | 1   | —   | —   | —   | —   |
+| 11    | +1d8 (+4)         | —                              | 17             | 17           | 4   | 4   | 3   | 2   | 2   | 1   | —   | —   | —   |
+| 12    | +1d8 (+4)         | Ability Score Improvement      | 18             | 17           | 4   | 4   | 3   | 3   | 2   | 1   | —   | —   | —   |
+| 13    | +1d10 (+5)        | —                              | 20             | 18           | 4   | 4   | 3   | 3   | 2   | 1   | 1   | —   | —   |
+| 14    | +1d10 (+5)        | Sorcerous Origin feature       | 21             | 18           | 4   | 4   | 3   | 3   | 3   | 1   | 1   | —   | —   |
+| 15    | +1d10 (+5)        | —                              | 23             | 19           | 4   | 4   | 3   | 3   | 3   | 1   | 1   | 1   | —   |
+| 16    | +1d10 (+5)        | Ability Score Improvement      | 24             | 19           | 4   | 4   | 3   | 3   | 3   | 2   | 1   | 1   | —   |
+| 17    | +1d12 (+6)        | Metamagic                      | 26             | 20           | 4   | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 18    | +1d12 (+6)        | Sorcerous Origin feature       | 27             | 20           | 4   | 4   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 | 19    | +1d12 (+6)        | Ability Score Improvement      | 29             | 21           | 4   | 4   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 | 20    | +1d12 (+6)        | Sorcerous Restoration          | 30             | 21           | 4   | 4   | 3   | 3   | 3   | 2   | 2   | 2   | 1   |
 
@@ -231,7 +231,8 @@ At 3rd level, you gain the ability to twist your spells to suit your needs. You 
 You can use only one Metamagic option on a spell when you cast it, unless otherwise noted.
 
 ##### Careful Spell
-***Cost: 1—3 points / creature***  
+
+***Cost: 1—3 points / creature***
 When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell's full force.
 
 To do so, you must spend 1 sorcery point for each creature that you want to protect. A chosen creature has advantage on any saving throws directly induced by the spell until the start of your next turn..
@@ -239,20 +240,25 @@ To do so, you must spend 1 sorcery point for each creature that you want to prot
 You can instead spend 3 sorcery points per creature to completely mitigate any of the spell's direct effects against them until the start of your next turn.
 
 ##### Distant Spell
-***Cost: 1 point***  
+
+***Cost: 1 point***
+
 When you cast a spell that has a casting range that is greater than self, you can spend 1 sorcery point to increase the range of the spell.
 
 The spell's range increases to either double range or to 30ft, whichever is greater.
 
 ##### Elemental Spell
-***Cost: variable***  
+
+***Cost: variable***
+
 When you cast a spell that deals acid, cold, fire, lightning, poison, or thunder damage, you can spend a number of sorcery points equal to the spell's conversion rate to change its damage type to another one of those listed.
 
 This metamagic's cost is 1 sorcery point if the spell that you cast is a cantrip.
 
-You can use Empowered Spell even if you have already used a different Metamagic option during the casting of the spell.
+You can use Elemental Spell even if you have already used a different Metamagic option during the casting of the spell.
 
 ##### Empowered Spell
+
 ***Cost: 2 points***
 
 When you roll damage for a spell, you can spend 2 sorcery points to reroll the results. You must use the new rolls.
@@ -260,13 +266,29 @@ When you roll damage for a spell, you can spend 2 sorcery points to reroll the r
 You can use Empowered Spell even if you have already used a different Metamagic option during the casting of the spell.
 
 ##### Extended Spell
+
 ***Cost: 1 point***
 
 When you cast a spell that has a duration of 1 minute or longer, you can spend 1 sorcery point to double its duration.
 
 In addition, you have advantage on any concentration checks made to maintain this spell.
 
+##### Flection Spell
+
+***Cost: 1 point***
+
+When you cast a spell that has a casting range that is greater than touch, you can spend 1 sorcery point to bend the spell around corners. When you do this, you can target creatures around such obstacles.
+
+If a creature targeted by this spell has left your field of vision before the end of your last turn, you have disadvantage on any attack rolls that this spell might require.
+
+##### Focused Spell
+
+***Cost: 2 points***
+
+When you cast a spell that requires one or more attack rolls, you can spend 2 sorcery points to gain advantage on those rolls for this casting of the spell.
+
 ##### Heightened Spell
+
 ***Cost: 3—5 points / creature***
 
 When you cast a spell that forces other creatures to make a saving throw, you can intensify the spell's full force on some of those creatures.
@@ -276,6 +298,7 @@ To do so, you must spend 3 sorcery points for each creature that you want to aff
 You can instead spend 5 sorcery points per creature to make them automatically fail any saving throws directly induced by the spell until the start of your next turn.
 
 ##### Instinctive Spell
+
 ***Cost: variable***
 
 You can spend a number of sorcery points equal to the spell's conversion rate to cast any spell on the sorcerer spell list — even if you haven't learned the spell.
@@ -285,6 +308,7 @@ As normal, you must spend the associated level spell slot when you cast the spel
 This metamagic's cost is 1 sorcery point if the spell that you cast is a cantrip.
 
 ##### Quickened Spell
+
 ***Cost: variable***
 
 When you cast a spell that has a casting time of 1 action, you can spend a number of sorcery points equal to the spell's conversion rate to change the casting time to 1 bonus action for this casting.
@@ -292,11 +316,13 @@ When you cast a spell that has a casting time of 1 action, you can spend a numbe
 This metamagic's cost is 1 sorcery point if the spell that you cast is a cantrip.
 
 ##### Subtle Spell
+
 ***Cost: 1 point***
 
 When you cast a spell, you can spend 1 sorcery point to cast it without any somatic or verbal components.
 
 ##### Twinned Spell
+
 ***Cost: variable***
 
 When you cast a spell, you can spend a number of sorcery points equal to the spell's conversion rate cast the spell a second time simultaneously.
@@ -310,5 +336,4 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 
 If your DM allows the use of feats, you may instead take a feat.
 
-## Sorcerous Restoration
-R
+## Unlimited Power
