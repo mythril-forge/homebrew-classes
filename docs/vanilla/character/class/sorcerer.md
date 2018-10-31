@@ -38,7 +38,7 @@ Some sorcerers understand where their power came from, based on how their abilit
 
 Does your character know the source of your magical power? Does it tie back to some distant relative, a cosmic event, or blind chance? If your sorcerer doesn't know where their power arose from, your DM can use this table (or select an origin) and reveal it to you when the information plays a role in the campaign.
 
-### Arcane Origins Table
+###### Arcane Origins Table
 
 d6	Origin
 1	Your power arises from your family's bloodline. You are related to some powerful creature, or you inherited a blessing or a curse.
@@ -53,7 +53,7 @@ When a new sorcerer enters the world, either at birth or later when one's power 
 
 When your sorcerer's powers appeared, how did the world around you respond? Were other people supportive, fearful, or somewhere in between?
 
-### Reactions Table
+###### Reactions Table
 
 d6	Reaction
 1	Your powers are seen as a great blessing by those around you, and you are expected to use them in service to your community.
@@ -68,7 +68,7 @@ A sorcerer at rest is almost indistinguishable from a normal person; it's only w
 
 If your sorcerer has a supernatural mark, it might be one that's easily concealed, or it could be a source of pride that you keep on constant display.
 
-### Supernatural Marks Table
+###### Supernatural Marks Table
 
 d6	Mark
 1	Your eyes are an unusual color, such as red.
@@ -83,7 +83,7 @@ As the world well knows, some sorcerers are better than others at controlling th
 
 When your sorcerer character casts a spell, does the effort reveal itself in a sign of sorcery? Is this sign tied to your origin or some other aspect of who you are, or is it a seemingly random phenomenon?
 
-### Signs of Sorcery Table
+###### Signs of Sorcery Table
 
 d6	Sign
 1	You deliver the verbal components of your spells in the booming voice of a titan.

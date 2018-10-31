@@ -38,7 +38,7 @@ Every successful bard is renowned for at least one piece of performance art, typ
 
 If your character is just starting out, your ultimate defining work is likely in the future. But in order to make any sort of living at your profession, chances are you already have a piece or two in your repertoire that have proven to be audience pleasers.
 
-### Defining Work Table
+###### Defining Work Table
 
 | d6  | Defining Work                                                                                      |
 |:---:|:---------------------------------------------------------------------------------------------------|
@@ -54,7 +54,7 @@ In a bard's quest for the ultimate performance and the highest acclaim, one's in
 
 You might have an "off the rack" instrument, perhaps because it's all you can afford right now. Or, if your first instrument was gifted to you, it might be of a more elaborate sort. Are you satisfied with the instrument you have, or do you aspire to replace it with something truly distinctive?
 
-### Instrument Table
+###### Instrument Table
 
 | d6  | Instrument                            |
 |:---:|:--------------------------------------|
@@ -70,7 +70,7 @@ Almost every bard has suffered at least one bad experience in front of an audien
 
 The ways that a performance can go wrong are as varied as the fish in the sea. No matter what sort of disaster might occur, however, a bard has the courage and the confidence to rebound from it—either pressing on with the show (if possible) or promising to come back tomorrow with a new performance that's guaranteed to please.
 
-### Embarrassment Table
+###### Embarrassment Table
 
 | d6  | Embarrassment                                                                                                                       |
 |:---:|:------------------------------------------------------------------------------------------------------------------------------------|
