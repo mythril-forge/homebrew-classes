@@ -42,7 +42,7 @@ When you cast a spell that would deal cold damage, you can spend one sorcery poi
 
 ***Cost: 1 point***
 
-When you cast a spell that would deal either bludgeoning or thunder damage, you can spend one sorcery point to shove opponents aside. Each creature damaged by this spell must make a Strength Saving Throw with a DC of 8 + Proficiency Bonus + Constitution Modifier. On a failed save, they are pushed back 5 feet away from you and knocked prone.
+When you cast a spell that would deal either bludgeoning or thunder damage, you can spend one sorcery point to shove opponents aside. Each creature damaged by this spell must make a Strength Saving Throw with a DC of 8 + Proficiency Bonus + Constitution Modifier. On a failed save, they are pushed back 10 feet away from you and knocked prone.
 
 ##### Stoneborn Spell
 ***Prerequisite: Stone Giant Soul***
@@ -79,10 +79,10 @@ This increase lasts for 10 minute. It ends early if you die or are incapacitated
 	- This bonus becomes thrice the damage when you stack this ability using Blessing of the All-Father, or with the Enlarge spell active
 	- This bonus becomes four times the damage when you stack this ability using Blessing of the All-Father with the Enlarge spell active
 - You use a d24 instead of a d20 whenever you roll for Strength attacks, ability checks, and saving throws
-	- This bonus dice becomes a d30 when you stack this ability using Blessing of the All-Father.
+	- This bonus die becomes a d30 when you stack this ability using Blessing of the All-Father.
 - Your melee reach increases by 5 feet
 - Your walking speed increases by 5 feet
-- Your current hit points and your hit point maximum both increase by your `Sorcerer level + Constitution modifier + Charisma modifier + Proficiency Bonus`
+- Your current hit points and your hit point maximum both increase by your `Sorcerer level + Charisma modifier + Proficiency Bonus`
 
 This ability stacks with the Enlarge spell. At 18th level, you can use this ability twice, and its effects will stack with itself.
 
@@ -112,5 +112,6 @@ If the target is a creature, everything it is wearing and carrying changes size 
 - The target's weapons and equipment grow to match its new size
 - The target's attacks with these weapons use twice the damage dice and damage modifiers
 - The target has advantage on Strength ability checks and saving throws
+- The target is able to use hit dice as if they finished a short rest (but gains no other benefits)
 
 If there isn't enough room for the target to double its size, the creature or object attains the maximum possible size in the space available. In this circumstance, the DM may declare that the creature becomes restrained.

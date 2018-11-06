@@ -133,7 +133,7 @@ You start with the following items, plus anything provided by your background.
 | Level | Proficiency Bonus | Features                                      | Sorcery Points | Metamagics Known | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 |:-----:|:-----------------:|:---------------------------------------------:|:--------------:|:----------------:|:------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 1     | +1d4 (+2)         | Font of Magic, Spellcasting, Sorcerous Origin | 2              | —                | 6            | 1   | —   | —   | —   | —   | —   | —   | —   | —   |
-| 2     | +1d4 (+2)         | Origin Metamagic                              | 3              | 1                | 8            | 2   | —   | —   | —   | —   | —   | —   | —   | —   |
+| 2     | +1d4 (+2)         | Metamagic Initiate                            | 3              | 1                | 8            | 2   | —   | —   | —   | —   | —   | —   | —   | —   |
 | 3     | +1d4 (+2)         | Metamagic                                     | 5              | 2                | 9            | 2   | 1   | —   | —   | —   | —   | —   | —   | —   |
 | 4     | +1d4 (+2)         | Ability Score Improvement                     | 6              | 2                | 11           | 3   | 2   | —   | —   | —   | —   | —   | —   | —   |
 | 5     | +1d6 (+3)         | Metamagic                                     | 8              | 3                | 12           | 3   | 2   | 1   | —   | —   | —   | —   | —   | —   |
@@ -220,10 +220,12 @@ Superfluous sorcery points vanish at the end of a long rest.
 | 3rd              | 5                             |
 | 4th              | 6                             |
 | 5th              | 7                             |
-| 6th              | 9                             |
-| 7th              | 10                            |
-| 8th              | 11                            |
-| 9th              | 12                            |
+| 6th              | 9*                            |
+| 7th              | 10*                           |
+| 8th              | 11*                           |
+| 9th              | 12*                           |
+
+*\*You must roll on the wild magic table when you convert a spell slot of this level.*
 
 #### Metamagic
 You gain the ability to twist your spells to suit your needs. 
@@ -271,8 +273,6 @@ When you cast a spell that deals acid, cold, fire, lightning, poison, or thunder
 
 This metamagic's cost is 1 sorcery point if the spell that you cast is a cantrip.
 
-You can use Elemental Spell even if you have already used a different Metamagic option during the casting of the spell.
-
 ##### Empowered Spell
 ***Cost: 2 points***
 
@@ -294,12 +294,12 @@ When you cast a spell that has a casting range that is greater than touch, you c
 
 If a creature targeted by this spell has left your field of vision before the end of your last turn, you have disadvantage on any attack rolls that this spell might require.
 
-You can use Flection Spell even if you have already used a different Metamagic option during the casting of the spell.
-
 ##### Focused Spell
 ***Cost: 2 points***
 
 When you cast a spell that requires one or more attack rolls, you can spend 2 sorcery points to gain advantage on those rolls for this casting of the spell.
+
+You can use Empowered Spell even if you have already used a different Metamagic option during the casting of the spell.
 
 ##### Heightened Spell
 ***Cost: 3—5 points / creature***
@@ -346,3 +346,4 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 If your DM allows the use of feats, you may instead take a feat.
 
 ## Unlimited Power
+Whenever you use a spell slot to cast a spell, you regain a number of sorcery points equal to half the spell slot's level, rounded up.
