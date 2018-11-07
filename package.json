@@ -1,25 +1,25 @@
 {
-  "name": "mythril-forge",
-  "version": "1.0.0",
-  "description": "my d&d homebrew changs website",
-  "main": "index.js",
-  "directories": {
-    "doc": "docs"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/noltron000/mythril-forge.git"
-  },
-  "keywords": [
-    "d&d"
-  ],
-  "author": "Nolan Kovacik (noltron000)",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/noltron000/mythril-forge/issues"
-  },
-  "homepage": "https://github.com/noltron000/mythril-forge#readme"
+	"name": "mythril-forge",
+	"version": "1.0.0",
+	"description": "my d&d homebrew changs website",
+	"main": "index.js",
+	"directories": {
+		"doc": "docs"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/noltron000/mythril-forge.git"
+	},
+	"keywords": [
+		"d&d"
+	],
+	"author": "Nolan Kovacik (noltron000)",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/noltron000/mythril-forge/issues"
+	},
+	"homepage": "https://github.com/noltron000/mythril-forge#readme"
 }
