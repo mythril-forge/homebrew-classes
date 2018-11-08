@@ -16,9 +16,10 @@ Both the original and modified version of each item is available on this website
 
 ## Homebrew Index
 
-1. [Bard](./homebrew/bard)
-	1. [College of Lore](./homebrew/bard/lore)
-1. [Cleric](./homebrew/cleric)
-	1. [Domain of Knowledge](./homebrew/cleric/knowledge)
-	1. [Domain of the Tempest](./homebrew/cleric/tempest)
-1. [Sorcerer](./homebrew/sorcerer)
+- [Bard](./homebrew/bard)
+	- [College of Lore](./homebrew/bard/lore)
+- [Cleric](./homebrew/cleric)
+	- [Domain of Knowledge](./homebrew/cleric/knowledge)
+	- [Domain of the Tempest](./homebrew/cleric/tempest)
+- [Sorcerer](./homebrew/sorcerer)
+	- [Giant Soul](./homebrew/sorcerer/giant-soul)
