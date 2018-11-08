@@ -12,6 +12,13 @@ This website is currently structured to showcase Player Classes. Other modificat
 Each class has atleast one subclass. For example, there is only one Fighter page, however fighter has several subclasses — namely champion, battle master, and eldritch knight. `/fighter`, `/fighter/champion`, `/fighter/battle-master`, and `/fighter/eldritch-knight` are each a different web page on this site.
 
 ### New & Old
-Both the original and modified version of each item is available on this website in different pages. They are nested in folders named vanilla and chocolate, namely due to their flavor. Vanilla is a classic flavor that everyone is accustomed to, while chocolate is a delicious ~~(and superior?)~~ alternative.
+Both the original and modified version of each item is available on this website in different pages. They are nested in folders named original and homebrew.
 
-That is to say, vanilla folder has original content, and chocolate folder has modified content.
+## Homebrew Index
+
+1. [Bard](./homebrew/bard)
+	1. [College of Lore](./homebrew/bard/lore)
+1. [Cleric](./homebrew/cleric)
+	1. [Domain of Knowledge](./homebrew/cleric/knowledge)
+	1. [Domain of the Tempest](./homebrew/cleric/tempest)
+1. [Sorcerer](./homebrew/sorcerer)
