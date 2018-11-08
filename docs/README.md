@@ -1,3 +1,17 @@
-# Headline
+# Welcome, Traveler.
+> You come across a rickety bridge — spanning a large chasm between the two continents. As you look down the sheer cliff, a massive scape of rocks flows down astoundingly far into a pillowy abyss of thick clouds. If you were to fall, the clouds would not save you...
+>
+> But you are at the verge of an uncharted land, and you must press forward!
 
-> An awesome project.
+*This website is the aforementioned uncharted land.* It is home to an array of modifications to the Fifth Edition of Dungeons & Dragons. It takes the game and spins it on its head, giving a new look and feel. These changes are only made possible through D&D's robust modularity, which this very website is a testament to.
+
+## What You Will Find
+This website is currently structured to showcase Player Classes. Other modifications do exist, but are not published here.
+
+### Classes & Subclasses
+Each class has atleast one subclass. For example, there is only one Fighter page, however fighter has several subclasses — namely champion, battle master, and eldritch knight. `/fighter`, `/fighter/champion`, `/fighter/battle-master`, and `/fighter/eldritch-knight` are each a different web page on this site.
+
+### New & Old
+Both the original and modified version of each item is available on this website in different pages. They are nested in folders named vanilla and chocolate, namely due to their flavor. Vanilla is a classic flavor that everyone is accustomed to, while chocolate is a delicious ~~(and superior?)~~ alternative.
+
+That is to say, vanilla folder has original content, and chocolate folder has modified content.
