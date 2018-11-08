@@ -1,25 +1,25 @@
 {
-  "name": "mythril-forge",
-  "version": "0.1.0",
-  "description": "Mythril Forge is a homebrew D&D resource for games that I host.",
-  "main": "index.js",
-  "directories": {
-    "doc": "docs"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/noltron000/mythril-forge.git"
-  },
-  "keywords": [
-    "D&D"
-  ],
-  "author": "Nolan Kovacik",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/noltron000/mythril-forge/issues"
-  },
-  "homepage": "https://github.com/noltron000/mythril-forge#readme"
+	"name": "mythril-forge",
+	"version": "0.1.0",
+	"description": "Mythril Forge is a homebrew D&D resource for games that I host.",
+	"main": "index.js",
+	"directories": {
+		"doc": "docs"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/noltron000/mythril-forge.git"
+	},
+	"keywords": [
+		"D&D"
+	],
+	"author": "Nolan Kovacik",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/noltron000/mythril-forge/issues"
+	},
+	"homepage": "https://github.com/noltron000/mythril-forge#readme"
 }
