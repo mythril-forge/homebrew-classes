@@ -15,6 +15,7 @@ Each class has atleast one subclass. For example, there is only one Fighter page
 Both the original and modified version of each item is available on this website in different pages. They are nested in folders named original and homebrew.
 
 ## Homebrew Index
+For now, a quick-and-dirty rundown of each class is sufficient.
 
 - [Bard](./homebrew/bard)
 	- [College of Lore](./homebrew/bard/lore)
