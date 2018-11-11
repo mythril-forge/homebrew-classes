@@ -7,111 +7,111 @@ The resilience of giants flows through your body. At 1st level, your hit dice si
 ## Mark of the Ordning
 At 1st level, you discover innate magical abilities within yourself that are based on your giant heritage. Select one of the giant types from the Mark of the Ordning table. At 1st and 3rd level, you learn the spells associated with your choice, as shown in the table. These spells count as sorcerer spells for you, but they don't count against your number of sorcerer spells known.
 
-| Spell Level | Cloud Giant    | Fire Giant     | Frost Giant      | Hill Giant     | Stone Giant  | Storm Giant    |
-|:-----------:|:---------------|:---------------|:-----------------|:---------------|:-------------|:---------------|
-| Cantrip / 0 | minor illusion | fire bolt      | ray of frost     | shillelagh     | resistance   | shocking grasp |
-| 1           | fog cloud      | burning hands  | armor of agathys | enlarge/reduce | entangle     | witch bolt     |
-| 2           | invisibility   | flaming sphere | hold person      | heroism        | spike growth | gust of wind   |
+| Spell Level | Cloud Giant           | Fire Giant              | Frost Giant          | Hill Giant      | Stone Giant           | Storm Giant           |
+|:-----------:|:----------------------|:------------------------|:---------------------|:----------------|:----------------------|:----------------------|
+| Cantrip / 0 | minor illusion        | fire bolt               | ray of frost         | shillelagh      | resistance            | shocking grasp        |
+| 1           | fog cloud             | burning hands           | armor of agathys     | heroism         | entangle              | witch bolt            |
+| 2           | enlarge, invisibility | enlarge, flaming sphere | enlarge, hold person | enlarge, reduce | enlarge, spike growth | enlarge, gust of wind |
 
 ## Ancestor's Gift
-By innately understanding the power of arcane glyphs, you can utilize them when you cast spells. When you do so, the spells you cast are more efficient and require fewer materials. You gain the *Efficient Spell* Metamagic option.
+At 2nd level, you discover an ability to morph your magic. Based on your heritage, you gain one of the following metamagic options.
 
 ##### Cloudborn Spell
 ***Prerequisite: Cloud Giant Soul***
 
 ***Cost: 1 point***
 
-When you cast a spell that does no damage, you can spend one sorcery point to make all sensory aspects of the spell unnoticeable.
+When you cast a spell that deals no damage, you can spend one sorcery point to make all sensory aspects of the spell unnoticeable.
 
 ##### Flameborn Spell
 ***Prerequisite: Fire Giant Soul***
 
 ***Cost: 1 point***
 
-When you cast a spell that would deal fire damage, you can spend one sorcery point to intensify the flames. When you roll damage for this spell, you deal extra fire damage equal to your Constitution Modifier.
+When you cast a spell that would deal fire damage, you can spend one sorcery point to intensify the flames. When you roll damage for this spell, you deal extra fire damage equal to your Charisma modifier.
 
 ##### Frostborn Spell
 ***Prerequisite: Frost Giant Soul***
 
 ***Cost: 1 point***
 
-When you cast a spell that would deal cold damage, you can spend one sorcery point to encapsulate yourself in magical ice crystals. You gain a number of temporary hit points equal to your Constitution Modifier.
+When you cast a spell that would deal cold damage, you can spend one sorcery point to encapsulate yourself in magical ice crystals. You gain a number of temporary hit points equal to your Charisma Modifier.
 
 ##### Earthborn Spell
 ***Prerequisite: Hill Giant Soul***
 
 ***Cost: 1 point***
 
-When you cast a spell that would deal either bludgeoning or thunder damage, you can spend one sorcery point to shove opponents aside. Each creature damaged by this spell must make a Strength Saving Throw with a DC of 8 + Proficiency Bonus + Constitution Modifier. On a failed save, they are pushed back 10 feet away from you and knocked prone.
+When you cast a spell that would deal either bludgeoning or thunder damage, you can spend one sorcery point to shove opponents aside. Each creature damaged by this spell must make a Strength Saving Throw against your Spellcasting Save DC. On a failed save, they are pushed back 10 feet away from you and knocked prone.
 
 ##### Stoneborn Spell
 ***Prerequisite: Stone Giant Soul***
 
 ***Cost: 1 point***
 
-When you cast a spell, you can spend one sorcery point to become petrified. While you are petrified, you gain a bonus to AC equal to your Consitution Modifier, and gain tremorsense out to 10 feet. Throughout this duration, you are able to use an action to break out of this effect early.
+When you cast a spell, you can spend one sorcery point to become petrified. While you are petrified, you gain a bonus to AC equal to your Charisma Modifier, and gain tremorsense out to 10 feet. Throughout this duration, you are able to use an action to break out of this effect early.
 
 ##### Stormborn Spell
 ***Prerequisite: Storm Giant Soul***
 
 ***Cost: 1 point***
 
-When you cast a spell that would deal lightning damage, you can spend one sorcery point to attempt to stun an opponent. When you roll damage for this spell, you can choose one affected creature to try to stun. That creature must make a Constitution Saving Throw with a Difficulty class of 8 + Proficiency Bonus + Constitution Modifier. On a failure, that creature is stunned until the start of your next turn.
+When you cast a spell that would deal lightning damage, you can spend one sorcery point to attempt to stun an opponent. When you roll damage for this spell, you can choose one affected creature to try to stun. That creature must make a Constitution Saving Throw against your Spellcasting Save DC. On a failure, that creature is stunned until the start of your next turn.
 
 ## Soul of Lost Ostoria
-At 6th level, you learn how to use the *Enlarge* spell. If you already know this spell, you can learn any spell from the sorcerer spell list.
+Starting at 6th level, you gain the ability to channel the arcane energies from your ancestral blood into your physical form. As an action, you can increase your size by one category—from Medium to Large, for example.
 
-However, if you cast this spell and target yourself, the spell has several changes.
-- The spell's cost is reduced to 1st-level.
-- The spell's casting time is reduced to one bonus action.
-- The spell no longer requires concentration, but ends if you die or are incapacitated.
+This increase lasts for 10 minutes. It ends early if you die or are incapacitated. Until it ends, you enjoy the effects of the *Enlarge* spell.
 
-## Rage of the Fallen Sons
-Starting at 14th level, you gain the ability to channel the souls of your ancestors into your physical form. When you start casting a sorcerer spell on your turn and expend a spell slot, you can increase your size by one category—from Medium to Large, for example.
+You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain all expended uses when you finish a long rest.
 
-This increase lasts for 10 minute. It ends early if you die or are incapacitated. Until it ends, you enjoy the following benefits:
+In addition, when you cast the *Enlarge* spell and target yourself, the spell does not require concentration.
 
+### Growth Multipliers
+From this level forward, you are able to increase your size multiple times by using *Soul of Lost Ostoria* in tandem with the *Enlarge* spell. When coming under the effects of multiple different sources of enlargement, refer to the exerpts below.
+
+#### First Enlargement
 - Your size category increases by one
 - Your size doubles in all dimensions
 - Your mass & weight are multiplied by 8
 - Your weapons and equipment grow to match your new size
-- Your attacks with these weapons use twice the damage dice and damage modifiers
-	- This bonus becomes thrice the damage when you stack this ability using Blessing of the All-Father, or with the Enlarge spell active
-	- This bonus becomes four times the damage when you stack this ability using Blessing of the All-Father with the Enlarge spell active
-- You use a d24 instead of a d20 whenever you roll for Strength attacks, ability checks, and saving throws
-	- This bonus die becomes a d30 when you stack this ability using Blessing of the All-Father.
-- Your melee reach increases by 5 feet
-- Your walking speed increases by 5 feet
-- Your current hit points and your hit point maximum both increase by your `Sorcerer level + Charisma modifier + Proficiency Bonus`
+- Your weapon attacks deal twice the damage dice and modifiers
+- Your movement speed increases by 5 feet
+- You gain advantage on all strength-based ability checks and saving throws
+- You can use hit dice as if a short rest has been completed
 
-This ability stacks with the Enlarge spell. At 18th level, you can use this ability twice, and its effects will stack with itself.
+#### Second Enlargement
+- Your size category increases by two
+- Your size quadruples in all dimensions
+- Your mass & weight are multiplied by 64
+- Your weapons and equipment grow to match your new size
+- Your weapon attacks deal thrice the damage dice and modifiers
+- Your movement speed and melee reach increase by 5 feet
+- You gain advantage on all strength-based ability checks and saving throws
+- You can use d24s instead of d20s on all strength-based attacks, ability checks and saving throws
+- You can use hit dice as if a short rest has been completed
+- You gain current and maximum hit points equal to your `sorcerer level + constitution score`
 
-You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain all expended uses when you finish a long rest.
+#### Third Enlargement
+- Your size category increases by three
+- Your size octuples in all dimensions
+- Your mass & weight are multiplied by 512
+- Your weapons and equipment grow to match your new size
+- Your weapon attacks deal four times the damage dice and modifiers
+- Your movement speed and melee reach increase by 10 feet
+- You gain advantage on all strength-based ability checks and saving throws
+- You can use d30s instead of d20s on all strength-based attacks, ability checks and saving throws
+- You can use hit dice as if a short rest has been completed
+- You gain temporary, current and maximum hit points equal to your `sorcerer level + constitution score`
+
+## Rage of the Fallen Sons
+Starting at 14th level, you are able to call fourth the souls of your ancestors and channel them into your physical form.
+
+If you use the *Soul of Lost Ostoria* feature while under its effects, its enlagement features are cumulative. You can now have up to two instances of that feature active at once.
+
+In addition, the *Soul of Lost Ostoria* feature and the *Enlarge* spell can now be used as a bonus action in place of an action.
 
 ## Blessing of the All-Father
-At 18th level, your Constitution score increases by 4, up to a maximum of 24.
+By 18th level, you gain the favor and audience of Annam—the All-Father himself—be it physically, through a dream, or via some otherworldly experience. At the DM's discretion, you are bequeathed one permanent blessing. *(DMG 227)*
 
-In addition, if you use Rage of the Fallen Sons while under its effects, its bonuses are cumulative. If a specific effect mentions how it might stack up using this ability, then do that instead.
-
-#### Enlarge
-*2nd-level transmutation*
-___
-- **Classes:** Sorcerer, Wizard
-- **Casting Time:** 1 action
-- **Range:** Touch
-- **Components:** V S M (a pinch of powdered iron)
-- **Duration:** Concentration, up to 10 minutes
-
-You cause a creature or an object that you touch to grow larger for the duration. Choose either a creature or an object that is neither worn nor carried. If the target is unwilling, it can make a Constitution saving throw. On a success, the spell has no effect.
-
-If the target is a creature, everything it is wearing and carrying changes size with it. Any item dropped by an affected creature returns to normal size at once. The creature gains the following effects:
-
-- The target's size category increases by one
-- The target's size doubles in all dimensions
-- The target's mass & weight are multiplied by 8
-- The target's weapons and equipment grow to match its new size
-- The target's attacks with these weapons use twice the damage dice and damage modifiers
-- The target has advantage on Strength ability checks and saving throws
-- The target is able to use hit dice as if they finished a short rest (but gains no other benefits)
-
-If there isn't enough room for the target to double its size, the creature or object attains the maximum possible size in the space available. In this circumstance, the DM may declare that the creature becomes restrained.
+While you cannot explicitly choose the exact blessing or epic boon that you recieve, you can most certainly negotiate the nature of your newfound power.

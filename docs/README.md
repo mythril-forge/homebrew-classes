@@ -6,15 +6,12 @@
 *This website is the aforementioned uncharted land.* It is home to an array of modifications to the Fifth Edition of Dungeons & Dragons. It takes the game and spins it on its head, giving a new look and feel. These changes are only made possible through D&D's robust modularity, which this very website is a testament to.
 
 ## What You Will Find
-This website is currently structured to showcase Player Classes. Other modifications do exist, but are not published here.
-
-### Classes & Subclasses
-Each class in D&D has atleast one subclass. For example, there is only one Fighter page, however fighter has several subclasses — namely champion, battle master, and eldritch knight. `/fighter`, `/fighter/champion`, `/fighter/battle-master`, and `/fighter/eldritch-knight` are each a different web page on this site.
+This website is dedicated to a comprehensive array of homebrew modules. Each of these mods are stand-alone, but are intended to all be used together.
 
 ### New & Old
-Both the original and modified version of each item is available on this website in different pages. They are nested in folders named original and homebrew.
+This website is a repository of information, both old and new.
 
-## Homebrew Index
+### Homebrew Index
 For now, a quick-and-dirty rundown of each class is sufficient.
 
 - [Bard](./homebrew/bard)

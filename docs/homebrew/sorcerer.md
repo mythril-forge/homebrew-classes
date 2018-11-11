@@ -346,4 +346,4 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 If your DM allows the use of feats, you may instead take a feat.
 
 ## Unlimited Power
-Whenever you use a spell slot to cast a spell, you regain a number of sorcery points equal to half the spell slot's level, rounded up.
+Whenever you use a spell slot to cast a spell, you regain a number of sorcery points equal to half the spell slot's level, rounded down.
