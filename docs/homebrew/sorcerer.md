@@ -132,26 +132,26 @@ You start with the following items, plus anything provided by your background.
 
 | Level | Proficiency Bonus | Features                                      | Sorcery Points | Metamagics Known | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 |:-----:|:-----------------:|:---------------------------------------------:|:--------------:|:----------------:|:------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1     | +1d4 (+2)         | Font of Magic, Spellcasting, Sorcerous Origin | 2              | —                | 6            | 1   | —   | —   | —   | —   | —   | —   | —   | —   |
-| 2     | +1d4 (+2)         | Metamagic Initiate                            | 3              | 1                | 8            | 2   | —   | —   | —   | —   | —   | —   | —   | —   |
-| 3     | +1d4 (+2)         | Metamagic                                     | 5              | 2                | 9            | 2   | 1   | —   | —   | —   | —   | —   | —   | —   |
-| 4     | +1d4 (+2)         | Ability Score Improvement                     | 6              | 2                | 11           | 3   | 2   | —   | —   | —   | —   | —   | —   | —   |
-| 5     | +1d6 (+3)         | Metamagic                                     | 8              | 3                | 12           | 3   | 2   | 1   | —   | —   | —   | —   | —   | —   |
-| 6     | +1d6 (+3)         | Sorcerous Origin feature                      | 9              | 3                | 14           | 4   | 3   | 1   | —   | —   | —   | —   | —   | —   |
-| 7     | +1d6 (+3)         | Metamagic                                     | 11             | 4                | 15           | 4   | 3   | 2   | 1   | —   | —   | —   | —   | —   |
-| 8     | +1d6 (+3)         | Ability Score Improvement                     | 12             | 4                | 15           | 4   | 4   | 2   | 1   | —   | —   | —   | —   | —   |
-| 9     | +1d8 (+4)         | —                                             | 14             | 4                | 16           | 4   | 4   | 2   | 2   | 1   | —   | —   | —   | —   |
-| 10    | +1d8 (+4)         | Metamagic                                     | 15             | 5                | 16           | 4   | 4   | 3   | 2   | 1   | —   | —   | —   | —   |
-| 11    | +1d8 (+4)         | —                                             | 17             | 5                | 17           | 4   | 4   | 3   | 2   | 2   | 1   | —   | —   | —   |
-| 12    | +1d8 (+4)         | Ability Score Improvement                     | 18             | 5                | 17           | 4   | 4   | 3   | 3   | 2   | 1   | —   | —   | —   |
-| 13    | +1d10 (+5)        | Metamagic                                     | 20             | 6                | 18           | 4   | 4   | 3   | 3   | 2   | 1   | 1   | —   | —   |
-| 14    | +1d10 (+5)        | Sorcerous Origin feature                      | 21             | 6                | 18           | 4   | 4   | 3   | 3   | 3   | 1   | 1   | —   | —   |
-| 15    | +1d10 (+5)        | —                                             | 23             | 6                | 19           | 4   | 4   | 3   | 3   | 3   | 1   | 1   | 1   | —   |
-| 16    | +1d10 (+5)        | Ability Score Improvement                     | 24             | 6                | 19           | 4   | 4   | 3   | 3   | 3   | 2   | 1   | 1   | —   |
-| 17    | +1d12 (+6)        | Metamagic                                     | 26             | 7                | 20           | 4   | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
-| 18    | +1d12 (+6)        | Sorcerous Origin feature                      | 27             | 7                | 20           | 4   | 4   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
-| 19    | +1d12 (+6)        | Ability Score Improvement                     | 29             | 7                | 21           | 4   | 4   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
-| 20    | +1d12 (+6)        | Sorcerous Restoration                         | 30             | 7                | 21           | 4   | 4   | 3   | 3   | 3   | 2   | 2   | 2   | 1   |
+| 1     | +1d4 (+2)         | Font of Magic, Spellcasting, Sorcerous Origin | 2              | —                | 3            | 1   | —   | —   | —   | —   | —   | —   | —   | —   |
+| 2     | +1d4 (+2)         | Metamagic Initiate                            | 3              | 1                | 5            | 2   | —   | —   | —   | —   | —   | —   | —   | —   |
+| 3     | +1d4 (+2)         | Metamagic                                     | 5              | 2                | 5            | 2   | 1   | —   | —   | —   | —   | —   | —   | —   |
+| 4     | +1d4 (+2)         | Ability Score Improvement                     | 6              | 2                | 7            | 3   | 2   | —   | —   | —   | —   | —   | —   | —   |
+| 5     | +1d6 (+3)         | Metamagic                                     | 8              | 3                | 8            | 3   | 2   | 1   | —   | —   | —   | —   | —   | —   |
+| 6     | +1d6 (+3)         | Sorcerous Origin feature                      | 9              | 3                | 9            | 4   | 3   | 1   | —   | —   | —   | —   | —   | —   |
+| 7     | +1d6 (+3)         | Metamagic                                     | 11             | 4                | 10           | 4   | 3   | 2   | 1   | —   | —   | —   | —   | —   |
+| 8     | +1d6 (+3)         | Ability Score Improvement                     | 12             | 4                | 10           | 4   | 4   | 2   | 1   | —   | —   | —   | —   | —   |
+| 9     | +1d8 (+4)         | —                                             | 14             | 4                | 11           | 4   | 4   | 2   | 2   | 1   | —   | —   | —   | —   |
+| 10    | +1d8 (+4)         | Metamagic                                     | 15             | 5                | 11           | 4   | 4   | 3   | 2   | 1   | —   | —   | —   | —   |
+| 11    | +1d8 (+4)         | —                                             | 17             | 5                | 12           | 4   | 4   | 3   | 2   | 2   | 1   | —   | —   | —   |
+| 12    | +1d8 (+4)         | Ability Score Improvement                     | 18             | 5                | 12           | 4   | 4   | 3   | 3   | 2   | 1   | —   | —   | —   |
+| 13    | +1d10 (+5)        | Metamagic                                     | 20             | 6                | 13           | 4   | 4   | 3   | 3   | 2   | 1   | 1   | —   | —   |
+| 14    | +1d10 (+5)        | Sorcerous Origin feature                      | 21             | 6                | 13           | 4   | 4   | 3   | 3   | 3   | 1   | 1   | —   | —   |
+| 15    | +1d10 (+5)        | —                                             | 23             | 6                | 14           | 4   | 4   | 3   | 3   | 3   | 1   | 1   | 1   | —   |
+| 16    | +1d10 (+5)        | Ability Score Improvement                     | 24             | 6                | 14           | 4   | 4   | 3   | 3   | 3   | 2   | 1   | 1   | —   |
+| 17    | +1d12 (+6)        | Metamagic                                     | 26             | 7                | 15           | 4   | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 18    | +1d12 (+6)        | Sorcerous Origin feature                      | 27             | 7                | 15           | 4   | 4   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
+| 19    | +1d12 (+6)        | Ability Score Improvement                     | 29             | 7                | 16           | 4   | 4   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
+| 20    | +1d12 (+6)        | Sorcerous Restoration                         | 30             | 7                | 16           | 4   | 4   | 3   | 3   | 3   | 2   | 2   | 2   | 1   |
 
 ## Spellcasting
 An event in your past, or in the life of a parent or ancestor, left an indelible mark on you, infusing you with arcane magic. This font of magic, whatever its origin, fuels your spells. See chapter 10 for the general rules of spellcasting and chapter 11 for the sorcerer spell list.
@@ -331,6 +331,8 @@ This metamagic's cost is 1 sorcery point if the spell that you cast is a cantrip
 
 When you cast a spell, you can spend 1 sorcery point to cast it without any somatic or verbal components.
 
+You can use Subtle Spell even if you have already used a different Metamagic option during the casting of the spell.
+
 ##### Twinned Spell
 ***Cost: variable***
 
@@ -346,4 +348,4 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 If your DM allows the use of feats, you may instead take a feat.
 
 ## Unlimited Power
-Whenever you use a spell slot to cast a spell, you regain a number of sorcery points equal to half the spell slot's level, rounded down.
+Whenever you use a spell slot to cast a spell, you regain a number of sorcery points equal to one-third of the spell slot's level, rounded down.

@@ -4,7 +4,7 @@ Gods whose portfolios include the Tempest domain—including Talos, Umberlee, Ko
 ## Spellcasting
 At each indicated cleric level, you add the listed spells to your spells prepared.
 
-### Tempest Domain Spells
+###### Tempest Domain Spells
 
 | Cleric Level | Spells                                 |
 |:------------:|:---------------------------------------|

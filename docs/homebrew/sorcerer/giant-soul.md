@@ -7,11 +7,12 @@ The resilience of giants flows through your body. At 1st level, your hit dice si
 ## Mark of the Ordning
 At 1st level, you discover innate magical abilities within yourself that are based on your giant heritage. Select one of the giant types from the Mark of the Ordning table. At 1st and 3rd level, you learn the spells associated with your choice, as shown in the table. These spells count as sorcerer spells for you, but they don't count against your number of sorcerer spells known.
 
-| Spell Level | Cloud Giant           | Fire Giant              | Frost Giant          | Hill Giant      | Stone Giant           | Storm Giant           |
-|:-----------:|:----------------------|:------------------------|:---------------------|:----------------|:----------------------|:----------------------|
-| Cantrip / 0 | minor illusion        | fire bolt               | ray of frost         | shillelagh      | resistance            | shocking grasp        |
-| 1           | fog cloud             | burning hands           | armor of agathys     | heroism         | entangle              | witch bolt            |
-| 2           | enlarge, invisibility | enlarge, flaming sphere | enlarge, hold person | enlarge, reduce | enlarge, spike growth | enlarge, gust of wind |
+###### Mark of the Ordning Spells
+
+| Sorcerer Level | Cloud Giant                                  | Fire Giant                                        | Frost Giant                                            | Hill Giant                                                | Stone Giant                                 | Storm Giant                                               |
+|:--------------:|:---------------------------------------------|:--------------------------------------------------|:-------------------------------------------------------|:----------------------------------------------------------|:--------------------------------------------|:----------------------------------------------------------|
+| 1st            | minor illusion, shape water, fog cloud, jump | bonfire, fire bolt, burning hands, compelled duel | chill touch, ray of frost, armor of agathys, ice knife | primal savagery, shillelagh, expeditious retreat, heroism | magic stone, resistance, catapult, entangle | shocking grasp, lightning lure, witch bolt, magic missile |
+| 3rd            | enlarge, invisibility                        | enlarge, flaming sphere                           | enlarge, hold person                                   | enlarge, reduce                                           | enlarge, spike growth                       | enlarge, gust of wind                                     |
 
 ## Ancestor's Gift
 At 2nd level, you discover an ability to morph your magic. Based on your heritage, you gain one of the following metamagic options.
@@ -21,42 +22,44 @@ At 2nd level, you discover an ability to morph your magic. Based on your heritag
 
 ***Cost: 1 point***
 
-When you cast a spell that deals no damage, you can spend one sorcery point to make all sensory aspects of the spell unnoticeable.
+When you cast a spell that cannot deal direct damage, you can spend 1 sorcery point to make all sensory aspects of the spell invisible, innaudible, and otherwise unnoticeable. Divination magic or a similar effect will still detect the spell.
+
+You can use Cloudborn Spell even if you have already used a different Metamagic option during the casting of the spell.
 
 ##### Flameborn Spell
 ***Prerequisite: Fire Giant Soul***
 
 ***Cost: 1 point***
 
-When you cast a spell that would deal fire damage, you can spend one sorcery point to intensify the flames. When you roll damage for this spell, you deal extra fire damage equal to your Charisma modifier.
+When you roll fire damage for a spell, you can spend 1 sorcery point to intensify the flames. When you roll damage for the spell, you deal extra fire damage equal to your Charisma modifier.
 
 ##### Frostborn Spell
 ***Prerequisite: Frost Giant Soul***
 
 ***Cost: 1 point***
 
-When you cast a spell that would deal cold damage, you can spend one sorcery point to encapsulate yourself in magical ice crystals. You gain a number of temporary hit points equal to your Charisma Modifier.
+When you cast a spell that would deal cold damage, you can spend 1 sorcery point to encapsulate yourself in magical ice crystals. You gain a number of temporary hit points equal to your Charisma Modifier.
 
 ##### Earthborn Spell
 ***Prerequisite: Hill Giant Soul***
 
 ***Cost: 1 point***
 
-When you cast a spell that would deal either bludgeoning or thunder damage, you can spend one sorcery point to shove opponents aside. Each creature damaged by this spell must make a Strength Saving Throw against your Spellcasting Save DC. On a failed save, they are pushed back 10 feet away from you and knocked prone.
+When you roll bludgeoning or thunder damage for a spell, you can spend 1 sorcery point to force opponents aside. Each creature damaged by this spell must make a Strength Saving Throw against your Spellcasting Save DC. On a failed save, they are pushed back 10 feet away from you and knocked prone.
 
 ##### Stoneborn Spell
 ***Prerequisite: Stone Giant Soul***
 
 ***Cost: 1 point***
 
-When you cast a spell, you can spend one sorcery point to become petrified. While you are petrified, you gain a bonus to AC equal to your Charisma Modifier, and gain tremorsense out to 10 feet. Throughout this duration, you are able to use an action to break out of this effect early.
+When you cast a spell, you can spend 1 sorcery point to become petrified. While you are petrified, you gain a bonus to AC equal to your Charisma Modifier, and gain tremorsense out to 10 feet. Throughout this duration, you are able to use an action to break out of this effect early.
 
 ##### Stormborn Spell
 ***Prerequisite: Storm Giant Soul***
 
 ***Cost: 1 point***
 
-When you cast a spell that would deal lightning damage, you can spend one sorcery point to attempt to stun an opponent. When you roll damage for this spell, you can choose one affected creature to try to stun. That creature must make a Constitution Saving Throw against your Spellcasting Save DC. On a failure, that creature is stunned until the start of your next turn.
+When you roll lightning damage for a spell, you can spend 1 sorcery point to attempt to stun an opponent. When you do so, you can choose one affected creature to try to stun. That creature must make a Constitution Saving Throw against your Spellcasting Save DC. On a failure, that creature is stunned until the start of your next turn.
 
 ## Soul of Lost Ostoria
 Starting at 6th level, you gain the ability to channel the arcane energies from your ancestral blood into your physical form. As an action, you can increase your size by one category—from Medium to Large, for example.
@@ -65,7 +68,7 @@ This increase lasts for 10 minutes. It ends early if you die or are incapacitate
 
 You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain all expended uses when you finish a long rest.
 
-In addition, when you cast the *Enlarge* spell and target yourself, the spell does not require concentration.
+In addition, when you cast the *Enlarge* spell and target yourself, the spell no longer requires concentration.
 
 ### Growth Multipliers
 From this level forward, you are able to increase your size multiple times by using *Soul of Lost Ostoria* in tandem with the *Enlarge* spell. When coming under the effects of multiple different sources of enlargement, refer to the exerpts below.
