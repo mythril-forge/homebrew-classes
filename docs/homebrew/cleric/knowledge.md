@@ -6,13 +6,13 @@ At each indicated cleric level, you add the listed spells to your spells prepare
 
 ### Knowledge Domain Spells
 
-| Cleric Level | Spells                                      |
-|:------------:|:--------------------------------------------|
-| 1st          | guidance, alarm, identify                   |
-| 3rd          | augury, see invisibility                    |
-| 5th          | clairvoyance, nondetection                  |
-| 7th          | arcane eye, divination                      |
-| 9th          | legend lore, scrying                        |
+| Cleric Level | Spells                                     |
+|:------------:|:-------------------------------------------|
+| 1st          | encode thoughts, guidance, alarm, identify |
+| 3rd          | augury, see invisibility                   |
+| 5th          | clairvoyance, nondetection                 |
+| 7th          | arcane eye, divination                     |
+| 9th          | legend lore, scrying                       |
 
 ## Blessings of Knowledge
 At 1st level, you learn two languages of your choice. You also become proficient in your choice of two of the following skills: Arcana, History, Nature, or Religion.
