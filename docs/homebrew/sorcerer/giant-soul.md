@@ -118,3 +118,27 @@ In addition, the *Soul of Lost Ostoria* feature and the *Enlarge* spell can now 
 By 18th level, you gain the favor and audience of Annam—the All-Father himself—be it physically, through a dream, or via some otherworldly experience. At the DM's discretion, you are bequeathed one permanent blessing. *(DMG 227)*
 
 While you cannot explicitly choose the exact blessing or epic boon that you recieve, you can most certainly negotiate the nature of your newfound power.
+
+#### Enlarge
+*2nd-level transmutation*
+___
+- **Classes:** Sorcerer, Wizard
+- **Casting Time:** 1 action
+- **Range:** Touch
+- **Components:** V S M (a pinch of powdered iron)
+- **Duration:** Concentration, up to 10 minutes
+
+You cause a creature or an object that you touch to grow larger for the duration. Choose either a creature or an object that is neither worn nor carried. If the target is unwilling, it can make a Constitution saving throw. On a success, the spell has no effect.
+
+If the target is a creature, everything it is wearing and carrying changes size with it. Any item dropped by an affected creature returns to normal size at once. The creature gains the following effects:
+
+- The target's size category increases by one
+- The target's size doubles in all dimensions
+- The target's mass & weight are multiplied by 8
+- The target's weapons and equipment grow to match your new size
+- The target's weapon attacks deal twice the damage dice and modifiers
+- The target's movement speed increases by 5 feet
+- The target gain advantage on all strength-based ability checks and saving throws
+- The target can use hit dice as if a short rest has been completed
+
+If there isn't enough room for the target to double its size, it either shatters the environment around it, breaks itself, or becomes restrained.
