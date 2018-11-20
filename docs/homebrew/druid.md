@@ -1,5 +1,4 @@
-# Druid
-*(PHB, p64)*
+# Druid (PHB, p64 — XGE, pg21)
 Holding high a gnarled staff wreathed with holly, an elf summons the fury of the storm and calls down explosive bolts of lightning to smite the torch-carrying orcs who threaten her forest.
 
 Crouching out of sight on a high tree branch in the form of a leopard, a human peers out of the jungle at the strange construction of a temple of Evil Elemental Air, keeping a close eye on the cultists' activities.
@@ -21,8 +20,6 @@ Druids are also concerned with the delicate ecological balance that sustains pla
 Druids are often found guarding sacred sites or watching over regions of unspoiled nature. But when a significant danger arises, threatening nature's balance or the lands they protect, druids take on a more active role in combating the threat, as adventurers.
 
 ---
-
-*(XGE, p21)*
 
 > *Even in death, each creature plays its part in maintaining the Great Balance. But now an imbalance grows, a force that seeks to hold sway over nature. This is the destructive behavior of the mortal races. The farther away from nature their actions take them, the more corrupting their influence becomes. As druids, we seek mainly to protect and educate, to preserve the Great Balance, but there are times when we must rise up against danger and eradicate it.*
 > 
@@ -87,7 +84,7 @@ These tables can also help you and your DM determine which animals you might see
 
 The tables include all the individual beasts that are eligible for Wild Shape (up to a challenge rating of 1) or the Circle Forms feature of the Circle of the Moon (up to a challenge rating of 6).
 
-###### Arctic
+###### Arctic Beasts
 
 | CR  | Beast               | Fly/Swim |
 |:---:|:--------------------|:--------:|
@@ -99,7 +96,7 @@ The tables include all the individual beasts that are eligible for Wild Shape (u
 | 2   | Saber-toothed tiger | —        |
 | 6   | Mammoth             | —        |
 
-###### Coast
+###### Coastal  Beasts
 
 | CR  | Beast             | Fly/Swim |
 |:---:|:------------------|:--------:|
@@ -116,7 +113,7 @@ The tables include all the individual beasts that are eligible for Wild Shape (u
 | 1   | Giant toad        | Swim     |
 | 2   | Plesiosaurus      | Swim     |
 
-###### Desert
+###### Desert Beasts
 
 | CR  | Beast                   | Fly/Swim |
 |:---:|:------------------------|:--------:|
@@ -142,7 +139,7 @@ The tables include all the individual beasts that are eligible for Wild Shape (u
 | 2   | Giant constrictor snake | Swim     |
 | 3   | Giant scorpion          | —        |
 
-###### Forest
+###### Forest Beasts
 
 | CR  | Beast                   | Fly/Swim |
 |:---:|:------------------------|:--------:|
@@ -184,7 +181,7 @@ The tables include all the individual beasts that are eligible for Wild Shape (u
 | 2   | Giant constrictor snake | Swim     |
 | 2   | Giant elk               | —        |
 
-###### Grassland
+###### Grassland Beasts
 
 | CR  | Beast                 | Fly/Swim |
 |:---:|:----------------------|:--------:|
@@ -224,7 +221,7 @@ The tables include all the individual beasts that are eligible for Wild Shape (u
 | 4   | Elephant              | —        |
 | 5   | Triceratops           | —        |
 
-###### Hill
+###### Hill Beasts
 
 | CR  | Beast             | Fly/Swim |
 |:---:|:------------------|:--------:|
@@ -256,7 +253,7 @@ The tables include all the individual beasts that are eligible for Wild Shape (u
 | 2   | Giant boar        | —        |
 | 2   | Giant elk         | —        |
 
-###### Mountain
+###### Mountain Beasts
 
 | CR  | Beast               | Fly/Swim |
 |:---:|:--------------------|:--------:|
@@ -271,7 +268,7 @@ The tables include all the individual beasts that are eligible for Wild Shape (u
 | 2   | Giant elk           | —        |
 | 2   | Saber-toothed tiger | —        |
 
-###### Swamp
+###### Swamp Beasts
 
 | CR  | Beast                   | Fly/Swim |
 |:---:|:------------------------|:--------:|
@@ -290,7 +287,7 @@ The tables include all the individual beasts that are eligible for Wild Shape (u
 | 2   | Giant constrictor snake | Swim     |
 | 5   | Giant crocodile	Swim    | —        |
 
-###### Underdark
+###### Underdark Beasts
 
 | CR  | Beast                   | Fly/Swim |
 |:---:|:------------------------|:--------:|
@@ -306,7 +303,7 @@ The tables include all the individual beasts that are eligible for Wild Shape (u
 | 2   | Giant constrictor snake | Swim     |
 | 2   | Polar bear (cave bear)  | Swim     |
 
-###### Underwater
+###### Underwater Beasts
 
 | CR  | Beast                   | Fly/Swim |
 |:---:|:------------------------|:--------:|
