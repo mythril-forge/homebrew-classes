@@ -39,26 +39,28 @@ When you decide what your character's treasured item is, think about giving it a
 
 ###### Treasured Items Table
 
-| d6 | Treasured Item                                                         |
-| 1  | A twig from the meeting tree that stands in the center of your village |
-| 2  | A vial of water from the source of a sacred river                      |
-| 3  | Special herbs tied together in a bundle                                |
-| 4  | A small bronze bowl engraved with animal images                        |
-| 5  | A rattle made from a dried gourd and holly berries                     |
-| 6  | A miniature golden sickle handed down to you by your mentor            |
+| d6  | Treasured Item                                                         |
+|:---:|:-----------------------------------------------------------------------|
+| 1   | A twig from the meeting tree that stands in the center of your village |
+| 2   | A vial of water from the source of a sacred river                      |
+| 3   | Special herbs tied together in a bundle                                |
+| 4   | A small bronze bowl engraved with animal images                        |
+| 5   | A rattle made from a dried gourd and holly berries                     |
+| 6   | A miniature golden sickle handed down to you by your mentor            |
 
 ## Guiding Aspects
 Many druids feel a strong link to a specific aspect of the natural world, such as a body of water, an animal, a type of tree, or some other sort of plant. You identify with your chosen aspect; by its behavior or its very nature, it sets an example that you seek to emulate.
 
 ###### Guiding Aspects
 
-| d6 | Guiding Aspects                                                                                                                                  |
-| 1  | Yew trees remind you of renewing your mind and spirit, letting the old die and the new spring forth.                                             |
-| 2  | Oak trees represent strength and vitality. Meditating under an oak fills your body and mind with resolve and fortitude.                          |
-| 3  | The river's endless flow reminds you of the great span of the world. You seek to act with the long-term interests of nature in mind.             |
-| 4  | The sea is a constant, churning cauldron of power and chaos. It reminds you that accepting change is necessary to sustain yourself in the world. |
-| 5  | The birds in the sky are evidence that even the smallest creatures can survive if they remain above the fray.                                    |
-| 6  | As demonstrated by the actions of the wolf, an individual's strength is nothing compared to the power of the pack.                               |
+| d6  | Guiding Aspects                                                                                                                                  |
+|:---:|:-------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | Yew trees remind you of renewing your mind and spirit, letting the old die and the new spring forth.                                             |
+| 2   | Oak trees represent strength and vitality. Meditating under an oak fills your body and mind with resolve and fortitude.                          |
+| 3   | The river's endless flow reminds you of the great span of the world. You seek to act with the long-term interests of nature in mind.             |
+| 4   | The sea is a constant, churning cauldron of power and chaos. It reminds you that accepting change is necessary to sustain yourself in the world. |
+| 5   | The birds in the sky are evidence that even the smallest creatures can survive if they remain above the fray.                                    |
+| 6   | As demonstrated by the actions of the wolf, an individual's strength is nothing compared to the power of the pack.                               |
 
 ## Mentors
 It's not unusual for would-be druids to seek out (or be sought out by) instructors or elders who teach them the basics of their magical arts. Most druids who learn from a mentor begin their training at a young age, and the mentor has a vital role in shaping a student's attitudes and beliefs.
@@ -67,13 +69,14 @@ If your character received training from someone else, who or what was that indi
 
 ###### Mentors
 
-| d6 | Mentors                                                                                                                                                             |
-| 1  | Your mentor was a wise treant who taught you to think in terms of years and decades rather than days or months.                                                     |
-| 2  | You were tutored by a dryad who watched over a slumbering portal to the Abyss. During your training, you were tasked with watching for hidden threats to the world. |
-| 3  | Your tutor always interacted with you in the form of a falcon. You never saw the tutor's humanoid form.                                                             |
-| 4  | You were one of several youngsters who were mentored by an old druid, until one of your fellow pupils betrayed your group and killed your master.                   |
-| 5  | Your mentor has appeared to you only in visions. You have yet to meet this person, and you are not sure such a person exists in mortal form.                        |
-| 6  | Your mentor was a werebear who taught you to treat all living things with equal regard.                                                                             |
+| d6  | Mentors                                                                                                                                                             |
+|:---:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | Your mentor was a wise treant who taught you to think in terms of years and decades rather than days or months.                                                     |
+| 2   | You were tutored by a dryad who watched over a slumbering portal to the Abyss. During your training, you were tasked with watching for hidden threats to the world. |
+| 3   | Your tutor always interacted with you in the form of a falcon. You never saw the tutor's humanoid form.                                                             |
+| 4   | You were one of several youngsters who were mentored by an old druid, until one of your fellow pupils betrayed your group and killed your master.                   |
+| 5   | Your mentor has appeared to you only in visions. You have yet to meet this person, and you are not sure such a person exists in mortal form.                        |
+| 6   | Your mentor was a werebear who taught you to treat all living things with equal regard.                                                                             |
 
 ## Learning Beast Shapes
 The Wild Shape feature in the player's handbook lets you transform into a beast that you've seen. That rule gives you a tremendous amount of flexibility, making it easy to amass an array of beast form options for yourself, but you must abide by the limitations in the Beast Shapes table in that book.
