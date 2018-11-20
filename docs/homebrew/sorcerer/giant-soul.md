@@ -119,9 +119,10 @@ By 18th level, you gain the favor and audience of Annam—the All-Father himself
 
 While you cannot explicitly choose the exact blessing or epic boon that you recieve, you can most certainly negotiate the nature of your newfound power.
 
+___
+
 #### Enlarge
 *2nd-level transmutation*
-___
 - **Classes:** Sorcerer, Wizard
 - **Casting Time:** 1 action
 - **Range:** Touch

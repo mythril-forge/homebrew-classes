@@ -21,9 +21,9 @@ Sorcerers often have obscure or quixotic motivations driving them to adventure. 
 
 ---
 
-> _Practice and study are for amateurs. True power is a birthright._
+> *Practice and study are for amateurs. True power is a birthright.*
 > 
-> _—Hennet, scion of Tiamat_
+> *—Hennet, scion of Tiamat*
 
 When it comes to drawing forth their abilities in times of need, sorcerers have it easy compared to other characters. Their power not only rests within them, but it likely takes some effort to keep it at bay. Every sorcerer is born to the role, or stumbles into it through cosmic chance. Unlike other characters, who must actively learn, embrace, and pursue their talents, sorcerers have their power thrust upon them.
 

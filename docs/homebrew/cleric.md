@@ -127,7 +127,7 @@ You start with the following items, plus anything provided by your background.
 | 2     | +1d4 (+2)         | Channel Divinity (1/rest), Destroy Undead (CR 0), Divine Domain feature  | 2   | —   | —   | —   | —   | —   | —   | —   | —   |
 | 3     | +1d4 (+2)         | —                                                                        | 2   | 1   | —   | —   | —   | —   | —   | —   | —   |
 | 4     | +1d4 (+2)         | Ability Score Improvement                                                | 3   | 2   | —   | —   | —   | —   | —   | —   | —   |
-| 5     | +1d6 (+3)         | Destroy Undead (CR 1/2)                                                  | 3   | 2   | 1   | —   | —   | —   | —   | —   | —   |
+| 5     | +1d6 (+3)         | Destroy Undead (CR ½)                                                    | 3   | 2   | 1   | —   | —   | —   | —   | —   | —   |
 | 6     | +1d6 (+3)         | Channel Divinity (2/rest), Divine Domain feature                         | 4   | 3   | 1   | —   | —   | —   | —   | —   | —   |
 | 7     | +1d6 (+3)         | —                                                                        | 4   | 3   | 2   | 1   | —   | —   | —   | —   | —   |
 | 8     | +1d6 (+3)         | Ability Score Improvement, Destroy Undead (CR 1), Divine Domain feature  | 4   | 4   | 2   | 1   | —   | —   | —   | —   | —   |
@@ -203,7 +203,7 @@ When an undead fails its saving throw against your Turn Undead feature, the crea
 | Cleric Level | Destroys Undead of CR... |
 |:------------:|:-------------------------|
 | 2nd          | 0 or lower               |
-| 5th          | 1/2 or lower             |
+| 5th          | ½ or lower               |
 | 8th          | 1 or lower               |
 | 11th         | 2 or lower               |
 | 14th         | 3 or lower               |
