@@ -1,4 +1,5 @@
-# Druid (PHB, p64 — XGE, pg21)
+# Druid
+<!-- (PHB p64; XGE p21) -->
 Holding high a gnarled staff wreathed with holly, an elf summons the fury of the storm and calls down explosive bolts of lightning to smite the torch-carrying orcs who threaten her forest.
 
 Crouching out of sight on a high tree branch in the form of a leopard, a human peers out of the jungle at the strange construction of a temple of Evil Elemental Air, keeping a close eye on the cultists' activities.

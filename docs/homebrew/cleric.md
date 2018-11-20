@@ -1,4 +1,5 @@
-# Cleric
+# Cleric 
+<!-- (PHB p56; XGE p17) -->
 Arms and eyes upraised toward the sun and a prayer on his lips, an elf begins to glow with an inner light that spills out to heal his battle-worn companions.
 
 Chanting a song of glory, a dwarf swings his axe in wide swaths to cut through the ranks of orcs arrayed against him, shouting praise to the gods with every foe’s fall.
@@ -23,9 +24,9 @@ Most adventuring clerics maintain some connection to established temples and ord
 
 ---
 
-> _To become a cleric is to become a messenger of the gods. The power the divine offers is great, but it always comes with tremendous responsibility._
+> *To become a cleric is to become a messenger of the gods. The power the divine offers is great, but it always comes with tremendous responsibility.*
 > 
-> _—Riggby the patriarch_
+> *— Riggby the patriarch*
 
 Almost all the folk in the world who revere a deity live their lives without ever being directly touched by a divine being. As such, they can never know what it feels like to be a cleric—someone who is not only a devout worshiper, but who has also been invested with a measure of a deity's power.
 

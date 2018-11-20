@@ -1,4 +1,5 @@
 # Sorcerer
+<!-- (PHB p99; XGE p48) -->
 Golden eyes flashing, a human stretches out her hand and unleashes the dragonfire that burns in her veins. As an inferno rages around her foes, leathery wings spread from her back and she takes to the air.
 
 Long hair whipped by a conjured wind, a half-elf spreads his arms wide and throws his head back. Lifting him momentarily off the ground, a wave of magic surges up in him, through him, and out from him in a mighty blast of lightning.
@@ -41,7 +42,7 @@ Does your character know the source of your magical power? Does it tie back to s
 ###### Arcane Origins Table
 
 | d6  | Origin                                                                                                                             |
-|:---:|::----------------------------------------------------------------------------------------------------------------------------------|
+|:---:|:-----------------------------------------------------------------------------------------------------------------------------------|
 | 1   | Your power arises from your family's bloodline. You are related to some powerful creature, or you inherited a blessing or a curse. |
 | 2   | You are the reincarnation of a being from another plane of existence.                                                              |
 | 3   | A powerful entity entered the world. Its magic changed you.                                                                        |
