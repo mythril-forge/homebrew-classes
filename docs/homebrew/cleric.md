@@ -168,15 +168,6 @@ Wisdom is your spellcasting ability for your cleric spells. The power of your sp
 
 `Spell attack modifier = your proficiency bonus + your Wisdom modifier`
 
-<!-- ### Recharging Spent Spell Slots
-Aside from taking a long rest, you have several options to regain your spell slots.
-
-You can drink a vial of holy water to regain one 1st-level spell slot.
-
-You can spend ten minutes praying at a place of holy significance to regain one 2nd-level spell slot. Your ritual must consume an offering worthy enough to pay respects on sacred grounds.
-
-When you significantly further your divine cause—enough for your god or goddess to notice—they might reward you with a surge of divine power. In this instance, you can recharge one 3rd-level spell slot.
- -->
 ### Ritual Casting
 You can cast a cleric spell as a ritual if that spell has the ritual tag and you have the spell prepared.
 

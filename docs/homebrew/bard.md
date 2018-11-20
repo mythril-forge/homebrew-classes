@@ -82,7 +82,7 @@ The ways that a performance can go wrong are as varied as the fish in the sea. N
 | 6   | When you sat on your lute by mistake during the final stanza of "Starlight Serenade"                                                |
 
 
-> #### A Bard's Muse
+> ##### A Bard's Muse
 > Naturally, every bard has a repertoire of songs and stories. Some bards are generalists who can draw from a wide range of topics for each performance, and who take pride in their versatility. Others adopt a more personal approach to their art, driven by their attachment to a museâ€”a particular concept that inspires much of what those bards do in front of an audience.
 > 
 > A bard who follows a muse generally does so to gain a deeper understanding of what that muse represents and how to best convey that understanding to others through performance.
@@ -101,7 +101,7 @@ Bards thrive on stories, whether those stories are true or not. Your characterâ€
 
 Did you serve an apprenticeship, studying under a master, following the more experienced bard until you were ready to strike out on your own? Or did you attend a college where you studied bardic lore and practiced your musical magic? Perhaps you were a young runaway or orphan, befriended by a wandering bard who became your mentor. Or you might have been a spoiled noble child tutored by a master. Perhaps you stumbled into the clutches of a hag, making a bargain for a musical gift in addition to your life and freedom, but at what cost?
 
-> #### Quick Build
+> ##### Quick Build
 > 
 > You can make a bard quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Dexterity. Second, choose the entertainer background. Third, choose the dancing lights and vicious mockery cantrips, along with the following 1st-level spells: charm person, detect magic, healing word, and thunderwave.
 
