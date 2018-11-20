@@ -164,7 +164,7 @@ The Bard table shows how many spell slots you have to cast your spells of 1st le
 
 For example, if you know the 1st-level spell cure wounds and have a 1st-level and a 2nd-level spell slot available, you can cast cure wounds using either slot.
 
-### Spells Known of 1st Level and Higher
+### Spells Known
 You know six cantrips or 1st-level spells of your choice from the bard spell list.
 
 You learn one additional bard spells of your choice at each level except 4th, 7th, 10th, 19th and 20th. At 4th, 7th, and 10th level, you instead learn two additional bard spells of your choice. At 19th and 20th level, you do not learn any new bard spells. Each of these spells must be either a cantrip or of a level for which you have spell slots. For instance, when you reach 3rd level in this class, you can learn one new cantrip or spell of 1st or 2nd level.

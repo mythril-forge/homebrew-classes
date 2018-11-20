@@ -166,7 +166,7 @@ The Sorcerer table shows how many spell slots you have to cast your spells of 1s
 
 For example, if you know the 1st-level spell burning hands and have a 1st-level and a 2nd-level spell slot available, you can cast burning hands using either slot.
 
-### Spells Known of 1st Level and Higher
+### Spells Known
 You know six 1st-level spells of your choice from the sorcerer spell list.
 
 You learn an additional sorcerer spell of your choice at each level except 12th, 14th, 16th, 18th, 19th, and 20th. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 3rd level in this class, you can learn one new spell of 1st or 2nd level.
@@ -189,7 +189,7 @@ Choose a sorcerous origin, which describes the source of your innate magical pow
 Your choice grants you features when you choose it at 1st level and again at 6th, 14th, and 18th level.
 
 ### Origin Spells
-Each origin has a list of spells—its origin spells—that you gain at the sorcerer levels noted in the origin description. Once you gain a origin spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day.
+Each origin has a list of spells — its origin spells — that you gain at the sorcerer levels noted in the origin description. Once you gain a origin spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day.
 
 If you have a origin spell that doesn't appear on the sorcerer spell list, the spell is nonetheless a sorcerer spell for you.
 
@@ -258,9 +258,11 @@ The spell's range increases to either double range or to 30ft, whichever is grea
 ### Suspended Spell
 ***Cost: 3 points***
 
-When you cast a spell that has a casting range that is greater than touch, you can spend 3 sorcery points to suspend the spell midair. The spell becomes trapped in an orb of energy, which requires your concentration to maintain — as if you were casting a spell. While you concentrate, you can use a bonus action to move the orb in any direction up to the spell's casting range, and activate it if you desire.
+When you cast a spell, you can spend 3 sorcery points to suspend the spell midair. The spell becomes trapped in an orb of energy, which requires your concentration to maintain — as if you were casting a spell.
 
-When you activate the suspended orb, it breaks, and its stored spell immediately takes effect in its place. However, if the spell requires one or more target, it targets the closest creatures within the spellcasting range of the orb.
+While you concentrate, you can use a bonus action to move the orb in any direction up to the spell's casting range, and activate it if you desire. If the spell's range is self or touch, it cannot move.
+
+When you activate the suspended orb, it breaks, and its stored spell immediately takes effect in its place, as if you cast the stored spell in that instant.
 
 If you lose concentration or if the orb is outside your field of view when your turn begins, the orb is activated.
 
@@ -305,13 +307,13 @@ When you cast a spell that requires one or more attack rolls, you can spend 2 so
 You can use Empowered Spell even if you have already used a different Metamagic option during the casting of the spell.
 
 ### Heightened Spell
-***Cost: 3—5 points / creature***
+***Cost: 3—7 points / creature***
 
 When you cast a spell that forces other creatures to make a saving throw, you can intensify the spell's full force on some of those creatures.
 
-To do so, you must spend 3 sorcery points for each creature that you want to affect. A chosen creature has disadvantage on any saving throws directly induced by the spell until the start of your next turn.
+To do so, you must spend 3 sorcery points for each selected creature that you want to affect. A chosen creature has disadvantage on any saving throws directly induced by the spell until the start of your next turn.
 
-You can instead spend 5 sorcery points per creature to make them automatically fail any saving throws directly induced by the spell until the start of your next turn.
+You can instead spend 5 sorcery points per selected creature to make them automatically fail any saving throws directly induced by the spell until the start of your next turn.
 
 ### Instinctive Spell
 ***Cost: variable***
