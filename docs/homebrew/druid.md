@@ -286,7 +286,7 @@ The tables include all the individual beasts that are eligible for Wild Shape (u
 | 1   | Giant spider            | —        |
 | 1   | Giant toad              | Swim     |
 | 2   | Giant constrictor snake | Swim     |
-| 5   | Giant crocodileSwim    | —        |
+| 5   | Giant crocodile         | Swim     |
 
 ###### Underdark Beasts
 
@@ -422,7 +422,6 @@ Your druid level limits the power of the beasts that you can transform into, as 
 | 2     | ¼       |
 | 4     | ½       |
 | 8     | 1       |
-| 16    | 2       |
 
 You can stay in a beast shape for a number of hours equal to half your druid level. You then revert to your normal form unless you expend another use of this feature. You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert if you fall unconscious, drop to 0 hit points, or die.
 
