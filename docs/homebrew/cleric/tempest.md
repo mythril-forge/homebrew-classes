@@ -6,13 +6,13 @@ At each indicated cleric level, you add the listed spells to your spells prepare
 
 ###### Tempest Domain Spells
 
-| Cleric Level | Spells                                               |
-|:------------:|:-----------------------------------------------------|
-| 1st          | shocking grasp, static blast, fog cloud, thunderwave |
-| 3rd          | warding wind, gust of wind                           |
-| 5th          | call lightning, summon storm                         |
-| 7th          | control water, blizzard                              |
-| 9th          | destructive wave, lightning strike                   |
+| Cleric Level | Spells                                             |
+|:------------:|:---------------------------------------------------|
+| 1st          | static charge, thunderclap, fog cloud, thunderwave |
+| 3rd          | warding wind, gust of wind                         |
+| 5th          | call lightning, summon storm                       |
+| 7th          | control water, blizzard                            |
+| 9th          | destructive wave, lightning strike                 |
 
 ## Bonus Proficiencies
 At 1st level, you gain proficiency with martial weapons, and heavy armor.
@@ -31,7 +31,7 @@ When you roll thunder or lightning damage, you can use your Channel Divinity to 
 ### Channel Divinity: Thunderbolt Strike
 At 6th level, you can use your Channel Divinity to further enhance your combat capabilities.
 
-As a bonus action, you can use your Channel Divinity to cast *Thunderous Smite* without expending a spell slot.
+As a bonus action, you can use your Channel Divinity to cast *Thunderous Smite* at 1st-level without expending a spell slot.
 
 For you, it does not require concentration, and its effects trigger when you deal thunder damage, lightning damage, or hit with a melee weapon attack.
 
@@ -41,10 +41,32 @@ If the source of the trigger would effect multiple creatures, they all suffer th
 At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 lightning damage to the target. When you reach 14th level, the extra damage increases to 2d8
 
 ## Stormborn
-At 17th level, you have a flying speed equal to your current walking speed whenever you are not underground or indoors.
+At 17th level, you have a flying speed equal to your current walking speed whenever you can see the sky.
 
+___
 
+#### Static Charge
+*Evocation cantrip*
+- **Classes:** Sorcerer, Wizard, Warlock
+- **Components:** V
+- **Casting Time:** 1 action
+- **Duration:** Instantaneous
+- **Range:** Self
+- **Area:** 15-foot radius sphere
 
-You create a lash of lightning energy that strikes at one creature of your choice that you can see within range. The target must succeed on a Strength saving throw or be pulled up to 10 feet in a straight line toward you and then take 1d8 lightning damage if it is within 5 feet of you.
+A burst of static energy surges through you. Each creature in a 15-foot sphere originating from you must make a Strength saving throw. On a failed save, a creature is pulled up to 10 feet in a straight line towards you, and then takes 1d6 lightning damage if they come in contact with you. On a successful save, a creature isn't pulled and takes no damage.
 
-This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+
+#### Thunderclap
+*Evocation cantrip*
+- **Classes:** Bard, Druid, Sorcerer, Warlock, Wizard
+- **Components:** S
+- **Casting Time:** 1 action
+- **Duration:** Instantaneous
+- **Range:** Self
+- **Area:** 5-foot radius sphere
+
+You create a burst of thunderous sound that can be heard up to 100 feet away. Each creature within range, other than you, must make a Constitution saving throw or take 1d6 thunder damage and become dazed until the start of your next turn.
+
+The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).

@@ -286,7 +286,7 @@ The tables include all the individual beasts that are eligible for Wild Shape (u
 | 1   | Giant spider            | —        |
 | 1   | Giant toad              | Swim     |
 | 2   | Giant constrictor snake | Swim     |
-| 5   | Giant crocodile	Swim    | —        |
+| 5   | Giant crocodileSwim    | —        |
 
 ###### Underdark Beasts
 
@@ -319,10 +319,58 @@ The tables include all the individual beasts that are eligible for Wild Shape (u
 | 3   | Killer whale            | Swim     |
 | 5   | Giant shark             | Swim     |
 
-## Creating a Druid
+# Class Features
 When making a druid, consider why your character has such a close bond with nature. Perhaps your character lives in a society where the Old Faith still thrives, or was raised by a druid after being abandoned in the depths of a forest. Perhaps your character had a dramatic encounter with the spirits of nature, coming face to face with a giant eagle or dire wolf and surviving the experience. Maybe your character was born during an epic storm or a volcanic eruption, which was interpreted as a sign that becoming a druid was part of your character's destiny.
 
 Have you always been an adventurer as part of your druidic calling, or did you first spend time as a caretaker of a sacred grove or spring? Perhaps your homeland was befouled by evil, and you took up an adventuring life in hopes of finding a new home or purpose.
 
-## Quick Build
-You can make a druid quickly by following these suggestions. First, Wisdom should be your highest ability score, followed by Constitution. Second, choose the hermit background.
+> ##### Quick Build
+> 
+> You can make a druid quickly by following these suggestions. First, Wisdom should be your highest ability score, followed by Constitution. Second, choose the hermit background.
+
+### Hit Points
+- **Hit Dice:** `1d8`
+- **Hit Points at 1st Level:** `8 + your Constitution modifier`
+- **Hit Points at Higher Levels:** `1d8, reroll 1's (or 5) + your Constitution modifier per Cleric level after 1st`
+
+### Proficiencies
+You are proficient with the following items, in addition to any proficiencies provided by your race or background.
+- **Armor:** light armor, medium armor, shields
+- **Weapons:** clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears
+- **Tools:** herbalism kits
+- **Saving Throws:** Intelligence, Wisdom
+- **Skills:** Choose two from Arcana, Animal Handling, Insight, Medicine, Nature, Perception, Religion, and Survival.
+
+### Starting Equipment
+You start with the following items, plus anything provided by your background.
+- (a) a wooden shield or (b) any simple weapon
+- (a) a scimitar or (b) any simple melee weapon
+- Padded armor, an explorer's pack, an herbalism kit, and a druidic focus
+- A 200-coin capacity purse containing 2d4 × 10 sp
+
+## Table: The Druid
+
+| Level | Proficiency Bonus | Features                                          | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+|:-----:|:-----------------:|:-------------------------------------------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 1     | +1d4 (+2)         | Druidic, Spellcasting                             | 1   | —   | —   | —   | —   | —   | —   | —   | —   |
+| 2     | +1d4 (+2)         | Wild Shape, Druid Circle                          | 2   | —   | —   | —   | —   | —   | —   | —   | —   |
+| 3     | +1d4 (+2)         | —                                                 | 2   | 1   | —   | —   | —   | —   | —   | —   | —   |
+| 4     | +1d4 (+2)         | Wild Shape Improvement, Ability Score Improvement | 3   | 2   | —   | —   | —   | —   | —   | —   | —   |
+| 5     | +1d6 (+3)         | —                                                 | 3   | 2   | 1   | —   | —   | —   | —   | —   | —   |
+| 6     | +1d6 (+3)         | Druid Circle feature                              | 4   | 3   | 1   | —   | —   | —   | —   | —   | —   |
+| 7     | +1d6 (+3)         | —                                                 | 4   | 3   | 2   | 1   | —   | —   | —   | —   | —   |
+| 8     | +1d6 (+3)         | Wild Shape Improvement, Ability Score Improvement | 4   | 4   | 2   | 1   | —   | —   | —   | —   | —   |
+| 9     | +1d8 (+4)         | —                                                 | 4   | 4   | 2   | 2   | 1   | —   | —   | —   | —   |
+| 10    | +1d8 (+4)         | Druid Circle feature                              | 4   | 4   | 3   | 2   | 1   | —   | —   | —   | —   |
+| 11    | +1d8 (+4)         | —                                                 | 4   | 4   | 3   | 2   | 2   | 1   | —   | —   | —   |
+| 12    | +1d8 (+4)         | Ability Score Improvement                         | 4   | 4   | 3   | 3   | 2   | 1   | —   | —   | —   |
+| 13    | +1d10 (+5)        | —                                                 | 4   | 4   | 3   | 3   | 2   | 1   | 1   | —   | —   |
+| 14    | +1d10 (+5)        | Druid Circle feature                              | 4   | 4   | 3   | 3   | 3   | 1   | 1   | —   | —   |
+| 15    | +1d10 (+5)        | —                                                 | 4   | 4   | 3   | 3   | 3   | 1   | 1   | 1   | —   |
+| 16    | +1d10 (+5)        | Ability Score Improvement                         | 4   | 4   | 3   | 3   | 3   | 2   | 1   | 1   | —   |
+| 17    | +1d12 (+6)        | —                                                 | 4   | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 18    | +1d12 (+6)        | Timeless Body, Beast Spells                       | 4   | 4   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
+| 19    | +1d12 (+6)        | Ability Score Improvement                         | 4   | 4   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
+| 20    | +1d12 (+6)        | Archdruid                                         | 4   | 4   | 3   | 3   | 3   | 2   | 2   | 2   | 1   |
+
+

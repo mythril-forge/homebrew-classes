@@ -4,7 +4,7 @@ The gods of knowledge—including Oghma, Boccob, Gilean, Aureon, and Thoth—val
 ## Spellcasting
 At each indicated cleric level, you add the listed spells to your spells prepared.
 
-### Knowledge Domain Spells
+###### Knowledge Domain Spells
 
 | Cleric Level | Spells                                     |
 |:------------:|:-------------------------------------------|
@@ -33,9 +33,9 @@ When you reach 14th level, you use a d30 instead.
 ### Channel Divinity: Read Thoughts
 At 6th level, you can use your Channel Divinity to read a creature's thoughts. You can then use your access to the creature's mind to command it.
 
-As an action, you can cast the *Detect Thoughts* spell without expending a spell slot. For you, its range is infinite—provided that you can see the target creature.
+As an action, you can cast the *Detect Thoughts* spell at 2nd-level without expending a spell slot. For you, its range is infinite—provided that you can see the target creature.
 
-During that time, you can use your action to end this effect and cast the *Suggestion* spell on the creature without expending a spell slot. If you can read the target's deepest thoughts, then the target automatically fails its saving throw against this spell.
+During that time, you can use your action to end this effect and cast the *Suggestion* spell at 2nd-levels on the creature without expending a spell slot. If you can fully read the target's deepest thoughts, then the target automatically fails its saving throw against this spell.
 
 ## Potent Spellcasting
 Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric spell.
