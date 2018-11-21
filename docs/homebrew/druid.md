@@ -353,11 +353,11 @@ You start with the following items, plus anything provided by your background.
 | Level | Proficiency Bonus | Features                                          | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 |:-----:|:-----------------:|:-------------------------------------------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 1     | +1d4 (+2)         | Druidic, Spellcasting                             | 1   | —   | —   | —   | —   | —   | —   | —   | —   |
-| 2     | +1d4 (+2)         | Wild Shape, Druid Circle                          | 2   | —   | —   | —   | —   | —   | —   | —   | —   |
+| 2     | +1d4 (+2)         | Wild Shape (1/rest), Druid Circle                 | 2   | —   | —   | —   | —   | —   | —   | —   | —   |
 | 3     | +1d4 (+2)         | —                                                 | 2   | 1   | —   | —   | —   | —   | —   | —   | —   |
 | 4     | +1d4 (+2)         | Wild Shape Improvement, Ability Score Improvement | 3   | 2   | —   | —   | —   | —   | —   | —   | —   |
 | 5     | +1d6 (+3)         | —                                                 | 3   | 2   | 1   | —   | —   | —   | —   | —   | —   |
-| 6     | +1d6 (+3)         | Druid Circle feature                              | 4   | 3   | 1   | —   | —   | —   | —   | —   | —   |
+| 6     | +1d6 (+3)         | Wild Shape (2/rest), Druid Circle feature         | 4   | 3   | 1   | —   | —   | —   | —   | —   | —   |
 | 7     | +1d6 (+3)         | —                                                 | 4   | 3   | 2   | 1   | —   | —   | —   | —   | —   |
 | 8     | +1d6 (+3)         | Wild Shape Improvement, Ability Score Improvement | 4   | 4   | 2   | 1   | —   | —   | —   | —   | —   |
 | 9     | +1d8 (+4)         | —                                                 | 4   | 4   | 2   | 2   | 1   | —   | —   | —   | —   |
@@ -369,7 +369,7 @@ You start with the following items, plus anything provided by your background.
 | 15    | +1d10 (+5)        | —                                                 | 4   | 4   | 3   | 3   | 3   | 1   | 1   | 1   | —   |
 | 16    | +1d10 (+5)        | Ability Score Improvement                         | 4   | 4   | 3   | 3   | 3   | 2   | 1   | 1   | —   |
 | 17    | +1d12 (+6)        | —                                                 | 4   | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
-| 18    | +1d12 (+6)        | Timeless Body, Beast Spells                       | 4   | 4   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
+| 18    | +1d12 (+6)        | Wild Shape (3/rest), Timeless Body, Beast Spells  | 4   | 4   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 | 19    | +1d12 (+6)        | Ability Score Improvement                         | 4   | 4   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 | 20    | +1d12 (+6)        | Archdruid                                         | 4   | 4   | 3   | 3   | 3   | 2   | 2   | 2   | 1   |
 
@@ -403,3 +403,52 @@ You can cast a druid spell as a ritual if that spell has the ritual tag and you 
 
 ### Spellcasting Focus
 You can use a druidic focus (found in chapter 5) as a spellcasting focus for your druid spells.
+
+## Wild Shape
+Starting at 2nd level, you can use your action to magically commune with a spirit animal and assume the shape of a beast that you have bonded with.
+
+### Bonding with Spirits
+
+Beginning at 6th level, you can use your Wild Shape twice between rests, and beginning at 18th level, you can use it three times between rests. When you finish a short or long rest, you regain your expended uses.
+
+Your druid level determines the beasts you can transform into, as shown in the Beast Shapes table. At 2nd level, for example, you can transform into any beast that has a challenge rating of 1/4 or lower that doesn't have a flying or swimming speed.
+
+###### Beast Shapes
+
+| Level | Max. CR | Limitations                 | Example     |
+|:-----:|:-------:|:----------------------------|:------------|
+| 2     | ¼       | No flying or swimming speed | Wolf        |
+| 4     | ½       | No flying speed             | Crocodile   |
+| 8     | 1       | —                           | Giant eagle |
+
+You can stay in a beast shape for a number of hours equal to half your druid level (rounded down). You then revert to your normal form unless you expend another use of this feature. You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert if you fall unconscious, drop to 0 hit points, or die.
+
+While you are transformed, the following rules apply:
+
+- Your game statistics are replaced by the statistics of the beast, but you can choose to retain your...
+	- alignment
+	- personality
+	- Intelligence score
+	- Wisdom score
+	- Charisma score
+	- skill proficiencies
+	- saving throw proficiencies
+	- proficiency bonus
+- Your movement and senses are replaced with your beast's movement and senses.
+- When you first transform, you temporarily assume the beast's...
+	- hit points
+	- hit dice size
+	- hit dice pool
+- When you revert to your normal form, you return to the number of hit points & dice you had before you transformed.
+- If you revert as a result of dropping to 0 hit points, any excess damage carries over to your normal form.
+	- For example, if you take 10 damage in animal form and have only 1 hit point left, you revert and take 9 damage. 
+	- As long as the excess damage doesn't reduce your normal form to 0 hit points, you aren't knocked unconscious.
+- Your ability to speak or take any action that requires hands is limited to the capabilities of your beast form.
+- The above rule extends to taking certain actions or using certain features, including...
+	- casting spells that require a somatic component
+	- casting spells that require a verbal component
+	- utilizing features from your class, race, or another source
+- Transforming doesn't break your concentration on a spell you've already cast.
+- Your beast form doesn't prevent you from taking actions that are a part of spell that you've already cast.
+- You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. 
+	- Worn equipment functions as normal. but the DM decides whether it is practical for the new form to wear a piece of equipment, based on the creature's shape and size. Your equipment doesn't change size or shape to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.
