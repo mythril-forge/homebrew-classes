@@ -405,26 +405,28 @@ You can cast a druid spell as a ritual if that spell has the ritual tag and you 
 You can use a druidic focus (found in chapter 5) as a spellcasting focus for your druid spells.
 
 ## Wild Shape
-Starting at 2nd level, you can use your action to magically commune with a spirit animal and assume the shape of a beast that you have bonded with.
+Starting at 2nd level, you can use your action and magically convoke a spirit animal into your body to assume its form.
 
-### Bonding with Spirits
+The connection that you have with the beast's soul must be unbreakable to use this ability. You must have had a significant impact on the beast's soul and commune with it — be it in life or after death.
 
-Beginning at 6th level, you can use your Wild Shape twice between rests, and beginning at 18th level, you can use it three times between rests. When you finish a short or long rest, you regain your expended uses.
+You can use this feature once. Beginning at 6th level, you can use your Wild Shape twice between rests, and beginning at 18th level, you can use it three times between rests. When you finish a short or long rest, you regain your expended uses.
 
-Your druid level determines the beasts you can transform into, as shown in the Beast Shapes table. At 2nd level, for example, you can transform into any beast that has a challenge rating of 1/4 or lower that doesn't have a flying or swimming speed.
+### Beast Transformation
+Your druid level limits the power of the beasts that you can transform into, as shown in the Beast Shapes table. At 2nd level, for example, you can transform into any beast that has a challenge rating of ¼ or lower.
 
 ###### Beast Shapes
 
-| Level | Max. CR | Limitations                 | Example     |
-|:-----:|:-------:|:----------------------------|:------------|
-| 2     | ¼       | No flying or swimming speed | Wolf        |
-| 4     | ½       | No flying speed             | Crocodile   |
-| 8     | 1       | —                           | Giant eagle |
+| Level | Max. CR |
+|:-----:|:-------:|
+| 1     | 0       |
+| 2     | ¼       |
+| 4     | ½       |
+| 8     | 1       |
+| 16    | 2       |
 
-You can stay in a beast shape for a number of hours equal to half your druid level (rounded down). You then revert to your normal form unless you expend another use of this feature. You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert if you fall unconscious, drop to 0 hit points, or die.
+You can stay in a beast shape for a number of hours equal to half your druid level. You then revert to your normal form unless you expend another use of this feature. You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert if you fall unconscious, drop to 0 hit points, or die.
 
 While you are transformed, the following rules apply:
-
 - Your game statistics are replaced by the statistics of the beast, but you can choose to retain your...
 	- alignment
 	- personality
@@ -434,7 +436,7 @@ While you are transformed, the following rules apply:
 	- skill proficiencies
 	- saving throw proficiencies
 	- proficiency bonus
-- Your movement and senses are replaced with your beast's movement and senses.
+- Your movement and senses are replaced by the movement and senses of the beast.
 - When you first transform, you temporarily assume the beast's...
 	- hit points
 	- hit dice size
@@ -445,10 +447,13 @@ While you are transformed, the following rules apply:
 	- As long as the excess damage doesn't reduce your normal form to 0 hit points, you aren't knocked unconscious.
 - Your ability to speak or take any action that requires hands is limited to the capabilities of your beast form.
 - The above rule extends to taking certain actions or using certain features, including...
-	- casting spells that require a somatic component
-	- casting spells that require a verbal component
+	- casting spells that require a verbal or somatic component
 	- utilizing features from your class, race, or another source
-- Transforming doesn't break your concentration on a spell you've already cast.
+- Transforming doesn't break your concentration on a spell that you've already cast.
 - Your beast form doesn't prevent you from taking actions that are a part of spell that you've already cast.
 - You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. 
-	- Worn equipment functions as normal. but the DM decides whether it is practical for the new form to wear a piece of equipment, based on the creature's shape and size. Your equipment doesn't change size or shape to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.
+	- The DM decides whether it is practical for the new form to wear a piece of equipment.
+	- Worn equipment doesn't change size or shape to match the new form. 
+	- Any equipment that the new form can't wear must either fall to the ground or merge with it.
+	- Equipment that merges with the form has no effect until you leave the form.
+	- Worn equipment functions as normal.
