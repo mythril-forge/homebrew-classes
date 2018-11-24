@@ -229,7 +229,7 @@ Superfluous sorcery points vanish at the end of a long rest.
 | 8th              | 11*                           |
 | 9th              | 12*                           |
 
-*You must roll on the wild magic table when you convert a spell slot of this level.*
+*\*You must roll on the wild magic table when you convert a spell slot of this level.*
 
 ## Metamagic
 At 2nd level, you gain the ability to twist your spells to suit your needs.

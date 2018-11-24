@@ -353,23 +353,23 @@ You start with the following items, plus anything provided by your background.
 | Level | Proficiency Bonus | Features                                          | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 |:-----:|:-----------------:|:-------------------------------------------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 1     | +1d4 (+2)         | Druidic, Spellcasting                             | 1   | —   | —   | —   | —   | —   | —   | —   | —   |
-| 2     | +1d4 (+2)         | Wild Shape (1/rest), Druid Circle                 | 2   | —   | —   | —   | —   | —   | —   | —   | —   |
+| 2     | +1d4 (+2)         | Wild Shape (CR ¼, 1/rest), Druid Circle           | 2   | —   | —   | —   | —   | —   | —   | —   | —   |
 | 3     | +1d4 (+2)         | —                                                 | 2   | 1   | —   | —   | —   | —   | —   | —   | —   |
-| 4     | +1d4 (+2)         | Wild Shape Improvement, Ability Score Improvement | 3   | 2   | —   | —   | —   | —   | —   | —   | —   |
-| 5     | +1d6 (+3)         | —                                                 | 3   | 2   | 1   | —   | —   | —   | —   | —   | —   |
-| 6     | +1d6 (+3)         | Wild Shape (2/rest), Druid Circle feature         | 4   | 3   | 1   | —   | —   | —   | —   | —   | —   |
+| 4     | +1d4 (+2)         | Wild Shape (CR ½), Ability Score Improvement      | 3   | 2   | —   | —   | —   | —   | —   | —   | —   |
+| 5     | +1d6 (+3)         | Druid's Companion                                 | 3   | 2   | 1   | —   | —   | —   | —   | —   | —   |
+| 6     | +1d6 (+3)         | Wild Shape (CR 1, 2/rest), Druid Circle feature   | 4   | 3   | 1   | —   | —   | —   | —   | —   | —   |
 | 7     | +1d6 (+3)         | —                                                 | 4   | 3   | 2   | 1   | —   | —   | —   | —   | —   |
-| 8     | +1d6 (+3)         | Wild Shape Improvement, Ability Score Improvement | 4   | 4   | 2   | 1   | —   | —   | —   | —   | —   |
+| 8     | +1d6 (+3)         | Wild Shape (CR 2), Ability Score Improvement      | 4   | 4   | 2   | 1   | —   | —   | —   | —   | —   |
 | 9     | +1d8 (+4)         | —                                                 | 4   | 4   | 2   | 2   | 1   | —   | —   | —   | —   |
 | 10    | +1d8 (+4)         | Druid Circle feature                              | 4   | 4   | 3   | 2   | 1   | —   | —   | —   | —   |
-| 11    | +1d8 (+4)         | —                                                 | 4   | 4   | 3   | 2   | 2   | 1   | —   | —   | —   |
+| 11    | +1d8 (+4)         | Timeless Body                                     | 4   | 4   | 3   | 2   | 2   | 1   | —   | —   | —   |
 | 12    | +1d8 (+4)         | Ability Score Improvement                         | 4   | 4   | 3   | 3   | 2   | 1   | —   | —   | —   |
 | 13    | +1d10 (+5)        | —                                                 | 4   | 4   | 3   | 3   | 2   | 1   | 1   | —   | —   |
 | 14    | +1d10 (+5)        | Druid Circle feature                              | 4   | 4   | 3   | 3   | 3   | 1   | 1   | —   | —   |
 | 15    | +1d10 (+5)        | —                                                 | 4   | 4   | 3   | 3   | 3   | 1   | 1   | 1   | —   |
 | 16    | +1d10 (+5)        | Ability Score Improvement                         | 4   | 4   | 3   | 3   | 3   | 2   | 1   | 1   | —   |
-| 17    | +1d12 (+6)        | —                                                 | 4   | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
-| 18    | +1d12 (+6)        | Wild Shape (3/rest), Timeless Body, Beast Spells  | 4   | 4   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
+| 17    | +1d12 (+6)        | Beast Spells                                      | 4   | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 18    | +1d12 (+6)        | Wild Shape (3/rest)                               | 4   | 4   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 | 19    | +1d12 (+6)        | Ability Score Improvement                         | 4   | 4   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 | 20    | +1d12 (+6)        | Archdruid                                         | 4   | 4   | 3   | 3   | 3   | 2   | 2   | 2   | 1   |
 
@@ -409,20 +409,23 @@ Starting at 2nd level, you can use your action and magically convoke a spirit an
 
 The connection that you have with the beast's soul must be unbreakable to use this ability. You must have had a significant impact on the beast's soul and commune with it — be it in life or after death.
 
+You have already communed with one CR 0 beast of your choice.
+
 You can use this feature once. Beginning at 6th level, you can use your Wild Shape twice between rests, and beginning at 18th level, you can use it three times between rests. When you finish a short or long rest, you regain your expended uses.
 
 ### Beast Transformation
-Your druid level limits the power of the beasts that you can transform into, as shown in the Beast Shapes table. At 2nd level, for example, you can transform into any beast that has a challenge rating of ¼ or lower.
+Your druid level dictates the maximum power of the beasts that you can transform into, as shown in the Beast Shapes table. At 2nd level, for example, you can transform into any beast that has a challenge rating of ¼ or lower.
 
 ###### Beast Shapes
 
-| Level | Max. CR |
-|:-----:|:-------:|
-| 1     | 0       |
-| 2     | ¼       |
-| 4     | ½       |
-| 8     | 1       |
-
+| Level | Max. CR | No. Uses |
+|:-----:|:-------:|:--------:|
+| 2     | ¼       | 1        |
+| 4     | ½       | 1        |
+| 6     | 1       | 2        |
+| 8     | 2       | 2        |
+| 18    | 2       | 3        |
+ 
 You can stay in a beast shape for a number of hours equal to half your druid level. You then revert to your normal form unless you expend another use of this feature. You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert if you fall unconscious, drop to 0 hit points, or die.
 
 While you are transformed, the following rules apply:
@@ -436,6 +439,7 @@ While you are transformed, the following rules apply:
 	- saving throw proficiencies
 	- proficiency bonus
 - Your movement and senses are replaced by the movement and senses of the beast.
+- If the creature has any Legendary Actions or Lair Actions, you can't use them.
 - When you first transform, you temporarily assume the beast's...
 	- hit points
 	- hit dice size
@@ -443,16 +447,70 @@ While you are transformed, the following rules apply:
 - When you revert to your normal form, you return to the number of hit points & dice you had before you transformed.
 - If you revert as a result of dropping to 0 hit points, any excess damage carries over to your normal form.
 	- For example, if you take 10 damage in animal form and have only 1 hit point left, you revert and take 9 damage. 
-	- As long as the excess damage doesn't reduce your normal form to 0 hit points, you aren't knocked unconscious.
+	- When you revert forms in this way, you are knocked unconscious.
 - Your ability to speak or take any action that requires hands is limited to the capabilities of your beast form.
 - The above rule extends to taking certain actions or using certain features, including...
 	- casting spells that require a verbal or somatic component
 	- utilizing features from your class, race, or another source
 - Transforming doesn't break your concentration on a spell that you've already cast.
 - Your beast form doesn't prevent you from taking actions that are a part of spell that you've already cast.
-- You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. 
+- You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it.
 	- The DM decides whether it is practical for the new form to wear a piece of equipment.
+	- Worn equipment functions as normal.
 	- Worn equipment doesn't change size or shape to match the new form. 
 	- Any equipment that the new form can't wear must either fall to the ground or merge with it.
 	- Equipment that merges with the form has no effect until you leave the form.
-	- Worn equipment functions as normal.
+
+## Druid Circle
+At 2nd level, you choose to identify with a circle of druids from the list of available circles. Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.
+
+## Ability Score Improvement
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+## Druid's Companion
+At 5th level, you can use an action to call forth a beast companion to accompany you in difficult times.
+
+The DM first determines whether an animal would come to aid depending on your current surroundings. If the call for help is successful, then the DM chooses a beast and assumes control of it.
+
+Though the beast is likely feral, it senses your kinship and can come to aid you in various situations.
+
+The beast will leave your service if you overcome your foremost obstacles, if it becomes afraid of an obstacle, or if you signal to it that its help is no longer needed.
+
+If your beast companion dies, you can't use this feature again for 7 days. Otherwise, you can use it again after you finish a long rest.
+
+## Timeless Body
+Starting at 11th level, the primal magic that you wield causes you to age more slowly. For every 10 years that pass, your body ages only 1 year.
+
+## Beast Spells
+Beginning at 17th level, you can cast many of your druid spells in any shape you assume using Wild Shape. You can perform the somatic and verbal components of a druid spell while in a beast shape regardless of the form that you choose.
+
+## Archdruid
+At 20th level, you can take 3 legendary actions when you are in your original form. Only one legendary action can be used at a time, and only at the end of another creature's turn. Spent legendary actions are regained at the end of your turn.
+
+When you use Wild Shape, you can now use Legendary Actions or Lair Actions if your new form has any. You do not regenerate legendary actions when you transform.
+
+### Spontaneous Wildshape
+***Cost: 1 action***
+
+You use your Wild Shape ability to transform into a beast.
+
+### Natural Instinct
+***Cost: 1 action***
+
+You make one ability check that has to do with the natural environment around you. For example, you could make a...
+- Wisdom (Nature) check
+- Intelligence (Medicine) check
+- Charisma (Animal Handling) check
+Consult with your DM to determine which ability check might keep you most in tune with the natural world.
+
+### Swift Attack
+***Cost: 2 actions***
+
+You make one weapon attack.
+
+### Sudden Spell
+***Cost: 3 actions***
+
+You cast any one cantrip or spell using a spell slot of 5th-level or lower. The spell must have a casting time of one action or bonus action.
