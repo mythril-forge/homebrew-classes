@@ -489,7 +489,7 @@ Beginning at 17th level, you can cast many of your druid spells in any shape you
 ## Archdruid
 At 20th level, you can take 3 legendary actions when you are in your original form. Only one legendary action can be used at a time, and only at the end of another creature's turn. Spent legendary actions are regained at the end of your turn.
 
-When you use Wild Shape, you can now use Legendary Actions or Lair Actions if your new form has any. You do not regenerate legendary actions when you transform.
+When you use Wild Shape, you can now also use Legendary Actions or Lair Actions if your new form has any. You are set with 0 legendary actions remaining when you first transform.
 
 ### Spontaneous Wildshape
 ***Cost: 1 action***
@@ -499,10 +499,8 @@ You use your Wild Shape ability to transform into a beast.
 ### Natural Instinct
 ***Cost: 1 action***
 
-You make one ability check that has to do with the natural environment around you. For example, you could make a...
-- Wisdom (Nature) check
-- Intelligence (Medicine) check
-- Charisma (Animal Handling) check
+You make one ability check that has to do with the natural environment around you.
+
 Consult with your DM to determine which ability check might keep you most in tune with the natural world.
 
 ### Swift Attack
@@ -513,4 +511,4 @@ You make one weapon attack.
 ### Sudden Spell
 ***Cost: 3 actions***
 
-You cast any one cantrip or spell using a spell slot of 5th-level or lower. The spell must have a casting time of one action or bonus action.
+You cast any one cantrip or spell using a spell slot of 5th-level or lower. The spell must have a casting time of one action.
