@@ -444,6 +444,7 @@ While you are transformed, the following rules apply:
 	- hit points
 	- hit dice size
 	- hit dice pool
+- When in your new form, you can use Wild Shape again to fully heal your current hit points.
 - When you revert to your normal form, you return to the number of hit points & dice you had before you transformed.
 - If you revert as a result of dropping to 0 hit points, any excess damage carries over to your normal form.
 	- For example, if you take 10 damage in animal form and have only 1 hit point left, you revert and take 9 damage. 
@@ -487,11 +488,11 @@ Starting at 11th level, the primal magic that you wield causes you to age more s
 Beginning at 17th level, you can cast many of your druid spells in any shape you assume using Wild Shape. You can perform the somatic and verbal components of a druid spell while in a beast shape regardless of the form that you choose.
 
 ## Archdruid
-At 20th level, you can take 3 legendary actions when you are in your original form. Only one legendary action can be used at a time, and only at the end of another creature's turn. Spent legendary actions are regained at the end of your turn.
+At 20th level, you can now use legendary actions or lair actions while using Wild Shape, if your form has any.
 
-When you use Wild Shape, you can now also use Legendary Actions or Lair Actions if your new form has any. You are set with 0 legendary actions remaining when you first transform.
+You can also take 3 legendary actions when you are in your original form, choosing from the options below. Only one legendary action can be used at a time, and only at the end of another creature's turn. Spent legendary actions are regained at the end of your turn. When you transform using Wild Shape, you are set with 0 legendary actions remaining.
 
-### Spontaneous Wildshape
+### Spontaneous Wild Shape
 ***Cost: 1 action***
 
 You use your Wild Shape ability to transform into a beast.
@@ -501,14 +502,12 @@ You use your Wild Shape ability to transform into a beast.
 
 You make one ability check that has to do with the natural environment around you.
 
-Consult with your DM to determine which ability check might keep you most in tune with the natural world.
-
-### Swift Attack
+### Weapon Attack
 ***Cost: 2 actions***
 
 You make one weapon attack.
 
-### Sudden Spell
+### Cast a Spell
 ***Cost: 3 actions***
 
 You cast any one cantrip or spell using a spell slot of 5th-level or lower. The spell must have a casting time of one action.
