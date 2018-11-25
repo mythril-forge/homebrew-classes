@@ -473,7 +473,7 @@ If your DM allows the use of feats, you may instead take a feat.
 ## Druid's Companion
 At 5th level, you can use an action to call forth a beast companion to accompany you in difficult times.
 
-The DM first determines whether an animal would come to aid depending on your current surroundings. If the call for help is successful, then the DM chooses a beast and assumes control of it.
+The DM first determines whether an animal would come to aid depending on your current surroundings. If the call for help is successful, then the DM chooses a beast and assumes control of it. At most, it should have a CR that matches your Wild Shape ability.
 
 Though the beast is likely feral, it senses your kinship and can come to aid you in various situations.
 
@@ -492,7 +492,7 @@ At 20th level, you can now use legendary actions or lair actions while using Wil
 
 You can also take 3 legendary actions when you are in your original form, choosing from the options below. Only one legendary action can be used at a time, and only at the end of another creature's turn. Spent legendary actions are regained at the end of your turn. When you transform using Wild Shape, you are set with 0 legendary actions remaining.
 
-### Spontaneous Wild Shape
+### Wild Shape
 ***Cost: 1 action***
 
 You use your Wild Shape ability to transform into a beast.
@@ -510,4 +510,4 @@ You make one weapon attack.
 ### Cast a Spell
 ***Cost: 3 actions***
 
-You cast any one cantrip or spell using a spell slot of 5th-level or lower. The spell must have a casting time of one action.
+You cast one spell of 1st-level or higher with a casting time of 1 action.
