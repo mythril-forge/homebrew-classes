@@ -6,9 +6,16 @@ These druids seek out lands that have been tainted by undeath. Such places are g
 ## Harvest's Scythe
 Starting at 2nd level, you learn to unravel and harvest the life energy of other creatures. You can augment your spells to drain the life force from creatures. You have a pool of energy represented by a number of d10s equal to your druid level.
 
-When you roll damage for a spell, you can increase that damage by spending dice from the pool. You can spend a number of dice equal to half your druid level or less. Roll the spent dice and add them to the damage as necrotic damage. If you kill one or more hostile creatures with a spell augmented in this way, you or an ally of your choice that you can see within 30 feet of you regains 2 hit points per die spent to increase the spell's damage, or 5 hit points per die if at least one of the slain creatures was undead.
+When you roll damage for a weapon attack, you can increase that damage by spending dice from the pool. Roll the spent dice and add them to the damage as radiant and necrotic — whichever deals more damage.
 
-You regain the expended dice when you finish a long rest.
+### Harvest's Bounty
+If you kill a creature with an attack augmented in this way, you gain a pool of healing power equal to the amount of hit points that the creature had left before dying. This pool of healing power resets when you take a long rest.
+
+As an action, you can touch a creature and draw power from the pool to restore a number of hit points to that creature, up to the maximum amount remaining in your pool.
+
+Alternatively, you can expend 5 hit points from your pool of healing to cure the target of one disease or neutralize one poison affecting it. You can cure multiple diseases and neutralize multiple poisons with a single use of Lay on Hands, expending hit points separately for each one.
+
+This feature has no effect on undead and constructs.
 
 ## Speech Beyond the Grave
 At 6th level, you gain the ability to reach beyond death's veil in search of knowledge. Using this feature, you can cast speak with dead without material components, and you understand what the target of this casting says. It can understand your questions, even if you don't share a language or it is not intelligent enough to speak.
