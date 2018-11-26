@@ -493,7 +493,22 @@ At 20th level, you can now use legendary actions or lair actions while using Wil
 
 You can also take 3 legendary actions when you are in your original form, choosing from the options below. Only one legendary action can be used at a time, and only at the end of another creature's turn. Spent legendary actions are regained at the end of your turn. When you transform using Wild Shape, you are set with 0 legendary actions remaining.
 
-- **Wild Shape.** *(Cost: 1 action)* You use your Wild Shape ability to transform into a beast.
-- **Natural Instinct.** *(Cost: 1 action)* You make one ability check that has to do with the natural environment around you.
-- **Weapon Attack.** *(Cost: 2 actions)* You make one weapon attack.
-- **Cast a Spell.** *(Cost: 3 actions)* You cast one spell of 1st-level or higher with a casting time of 1 action.
+### Wild Shape
+***Cost: 1 action***
+
+You use your Wild Shape ability to transform into a beast.
+
+### Natural Instinct
+***Cost: 1 action***
+
+You make one ability check that has to do with the natural environment around you.
+
+### Weapon Attack
+***Cost: 2 actions***
+
+You make one weapon attack.
+
+### Cast a Spell
+***Cost: 3 actions***
+
+You cast one spell of 1st-level or higher with a casting time of 1 action.

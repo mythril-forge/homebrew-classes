@@ -43,7 +43,14 @@ Starting at 8th level, you add your Wisdom modifier to the damage you deal with 
 ## Visions of the Past
 Starting at 17th level, you can call up visions of the past that relate to an object you hold or your immediate surroundings. You spend at least 5 minutes in meditation and prayer, then receive dreamlike, shadowy glimpses of recent events. You can meditate in this way indefinately but must maintain concentration during that time, as if you were casting a spell.
 
-- **Object Reading.** Holding an object as you meditate, you can see visions of the object's previous owner. After meditating for 5 minutes, you learn how the owner acquired and lost the object, as well as the most recent significant event involving the object and that owner. If the object was owned by another creature in the recent past, you can spend 5 additional minutes for each owner to learn the same information about that creature.
-- **Area Reading.** As you meditate, you see visions of recent events in your immediate vicinity (a room, street, tunnel, clearing, or the like, up to a 50-foot cube), going back a certain number of days. For every 5 minutes that you meditate, you learn about one significant event, beginning with the most recent. Significant events typically involve powerful emotions, such as battles and betrayals, marriages and murders, births and funerals. However, they might also include more mundane events that are nevertheless important in your current situation.
-
 Once you use this feature, you can't use it again until you finish a short or long rest.
+
+### Object Reading
+Holding an object as you meditate, you can see visions of the object's previous owner. After meditating for 5 minutes, you learn how the owner acquired and lost the object, as well as the most recent significant event involving the object and that owner.
+
+If the object was owned by another creature in the recent past, you can spend 5 additional minutes for each owner to learn the same information about that creature.
+
+### Area Reading
+As you meditate, you see visions of recent events in your immediate vicinity (a room, street, tunnel, clearing, or the like, up to a 50-foot cube), going back a certain number of days.
+
+For every 5 minutes that you meditate, you learn about one significant event, beginning with the most recent. Significant events typically involve powerful emotions, such as battles and betrayals, marriages and murders, births and funerals. However, they might also include more mundane events that are nevertheless important in your current situation.
