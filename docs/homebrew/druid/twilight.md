@@ -52,21 +52,6 @@ At 10th level, you gain resistance to necrotic and radiant damage. When a spell 
 
 In addition, you have advantage on death saving throws.
 
-> ##### The Ethereal Plane
-> The Ethereal Plane is a misty, fog-bound dimension. Its “shores,” called the Border Ethereal, overlap the Material Plane and the Inner Planes, so that every location on those planes has a corresponding location on the Ethereal Plane. Visibility in the Border Ethereal is limited to 60 feet The plane’s depths comprise a region of swirling mist and fog called the Deep Ethereal where visibility is limited to 30 feet.
-> 
-> Characters can use the 7th-level *etherealness* spell to enter the Border Ethereal. The 7th-level *plane shift* spell allows transport to the Border Ethereal or the Deep Ethereal, but unless the intended destination is a specific location or a teleportation circle, the point of arrival could be anywhere on the plane.
-> 
-> ###### Border Ethereal
-> From the Border Ethereal, a traveler can see into whatever plane it overlaps, but that plane appears muted and indistinct, its colors blurring into each other and its edges turning fuzzy. Ethereal denizens watch the plane as though peering through distorted and frosted glass, and can’t see anything beyond 60 feet into the other plane. Conversely, the Ethereal Plane is usually invisible to those on the overlapped planes, except with the aid of magic.
-> 
-> Normally, creatures in the Border Ethereal can’t attack creatures on the overlapped plane, and vice versa. A traveler on the Ethereal Plane is invisible and utterly silent to someone on the overlapped plane, and solid objects on the overlapped plane don’t hamper the movement of a creature in the Border Ethereal. The exceptions are certain magical effects (including anything made of magical force) and living beings. This makes the Ethereal Plane ideal for reconnaissance, spying on opponents, and moving around without being detected. The Ethereal Plane also disobeys the laws of gravity; a creature there can move up and down as easily as walking.
-> 
-> ###### Deep Ethereal
-> To reach the Deep Ethereal, one needs a 7th-level *plane shift* spell or arrive by means of a magical portal. Visitors to the Deep Ethereal are engulfed by rolling mist. Scattered throughout the plane are curtains of vaporous color, and passing through a curtain leads a traveler to a region of the Border Ethereal connected to a specific Inner Plane, the Material Plane, the Feywild, or the Shadowfell. The color of the curtain indicates the plane whose Border Ethereal the curtain conceals.
-> 
-> Traveling through the Deep Ethereal to journey from one plane to another is unlike physical travel. Distance is meaningless, so although travelers feel as if they can move by a simple act of will, it's impossible to measure speed and hard to track the passage of time. A trip between planes through the Deep Ethereal takes 1d10 x 10 hours, regardless of the origin and destination. In combat, however, creatures are considered to move at their normal speeds.
-
 ## Paths of the Dead
 You have attuned to the planes of life and death, and can quickly switch between those planes.
 
@@ -88,4 +73,19 @@ While on the Ethereal Plane, you appear whispy and ghostly, and you can only aff
 
 If you occupy the same spot as a solid object or creature when you start following *Traveler's Law*, you are immediately shunted to the nearest unoccupied space that you can occupy and take force damage equal to twice the number of feet you are moved.
 
-If you drop an item while following *Traveler's Law*, it is deposited on the plane that you are bordering. If you start following *Ethereal Law* while you are carrying an inanimate object no more than one size smaller than you, it follows you to the Ethereal plane. 
+If you drop an item while following *Traveler's Law*, it is deposited on the plane that you are bordering. If you start following *Ethereal Law* while you are carrying an inanimate object no more than one size smaller than you, it follows you to the Ethereal plane.
+
+> ##### The Ethereal Plane
+> The Ethereal Plane is a misty, fog-bound dimension. Its “shores,” called the Border Ethereal, overlap the Material Plane and the Inner Planes, so that every location on those planes has a corresponding location on the Ethereal Plane. Visibility in the Border Ethereal is limited to 60 feet The plane’s depths comprise a region of swirling mist and fog called the Deep Ethereal where visibility is limited to 30 feet.
+> 
+> Characters can use the 7th-level *etherealness* spell to enter the Border Ethereal. The 7th-level *plane shift* spell allows transport to the Border Ethereal or the Deep Ethereal, but unless the intended destination is a specific location or a teleportation circle, the point of arrival could be anywhere on the plane.
+> 
+> ###### Border Ethereal
+> From the Border Ethereal, a traveler can see into whatever plane it overlaps, but that plane appears muted and indistinct, its colors blurring into each other and its edges turning fuzzy. Ethereal denizens watch the plane as though peering through distorted and frosted glass, and can’t see anything beyond 60 feet into the other plane. Conversely, the Ethereal Plane is usually invisible to those on the overlapped planes, except with the aid of magic.
+> 
+> Normally, creatures in the Border Ethereal can’t attack creatures on the overlapped plane, and vice versa. A traveler on the Ethereal Plane is invisible and utterly silent to someone on the overlapped plane, and solid objects on the overlapped plane don’t hamper the movement of a creature in the Border Ethereal. The exceptions are certain magical effects (including anything made of magical force) and living beings. This makes the Ethereal Plane ideal for reconnaissance, spying on opponents, and moving around without being detected. The Ethereal Plane also disobeys the laws of gravity; a creature there can move up and down as easily as walking.
+> 
+> ###### Deep Ethereal
+> To reach the Deep Ethereal, one needs a 7th-level *plane shift* spell or arrive by means of a magical portal. Visitors to the Deep Ethereal are engulfed by rolling mist. Scattered throughout the plane are curtains of vaporous color, and passing through a curtain leads a traveler to a region of the Border Ethereal connected to a specific Inner Plane, the Material Plane, the Feywild, or the Shadowfell. The color of the curtain indicates the plane whose Border Ethereal the curtain conceals.
+> 
+> Traveling through the Deep Ethereal to journey from one plane to another is unlike physical travel. Distance is meaningless, so although travelers feel as if they can move by a simple act of will, it's impossible to measure speed and hard to track the passage of time. A trip between planes through the Deep Ethereal takes 1d10 x 10 hours, regardless of the origin and destination. In combat, however, creatures are considered to move at their normal speeds.
