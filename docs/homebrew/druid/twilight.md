@@ -34,7 +34,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | 7th         | death ward                                     |
 | 9th         | awaken                                         |
 | 11th        | sunbeam                                        |
-| 13th        | etherealness                                   |
+| 13th        | Ætherealness                                   |
 
 ## Eyes of the Reaper
 At 6th level, you can see a glowing energy force around creatures. You can see this glow in darkness. You can distinguish between different types of creatures based on the color of this energy, as shown in the Life Force table below.
@@ -55,37 +55,37 @@ At 10th level, you gain resistance to necrotic and radiant damage. When a spell 
 ## Paths of the Dead
 You have attuned to the planes of life and death, and can quickly switch between those planes.
 
-While you are on the Border Ethereal, you can use an action to pull open a small portal to the Deep Ethereal. This portal is one way, and lasts until you leave the Border Ethereal or until you use an action close it.
+While you are on the Border Æthereal, you can use an action to pull open a small portal to the Deep Æthereal. This portal is one way, and lasts until you leave the Border Æthereal or until you use an action close it.
 
-In addition, you can bend the rules of the universe while you are in the Border Ethereal. When you first enter the Border Ethereal, your form follows *Ethereal Law*. While you are there, you can use an action to start following *Traveler's Law*, or again to start following *Ethereal Law*.
+In addition, you can bend the rules of the universe while you are in the Border Æthereal. When you first enter the Border Æthereal, your form follows *Æthereal Law*. While you are there, you can use an action to start following *Traveler's Law*, or again to start following *Æthereal Law*.
 
-### Ethereal Law
-While you are in the Ethereal Plane, gravity doesn't affect you, and you can move in any direction. If you move up or down, every foot of movement costs an extra foot. You can see and hear into the plane that you are bordering, but everything there looks gray, and you can't see anything more than 60 feet away.
+### Æthereal Law
+While you are in the Æthereal Plane, gravity doesn't affect you, and you can move in any direction. If you move up or down, every foot of movement costs an extra foot. You can see and hear into the plane that you are bordering, but everything there looks gray, and you can't see anything more than 60 feet away.
 
-While on the Ethereal Plane, you can only affect and be affected by other creatures on that plane. Creatures that aren't on the Ethereal Plane can't perceive you and can't interact with you, unless a special ability or magic has given them the ability to do so.
+While on the Æthereal Plane, you can only affect and be affected by other creatures on that plane. Creatures that aren't on the Æthereal Plane can't perceive you and can't interact with you, unless a special ability or magic has given them the ability to do so.
 
-You ignore all objects and effects that aren't on the Ethereal Plane, allowing you to move through objects you perceive on the plane that you are bordering.
+You ignore all objects and effects that aren't on the Æthereal Plane, allowing you to move through objects you perceive on the plane that you are bordering.
 
 ### Traveler's Law
-While you are in the Ethereal Plane, gravity doesn't affect you, and you can move in any direction. If you move up or down, every foot of movement costs an extra foot. You can see and hear into the plane that you are bordering, but everything there looks gray, and you can't see anything more than 60 feet away.
+While you are in the Æthereal Plane, gravity doesn't affect you, and you can move in any direction. If you move up or down, every foot of movement costs an extra foot. You can see and hear into the plane that you are bordering, but everything there looks gray, and you can't see anything more than 60 feet away.
 
-While on the Ethereal Plane, you appear whispy and ghostly, and you can only affect and be affected by creatures on the plane that you are bordering. Other creatures that are on the Ethereal Plane can't interact with you, unless a special ability or magic has given them the ability to do so.
+While on the Æthereal Plane, you appear whispy and ghostly, and you can only affect and be affected by creatures on the plane that you are bordering. Other creatures that are on the Æthereal Plane can't interact with you, unless a special ability or magic has given them the ability to do so.
 
 If you occupy the same spot as a solid object or creature when you start following *Traveler's Law*, you are immediately shunted to the nearest unoccupied space that you can occupy and take force damage equal to twice the number of feet you are moved.
 
-If you drop an item while following *Traveler's Law*, it is deposited on the plane that you are bordering. If you start following *Ethereal Law* while you are carrying an inanimate object no more than one size smaller than you, it follows you to the Ethereal plane.
+If you drop an item while following *Traveler's Law*, it is deposited on the plane that you are bordering. If you start following *Æthereal Law* while you are carrying an inanimate object no more than one size smaller than you, it follows you to the Æthereal plane.
 
-> ##### The Ethereal Plane
-> The Ethereal Plane is a misty, fog-bound dimension. Its “shores,” called the Border Ethereal, overlap the Material Plane and the Inner Planes, so that every location on those planes has a corresponding location on the Ethereal Plane. Visibility in the Border Ethereal is limited to 60 feet The plane’s depths comprise a region of swirling mist and fog called the Deep Ethereal where visibility is limited to 30 feet.
+> ##### The Æthereal Plane
+> The Æthereal Plane is a misty, fog-bound dimension. Its “shores,” called the Border Æthereal, overlap the Material Plane and the Inner Planes, so that every location on those planes has a corresponding location on the Æthereal Plane. Visibility in the Border Æthereal is limited to 60 feet The plane’s depths comprise a region of swirling mist and fog called the Deep Æthereal where visibility is limited to 30 feet.
 > 
-> Characters can use the 7th-level *etherealness* spell to enter the Border Ethereal. The 7th-level *plane shift* spell allows transport to the Border Ethereal or the Deep Ethereal, but unless the intended destination is a specific location or a teleportation circle, the point of arrival could be anywhere on the plane.
+> Characters can use the 7th-level *Ætherealness* spell to enter the Border Æthereal. The 7th-level *plane shift* spell allows transport to the Border Æthereal or the Deep Æthereal, but unless the intended destination is a specific location or a teleportation circle, the point of arrival could be anywhere on the plane.
 > 
-> ###### Border Ethereal
-> From the Border Ethereal, a traveler can see into whatever plane it overlaps, but that plane appears muted and indistinct, its colors blurring into each other and its edges turning fuzzy. Ethereal denizens watch the plane as though peering through distorted and frosted glass, and can’t see anything beyond 60 feet into the other plane. Conversely, the Ethereal Plane is usually invisible to those on the overlapped planes, except with the aid of magic.
+> ###### Border Æthereal
+> From the Border Æthereal, a traveler can see into whatever plane it overlaps, but that plane appears muted and indistinct, its colors blurring into each other and its edges turning fuzzy. Æthereal denizens watch the plane as though peering through distorted and frosted glass, and can’t see anything beyond 60 feet into the other plane. Conversely, the Æthereal Plane is usually invisible to those on the overlapped planes, except with the aid of magic.
 > 
-> Normally, creatures in the Border Ethereal can’t attack creatures on the overlapped plane, and vice versa. A traveler on the Ethereal Plane is invisible and utterly silent to someone on the overlapped plane, and solid objects on the overlapped plane don’t hamper the movement of a creature in the Border Ethereal. The exceptions are certain magical effects (including anything made of magical force) and living beings. This makes the Ethereal Plane ideal for reconnaissance, spying on opponents, and moving around without being detected. The Ethereal Plane also disobeys the laws of gravity; a creature there can move up and down as easily as walking.
+> Normally, creatures in the Border Æthereal can’t attack creatures on the overlapped plane, and vice versa. A traveler on the Æthereal Plane is invisible and utterly silent to someone on the overlapped plane, and solid objects on the overlapped plane don’t hamper the movement of a creature in the Border Æthereal. The exceptions are certain magical effects (including anything made of magical force) and living beings. This makes the Æthereal Plane ideal for reconnaissance, spying on opponents, and moving around without being detected. The Æthereal Plane also disobeys the laws of gravity; a creature there can move up and down as easily as walking.
 > 
-> ###### Deep Ethereal
-> To reach the Deep Ethereal, one needs a 7th-level *plane shift* spell or arrive by means of a magical portal. Visitors to the Deep Ethereal are engulfed by rolling mist. Scattered throughout the plane are curtains of vaporous color, and passing through a curtain leads a traveler to a region of the Border Ethereal connected to a specific Inner Plane, the Material Plane, the Feywild, or the Shadowfell. The color of the curtain indicates the plane whose Border Ethereal the curtain conceals.
+> ###### Deep Æthereal
+> To reach the Deep Æthereal, one needs a 7th-level *plane shift* spell or arrive by means of a magical portal. Visitors to the Deep Æthereal are engulfed by rolling mist. Scattered throughout the plane are curtains of vaporous color, and passing through a curtain leads a traveler to a region of the Border Æthereal connected to a specific Inner Plane, the Material Plane, the Feywild, or the Shadowfell. The color of the curtain indicates the plane whose Border Æthereal the curtain conceals.
 > 
-> Traveling through the Deep Ethereal to journey from one plane to another is unlike physical travel. Distance is meaningless, so although travelers feel as if they can move by a simple act of will, it's impossible to measure speed and hard to track the passage of time. A trip between planes through the Deep Ethereal takes 1d10 x 10 hours, regardless of the origin and destination. In combat, however, creatures are considered to move at their normal speeds.
+> Traveling through the Deep Æthereal to journey from one plane to another is unlike physical travel. Distance is meaningless, so although travelers feel as if they can move by a simple act of will, it's impossible to measure speed and hard to track the passage of time. A trip between planes through the Deep Æthereal takes 1d10 x 10 hours, regardless of the origin and destination. In combat, however, creatures are considered to move at their normal speeds.
