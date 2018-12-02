@@ -449,8 +449,8 @@ While you are transformed, the following rules apply:
 - If you revert as a result of dropping to 0 hit points, any excess damage carries over to your normal form.
 	- For example, if you take 10 damage in animal form and have only 1 hit point left, you revert and take 9 damage. 
 	- When you revert forms in this way, you are knocked unconscious.
+- You can use the *shillelagh* spell while in beast form to amplify your natural attacks.
 - Your ability to speak or take any action that requires hands is limited to the capabilities of your beast form.
-- You can use the spell *shillelagh* while in beast form to amplify your natural attacks.
 - The above rule extends to taking certain actions or using certain features, including...
 	- attacking with weapons like scimitars
 	- casting spells that require a verbal or somatic component

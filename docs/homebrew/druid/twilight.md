@@ -6,8 +6,7 @@ These druids seek out lands that have been tainted by undeath. Such places are g
 ## Harvest's Scythe
 Starting at 2nd level, you learn to unravel and harvest the life energy of other creatures. You can augment your attacks to drain the life force from creatures. You have a pool of energy represented by a number of d10s equal to your druid level.
 
-When you roll damage for a weapon or spell attack that targets only one creature, you can increase that damage by spending dice from the pool. Roll the spent dice and add them to the damage as radiant and necrotic — whichever deals more damage.
-
+When you roll damage for a weapon or spell attack that targets only one creature, you can increase that damage by spending dice from the pool. Roll the spent dice and add them to the damage as radiant and necrotic — whichever deals more
 You regain the expended dice when you finish a long rest.
 
 ### Harvest's Bounty
@@ -32,7 +31,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | 7th         | death ward                                     |
 | 9th         | awaken                                         |
 | 11th        | sunbeam                                        |
-| 13th        | Ætherealness                                   |
+| 13th        | ætherealness                                   |
 
 ## Eyes of the Reaper
 At 6th level, you can see a glowing energy force around creatures. You can see this glow in darkness. You can distinguish between different types of creatures based on the color of this energy, as shown in the Life Force table below.
@@ -42,10 +41,10 @@ In this way, you can sense invisible creatures around you, but cannot distinguis
 ###### Life Force Table
 | Life Force          | Energy Color    |
 |:--------------------|:----------------|
-| Living, Aberrations | Bright Blue     |
-| Dead, Constructs    | Faint Red       |
-| Undead, Fiends      | Purplish Black  |
-| Fey, Celestials     | Yellowish White |
+| Living, Aberrations | Bright blue     |
+| Dead, Constructs    | Faint red       |
+| Undead, Fiends      | Purplish-black  |
+| Fey, Celestials     | Yellowish-white |
 
 ## Magic from the Threshold
 At 10th level, you gain resistance to necrotic and radiant damage. When a spell you cast deals either necrotic or radiant damage, you can choose to switch its damage type to the other. In addition, you have advantage on death saving throws.
@@ -76,7 +75,7 @@ If you drop an item while following *Traveler's Law*, it is deposited on the pla
 > ##### The Æthereal Plane
 > The Æthereal Plane is a misty, fog-bound dimension. Its “shores,” called the Border Æthereal, overlap the Material Plane and the Inner Planes, so that every location on those planes has a corresponding location on the Æthereal Plane. Visibility in the Border Æthereal is limited to 60 feet The plane’s depths comprise a region of swirling mist and fog called the Deep Æthereal where visibility is limited to 30 feet.
 > 
-> Characters can use the 7th-level *Ætherealness* spell to enter the Border Æthereal. The 7th-level *plane shift* spell allows transport to the Border Æthereal or the Deep Æthereal, but unless the intended destination is a specific location or a teleportation circle, the point of arrival could be anywhere on the plane.
+> Characters can use the 7th-level *ætherealness* spell to enter the Border Æthereal. The 7th-level *plane shift* spell allows transport to the Border Æthereal or the Deep Æthereal, but unless the intended destination is a specific location or a teleportation circle, the point of arrival could be anywhere on the plane.
 > 
 > ###### Border Æthereal
 > From the Border Æthereal, a traveler can see into whatever plane it overlaps, but that plane appears muted and indistinct, its colors blurring into each other and its edges turning fuzzy. Æthereal denizens watch the plane as though peering through distorted and frosted glass, and can’t see anything beyond 60 feet into the other plane. Conversely, the Æthereal Plane is usually invisible to those on the overlapped planes, except with the aid of magic.
