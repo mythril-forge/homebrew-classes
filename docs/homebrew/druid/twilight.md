@@ -22,7 +22,7 @@ Alternatively, you can expend 5 hit points from your pool of healing to cure the
 This feature has no effect on undead and constructs.
 
 ## Circle Spells
-Your mystical connection to life and death infuses you with the ability to cast certain spells. At 3rd and 5th level you gain access to circle spells.
+Your mystical connection to life and death infuses you with the ability to cast certain spells. At 3rd, 5th, 7th, 9th, and 13th level you gain access to circle spells.
 
 Once you gain access to a circle spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you gain access to a spell that doesn't appear on the druid spell list, the spell is nonetheless a druid spell for you.
 
@@ -36,8 +36,10 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | 11th        | sunbeam                                        |
 | 13th        | etherealness                                   |
 
-## Eyes Beyond the Grave
+## Eyes of the Reaper
 At 6th level, you can see a glowing energy force around creatures. You can see this glow in darkness. You can distinguish between different types of creatures based on the color of this energy, as shown in the Life Force table below.
+
+In this way, you can sense invisible creatures around you, but cannot distinguish their form otherwise.
 
 ###### Life Force Table
 | Life Force          | Energy Color    |
@@ -47,10 +49,8 @@ At 6th level, you can see a glowing energy force around creatures. You can see t
 | Undead, Fiends      | Purplish Black  |
 | Fey, Celestials     | Yellowish White |
 
-## Watcher at the Threshold
-At 10th level, you gain resistance to necrotic and radiant damage. When a spell you cast deals either necrotic or radiant damage, you can choose to switch its damage type.
-
-In addition, you have advantage on death saving throws.
+## Magic from the Threshold
+At 10th level, you gain resistance to necrotic and radiant damage. When a spell you cast deals either necrotic or radiant damage, you can choose to switch its damage type to the other. In addition, you have advantage on death saving throws.
 
 ## Paths of the Dead
 You have attuned to the planes of life and death, and can quickly switch between those planes.
