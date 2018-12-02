@@ -8,8 +8,6 @@ Starting at 2nd level, you learn to unravel and harvest the life energy of other
 
 When you roll damage for a weapon or spell attack that targets only one creature, you can increase that damage by spending dice from the pool. Roll the spent dice and add them to the damage as radiant and necrotic — whichever deals more damage.
 
-To be eligible, the attack must be incapable of targeting more than one creature at the spell’s current level. For example, Magic Missile and Scorching Ray aren’t eligible, but Ray of Frost is.
-
 You regain the expended dice when you finish a long rest.
 
 ### Harvest's Bounty
