@@ -505,6 +505,6 @@ You make one ability check that has to do with the natural environment around yo
 You use your Wild Shape ability to transform.
 
 ### Weapon Attack
-***Cost: 2 actions***
+***Cost: 3 actions***
 
 You make one weapon attack.

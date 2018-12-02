@@ -72,7 +72,7 @@ You have attuned to the planes of life and death, and can quickly switch between
 
 While you are on the Border Ethereal, you can use an action to pull open a small portal to the Deep Ethereal. This portal is one way, and lasts until you leave the Border Ethereal or until you use an action close it.
 
-In addition, you can bend the rules of the universe while you are in the Border Ethereal. When you first enter the Border Ethereal, your form follows *Ethereal Law*. While you are there, you can use an action to follow *Traveler's Law*, or again to follow *Ethereal Law*.
+In addition, you can bend the rules of the universe while you are in the Border Ethereal. When you first enter the Border Ethereal, your form follows *Ethereal Law*. While you are there, you can use an action to start following *Traveler's Law*, or again to start following *Ethereal Law*.
 
 ### Ethereal Law
 While you are in the Ethereal Plane, gravity doesn't affect you, and you can move in any direction. If you move up or down, every foot of movement costs an extra foot. You can see and hear into the plane that you are bordering, but everything there looks gray, and you can't see anything more than 60 feet away.
