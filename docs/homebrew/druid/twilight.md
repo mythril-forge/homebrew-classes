@@ -50,7 +50,7 @@ In this way, you can sense invisible creatures around you, but cannot distinguis
 At 10th level, you gain resistance to necrotic and radiant damage. When a spell you cast deals either necrotic or radiant damage, you can choose to switch its damage type to the other. In addition, you have advantage on death saving throws.
 
 ## Paths of the Dead
-You have attuned to the planes of life and death, and can quickly switch between those planes.
+At 14th level, you have attuned to the planes of life and death, and can quickly switch between those planes.
 
 While you are on the Border Æthereal, you can use an action to pull open a small portal to the Deep Æthereal. This portal is one way, and lasts until you leave the Border Æthereal or until you use an action close it.
 
