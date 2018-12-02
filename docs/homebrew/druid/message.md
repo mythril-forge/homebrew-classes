@@ -6,22 +6,16 @@ Personally, I like the direction of the subclass a lot, but it has an identity c
 ...You are enabled orbital-cannon damage, by stacking AoE with your Harvest's Scythe
 
 In order to change this, I emphasized a few key points.
+- You can only target one opponent at a time with *Harvest's Scythe*
 - You can choose to deal all of your d10 pool at once with *Harvest's Scythe*, rather than half
 - *Harvest's Scythe's* healing ability is now a variant of paladin's Lay on Hands
-- You can only target one opponent at a time with *Harvest's Scythe*
 - I give you one free circle spell at 3rd, 5th, 7th, and 9th level
 	- inflict wounds (originally cleric spell)
 	- moonbeam (druid spell)
 	- speak with dead (replaces weak level-6 ribbon ability)
 	- death ward (originally cleric spell)
 
-
-
 ---
-
-I'm also changing the nature of Necrotic in a huge way, which directly  Living creatures are weak to it, and Necromancy is mostly banned across the world. Although what you do is completely reverse of what undead do, your magic is innately deadly by virtue of your circle. You embrace death just as much as you embrace life.
-
-
 
 ```md
 ## Harvest's Scythe

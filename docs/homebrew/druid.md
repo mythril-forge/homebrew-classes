@@ -409,7 +409,7 @@ Starting at 2nd level, you can use your action and magically convoke a spirit an
 
 The connection that you have with the beast's soul must be unbreakable to use this ability. You must have had a significant impact on the beast's soul and commune with it — be it in life or after death.
 
-You have already communed with one CR 0 beast of your choice.
+You have already communed with one CR 0 beast of your choice. Transforming into a CR 0 beast does not expend a use of this feature.
 
 You can use this feature once. Beginning at 6th level, you can use your Wild Shape twice between rests, and beginning at 18th level, you can use it three times between rests. When you finish a short or long rest, you regain your expended uses.
 
@@ -440,7 +440,6 @@ While you are transformed, the following rules apply:
 	- proficiency bonus
 - Your movement and senses are replaced by the movement and senses of the beast.
 - If the creature has any Legendary Actions or Lair Actions, you can't use them.
-- Your attacks are considered magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
 - When you first transform, you temporarily assume the beast's...
 	- hit points
 	- hit dice size
@@ -451,7 +450,9 @@ While you are transformed, the following rules apply:
 	- For example, if you take 10 damage in animal form and have only 1 hit point left, you revert and take 9 damage. 
 	- When you revert forms in this way, you are knocked unconscious.
 - Your ability to speak or take any action that requires hands is limited to the capabilities of your beast form.
+- You can use the spell *shillelagh* while in beast form to amplify your natural attacks.
 - The above rule extends to taking certain actions or using certain features, including...
+	- attacking with weapons like scimitars
 	- casting spells that require a verbal or somatic component
 	- utilizing features from your class, race, or another source
 - Transforming doesn't break your concentration on a spell that you've already cast.

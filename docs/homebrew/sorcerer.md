@@ -245,7 +245,7 @@ You can use only one Metamagic option on a spell when you cast it, unless otherw
 
 When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell's full force.
 
-To do so, you must spend 1 sorcery point for each creature that you want to protect. A chosen creature has advantage on any saving throws directly induced by the spell until the start of your next turn..
+To do so, you must spend 1 sorcery point for each creature that you want to protect. A chosen creature has advantage on any saving throws directly induced by the spell until the start of your next turn.
 
 You can instead spend 3 sorcery points per creature to completely mitigate any of the spell's direct effects against them until the start of your next turn.
 
@@ -308,7 +308,7 @@ When you cast a spell that requires one or more attack rolls, you can spend 2 so
 You can use Empowered Spell even if you have already used a different Metamagic option during the casting of the spell.
 
 ### Heightened Spell
-***Cost: 3—7 points / creature***
+***Cost: 3—5 points / creature***
 
 When you cast a spell that forces other creatures to make a saving throw, you can intensify the spell's full force on some of those creatures.
 
