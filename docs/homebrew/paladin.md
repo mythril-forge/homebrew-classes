@@ -103,12 +103,57 @@ How did you experience your call to serve as a paladin? Did you hear a whisper f
 As guardians against the forces of wickedness, paladins are rarely of any evil alignment. Most of them walk the paths of charity and justice. Consider how your alignment colors the way you pursue your holy quest and the manner in which you conduct yourself before gods and mortals. Your oath and alignment might be in harmony, or your oath might represent standards of behavior that you have not yet attained.
 
 > ###### Quick Build
+> 
 > You can make a paladin quickly by following these suggestions. First, Strength should be your highest ability score, followed by Charisma. Second, choose the noble background.
+
+### Hit Points
+- **Hit Dice:** `1d10`
+- **Hit Points at 1st Level:** `10 + your Constitution modifier`
+- **Hit Points at Higher Levels:** `1d10, reroll 1's (or 6) + your Constitution modifier per Paladin level after 1st`
+
+### Proficiencies
+You are proficient with the following items, in addition to any proficiencies provided by your race or background.
+- **Armor:** light armor, medium armor, heavy armor, shields
+- **Weapons:** simple weapons, martial weapons
+- **Tools:** none
+- **Saving Throws:** Wisdom, Charisma
+- **Skills:** Choose two from Athletics, Insight, Intimidation, Medicine, Persuasion, and Religion.
+
+### Starting Equipment
+You start with the following items, plus anything provided by your background.
+- (a) a martial weapon and a shield or (b) two martial weapons
+- (a) five javelins or (b) any simple melee weapon
+- (a) a priest's pack or (b) an explorer's pack
+- Chain mail and a holy symbol
+- A 200-coin capacity purse containing 5d4 × 10 sp
+
+| Level | Proficiency Bonus | Features                                     | 1st | 2nd | 3rd | 4th | 5th |
+|:-----:|:-----------------:|:---------------------------------------------|:---:|:---:|:---:|:---:|:---:|
+| 1     | +1d4 (+2)         | Divine Sense, Lay on Hands                   | —   | —   | —   | —   | —   |
+| 2     | +1d4 (+2)         | Divine Smite, Fighting Style, Spellcasting   | 1   | —   | —   | —   | —   |
+| 3     | +1d4 (+2)         | Divine Health, Sacred Oath, Channel Divinity | 2   | —   | —   | —   | —   |
+| 4     | +1d4 (+2)         | Ability Score Improvement                    | 3   | —   | —   | —   | —   |
+| 5     | +1d6 (+3)         | Aura of Protection, Extra Attack             | 4   | —   | —   | —   | —   |
+| 6     | +1d6 (+3)         | —                                            | 4   | 1   | —   | —   | —   |
+| 7     | +1d6 (+3)         | Sacred Oath feature                          | 4   | 2   | —   | —   | —   |
+| 8     | +1d6 (+3)         | Ability Score Improvement                    | 4   | 3   | —   | —   | —   |
+| 9     | +1d8 (+4)         | Aura of Courage                              | 4   | 4   | —   | —   | —   |
+| 10    | +1d8 (+4)         | —                                            | 4   | 4   | 1   | —   | —   |
+| 11    | +1d8 (+4)         | Improved Divine Smite                        | 4   | 4   | 2   | —   | —   |
+| 12    | +1d8 (+4)         | Ability Score Improvement                    | 4   | 4   | 2   | —   | —   |
+| 13    | +1d10 (+5)        | Cleansing Touch                              | 4   | 4   | 3   | —   | —   |
+| 14    | +1d10 (+5)        | —                                            | 4   | 4   | 3   | 1   | —   |
+| 15    | +1d10 (+5)        | Sacred Oath feature                          | 4   | 4   | 3   | 2   | —   |
+| 16    | +1d10 (+5)        | Ability Score Improvement                    | 4   | 4   | 3   | 2   | —   |
+| 17    | +1d12 (+6)        | Aura improvements                            | 4   | 4   | 3   | 3   | —   |
+| 18    | +1d12 (+6)        | —                                            | 4   | 4   | 3   | 3   | 1   |
+| 19    | +1d12 (+6)        | Ability Score Improvement                    | 4   | 4   | 3   | 3   | 2   |
+| 20    | +1d12 (+6)        | Sacred Oath feature                          | 4   | 4   | 3   | 3   | 2   |
 
 ## Divine Sense
 The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the hallow spell.
 
-You can use this feature a number of times equal to 1 + your Charisma modifier. When you finish a long rest, you regain all expended uses.
+You can use this feature a number of times equal to your Charisma modifier (a minimum of once). When you finish a long rest, you regain all expended uses.
 
 ## Lay on Hands
 Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you take a long rest. With that pool, you can restore a total number of hit points equal to your paladin level × 5.
@@ -196,7 +241,7 @@ A paladin who has broken a vow typically seeks absolution from a cleric who shar
 If a paladin willfully violates his or her oath and shows no sign of repentance, the consequences can be more serious. At the DM's discretion, an impenitent paladin might be forced to abandon this class and adopt another, or perhaps to take the Oathbreaker paladin option that appears in the Dungeon Master's Guide.
 
 ## Ability Score Improvement
-When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
 
@@ -204,51 +249,23 @@ If your DM allows the use of feats, you may instead take a feat.
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
 ## Aura of Protection
-Starting at 6th level, whenever you or a friendly creature within 10 feet of you must make a saving throw, the creature gains a bonus to the saving throw equal to your Charisma modifier (with a minimum bonus of +1). You must be conscious to grant this bonus.
+Starting at 5th level, whenever you or a friendly creature within 10 feet of you must make a saving throw, the creature gains a bonus to the saving throw equal to your Charisma modifier (with a minimum bonus of +1). You must be conscious to grant this bonus.
 
-At 18th level, the range of this aura increases to 30 feet.
-
-## Sacred Oath feature
-At 7th level, you gain a feature granted to you by your Sacred Oath.
-
-## Ability Score Improvement
-When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
-
-If your DM allows the use of feats, you may instead take a feat.
+At 17th level, the range of this aura increases to 30 feet.
 
 ## Aura of Courage
-Starting at 10th level, you and friendly creatures within 10 feet of you can't be frightened while you are conscious.
+Starting at 9th level, you and friendly creatures within 10 feet of you can't be frightened while you are conscious.
 
-At 18th level, the range of this aura increases to 30 feet.
+At 17th level, the range of this aura increases to 30 feet.
 
 ## Improved Divine Smite
 By 11th level, you are so suffused with righteous might that all your melee weapon strikes carry divine power with them. Whenever you hit a creature with a melee weapon, the creature takes an extra 1d8 radiant damage.
-
-## Ability Score Improvement
-When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
-
-If your DM allows the use of feats, you may instead take a feat.
+<!-- rename ability -->
 
 ## Cleansing Touch
-Beginning at 14th level, you can use your action to end one spell on yourself or on one willing creature that you touch.
+Beginning at 13th level, you can use your action to end one spell on yourself or on one willing creature that you touch.
 
 You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain expended uses when you finish a long rest.
 
-## Sacred Oath feature
-At 15th level, you gain a feature granted to you by your Sacred Oath.
-
-## Ability Score Improvement
-When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
-
-If your DM allows the use of feats, you may instead take a feat.
-
 ## Aura improvements
-At 18th level, the range of your Aura of Protection increases to 30 feet.
-
-## Ability Score Improvement
-When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
-
-If your DM allows the use of feats, you may instead take a feat.
-
-## Sacred Oath feature
-At 20th level, you gain a feature granted to you by your Sacred Oath.
+At 17th level, the range of your Aura features increase to 30 feet.

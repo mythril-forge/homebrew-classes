@@ -190,7 +190,7 @@ You can inspire others through stirring words or music. To do so, you use a bonu
 
 Once within the next 10 minutes, the creature can roll the die and add the number rolled to one ability check, attack roll, or saving throw it makes. The creature can wait until after it rolls the d20 before deciding to use the Bardic Inspiration die, but must decide before the DM says whether the roll succeeds or fails. Once the Bardic Inspiration die is rolled, it is lost. A creature can have only one Bardic Inspiration die at a time.
 
-You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain one expended use when you finish a short rest, and all expended uses when you finish a long rest.
+You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain all expended uses when you finish a long rest.
 
 Your Bardic Inspiration die changes when you reach certain levels in this class. The die becomes a d8 at 5th level, a d10 at 10th level, and a d12 at 15th level.
 
@@ -200,7 +200,7 @@ When you reach 2nd level, you can use soothing music or oration to help revitali
 ## Jack of All Trades
 Starting at 2nd level, you can add half your proficiency bonus, rounded down, to any ability check you make that doesn't already include your proficiency bonus.
 
-For example, if you have a proficiency bonus of +1d4 and you roll a 4, it gives you bonus of +2. If you roll a 1, it gives you a bonus of +0.
+For example, if you have a proficiency bonus of +1d4 and you roll a 4, it gives you bonus of +2. If you roll a 1, it gives you a bonus of ±0.
 
 ## Magical Secrets
 By 2nd level, you have plundered magical knowledge from a wide spectrum of disciplines. When you learn a new spell from level-up, it can be from any class, including this one. A spell that you choose must be either a cantrip or of a level you can cast, as shown on the Bard table.
