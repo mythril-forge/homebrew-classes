@@ -70,7 +70,7 @@ While on the Æthereal Plane, you appear whispy and ghostly, and you can only af
 
 If you occupy the same spot as a solid object or creature when you start following *Traveler's Law*, you are immediately shunted to the nearest unoccupied space that you can occupy and take force damage equal to twice the number of feet you are moved.
 
-If you drop an item while following *Traveler's Law*, it is deposited on the plane that you are bordering. If you start following *Æthereal Law* while you are carrying an inanimate object no more than one size smaller than you, it follows you to the Æthereal plane.
+If you drop an item while following *Traveler's Law*, it is deposited on the plane that you are bordering. If you start following *Æthereal Law* while you are carrying an inanimate object no more than one size smaller than you, it follows you to the Æthereal Plane.
 
 > ##### The Æthereal Plane
 > The Æthereal Plane is a misty, fog-bound dimension. Its “shores,” called the Border Æthereal, overlap the Material Plane and the Inner Planes, so that every location on those planes has a corresponding location on the Æthereal Plane. Visibility in the Border Æthereal is limited to 60 feet The plane’s depths comprise a region of swirling mist and fog called the Deep Æthereal where visibility is limited to 30 feet.

@@ -320,6 +320,7 @@ The tables include all the individual beasts that are eligible for Wild Shape (u
 | 5   | Giant shark             | Swim     |
 
 # Class Features
+## Creating a Druid
 When making a druid, consider why your character has such a close bond with nature. Perhaps your character lives in a society where the Old Faith still thrives, or was raised by a druid after being abandoned in the depths of a forest. Perhaps your character had a dramatic encounter with the spirits of nature, coming face to face with a giant eagle or dire wolf and surviving the experience. Maybe your character was born during an epic storm or a volcanic eruption, which was interpreted as a sign that becoming a druid was part of your character's destiny.
 
 Have you always been an adventurer as part of your druidic calling, or did you first spend time as a caretaker of a sacred grove or spring? Perhaps your homeland was befouled by evil, and you took up an adventuring life in hopes of finding a new home or purpose.
@@ -435,9 +436,11 @@ While you are transformed, the following rules apply:
 	- Intelligence score
 	- Wisdom score
 	- Charisma score
+	- proficiency bonus
+- You gain all proficiencies from the beast, but also keep your...
 	- skill proficiencies
 	- saving throw proficiencies
-	- proficiency bonus
+	- weapon proficiencies
 - Your movement and senses are replaced by the movement and senses of the beast.
 - If the creature has any Legendary Actions or Lair Actions, you can't use them.
 - When you first transform, you temporarily assume the beast's...

@@ -303,7 +303,7 @@ If a creature targeted by this spell has left your field of vision before the en
 ### Focused Spell
 ***Cost: 2 points***
 
-When you cast a spell that requires one or more attack rolls, you can spend 2 sorcery points to gain advantage on those rolls for this casting of the spell.
+When you cast a spell that requires one or more attack rolls, you can spend 2 sorcery points to gain advantage on those rolls until the start of your next turn.
 
 You can use Empowered Spell even if you have already used a different Metamagic option during the casting of the spell.
 
