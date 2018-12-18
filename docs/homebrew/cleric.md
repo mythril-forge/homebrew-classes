@@ -39,7 +39,7 @@ Most clerics start their lives of service as priests in an order, then later rea
 
 Some temples are cut off from the world so that their occupants can focus on devotions, while other temples open their doors to minister to and heal the masses. What is noteworthy about the temple you studied at?
 
-###### Temples Table
+###### Temples
 
 | d6  | Temple                                                                                             |
 |:---:|:---------------------------------------------------------------------------------------------------|
@@ -53,7 +53,7 @@ Some temples are cut off from the world so that their occupants can focus on dev
 ## Keepsake
 Many clerics have items among their personal gear that symbolize their faith, remind them of their vows, or otherwise help to keep them on their chosen paths. Even though such an item is not imbued with divine power, it is vitally important to its owner because of what it represents.
 
-###### Keepsakes Table
+###### Keepsakes
 
 | d6  | Keepsake                                                                  |
 |:---:|:--------------------------------------------------------------------------|
@@ -68,7 +68,7 @@ Many clerics have items among their personal gear that symbolize their faith, re
 No mortal soul is entirely free of second thoughts or doubt. Even a cleric must grapple with dark desires or the forbidden attraction of turning against the teachings of one's deity.
 If you haven't considered this aspect of your character yet, see the table entries for some possibilities, or use them for inspiration. Your deep, dark secret might involve something you did (or are doing), or it could be rooted in the way you feel about the world and your role in it.
 
-###### Secrets Table
+###### Secrets
 
 | d6  | Secret                                                                                                              |
 |:---:|:--------------------------------------------------------------------------------------------------------------------|
@@ -165,7 +165,7 @@ You can change your list of prepared spells when you finish a long rest. Prepari
 ### Spellcasting Ability
 Wisdom is your spellcasting ability for your cleric spells. The power of your spells comes from your devotion to your deity. You use your Wisdom whenever a cleric spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a cleric spell you cast and when making an attack roll with one.
 
-`Spell save DC = 8 + your proficiency bonus + your Wisdom modifier`
+`Spell save DC = 9 + your proficiency bonus + your Wisdom modifier`
 
 `Spell attack modifier = your proficiency bonus + your Wisdom modifier`
 
@@ -200,7 +200,8 @@ A turned creature must spend its turns trying to move as far away from you as it
 #### Destroy Undead
 When an undead fails its saving throw against your Turn Undead feature, the creature is instantly destroyed if its Challenge Rating (CR) is at or below a certain threshold, as shown in the Destroy Undead table.
 
-###### Destroy Undead Table
+###### Destroy Undead
+
 | Cleric Level | Destroys Undead of CR... |
 |:------------:|:-------------------------|
 | 2nd          | 0 or lower               |

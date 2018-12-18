@@ -35,7 +35,7 @@ Some druids carry one or more items that are sacred to them or have deep persona
 
 When you decide what your character's treasured item is, think about giving it an origin story: how did you come by the item, and why is it important to you?
 
-###### Treasured Items Table
+###### Treasured Item
 
 | d6  | Treasured Item                                                         |
 |:---:|:-----------------------------------------------------------------------|
@@ -395,7 +395,7 @@ You can change your list of prepared spells when you finish a long rest. Prepari
 ### Spellcasting Ability
 Wisdom is your spellcasting ability for your druid spells. The power of your spells comes from your devotion to your deity. You use your Wisdom whenever a druid spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a druid spell you cast and when making an attack roll with one.
 
-`Spell save DC = 8 + your proficiency bonus + your Wisdom modifier`
+`Spell save DC = 9 + your proficiency bonus + your Wisdom modifier`
 
 `Spell attack modifier = your proficiency bonus + your Wisdom modifier`
 

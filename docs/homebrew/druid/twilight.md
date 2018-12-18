@@ -38,7 +38,7 @@ At 6th level, you can see a glowing energy force around creatures. You can see t
 
 In this way, you can sense invisible creatures around you, but cannot distinguish their form otherwise.
 
-###### Life Force Table
+###### Life Force
 | Life Force          | Energy Color    |
 |:--------------------|:----------------|
 | Living, Aberrations | Bright blue     |
@@ -46,7 +46,7 @@ In this way, you can sense invisible creatures around you, but cannot distinguis
 | Undead, Fiends      | Purplish-black  |
 | Fey, Celestials     | Yellowish-white |
 
-## Magic from the Threshold
+## Threshold's Tether
 At 10th level, you gain resistance to necrotic and radiant damage. When a spell you cast deals either necrotic or radiant damage, you can choose to switch its damage type to the other. In addition, you have advantage on death saving throws.
 
 ## Paths of the Dead

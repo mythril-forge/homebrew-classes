@@ -39,7 +39,7 @@ Some sorcerers understand where their power came from, based on how their abilit
 
 Does your character know the source of your magical power? Does it tie back to some distant relative, a cosmic event, or blind chance? If your sorcerer doesn't know where their power arose from, your DM can use this table (or select an origin) and reveal it to you when the information plays a role in the campaign.
 
-###### Arcane Origins Table
+###### Arcane Origins
 
 | d6  | Origin                                                                                                                             |
 |:---:|:-----------------------------------------------------------------------------------------------------------------------------------|
@@ -55,7 +55,7 @@ When a new sorcerer enters the world, either at birth or later when one's power 
 
 When your sorcerer's powers appeared, how did the world around you respond? Were other people supportive, fearful, or somewhere in between?
 
-###### Reactions Table
+###### Reactions
 
 | d6  | Reaction                                                                                                                         |
 |:---:|:---------------------------------------------------------------------------------------------------------------------------------|
@@ -71,7 +71,7 @@ A sorcerer at rest is almost indistinguishable from a normal person; it's only w
 
 If your sorcerer has a supernatural mark, it might be one that's easily concealed, or it could be a source of pride that you keep on constant display.
 
-###### Supernatural Marks Table
+###### Supernatural Marks
 
 | d6  | Mark                                                                        |
 |:---:|:----------------------------------------------------------------------------|
@@ -87,7 +87,7 @@ As the world well knows, some sorcerers are better than others at controlling th
 
 When your sorcerer character casts a spell, does the effort reveal itself in a sign of sorcery? Is this sign tied to your origin or some other aspect of who you are, or is it a seemingly random phenomenon?
 
-###### Signs of Sorcery Table
+###### Signs of Sorcery
 
 | d6  | Sign                                                                                                    |
 |:---:|:--------------------------------------------------------------------------------------------------------|
@@ -177,7 +177,7 @@ Additionally, when you gain a level in this class, you can choose one of the sor
 ### Spellcasting Ability
 Charisma is your spellcasting ability for your sorcerer spells, since the power of your magic relies on your ability to project your will into the world. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a sorcerer spell you cast and when making an attack roll with one.
 
-`Spell save DC = 8 + your proficiency bonus + your Charisma modifier`
+`Spell save DC = 9 + your proficiency bonus + your Charisma modifier`
 
 `Spell attack modifier = your proficiency bonus + your Charisma modifier`
 
@@ -214,7 +214,7 @@ As a bonus action on your turn, you can expend one spell slot and gain a number 
 
 Superfluous sorcery points vanish at the end of a long rest.
 
-###### Sorcery Points Table
+###### Sorcery Points
 
 | Spell Slot Level | Sorcery Point Conversion Rate |
 |:----------------:|:-----------------------------:|
