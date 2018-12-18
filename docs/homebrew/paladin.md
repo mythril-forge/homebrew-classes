@@ -139,7 +139,7 @@ You start with the following items, plus anything provided by your background.
 | 8     | +1d6 (+3)         | Ability Score Improvement                               | 4   | 3   | —   | —   | —   |
 | 9     | +1d8 (+4)         | Aura of Courage                                         | 4   | 4   | —   | —   | —   |
 | 10    | +1d8 (+4)         | —                                                       | 4   | 4   | 1   | —   | —   |
-| 11    | +1d8 (+4)         | Improved Divine Smite                                   | 4   | 4   | 2   | —   | —   |
+| 11    | +1d8 (+4)         | Divine Strike                                           | 4   | 4   | 2   | —   | —   |
 | 12    | +1d8 (+4)         | Ability Score Improvement                               | 4   | 4   | 2   | —   | —   |
 | 13    | +1d10 (+5)        | Aura of Resolution, Cleansing Touch                     | 4   | 4   | 3   | —   | —   |
 | 14    | +1d10 (+5)        | —                                                       | 4   | 4   | 3   | 1   | —   |
@@ -265,9 +265,8 @@ Starting at 9th level, you and friendly creatures within 10 feet of you can't be
 
 At 17th level, the range of this aura increases to 30 feet.
 
-## Improved Divine Smite
+## Divine Strike
 By 11th level, you are so suffused with righteous might that all your melee weapon strikes carry divine power with them. Whenever you hit a creature with a melee weapon, the creature takes an extra 1d8 radiant damage.
-<!-- rename ability -->
 
 ## Aura of Resolution
 Starting at 13th level, whenever you or a friendly creature within 10 feet of you must make a death save, the creature gets advantage on that check. You don't have to be conscious to grant this bonus.

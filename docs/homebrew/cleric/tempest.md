@@ -37,7 +37,7 @@ For you, it does not require concentration, and its effects trigger when you dea
 
 If the source of the trigger would effect multiple creatures, they all suffer the effects of the spell.
 
-## Divine Strike
+## Divine Charge
 At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 lightning damage to the target. When you reach 14th level, the extra damage increases to 2d8.
 
 ## Stormborn
