@@ -96,7 +96,7 @@ What is the temptation that your character succumbs to or finds it difficult to 
 
 # Class Features
 ## Creating a Paladin
-The most important aspect of a paladin character is the nature of his or her holy quest. Although the class features related to your oath don't appear until you reach 3rd level, plan ahead for that choice by reading the oath descriptions at the end of the class. Are you a devoted servant of good, loyal to the gods of justice and honor, a holy knight in shining armor venturing forth to smite evil? Are you a glorious champion of the light, cherishing everything beautiful that stands against the shadow, a knight whose oath descends from traditions older than many of the gods? Or are you an embittered loner sworn to take vengeance on those who have done great evil, sent as an angel of death by the gods or driven by your need for revenge? Appendix B lists many deities worshiped by paladins throughout the multiverse, such as Torm, Tyr, Heironeous, Paladine, Kiri-Jolith, Dol Arrah, the Silver Flame, Bahamut, Athena, Re-Horakhty, and Heimdall.
+The most important aspect of a paladin character is the nature of his or her holy quest. Although the class features related to your oath don't appear until you reach 2nd level, plan ahead for that choice by reading the oath descriptions at the end of the class. Are you a devoted servant of good, loyal to the gods of justice and honor, a holy knight in shining armor venturing forth to smite evil? Are you a glorious champion of the light, cherishing everything beautiful that stands against the shadow, a knight whose oath descends from traditions older than many of the gods? Or are you an embittered loner sworn to take vengeance on those who have done great evil, sent as an angel of death by the gods or driven by your need for revenge? Appendix B lists many deities worshiped by paladins throughout the multiverse, such as Torm, Tyr, Heironeous, Paladine, Kiri-Jolith, Dol Arrah, the Silver Flame, Bahamut, Athena, Re-Horakhty, and Heimdall.
 
 How did you experience your call to serve as a paladin? Did you hear a whisper from an unseen god or angel while you were at prayer? Did another paladin sense the potential within you and decide to train you as a squire? Or did some terrible event—the destruction of your home, perhaps—drive you to your quests? Perhaps you stumbled into a sacred grove or a hidden elven enclave and found yourself called to protect all such refuges of goodness and beauty. Or you might have known from your earliest memories that the paladin's life was your calling, almost as if you had been sent into the world with that purpose stamped on your soul.
 
@@ -130,9 +130,9 @@ You start with the following items, plus anything provided by your background.
 | Level | Proficiency Bonus | Features                                                | 1st | 2nd | 3rd | 4th | 5th |
 |:-----:|:-----------------:|:--------------------------------------------------------|:---:|:---:|:---:|:---:|:---:|
 | 1     | +1d4 (+2)         | Divine Sense, Lay on Hands                              | —   | —   | —   | —   | —   |
-| 2     | +1d4 (+2)         | Divine Smite, Fighting Style, Sacred Oath, Spellcasting | 1   | —   | —   | —   | —   |
-| 3     | +1d4 (+2)         | Divine Health, Sacred Oath feature, Channel Divinity    | 2   | —   | —   | —   | —   |
-| 4     | +1d4 (+2)         | Ability Score Improvement                               | 3   | —   | —   | —   | —   |
+| 2     | +1d4 (+2)         | Fighting Style, Sacred Oath, Spellcasting               | 1   | —   | —   | —   | —   |
+| 3     | +1d4 (+2)         | Channel Divinity, Divine Health, Divine Smite           | 2   | —   | —   | —   | —   |
+| 4     | +1d4 (+2)         | Ability Score Improvement, Sacred Oath feature          | 3   | —   | —   | —   | —   |
 | 5     | +1d6 (+3)         | Aura of Protection, Extra Attack                        | 4   | —   | —   | —   | —   |
 | 6     | +1d6 (+3)         | —                                                       | 4   | 1   | —   | —   | —   |
 | 7     | +1d6 (+3)         | Sacred Oath feature                                     | 4   | 2   | —   | —   | —   |
@@ -167,9 +167,6 @@ This feature has no effect on undead and constructs.
 ### Cleansing Touch
 Beginning at 13th level, you can use your Lay on Hands and expend 10 hit points from your pool of healing to end one spell on yourself or on one willing creature that you touch.
 
-## Divine Smite
-Starting at 2nd level, when you hit a creature with a melee weapon attack, you can expend one spell slot to deal radiant damage to the target, in addition to the weapon's damage. The extra damage is 2d8 for a 1st-level spell slot, plus 1d8 for each spell level higher than 1st. The damage gets a bonus of 1d8 if the target is an undead or a fiend.
-
 ## Fighting Style
 At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take the same Fighting Style option more than once, even if you get to choose again.
 
@@ -193,6 +190,23 @@ When a creature you can see attacks a target other than you that is within 5 fee
 ### Two-Weapon Fighting
 When you engage in two-weapon fighting, you don't expend your bonus action when you use your offhand strike. In addition, you can add your ability modifier to the damage of your offhand strike.
 
+## Sacred Oath
+By 2nd level, you swear the oath that binds you as a paladin forever. Up to this time you have been in a preparatory stage, committed to the path but not yet sworn to it. Now you choose from the list of available oaths.
+
+Your choice grants you features at 2nd level and again at 4th, 7th, 11th, 15th, and 20th level. Those features include oath spells and the Channel Divinity feature.
+
+### Oath Spells
+Each oath has a list of associated spells. You gain access to these spells at the levels specified in the oath description. Once you gain access to an oath spell, you always have it prepared. Oath spells don't count against the number of spells you can prepare each day.
+
+If you gain an oath spell that doesn't appear on the paladin spell list, the spell is nonetheless a paladin spell for you.
+
+### Breaking Your Oath
+A paladin tries to hold to the highest standards of conduct, but even the most virtuous paladin is fallible. Sometimes the right path proves too demanding, sometimes a situation calls for the lesser of two evils, and sometimes the heat of emotion causes a paladin to transgress his or her oath.
+
+A paladin who has broken a vow typically seeks absolution from a cleric who shares his or her faith or from another paladin of the same order. The paladin might spend an all-night vigil in prayer as a sign of penitence, or undertake a fast or similar act of self-denial. After a rite of confession and forgiveness, the paladin starts fresh.
+
+If a paladin willfully violates his or her oath and shows no sign of repentance, the consequences can be more serious. At the DM's discretion, an impenitent paladin might be forced to abandon this class and adopt another, or perhaps to take the Oathbreaker paladin option that appears in the Dungeon Master's Guide.
+
 ## Spellcasting
 By 2nd level, you have learned to draw on divine magic through meditation and prayer to cast spells as a cleric does. See chapter 10 for the general rules of spellcasting and chapter 11 for the paladin spell list.
 
@@ -215,28 +229,18 @@ Charisma is your spellcasting ability for your paladin spells, since their power
 ### Spellcasting Focus
 You can use a holy symbol (found in chapter 5) as a spellcasting focus for your paladin spells.
 
-## Sacred Oath
-When you reach 2nd level, you swear the oath that binds you as a paladin forever. Up to this time you have been in a preparatory stage, committed to the path but not yet sworn to it. Now you choose from the list of available oaths.
-
-Your choice grants you features at 2nd level and again at 3rd, 6th, 10th, 14th, and 20th level. Those features include oath spells and the Channel Divinity feature.
-
-### Oath Spells
-Each oath has a list of associated spells. You gain access to these spells at the levels specified in the oath description. Once you gain access to an oath spell, you always have it prepared. Oath spells don't count against the number of spells you can prepare each day.
-
-If you gain an oath spell that doesn't appear on the paladin spell list, the spell is nonetheless a paladin spell for you.
-
-### Breaking Your Oath
-A paladin tries to hold to the highest standards of conduct, but even the most virtuous paladin is fallible. Sometimes the right path proves too demanding, sometimes a situation calls for the lesser of two evils, and sometimes the heat of emotion causes a paladin to transgress his or her oath.
-
-A paladin who has broken a vow typically seeks absolution from a cleric who shares his or her faith or from another paladin of the same order. The paladin might spend an all-night vigil in prayer as a sign of penitence, or undertake a fast or similar act of self-denial. After a rite of confession and forgiveness, the paladin starts fresh.
-
-If a paladin willfully violates his or her oath and shows no sign of repentance, the consequences can be more serious. At the DM's discretion, an impenitent paladin might be forced to abandon this class and adopt another, or perhaps to take the Oathbreaker paladin option that appears in the Dungeon Master's Guide.
-
 ## Divine Health
-By 3rd level, the divine magic flowing through you makes you immune to disease.
+By 3rd level, the divine magic granted to you from your righteous oath flows through your veins, making you immune to disease.
+
+## Divine Smite
+Beginning at 3rd level, your sacred oath grants you the ability to suffuse your melee weapons with divine power. Once per turn, when you make a melee weapon attack, you can declare your intention to smite your target and use a spell slot to charge your weapon. 
+
+If the attack misses, you regain your spent spell slot, and you are permitted to use this feature again on this turn. If the attack hits, it deals radiant damage to the target, in addition to the weapon's damage.
+
+The extra damage is 2d8 for a 1st-level spell slot, plus 1d8 for each Spell Level higher than 1st. The damage increases by 1d8 if the target is an Undead or a fiend.
 
 ## Channel Divinity
-At 3rd level, you gain the ability to channel power from your divine oath, using that power to fuel magical effects. You start with two such effects: Turn Undead and an effect determined by your oath. Some oaths grant you additional effects as you advance in levels, as noted in their description.
+At 3rd level, you gain the ability to channel power from your divine oath, using that power to fuel magical effects. You start with one such option: Turn Undead. Your oath will grant you additional effects as you advance in levels, as noted in their description.
 
 When you use your Channel Divinity, you choose which effect to create. You must then finish a short or long rest to use your Channel Divinity again.
 
