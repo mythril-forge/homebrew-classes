@@ -153,7 +153,7 @@ You start with the following items, plus anything provided by your background.
 ## Divine Sense
 The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the hallow spell.
 
-You can use this feature a number of times equal to your Charisma modifier (a minimum of once). When you finish a short or long rest, you regain all expended uses.
+You can use this feature a number of times equal to your Charisma modifier (a minimum of once). When you finish a long rest, you regain all expended uses.
 
 ## Lay on Hands
 Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you take a long rest. With that pool, you can restore a total number of hit points equal to your paladin level × 5.
@@ -191,7 +191,7 @@ When a creature you can see attacks a target other than you that is within 5 fee
 When you engage in two-weapon fighting, you don't expend your bonus action when you use your offhand strike. In addition, you can add your ability modifier to the damage of your offhand strike.
 
 ## Sacred Oath
-By 2nd level, you swear the oath that binds you as a paladin forever. Up to this time you have been in a preparatory stage, committed to the path but not yet sworn to it. Now you choose from the list of available oaths.
+When you reach 2nd level, you swear the oath that binds you as a paladin forever. Up to this time you have been in a preparatory stage, committed to the path but not yet sworn to it. Now you choose from the list of available oaths.
 
 Your choice grants you features at 2nd level and again at 4th, 7th, 11th, 15th, and 20th level. Those features include oath spells and the Channel Divinity feature.
 
@@ -200,12 +200,12 @@ Each oath has a list of associated spells. You gain access to these spells at th
 
 If you gain an oath spell that doesn't appear on the paladin spell list, the spell is nonetheless a paladin spell for you.
 
-### Breaking Your Oath
-A paladin tries to hold to the highest standards of conduct, but even the most virtuous paladin is fallible. Sometimes the right path proves too demanding, sometimes a situation calls for the lesser of two evils, and sometimes the heat of emotion causes a paladin to transgress his or her oath.
-
-A paladin who has broken a vow typically seeks absolution from a cleric who shares his or her faith or from another paladin of the same order. The paladin might spend an all-night vigil in prayer as a sign of penitence, or undertake a fast or similar act of self-denial. After a rite of confession and forgiveness, the paladin starts fresh.
-
-If a paladin willfully violates his or her oath and shows no sign of repentance, the consequences can be more serious. At the DM's discretion, an impenitent paladin might be forced to abandon this class and adopt another, or perhaps to take the Oathbreaker paladin option that appears in the Dungeon Master's Guide.
+> ### Breaking Your Oath
+> A paladin tries to hold to the highest standards of conduct, but even the most virtuous paladin is fallible. Sometimes the right path proves too demanding, sometimes a situation calls for the lesser of two evils, and sometimes the heat of emotion causes a paladin to transgress his or her oath.
+> 
+> A paladin who has broken a vow typically seeks absolution from a cleric who shares his or her faith or from another paladin of the same order. The paladin might spend an all-night vigil in prayer as a sign of penitence, or undertake a fast or similar act of self-denial. After a rite of confession and forgiveness, the paladin starts fresh.
+> 
+> If a paladin willfully violates his or her oath and shows no sign of repentance, the consequences can be more serious. At the DM's discretion, an impenitent paladin might be forced to abandon this class and adopt another, or perhaps to take the Oathbreaker paladin option that appears in the Dungeon Master's Guide.
 
 ## Spellcasting
 By 2nd level, you have learned to draw on divine magic through meditation and prayer to cast spells as a cleric does. See chapter 10 for the general rules of spellcasting and chapter 11 for the paladin spell list.
@@ -213,9 +213,9 @@ By 2nd level, you have learned to draw on divine magic through meditation and pr
 ## Preparing and Casting Spells
 The Paladin table shows how many spell slots you have to cast your paladin spells. To cast one of your paladin spells of 1st level or higher, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
-You prepare the list of paladin spells that are available for you to cast, choosing from the paladin spell list. When you do so, choose a number of paladin spells equal to the sum of your Charisma modifier + Paladin level, ÷ 2 and rounded down. The spells must be of a level for which you have spell slots.
+You prepare the list of paladin spells that are available for you to cast, choosing from the paladin spell list. When you do so, choose a number of paladin spells equal to `your Charisma modifier + Paladin level, ÷ 2 and rounded down (minimum of one spell)`. The spells must be of a level for which you have spell slots.
 
-For example, if you are a 5th-level paladin, you have four 1st-level and one 2nd-level spell slot. With a Charisma of 14, your list of prepared spells can include three spells of 1st or 2nd-level, in any combination. If you prepare the 1st-level spell cure wounds, you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
+For example, if you are a 5th-level paladin, you have four 1st-level and one 2nd-level spell slot. With a Charisma of 16, your list of prepared spells can include four spells of 1st or 2nd-level, in any combination. If you prepare the 1st-level spell cure wounds, you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
 
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of paladin spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
 
@@ -229,16 +229,6 @@ Charisma is your spellcasting ability for your paladin spells, since their power
 ### Spellcasting Focus
 You can use a holy symbol (found in chapter 5) as a spellcasting focus for your paladin spells.
 
-## Divine Health
-By 3rd level, the divine magic granted to you from your righteous oath flows through your veins, making you immune to disease.
-
-## Divine Smite
-Beginning at 3rd level, your sacred oath grants you the ability to suffuse your melee weapons with divine power. Once per turn, when you make a melee weapon attack, you can declare your intention to smite your target and use a spell slot to charge your weapon. 
-
-If the attack misses, you regain your spent spell slot, and you are permitted to use this feature again on this turn. If the attack hits, it deals radiant damage to the target, in addition to the weapon's damage.
-
-The extra damage is 2d8 for a 1st-level spell slot, plus 1d8 for each Spell Level higher than 1st. The damage increases by 1d8 if the target is an Undead or a fiend.
-
 ## Channel Divinity
 At 3rd level, you gain the ability to channel power from your divine oath, using that power to fuel magical effects. You start with one such option: Turn Undead. Your oath will grant you additional effects as you advance in levels, as noted in their description.
 
@@ -251,6 +241,16 @@ As an action, you present your holy symbol and speak a prayer censuring the unde
 
 A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
 
+## Divine Health
+By 3rd level, the divine magic granted by your righteous oath courses through your veins, making you immune to disease.
+
+## Divine Smite
+Beginning at 3rd level, your sacred oath grants you the ability to suffuse your melee weapons with divine power. Once per turn, when you make a melee weapon attack, you can declare your divine intention to smite your target and use a spell slot to charge your weapon. 
+
+If the attack misses, you regain your spent spell slot, and you are permitted to use this feature again on this turn. If the attack hits, it deals radiant damage to the target, in addition to the weapon's damage.
+
+The extra damage is 2d8 for a 1st-level spell slot, plus 1d8 for each Spell Level higher than 1st. The damage increases by an extra 1d8 if the target is an Undead or a Fiend.
+
 ## Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
@@ -260,7 +260,7 @@ If your DM allows the use of feats, you may instead take a feat.
 Beginning at 5th level, you can attack twice, instead of once, whenever you use an action or bonus action to make a weapon attack.
 
 ## Aura of Protection
-Starting at 5th level, whenever you or a friendly creature within 10 feet of you must make a saving throw, the creature can roll 1d4 and add the number rolled to the saving throw. You must be conscious to grant this bonus.
+Starting at 5th level, whenever you or a friendly creature within 10 feet of you must make a saving throw, the creature can roll 1d6 and add the number rolled to the saving throw. You must be conscious to grant this bonus.
 
 At 17th level, the range of this aura increases to 30 feet.
 
@@ -270,7 +270,7 @@ Starting at 9th level, you and friendly creatures within 10 feet of you can't be
 At 17th level, the range of this aura increases to 30 feet.
 
 ## Divine Strike
-By 11th level, you are so suffused with righteous might that all your melee weapon strikes carry divine power with them. Whenever you hit a creature with a melee weapon, the creature takes an extra 1d8 radiant damage.
+By 11th level, you are enveloped with righteous might insofar that all your melee weapon strikes carry divine power with them. Whenever you hit a creature with a melee weapon, the creature takes an extra 1d8 radiant damage.
 
 ## Aura of Resolution
 Starting at 13th level, whenever you or a friendly creature within 10 feet of you must make a death save, the creature gets advantage on that check. You don't have to be conscious to grant this bonus.
