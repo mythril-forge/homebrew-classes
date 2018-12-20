@@ -200,7 +200,7 @@ Each oath has a list of associated spells. You gain access to these spells at th
 
 If you gain an oath spell that doesn't appear on the paladin spell list, the spell is nonetheless a paladin spell for you.
 
-> ### Breaking Your Oath
+> ###### Breaking Your Oath
 > A paladin tries to hold to the highest standards of conduct, but even the most virtuous paladin is fallible. Sometimes the right path proves too demanding, sometimes a situation calls for the lesser of two evils, and sometimes the heat of emotion causes a paladin to transgress his or her oath.
 > 
 > A paladin who has broken a vow typically seeks absolution from a cleric who shares his or her faith or from another paladin of the same order. The paladin might spend an all-night vigil in prayer as a sign of penitence, or undertake a fast or similar act of self-denial. After a rite of confession and forgiveness, the paladin starts fresh.
@@ -279,3 +279,4 @@ At 17th level, the range of this aura increases to 30 feet.
 
 ## Aura improvements
 At 17th level, the range of your aura features each increase to 30 feet.
+
