@@ -14,12 +14,16 @@ Your totem animal might be an animal related to those listed here but more appro
 At this level, the feature you gain will only take effects in your rage. 
 
 ### Bear
-You have additional resistance to fire, cold, lightning, thunder, acid, and poison damage while you are in a rage. Also while raging, You have advantage on Constitution saving throws, and you can roll 1d10 + 10 in place of your regular 1d20 whenever you make a Constitution ability check.
+You have additional resistance to fire, cold, lightning, thunder, acid, and poison damage while you are in a rage.
+
+Also while raging, You have advantage on Constitution saving throws, and you can roll 1d10 + 10 in place of your regular 1d20 whenever you make a Constitution ability check.
 
 The spirit of the bear makes you tough enough to stand up to any punishment.
 
 ### Eagle
-While raging, you can take a bonus action to use the dash action. You also have advantage on opportunity attacks, and other creatures have disadvantage on opportunity attacks made against you.
+While raging, you can take a bonus action to use the dash action.
+
+You also have advantage on opportunity attacks, and other creatures have disadvantage on opportunity attacks made against you.
 
 The spirit of the eagle makes you into a predator who can weave through the fray with ease.
 
