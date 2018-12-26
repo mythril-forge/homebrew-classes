@@ -245,7 +245,7 @@ A turned creature must spend its turns trying to move as far away from you as it
 By 3rd level, the divine magic granted by your righteous oath courses through your veins, making you immune to disease.
 
 ## Divine Smite
-Beginning at 3rd level, your sacred oath grants you the ability to suffuse your melee weapons with divine power. Once per turn, when you make a melee weapon attack, you can declare your divine intention to smite your target and use a spell slot to charge your weapon. 
+Beginning at 3rd level, your sacred oath grants you the ability to suffuse your melee weapons with divine power. Once per turn, when you make a melee weapon attack, you can declare your divine intention to smite your target and expend a spell slot to charge your weapon. 
 
 If the attack misses, you regain your spent spell slot, and you are permitted to use this feature again on this turn. If the attack hits, it deals radiant damage to the target, in addition to the weapon's damage.
 
@@ -260,7 +260,7 @@ If your DM allows the use of feats, you may instead take a feat.
 Beginning at 5th level, you can attack twice, instead of once, whenever you use an action or bonus action to make a weapon attack.
 
 ## Aura of Protection
-Starting at 5th level, whenever you or a friendly creature within 10 feet of you must make a saving throw, the creature can roll 1d6 and add the number rolled to the saving throw. You must be conscious to grant this bonus.
+Starting at 5th level, whenever you or a friendly creature within 10 feet of you must make a saving throw, the creature can roll 1d4 and add the number rolled to the saving throw. You must be conscious to grant this bonus.
 
 At 17th level, the range of this aura increases to 30 feet.
 

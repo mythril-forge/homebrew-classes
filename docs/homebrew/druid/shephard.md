@@ -4,38 +4,37 @@ Druids of the Circle of the Shepherd commune with the spirits of nature, especia
 Members of this circle become adventurers to oppose forces that threaten their charges or to seek knowledge and power that will help them safeguard their charges better. Wherever these druids go, the spirits of the wilderness are with them.
 
 ## Primeval Awareness
-At 2nd level, you gain the ability to converse with beasts and many fey.
+At 2nd level, you gain the ability to converse with beasts and fey.
 
-You have an innate ability to communicate with beasts, and they recognize you as a kindred spirit. Through sounds and gestures, you can communicate simple ideas to a beast as an action, and can read its basic mood and intent. You learn its emotional state, whether it is affected by magic of any sort, its short-term needs (such as food or safety), and actions you can take (if any) to persuade it to not attack.
+You learn to speak, read, and write Sylvan. In addition, you have an innate ability to communicate with beasts, and they recognize you as a kindred spirit. Through sounds and gestures, you can communicate simple ideas to a beast as an action, and can read its basic mood and intent. You can learn its emotional state, whether it is affected by magic of any sort, its short-term needs (such as food or safety), and actions you can take (if any) to persuade it to not attack. Most beasts lack the intelligence to convey or understand sophisticated concepts, but a friendly beast could relay what it has seen or heard in the recent past.
 
 You cannot use this ability against a creature that you have attacked within the past 10 minutes.
 
-## Spirit Totem
-Starting at 2nd level, you can call forth nature spirits to influence the world around you. As a bonus action, you can magically summon a spiritual embodiment of an animal into your body. The spirit engulfs your form, and moves with it. It counts as neither a creature nor an object, though it has the spectral appearance of the creature it represents. The spirit creates an aura in a 30-foot radius you.
+### Spirit Totem: Spirit Embodiment
+At 2nd level, when you commit to this circle, you begin to build a spirit totem. A spirit totem represents the mystic attunement to a certain way of animal life. The spirit totem that you recieve here activates while you are in wildshape form.
 
-The spirit persists for 10 minutes or until you're incapacitated. Once you use this feature, you can't use it again until you finish a short or long rest.
+You can choose a totem spirit and gain its feature. You must make or acquire a physical totem object—an amulet or similar adornment—that incorporates fur or feathers, claws, teeth, or bones of the totem animal. At your option, you also gain minor physical attributes that are reminiscent of your totem spirit. For example, if you have a bear totem spirit, you might be unusually hairy and thick-skinned, or if your totem is the eagle, your eyes turn bright yellow.
 
-The effect of the spirit's aura depends on the type of spirit you summon from the options below.
+Your totem animal might be an animal related to those listed here but more appropriate to your homeland. For example, you could choose a hawk or vulture in place of an eagle.
 
-### Bear Spirit
-The bear spirit grants you and your allies its might and endurance. Each creature of your choice in the aura when the spirit appears gains temporary hit points equal to 5 + your druid level. In addition, you and your allies gain advantage on Strength checks and Strength saving throws while in the aura.
+...cont
+(while you are in wildshape)
 
-### Hawk Spirit
-The hawk spirit is a consummate hunter, aiding you and your allies with its keen sight. When a creature makes an attack roll against a target in the spirit's aura, you can use your reaction to grant advantage to that attack roll. In addition, you and your allies have advantage on Wisdom checks and Wisdom saving throws while in the aura.
+## Spirit Totem: Aspect of the Beast
+At 6th level, you gain a magical benefit based on the totem animal of your choice. You can choose the same animal you selected at 2nd level or a different one. The spirit totem that you receive here is active so long as you are conscious.
 
-### Unicorn Spirit
-The unicorn spirit lends its protection to those nearby. You and your allies gain advantage on all ability checks made to detect creatures in the spirit's aura. In addition, if you cast a spell using a spell slot that restores hit points to any creature inside or outside the aura, each creature of your choice in the aura also regains hit points equal to your druid level.
+...cont
+(passive ability)
 
 ## Mighty Summoner
-Starting at 6th level, beasts and fey that you conjure are more resilient than normal. Any beast or fey summoned or created by a spell that you cast gains the following benefits:
+Starting at 10th level, the creatures conjure are more resilient than normal. Any creature summoned or created by a spell that you cast gains the following benefits for the duration of the spell:
+- The hit points that the creature is summoned with are magically boosted to its maximum possible amount.
+- The damage from its attacks are considered magical for the purpose of overcoming immunity and resistance to nonmagical attacks and damage.
+- It's proficency bonus is increased to match yours, if it is greater.
 
 The creature appears with more hit points than normal: 2 extra hit points per Hit Die it has.
 The damage from its natural weapons is considered magical for the purpose of overcoming immunity and resistance to nonmagical attacks and damage.
 
-## Guardian Spirit
-Beginning at 10th level, your Spirit Totem safeguards the beasts and fey that you call forth with your magic. When a beast or fey that you summoned or created with a spell ends its turn in your Spirit Totem aura, that creature regains a number of hit points equal to half your druid level.
 
-## Faithful Summons
-Starting at 14th level, the nature spirits you commune with protect you when you are the most defenseless. If you are reduced to 0 hit points or are incapacitated against your will, you can immediately gain the benefits of conjure animals as if it were cast using a 9th-level spell slot. It summons four beasts of your choice that are challenge rating 2 or lower. The conjured beasts appear within 20 feet of you. If they receive no commands from you, they protect you from harm and attack your foes. The spell lasts for 1 hour, requiring no concentration, or until you dismiss it (no action required).
-
-Once you use this feature, you can't use it again until you finish a long rest.
+## Spirit Totem: Totemic Attunement
+At 14th level, you gain a magical benefit based on a totem animal of your choice. You can choose the same animal you selected previously or a different one. The spirit totem that you recieve here can be used once per short rest.

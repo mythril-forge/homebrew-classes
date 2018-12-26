@@ -12,7 +12,6 @@ The Oath of the Ancients is as old as the race of elves and the rituals of the d
 You gain oath spells at the paladin levels listed.
 
 ###### Oath of the Ancients Spells
-phantasmal force(2), barkskin(2)
 
 | Level | Oath Spells                          |
 |:-----:|:-------------------------------------|
@@ -29,13 +28,13 @@ At 4th level, you can use your Channel Divinity to utter ancient words that are 
 If the creature's true form is concealed by an illusion, shapeshifting, or other effect, that form is revealed before it is petrified.
 
 ### Channel Divinity: Nature's Wrath
-At 7th level, you can use your Channel Divinity to invoke primeval forces to ensnare a foe. As an action, you can cause magical vine growths to spring up and reach for each creature of your choice within 10 feet of you that you can see. Each creature must succeed on a Strength or Dexterity saving throw (its choice) or be restrained. While restrained by the vines, a creature repeats the saving throw at the end of each of its turns. On a success, it frees itself from the vines around them, which then go limp.
+At 7th level, you can use your Channel Divinity to invoke primeval forces to ensnare your foes. As an action, you can cause magical vine growths to spring up and reach for each creature of your choice within 10 feet of you that you can see. Each creature must succeed on a Strength or Dexterity saving throw (its choice) or be restrained and thrown prone. While restrained by the vines, a creature repeats the saving throw at the end of each of its turns. On a success, it frees itself from the vines around them, which then go limp.
 
 ## Aura of Warding
 Beginning at 7th level, ancient magic lies so heavily upon you that it forms an eldritch ward. You and friendly creatures within 10 feet of you have resistance to all damage except bludgeoning, slashing, and piercing damage.
 
 ## Undying Sentinel
-Starting at 15th level, when you are reduced to 0 hit points and are not killed outright, you can use a reaction to regain 10 hit points, remain conscious, and further heal yourself using your *Lay on Hands* feature. Once you use this ability, you can't use it again until you finish a long rest.
+Starting at 15th level, when you are reduced to 0 hit points and are not killed outright, you can use a reaction to remain conscious, regain 10 hit points, and further heal yourself using your *Lay on Hands* feature. Once you use this ability, you can't use it again until you finish a long rest.
 
 Additionally, you suffer none of the drawbacks of old age, and you can't be aged magically.
 
