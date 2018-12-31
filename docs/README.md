@@ -21,7 +21,7 @@ For now, a quick-and-dirty rundown of each class is sufficient.
 	- [Domain of the Tempest](./homebrew/classes/cleric/tempest)
 - [Druid](./homebrew/classes/druid)
 	- [Circle of Twilight](./homebrew/classes/druid/twilight)
-	- [Circle of the Shephard](./homebrew/classes/druid/shephard)
+	- [Circle of the Shepherd](./homebrew/classes/druid/shepherd)
 - [Sorcerer](./homebrew/classes/sorcerer)
 	- [Giant Soul](./homebrew/classes/sorcerer/giant-soul)
 - [Paladin](./homebrew/classes/paladin)
