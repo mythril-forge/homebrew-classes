@@ -457,7 +457,7 @@ While you are transformed, the following rules apply:
 - The above rule extends to taking certain actions or using certain features, including...
 	- attacking with weapons like scimitars
 	- casting spells that require a verbal or somatic component
-	- utilizing features from your class, race, or another source
+	- utilizing features from your class, race, or other sources
 - Transforming doesn't break your concentration on a spell that you've already cast.
 - Your beast form doesn't prevent you from taking actions that are a part of spell that you've already cast.
 - You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it.

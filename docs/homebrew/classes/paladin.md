@@ -180,7 +180,7 @@ While you are wearing armor, you gain a +1 bonus to AC.
 When you are wielding a single medium-sized melee weapon, your critical hits with that weapon do thrice the damage dice and modifiers instead of twice. The weapon must not have the heavy or two-handed property for you to gain this benefit.
 
 ### Great Weapon Fighting
-When you roll damage for an attack you make with a melee weapon that you are wielding with two hands, you can choose to reroll the damage but must use the new roll. The weapon must have the two-handed or versatile property for you to gain this benefit.
+When you roll damage for an attack you make with a melee weapon that you are wielding with two hands, you can choose to reroll any number of the damage dice; but you must use the new rolls. The weapon must have the two-handed or versatile property for you to gain this benefit.
 
 ### Protection
 When a creature you can see attacks you, you can use a reaction to impose disadvantage on that attack. You must be using a shield to gain this option.
@@ -188,7 +188,7 @@ When a creature you can see attacks you, you can use a reaction to impose disadv
 When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to interpose yourself and recieve the attack instead. You swap locations with your ally, and you impose disadvantage on the incoming attack roll. You must be using a shield to gain this option.
 
 ### Two-Weapon Fighting
-When you engage in two-weapon fighting, you don't expend your bonus action when you use your offhand strike. In addition, you can add your ability modifier to the damage of your offhand strike.
+When you engage in two-weapon fighting, you don't expend your bonus action to provision your offhand strikes. In addition, you can add your ability modifier to the damage of your offhand strikes.
 
 ## Sacred Oath
 When you reach 2nd level, you swear the oath that binds you as a paladin forever. Up to this time you have been in a preparatory stage, committed to the path but not yet sworn to it. Now you choose from the list of available oaths.

@@ -85,8 +85,8 @@ From this level forward, you are able to increase your size multiple times by us
 
 #### Second Enlargement
 - Your size category increases by two
-- Your size quadruples in all dimensions
-- Your mass & weight are multiplied by 64
+- Your size triples in all dimensions
+- Your mass & weight are multiplied by 27
 - Your weapons and equipment grow to match your new size
 - Your weapon attacks deal thrice the damage dice and modifiers
 - Your movement speed and melee reach increase by 5 feet
@@ -97,7 +97,7 @@ From this level forward, you are able to increase your size multiple times by us
 
 #### Third Enlargement
 - Your size category increases by three
-- Your size octuples in all dimensions
+- Your size quadruples in all dimensions
 - Your mass & weight are multiplied by 512
 - Your weapons and equipment grow to match your new size
 - Your weapon attacks deal four times the damage dice and modifiers

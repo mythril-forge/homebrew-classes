@@ -110,7 +110,7 @@ If you are targeted by an attack in your rage, then you can use your reaction to
 Your maneuver first lets you use the dodge action. Next, after the attack is resolved, you can attempt to grapple or shove your aggressor if they are within 5 feet of you.
 
 ### Tiger
-You have advantage on Dexterity saving throws, and you can roll 1d10 + 10 in place of your regular 1d20 whenever you make a Dexterity ability check.
+You have advantage on Dexterity saving throws, and you can roll `1d10 + 10` in place of your regular `1d20` whenever you make a Dexterity ability check.
 
 If you jump at least 10 feet in any direction on your turn and land within 5 feet of a creature, then you can take a bonus action to target them with a predator's strike.
 
