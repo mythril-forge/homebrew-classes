@@ -97,8 +97,8 @@ Starting at 10th level, the creatures conjure are more resilient than normal. An
 - The damage from its attacks are considered magical for the purpose of overcoming immunity and resistance to nonmagical attacks and damage.
 - It's proficency bonus is increased to match yours, if it is greater.
 
-## Spirit Totem: Totemic Attunement
-At 14th level, you gain a magical benefit based on a totem animal of your choice. You can choose the same animal you selected previously or a different one. The spirit totem that you recieve here can be used once per short rest.
+## Spirit Catalyst
+At 14th level, you gain a magical benefit based on a totem animal of your choice. You can choose the same animal you selected previously or a different one. The spirit totem that you recieve here activates in animal form.
 
 ### Bear
 You gain a +2 bonus to your wildshape AC.
