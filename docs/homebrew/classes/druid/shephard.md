@@ -93,6 +93,7 @@ You and friendly creatures within 10 feet of you can telepathically communicate 
 ## Mighty Summoner
 Starting at 10th level, the creatures conjure are more resilient than normal. Any creature summoned or created by a spell that you cast gains the following benefits for the duration of the spell:
 - The hit points that a creature is summoned with is magically boosted to its maximum possible amount.
+- Your summoned creatures each recover 5 hit points at the start of each of your turns.
 - The damage from its attacks are considered magical for the purpose of overcoming immunity and resistance to nonmagical attacks and damage.
 - It's proficency bonus is increased to match yours, if it is greater.
 
