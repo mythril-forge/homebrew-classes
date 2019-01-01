@@ -120,7 +120,7 @@ You start with the following items, plus anything provided by your background.
 - A shield and a holy symbol
 - A 200-coin capacity purse containing 5d4 × 10 sp
 
-## Table: The Cleric
+## The Cleric
 
 | Level | Proficiency Bonus | Features                                                                 | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 |:-----:|:-----------------:|:-------------------------------------------------------------------------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|

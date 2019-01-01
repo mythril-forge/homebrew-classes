@@ -352,7 +352,7 @@ You start with the following items, plus anything provided by your background.
 ## Table: The Druid
 
 | Level | Proficiency Bonus | Features                                          | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-|:-----:|:-----------------:|:-------------------------------------------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|:-----:|:-----------------:|:--------------------------------------------------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 1     | +1d4 (+2)         | Druidic, Spellcasting                             | 1   | —   | —   | —   | —   | —   | —   | —   | —   |
 | 2     | +1d4 (+2)         | Wild Shape (CR ¼, 1/rest), Druid Circle           | 2   | —   | —   | —   | —   | —   | —   | —   | —   |
 | 3     | +1d4 (+2)         | —                                                 | 2   | 1   | —   | —   | —   | —   | —   | —   | —   |
@@ -500,7 +500,7 @@ You can also take 3 legendary actions when you are in your original form, choosi
 ### Natural Instinct
 ***Cost: 1 actions***
 
-You make one ability check that has to do with the natural environment around you.
+You can use the search, investigate, communicate, help, or distract action.
 
 ### Wild Shape
 ***Cost: 2 actions***

@@ -127,6 +127,8 @@ You start with the following items, plus anything provided by your background.
 - Chain mail and a holy symbol
 - A 200-coin capacity purse containing 5d4 × 10 sp
 
+## The Paladin
+
 | Level | Proficiency Bonus | Features                                                | 1st | 2nd | 3rd | 4th | 5th |
 |:-----:|:-----------------:|:--------------------------------------------------------|:---:|:---:|:---:|:---:|:---:|
 | 1     | +1d4 (+2)         | Divine Sense, Lay on Hands                              | —   | —   | —   | —   | —   |

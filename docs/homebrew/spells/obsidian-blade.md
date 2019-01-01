@@ -26,4 +26,6 @@ Extra notes:
 - Something interesting happens when you use all 9 charges...
 
 
-10,000 ÷ 8
+Secret notes:
+- Destroying the blade rewards 20,000 exp split among those involved at the time (usually 8 people)
+- Selling the blade to the merchant prince rewards 20,000 sp split among those involved at the time (usually 8 people)
