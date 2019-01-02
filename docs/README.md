@@ -22,6 +22,8 @@ For now, a quick-and-dirty rundown of each class is sufficient.
 - [Druid](./homebrew/classes/druid)
 	- [Circle of Twilight](./homebrew/classes/druid/twilight)
 	- [Circle of the Shepherd](./homebrew/classes/druid/shepherd)
+- [Rogue](./homebrew/classes/rogue)
+	- [Arcane Trickster](/homebrew/classes/rogue/arcane-trickster)
 - [Sorcerer](./homebrew/classes/sorcerer)
 	- [Giant Soul](./homebrew/classes/sorcerer/giant-soul)
 - [Paladin](./homebrew/classes/paladin)
