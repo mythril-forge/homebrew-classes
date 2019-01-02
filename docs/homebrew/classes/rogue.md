@@ -43,6 +43,7 @@ What's the one form of temptation that your rogue character can't resist when th
 ###### Guilty Pleasures
 
 | d6	| Pleasure |
+| :---:| :--- |
 | 1		| Large gems |
 | 2		| A smile from a pretty face |
 | 3		| A new ring for your finger |
@@ -60,6 +61,7 @@ Does your rogue character have an adversary who also happens to be a criminal? I
 ###### Adversaries
 
 | d6	| Adversary |
+| :---:| :--- |
 | 1		| The pirate captain on whose ship you once served; what you call moving on, the captain calls mutiny |
 | 2		| A master spy to whom you unwittingly fed bad information, which led to the assassination of the wrong target |
 | 3		| The master of the local thieves' guild, who wants you to join the organization or leave town |
@@ -75,6 +77,7 @@ If your character's backstory doesn't already include a personage of this sort, 
 ###### Benefactors
 
 | d6	| Benefactor |
+| :---:| :--- |
 | 1		| A smuggler kept you from getting caught but lost a valuable shipment in doing so. Now you owe that person an equally valuable favor. |
 | 2		| The Beggar King has hidden you from your pursuers many times, in return for future considerations. |
 | 3		| A magistrate once kept you out of jail in return for information on a powerful crime lord. |
