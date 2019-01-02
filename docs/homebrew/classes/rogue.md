@@ -166,14 +166,14 @@ Beginning at 18th level, you are so evasive that attackers rarely gain the upper
 At 20th level, you have an uncanny knack for succeeding when you need to. You gain three luck points. You can use this die on any attack roll, ability check, or saving throw that directly affects you. You regain your luck points after a long rest. See the *Lucky Dice* infobox for the rules regarding this ability.
 
 > ###### Lucky Dice
-> *Disadvantage Roll:*
+> *Disadvantage Roll:*  
 > Roll one additional die. Take the middle roll.
 > 
-> *Regular Roll:*
+> *Regular Roll:*  
 > Roll one additional die. Take the highest roll.
 > 
-> *Advantage Roll:*
+> *Advantage Roll:*  
 > Roll one additional die. Take the highest roll.
 > 
-> **Note:**
+> **Note:**  
 > Invert these effects if you are imposing disadvantage.
