@@ -40,7 +40,7 @@ For example, if you know the 1st-level spell charm person and have a 1st-level a
 ### Spells Known
 You know three cantrips or spells of your choice from the wizard spell list.
 
-The Spells Known column of the Arcane Trickster Spellcasting table shows when you learn more wizard cantrips or spells of 1st level or higher. Each of these spells must be an enchantment or illusion spell of your choice, and must be of a level for which you have spell slots. For instance, when you reach 8th level in this class, you can learn one new cantrip or spell of 1st or 2nd level.
+The Spells Known column of the Arcane Trickster Spellcasting table shows when you learn more wizard cantrips or spells. Each of these spells must be either a cantrip or of a level for which you have spell slots. For instance, when you reach 8th level in this class, you can learn one new cantrip or spell of 1st or 2nd level.
 
 Whenever you gain a level in this class, you can replace one of the wizard spells you know with another spell of your choice from the wizard spell list. The new spell must be of a level for which you have spell slots, and it must be an enchantment or illusion spell, unless you're replacing the spell you gained at 8th, 14th, or 20th level.
 
@@ -58,11 +58,11 @@ Intelligence is your spellcasting ability for your wizard spells, since you lear
 Starting at 3rd level, you learn the *mage hand* cantrip. This spell doesn't count towards your total number of known spells. For you, *mage hand* has a variety of unique properties:
 
 - You can take a bonus action to cast this spell.
-- You can take a bonus action to control the hand after it is cast.
+- You can take a bonus action to control the hand once it is cast.
 - You can make the spectral hand visible or invisible when you first cast the spell or control it thereafter.
 - You don't require a verbal component to cast this spell.
-- You can use the hand to stow one object the hand is holding in a container worn or carried by another creature.
 - You can use the hand to retrieve an object in a container worn or carried by another creature.
+- You can use the hand to stow one object the hand is holding in a container worn or carried by another creature.
 - You can use the hand with thieves' tools to pick locks and disarm traps at range.
 - You can perform one of these tasks without being noticed by a creature if you succeed on a Dexterity (Sleight of Hand) check contested by the creature's Passive Wisdom (Perception).
 
@@ -77,7 +77,7 @@ In addition, you ignore all class, race, and level requirements on the use of sp
 ## Spell Thief
 At 17th level, you gain the ability to magically steal the knowledge of how to cast a spell from another spellcaster.
 
-Immediately after a creature casts a spell, you can use your reaction to cast *counterspell* at 3rd-level without expending a spell slot. When you do so, the spell's range is extended to 300 feet. If a target's spell is successfully interrupted, you also steal its knowledge of the spell if its spell targeted you or included you in an area of effect. This has the following implications:
+Immediately after a creature casts a spell, you can use your reaction to cast *counterspell* at 3rd-level without expending a spell slot. When you do so, the spell's range is extended to 300 feet. If a target's spell is successfully interrupted, you also steal its knowledge of the spell if it targeted you or included you in an area of effect. This has the following implications:
 - You know the spell (it doesn't need to be a wizard spell).
 - You can cast the spell using your spell slots.
 - You can create spell scrolls of the spell to use later.

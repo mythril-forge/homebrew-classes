@@ -125,7 +125,7 @@ You start with the following items, plus anything provided by your background.
 - (a) five javelins or (b) any simple melee weapon
 - (a) a priest's pack or (b) an explorer's pack
 - Chain mail and a holy symbol
-- A 200-coin capacity purse containing 5d4 × 10 sp
+- A 250-coin capacity purse containing 5d4 × 10 sp
 
 ## The Paladin
 

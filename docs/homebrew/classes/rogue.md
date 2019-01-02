@@ -97,6 +97,40 @@ What was the trigger that led you away from your previous life? Did a great con 
 > 
 > You can make a rogue quickly by following these suggestions. First, Dexterity should be your highest ability score. Make Intelligence your next-highest if you want to excel at Investigation or plan to take up the Arcane Trickster archetype. Choose Charisma instead if you plan to emphasize deception and social interaction. Second, choose the charlatan background.
 
+Proficiencies
+Armor: light armor
+Weapons: 
+Tools: 
+Saving Throws: 
+Skills:
+Starting Equipment
+You start with the following items, plus anything provided by your background.
+
+Alternatively, you may start with 4d4 × 10 gp to buy your own equipment.
+
+
+### Hit Points
+- **Hit Dice:** `1d8`
+- **Hit Points at 1st Level:** `8 + your Constitution modifier`
+- **Hit Points at Higher Levels:** `1d8, reroll 1's (or 5) + your Constitution modifier per Rogue level after 1st`
+
+### Proficiencies
+You are proficient with the following items, in addition to any proficiencies provided by your race or background.
+- **Armor:** light armor, medium armor, heavy armor, shields
+- **Weapons:** simple weapons, complex crossbows, shortswords, longswords, exotic swords
+- **Tools:** Thieves' Tools
+- **Saving Throws:** Dexterity, Intelligence
+- **Skills:** Choose four from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Performance, Persuasion, Sleight of Hand, and Stealth.
+
+### Starting Equipment
+You start with the following items, plus anything provided by your background.
+- (a) a rapier or (b) a shortsword
+- (a) a shortbow and quiver of 10 arrows or (b) a shortsword
+- (a) a burglar's pack, (b) a dungeoneer's pack, or (c) an explorer's pack
+- (a) two daggers or (b) a vial of poison
+- Padded armor, two daggers, and thieves' tools
+- A 250-coin capacity purse containing 4d4 × 10 sp
+
 ## The Rogue
 
 | Level | Proficiency Bonus | Features                               | Sneak Attack |
@@ -151,7 +185,7 @@ When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, yo
 If your DM allows the use of feats, you may instead take a feat.
 
 ## Uncanny Dodge
-Starting at 5th level, you move more nimbly than a sword or beast can strike. When an attacker that you can see hits you with an attack, you can use your reaction to flip a coin. On a heads, you turn the hit into a miss.
+Starting at 5th level, you move more nimbly than a sword can strike. When an attacker that you can see hits you with an attack, you can use your reaction to flip a coin. On a heads, you turn the hit into a miss.
 
 ## Evasion
 Beginning at 7th level, you can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or an ice storm spell. When you fail a Dexterity saving throw, you can use a reaction to flip a coin. On a heads, you instead succeed on the saving throw.
@@ -162,7 +196,7 @@ In addition, when you are subjected to an effect that allows you to make a Dexte
 By 11th level, you have refined your chosen skills until they approach perfection. Whenever you make an ability check that lets you add your proficiency bonus, you can roll 1d10 + 10 in place of your regular 1d20.
 
 ## Blindsense
-Starting at 14th level, you gain blindsense.
+Starting at 14th level, you gain blindsense so long as you can see, hear, and smell. You can detect hidden and invisible creatures that are not visible to the naked eye, and can treck through pitch darkness.
 
 ## Slippery Mind
 By 15th level, you have acquired great mental dexterity. You gain proficiency in Wisdom saving throws.

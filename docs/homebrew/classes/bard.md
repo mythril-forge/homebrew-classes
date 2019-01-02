@@ -125,7 +125,7 @@ You start with the following items, plus anything provided by your background.
 - (a) a diplomat's pack or (b) an entertainer's pack
 - (a) a lute or (b) any other musical instrument
 - Padded armor and a dagger
-- A 200-coin capacity purse containing 5d4 × 10 sp
+- A 250-coin capacity purse containing 5d4 × 10 sp
 
 ## Table: The Bard
 

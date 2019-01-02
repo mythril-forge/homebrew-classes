@@ -1,6 +1,6 @@
 # Druid
 <!-- (PHB p64; XGE p21) -->
-Holding high a gnarled staff wreathed with holly, an elf summons the fury of the storm and calls down explosive bolts of lightning to smite the torch-carrying orcs who threaten her forest.
+Holding high a gnarled staff wreathed with holly, an elf summons the fury of the storm and calls down explosive10 bolts of lightning to smite the torch-carrying orcs who threaten her forest.
 
 Crouching out of sight on a high tree branch in the form of a leopard, a human peers out of the jungle at the strange construction of a temple of Evil Elemental Air, keeping a close eye on the cultists' activities.
 
@@ -347,7 +347,7 @@ You start with the following items, plus anything provided by your background.
 - (a) a wooden shield or (b) any simple weapon
 - (a) a scimitar or (b) any simple melee weapon
 - Padded armor, an explorer's pack, an herbalism kit, and a druidic focus
-- A 200-coin capacity purse containing 2d4 × 10 sp
+- A 250-coin capacity purse containing 2d4 × 10 sp
 
 ## Table: The Druid
 

@@ -123,11 +123,11 @@ You are proficient with the following items, in addition to any proficiencies pr
 
 ### Starting Equipment
 You start with the following items, plus anything provided by your background.
-- (a) a light crossbow and 20 bolts or (b) any simple weapon
+- (a) a light crossbow and 10 bolts or (b) any simple weapon
 - (a) a component pouch or (b) an arcane focus
 - (a) a dungeoneer's pack or (b) an explorer's pack
 - Two daggers
-- A 200-coin capacity purse containing 3d4 × 10 sp
+- A 250-coin capacity purse containing 3d4 × 10 sp
 
 ## Table: The Sorcerer
 

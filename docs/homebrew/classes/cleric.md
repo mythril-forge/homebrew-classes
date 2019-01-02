@@ -115,10 +115,10 @@ You are proficient with the following items, in addition to any proficiencies pr
 You start with the following items, plus anything provided by your background.
 - (a) a mace or (b) a warhammer (if proficient) or (c) a maul (if proficient)
 - (a) padded armor, (b) hide armor, or (c) chain mail (if proficient)
-- (a) a simple crossbow and 12 bolts or (b) any simple weapon
+- (a) a simple crossbow and 10 bolts or (b) any simple weapon
 - (a) a priest's pack or (b) an explorer's pack
 - A shield and a holy symbol
-- A 200-coin capacity purse containing 5d4 × 10 sp
+- A 250-coin capacity purse containing 5d4 × 10 sp
 
 ## The Cleric
 
