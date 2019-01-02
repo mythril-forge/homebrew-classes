@@ -70,7 +70,7 @@ Starting at 3rd level, you learn the *mage hand* cantrip. This spell doesn't cou
 Starting at 9th level, if you are hidden from a creature when you cast a spell on it, the creature has disadvantage on any saving throw it makes against the spell until the beginning of your next turn.
 
 ## Versatile Trickster
-At 13th level, you gain the ability to distract targets with your mage hand. Using your mage hand, you can use the help or distract action. 
+At 13th level, you gain the ability to distract targets with your mage hand. Using your mage hand, you can use the help or distract action. In doing this, you are able to benefit from either effect yourself.
 
 In addition, you ignore all class, race, and level requirements on the use of spell scrolls.
 
