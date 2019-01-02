@@ -168,7 +168,7 @@ The Sorcerer table shows how many spell slots you have to cast your spells of 1s
 For example, if you know the 1st-level spell burning hands and have a 1st-level and a 2nd-level spell slot available, you can cast burning hands using either slot.
 
 ### Spells Known
-You know six 1st-level spells of your choice from the sorcerer spell list.
+You know three cantrips or 1st-level spells of your choice from the sorcerer spell list.
 
 You learn an additional sorcerer spell of your choice at each level except 12th, 14th, 16th, 18th, 19th, and 20th. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 3rd level in this class, you can learn one new spell of 1st or 2nd level.
 
