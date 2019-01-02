@@ -19,8 +19,11 @@ Every town and city has its share of rogues. Most of them live up to the worst s
 
 As adventurers, rogues fall on both sides of the law. Some are hardened criminals who decide to seek their fortune in treasure hoards, while others take up a life of adventure to escape from the law. Some have learned and perfected their skills with the explicit purpose of infiltrating ancient ruins and hidden crypts in search of treasure.
 
-People forget that the entire point of venturing down into a dusty tomb is to bring back the prizes hidden away there. Fighting is for fools. Dead men can't spend their fortunes.
-— Barnabas Bladecutter
+> People forget that the entire point of venturing down into a dusty tomb is to bring back the prizes hidden away there. Fighting is for fools. Dead men can't spend their fortunes.
+> 
+> — Barnabas Bladecutter
+
+---
 
 When brute force won't get the job done, or when magic isn't available or appropriate, the rogue rises to the fore. With skills tied to stealth, subterfuge, and trickery, rogues can get into and out of trouble in ways that few other characters can emulate.
 
@@ -39,13 +42,13 @@ What's the one form of temptation that your rogue character can't resist when th
 
 ###### Guilty Pleasures
 
-d6	Pleasure
-1	Large gems
-2	A smile from a pretty face
-3	A new ring for your finger
-4	The chance to deflate someone's ego
-5	The finest food and drink
-6	Adding to your collection of exotic coins
+| d6	| Pleasure |
+| 1		| Large gems |
+| 2		| A smile from a pretty face |
+| 3		| A new ring for your finger |
+| 4		| The chance to deflate someone's ego |
+| 5		| The finest food and drink |
+| 6		| Adding to your collection of exotic coins |
 
 ## Adversaries
 Naturally, those who enforce the law are bound to come up against those who break it, and it's the rare rogue who isn't featured on at least one wanted poster. Beyond that, it's in the nature of their profession that rogues often come into contact with criminal elements, whether out of choice or necessity. Some of those people can be adversaries too, and they're likely to be harder to deal with than the average member of the city watch.
@@ -56,13 +59,13 @@ Does your rogue character have an adversary who also happens to be a criminal? I
 
 ###### Adversaries
 
-d6	Adversary
-1	The pirate captain on whose ship you once served; what you call moving on, the captain calls mutiny
-2	A master spy to whom you unwittingly fed bad information, which led to the assassination of the wrong target
-3	The master of the local thieves' guild, who wants you to join the organization or leave town
-4	An art collector who uses illegal means to acquire masterpieces
-5	A fence who uses you as a messenger to set up illicit meetings
-6	The proprietor of an illegal pit fighting arena where you once took bets
+| d6	| Adversary |
+| 1		| The pirate captain on whose ship you once served; what you call moving on, the captain calls mutiny |
+| 2		| A master spy to whom you unwittingly fed bad information, which led to the assassination of the wrong target |
+| 3		| The master of the local thieves' guild, who wants you to join the organization or leave town |
+| 4		| An art collector who uses illegal means to acquire masterpieces |
+| 5		| A fence who uses you as a messenger to set up illicit meetings |
+| 6		| The proprietor of an illegal pit fighting arena where you once took bets |
 
 ## Benefactor
 Few rogues make it far in life before needing someone's help, which means thereafter owing that benefactor a significant debt.
@@ -71,23 +74,24 @@ If your character's backstory doesn't already include a personage of this sort, 
 
 ###### Benefactors
 
-d6	Benefactor
-1	A smuggler kept you from getting caught but lost a valuable shipment in doing so. Now you owe that person an equally valuable favor.
-2	The Beggar King has hidden you from your pursuers many times, in return for future considerations.
-3	A magistrate once kept you out of jail in return for information on a powerful crime lord.
-4	Your parents used their savings to bail you out of trouble in your younger days and are now destitute.
-5	A dragon didn't eat you when it had a chance, and in return you promised to set aside choice pieces of treasure for it.
-6	A druid once helped you out of a tight spot; now any random animal you see could be that benefactor, perhaps come to claim a return favor.
+| d6	| Benefactor |
+| 1		| A smuggler kept you from getting caught but lost a valuable shipment in doing so. Now you owe that person an equally valuable favor. |
+| 2		| The Beggar King has hidden you from your pursuers many times, in return for future considerations. |
+| 3		| A magistrate once kept you out of jail in return for information on a powerful crime lord. |
+| 4		| Your parents used their savings to bail you out of trouble in your younger days and are now destitute. |
+| 5		| A dragon didn't eat you when it had a chance, and in return you promised to set aside choice pieces of treasure for it. |
+| 6		| A druid once helped you out of a tight spot; now any random animal you see could be that benefactor, perhaps come to claim a return favor. |
 
+
+# Class Features
 ## Creating a Rogue
 As you create your rogue character, consider the character's relationship to the law. Do you have a criminal past—or present? Are you on the run from the law or from an angry thieves' guild master? Or did you leave your guild in search of bigger risks and bigger rewards? Is it greed that drives you in your adventures, or some other desire or ideal?
 
 What was the trigger that led you away from your previous life? Did a great con or heist gone terribly wrong cause you to reevaluate your career? Maybe you were lucky and a successful robbery gave you the coin you needed to escape the squalor of your life. Did wanderlust finally call you away from your home? Perhaps you suddenly found yourself cut off from your family or your mentor, and you had to find a new means of support. Or maybe you made a new friend—another member of your adventuring party—who showed you new possibilities for earning a living and employing your particular talents.
 
-> Quick Build
-> You can make a rogue quickly by following these suggestions. First, Dexterity should be your highest ability score. Make Intelligence your next-highest if you want to excel at Investigation or plan to take up the Arcane Trickster archetype. Choose Charisma instead if you plan to emphasize deception and social interaction. Second, choose the charlatan background.
+> ###### Quick Build
 > 
-> The following information is from Xanathar’s Guide to Everything, page 44.
+> You can make a rogue quickly by following these suggestions. First, Dexterity should be your highest ability score. Make Intelligence your next-highest if you want to excel at Investigation or plan to take up the Arcane Trickster archetype. Choose Charisma instead if you plan to emphasize deception and social interaction. Second, choose the charlatan background.
 
 ## The Rogue
 
