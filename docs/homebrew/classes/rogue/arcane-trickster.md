@@ -1,5 +1,5 @@
 # Arcane Trickster
-Some rogues enhance their fine-honed skills of stealth and agility with magic, learning tricks of enchantment and illusion. These rogues include pickpockets and burglars, but also pranksters, mischief-makers, and a significant number of adventurers.
+Some rogues enhance their fine-honed skills of stealth and agility with magic, learning tricks of transmutation, divination, enchantment and illusion. These rogues include pickpockets and burglars, but also pranksters, mischief-makers, and a significant number of adventurers. These rogues learn a comparatively small number of spells, committing them to memory instead of keeping them in a spellbook.
 
 ## Arcane Trickster Spellcasting Table
 
@@ -33,18 +33,19 @@ When you reach 3rd level, you gain the ability to cast spells. See chapter 10 fo
 Arcane Tricksters can learn cantrips alongside their other spells of 1st level and higher.
 
 ### Spell Slots
-The Arcane Trickster Spellcasting table shows how many spell slots you have to cast your wizard spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+The Arcane Trickster Spellcasting table shows how many spell slots you have to cast your wizard cantrips or spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
 For example, if you know the 1st-level spell charm person and have a 1st-level and a 2nd-level spell slot available, you can cast charm person using either slot.
 
 ### Spells Known
-You know three spells of your choice, which you must choose from the divination, enchantment, illusion, and transmutation spells available on the wizard spell list.
+You know three cantrips or spells of your choice from the wizard spell list.
 
-The Spells Known column of the Arcane Trickster Spellcasting table shows when you learn more wizard spells of 1st level or higher. Each of these spells must be an enchantment or illusion spell of your choice, and must be of a level for which you have spell slots. For instance, when you reach 7th level in this class, you can learn one new spell of 1st or 2nd level.
-
-The spells you learn at 8th, 14th, and 20th level can come from any school of magic.
+The Spells Known column of the Arcane Trickster Spellcasting table shows when you learn more wizard cantrips or spells of 1st level or higher. Each of these spells must be an enchantment or illusion spell of your choice, and must be of a level for which you have spell slots. For instance, when you reach 8th level in this class, you can learn one new cantrip or spell of 1st or 2nd level.
 
 Whenever you gain a level in this class, you can replace one of the wizard spells you know with another spell of your choice from the wizard spell list. The new spell must be of a level for which you have spell slots, and it must be an enchantment or illusion spell, unless you're replacing the spell you gained at 8th, 14th, or 20th level.
+
+#### Magic School Limitation
+The spells that you know and learn must come from the divination, enchantment, illusion, or transmutation schools of magic.
 
 ### Spellcasting Ability
 Intelligence is your spellcasting ability for your wizard spells, since you learn your spells through dedicated study and memorization. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one.

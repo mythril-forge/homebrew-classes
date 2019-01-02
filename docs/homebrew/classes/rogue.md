@@ -163,7 +163,7 @@ By 15th level, you have acquired great mental dexterity. You gain proficiency in
 Beginning at 18th level, you are so evasive that attackers rarely gain the upper hand against you. You are immune to the grappled and prone conditions while you aren't incapacitated.
 
 ## Stroke of Luck
-At 20th level, you have an uncanny knack for succeeding when you need to. You gain three luck points. You can use this die on any attack roll, ability check, or saving throw that directly affects you. You regain your luck points after a long rest. See the *Lucky Dice* infobox for the rules regarding this ability.
+At 20th level, you have an uncanny knack for succeeding when you need to. You gain three luck points. You can use these points on any attack roll, ability check, or saving throw that directly affects you. You regain your luck points after a long rest. See the *Lucky Dice* infobox for the rules regarding this ability.
 
 > ###### Lucky Dice
 > *Disadvantage Roll:*  
