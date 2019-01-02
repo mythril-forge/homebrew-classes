@@ -5,23 +5,23 @@ Some rogues enhance their fine-honed skills of stealth and agility with magic, l
 
 | Rogue Level  | Spells Known | 1st | 2nd | 3rd | 4th |
 |:------------:|:------------:|:---:|:---:|:---:|:---:|
-| 1            | —            | –   | –   | –   | –   |
-| 2            | —            | –   | –   | –   | –   |
-| 3            | 3            | 1   | –   | –   | –   |
-| 4            | 4            | 2   | –   | –   | –   |
-| 5            | 5            | 3   | –   | –   | –   |
-| 6            | 6            | 4   | –   | –   | –   |
-| 7            | 7            | 4   | –   | –   | –   |
-| 8            | 8            | 4   | 1   | –   | –   |
-| 9            | 8            | 4   | 2   | –   | –   |
-| 10           | 9            | 4   | 3   | –   | –   |
-| 11           | 9            | 4   | 4   | –   | –   |
-| 12           | 10           | 4   | 4   | –   | –   |
-| 13           | 11           | 4   | 4   | 1   | –   |
-| 14           | 11           | 4   | 4   | 1   | –   |
-| 15           | 12           | 4   | 4   | 2   | –   |
-| 16           | 12           | 4   | 4   | 2   | –   |
-| 17           | 13           | 4   | 4   | 2   | –   |
+| 1            | —            | —   | —   | —   | —   |
+| 2            | —            | —   | —   | —   | —   |
+| 3            | 3            | 1   | —   | —   | —   |
+| 4            | 4            | 2   | —   | —   | —   |
+| 5            | 5            | 3   | —   | —   | —   |
+| 6            | 6            | 4   | —   | —   | —   |
+| 7            | 7            | 4   | —   | —   | —   |
+| 8            | 8            | 4   | 1   | —   | —   |
+| 9            | 8            | 4   | 2   | —   | —   |
+| 10           | 9            | 4   | 3   | —   | —   |
+| 11           | 9            | 4   | 4   | —   | —   |
+| 12           | 10           | 4   | 4   | —   | —   |
+| 13           | 11           | 4   | 4   | 1   | —   |
+| 14           | 11           | 4   | 4   | 1   | —   |
+| 15           | 12           | 4   | 4   | 2   | —   |
+| 16           | 12           | 4   | 4   | 2   | —   |
+| 17           | 13           | 4   | 4   | 2   | —   |
 | 18           | 14           | 4   | 4   | 2   | 1   |
 | 19           | 14           | 4   | 4   | 2   | 1   |
 | 20           | 15           | 4   | 4   | 2   | 2   |
@@ -76,7 +76,7 @@ In addition, you ignore all class, race, and level requirements on the use of sp
 ## Spell Thief
 At 17th level, you gain the ability to magically steal the knowledge of how to cast a spell from another spellcaster.
 
-Immediately after a creature casts a spell that targets you or includes you in its area of effect, you can use your reaction to cast *counterspell* at 3rd-level without expending a spell slot. If you successfully interrupt a spell's casting, you steal the target creature's knowledge of the spell. This has the following implications:
+Immediately after a creature casts a spell, you can use your reaction to cast *counterspell* at 3rd-level without expending a spell slot. When you do so, the spell's range is extended to 300 feet. If a target's spell is successfully interrupted, you also steal its knowledge of the spell if its spell targeted you or included you in an area of effect. This has the following implications:
 - You know the spell (it doesn't need to be a wizard spell).
 - You can cast the spell using your spell slots.
 - You can create spell scrolls of the spell to use later.
