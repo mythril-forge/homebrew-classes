@@ -88,6 +88,7 @@ At 3rd level, you have practiced enough that you can spend your ki on features t
 
 ### Deflect Blows
 ***Cost: variable***
+
 You can use your reaction to deflect a weapon when you are hit with a weapon attack. To do so, you must spend a number of ki points. The damage is reduced by 1d6 per ki point spent.
 
 If you reduce the damage to 0 and you have a hand free, then you can catch ranged missiles and melee weapons if they are small enough to carry and use with one hand.
@@ -98,6 +99,7 @@ When you catch a ranged missile in this way, you can make a ranged attack (range
 
 ### Graceful Fall
 ***Cost: variable***
+
 You can use your reaction when you fall to spend a number of ki points, breaking your fall. To do so, you must spend a number of ki points. The damage you take from the fall is reduced by 1d6 per ki point spent.
 
 ## Ability Score Improvement
@@ -113,10 +115,12 @@ At 5th level, you have practiced enough to weaponize your ki. You know two new o
 
 ### Empowered Strike
 ***Cost: 2 points***
+
 You have learned to empower your melee attacks with an abundance of ki energy. When you hit another creature with a melee weapon attack, you can spend 2 ki points to make the attack a critical hit. When you do so, you can choose to replace the attack's damage type with force damage. In addition, this attack counts as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
 
 ### Stunning Strike
 ***Cost: 1 point***
+
 You have learned to interfere with the flow of ki in an opponent's body using pressure points. When you hit another creature with a melee weapon attack, you can spend 1 ki point to attempt a stunning strike. The target must succeed on a Constitution saving throw against your Spell Save DC or be stunned until the end of your next turn.
 
 ## Stillness of Mind
@@ -129,8 +133,10 @@ In addition, you now know two new expert ki features:
 
 ### Matrixial Evasion
 ***Cost: variable***
+
 You can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or an ice storm spell. When you fail a Dexterity saving throw, you can use a reaction to dodge out of the effect's path. To do so, you must spend a number of ki points. The damage you take from the failed save is reduced by 1d6 per ki point spent.
 
 ### Surge of Health
 ***Cost: variable***
+
 You can use your action to restore your own vitality. To do so, you can spend a number of ki points. You regain 1 hit point for each ki point spent.
