@@ -193,7 +193,7 @@ Beginning at 7th level, you can nimbly dodge out of the way of certain area effe
 In addition, when you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw.
 
 ## Reliable Talent
-By 11th level, you have refined your chosen skills until they approach perfection. Whenever you make an ability check that lets you add your proficiency bonus, you can roll 1d10 + 10 in place of your regular 1d20.
+By 11th level, you have refined your chosen skills until they approach perfection. Whenever you make an ability check that lets you add your proficiency bonus, you can add 1d10 to your regular 1d20 if you rolled a 10 or less.
 
 ## Blindsense
 Starting at 14th level, you gain blindsense so long as you can see, hear, and smell. You can detect hidden and invisible creatures that are not visible to the naked eye, and can treck through pitch darkness.

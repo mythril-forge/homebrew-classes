@@ -5,7 +5,7 @@
 - **Size:** Tabaxi are taller on average than humans and relatively slender. Your size is Medium.
 
 ## Feline Agility
-Your reflexes and agility allow you to move with much more quickly. You can take a bonus action to temporarily increase your base movement speed by 10 feet until the end of your turn.
+Your reflexes and agility allow you to move with much more quickly. Your long jump distance is increased by 20, and your high jump distance is increased by 10.
 
 ## Cat Climbing
 Because of your claws, you have a climbing speed of 30 feet. 

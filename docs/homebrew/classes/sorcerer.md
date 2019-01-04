@@ -232,7 +232,7 @@ Superfluous sorcery points vanish at the end of a long rest.
 *\*You must roll on the wild magic table when you convert a spell slot of this level.*
 
 ## Metamagic
-At 2nd level, you gain the ability to twist your spells to suit your needs.
+At 2nd level, you gain the ability to twist your spells to suit your needs. You can expend your sorcery points to use your Metamagic options.
 
 You first unlock one unique Metamagic option, detailed in your chosen Sorcerous Origin.
 

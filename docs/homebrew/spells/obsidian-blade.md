@@ -1,8 +1,12 @@
 Hey Jasmine! Finally decided on what your sword does.
 
 ```
+
 ## Magic
-This weapon is a +2 magic shortsword. It requires attunement, otherwise its properties are no different than a regular shortsword, except all attacks with it have disadvantage.
+This weapon is a +2 magic shortsword. 
+
+## Attunement
+This item requires attunement. Without it, its properties are no different than a regular shortsword, except all attacks with it have disadvantage.
 
 ## Damage
 3d6+2 necrotic or slashing damage (whichever does more).
@@ -24,7 +28,6 @@ Extra notes:
 - You can't recharge the sword's 9 charges, so be sure you want to use them!
 - The extra damage from using a charge doubles on a critical hit.
 - Something interesting happens when you use all 9 charges...
-
 
 Secret notes:
 - Destroying the blade rewards 20,000 exp split among those involved at the time (usually 8 people)

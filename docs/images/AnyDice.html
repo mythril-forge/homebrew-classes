@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<!-- saved from url=(0020)https://anydice.com/ -->
+<html lang="en"><head prefix="og: http://ogp.me/ns#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		
+		<meta property="og:url" content="https://anydice.com">
+		<meta property="og:type" content="website">
+		<meta property="og:image" content="https://anydice.com/anydice-banner.jpg">
+		<meta property="og:title" content="AnyDice">
+		<meta property="og:description" content="AnyDice is an advanced dice probability calculator, available online. It is created with roleplaying games in mind.">
+		<meta name="twitter:card" content="summary">
+		<meta property="twitter:creator" content="@catlikecoding">
+		<title>AnyDice</title>
+		<link rel="publisher" href="https://plus.google.com/+CatlikeCoding">
+		<link rel="manifest" href="https://anydice.com/site.webmanifest">
+		<link rel="mask-icon" href="https://anydice.com/safari-pinned-tab.svg" color="#aa0000">
+		<link rel="stylesheet" type="text/css" href="./AnyDice_files/anydice.css">
+		<link rel="stylesheet" type="text/css" href="./AnyDice_files/jqplot.css">
+		<script type="application/ld+json">{
+			"@context": "http://schema.org",
+			"@type": "WebPage",
+			"headline": "AnyDice",
+			"description": "AnyDice is an advanced dice probability calculator, available online. It is created with roleplaying games in mind.",
+			"publisher": { "@type": "Organization", "name": "Catlike Coding", "@id": "https://catlikecoding.com/#organization" },
+			"image": "https://anydice.com/anydice-banner.jpg"
+		}</script>
+		<script src="./AnyDice_files/jquery.all.js"></script>
+		<script src="./AnyDice_files/anydice.js"></script>
+		<script>
+			var loadedProgram = localStorage.getItem('program');
+			if(!loadedProgram){
+				loadedProgram = 'output 3d6';
+			}
+			</script>
+	<link href="./AnyDice_files/css" rel="stylesheet"></head><span id="warning-container"><i data-reactroot=""></i></span>
+	<body>
+		<div id="sidebar">
+			<h1>AnyDice</h1>
+			<h2>Dice Probability Calculator</h2>
+			<div id="menu">
+				<input id="calculatorPage-selector" class="selector selected" type="button" value="Calculator">
+				<a href="https://anydice.com/articles/" class="selector" style="width: 180px;">Articles</a>
+				<input id="documentationPage-selector" class="selector" type="button" value="Documentation">
+				<input id="functionPage-selector" class="selector" type="button" value="Function Library">
+				<a href="https://tawk.to/chat/597cdb5b0d1bb37f1f7a6735/default/?$_tawk_popout=true" class="selector" style="width: 180px;" target="_blank">Support Chat</a>
+				<input id="donationPage-selector" class="selector" type="button" value="Please Donate!">
+			</div>
+			
+						
+							<h3>Currently Playing</h3>
+
+				<div style="text-align: center;">
+										<a href="https://www.drivethrurpg.com/product/118994/13th-Age-Core-Book?affiliate_id=211377" rel="nofollow"><img src="./AnyDice_files/118994-thumb140.jpg" alt="13th Age Core Book" height="130"></a>
+									</div>
+							<div id="affiliate">affiliate link</div>
+			
+			<h3>Stay Connected</h3>
+			
+			<div style="text-align: center;">
+				<a href="https://twitter.com/catlikecoding" title="Catlike Coding on Twitter">Twitter</a>,
+				<a href="https://facebook.com/anydice" title="AnyDice on Facebook">Facebook</a>,
+				<a href="https://plus.google.com/+CatlikeCoding/posts">Google+</a>
+			</div>
+			
+			<div id="footer">
+				<a href="https://catlikecoding.com/jasper-flick/">made by Jasper Flick</a>
+			</div>
+		</div>
+		<div id="calculatorPage" class="page">
+			<input id="linkField" readonly="" value="click to create link">
+			<textarea id="codeInput">output 3d4</textarea>
+			<input id="calculateButton" type="button" value="Calculate">
+			<div class="option">
+				<h3>View</h3>
+				<input id="tableDisplay-selector" class="selector selected" type="button" value="Table">
+				<input id="graphDisplay-selector" class="selector" type="button" value="Graph">
+				<input id="exportDisplay-selector" class="selector" type="button" value="Export">
+				<input id="rollerDisplay-selector" class="selector" type="button" value="Roller">
+			</div>
+			<div class="option">
+				<h3>Data</h3>
+				<input id="normalMode-selector" class="selector selected" type="button" value="Normal">
+				<input id="atLeastMode-selector" class="selector" type="button" value="At Least">
+				<input id="atMostMode-selector" class="selector" type="button" value="At Most">
+				<input id="transposedMode-selector" class="selector" type="button" value="Transposed">
+				<input id="summaryMode-selector" class="selector" type="button" value="Summary">
+			</div>
+			<div id="calculatingDisplay" class="display hidden">...calculating...</div>
+			<div id="warningDisplay" class="display hidden"></div>
+			<div id="errorDisplay" class="display hidden"></div>
+			<div id="tableDisplay" class="display"><table><caption>output 1 <i>(<span title="average">10.50</span> / <span title="standard deviation">5.77</span>)</i></caption><colgroup><col><col><col class="tableBarCell"></colgroup><thead><tr><th>#</th><th>%</th><th style="display: none;"></th></tr></thead><tbody><tr><td>1</td><td>5.00</td><td><div style="width:5.00%;">&nbsp;</div></td></tr><tr><td>2</td><td>5.00</td><td><div style="width:5.00%;">&nbsp;</div></td></tr><tr><td>3</td><td>5.00</td><td><div style="width:5.00%;">&nbsp;</div></td></tr><tr><td>4</td><td>5.00</td><td><div style="width:5.00%;">&nbsp;</div></td></tr><tr><td>5</td><td>5.00</td><td><div style="width:5.00%;">&nbsp;</div></td></tr><tr><td>6</td><td>5.00</td><td><div style="width:5.00%;">&nbsp;</div></td></tr><tr><td>7</td><td>5.00</td><td><div style="width:5.00%;">&nbsp;</div></td></tr><tr><td>8</td><td>5.00</td><td><div style="width:5.00%;">&nbsp;</div></td></tr><tr><td>9</td><td>5.00</td><td><div style="width:5.00%;">&nbsp;</div></td></tr><tr><td>10</td><td>5.00</td><td><div style="width:5.00%;">&nbsp;</div></td></tr><tr><td>11</td><td>5.00</td><td><div style="width:5.00%;">&nbsp;</div></td></tr><tr><td>12</td><td>5.00</td><td><div style="width:5.00%;">&nbsp;</div></td></tr><tr><td>13</td><td>5.00</td><td><div style="width:5.00%;">&nbsp;</div></td></tr><tr><td>14</td><td>5.00</td><td><div style="width:5.00%;">&nbsp;</div></td></tr><tr><td>15</td><td>5.00</td><td><div style="width:5.00%;">&nbsp;</div></td></tr><tr><td>16</td><td>5.00</td><td><div style="width:5.00%;">&nbsp;</div></td></tr><tr><td>17</td><td>5.00</td><td><div style="width:5.00%;">&nbsp;</div></td></tr><tr><td>18</td><td>5.00</td><td><div style="width:5.00%;">&nbsp;</div></td></tr><tr><td>19</td><td>5.00</td><td><div style="width:5.00%;">&nbsp;</div></td></tr><tr><td>20</td><td>5.00</td><td><div style="width:5.00%;">&nbsp;</div></td></tr></tbody></table><table><caption>output 2 <i>(<span title="average">11.00</span> / <span title="standard deviation">4.06</span>)</i></caption><colgroup><col><col><col class="tableBarCell"></colgroup><thead><tr><th>#</th><th>%</th><th style="display: none;"></th></tr></thead><tbody><tr><td>2</td><td>1.00</td><td><div style="width:1.00%;">&nbsp;</div></td></tr><tr><td>3</td><td>2.00</td><td><div style="width:2.00%;">&nbsp;</div></td></tr><tr><td>4</td><td>3.00</td><td><div style="width:3.00%;">&nbsp;</div></td></tr><tr><td>5</td><td>4.00</td><td><div style="width:4.00%;">&nbsp;</div></td></tr><tr><td>6</td><td>5.00</td><td><div style="width:5.00%;">&nbsp;</div></td></tr><tr><td>7</td><td>6.00</td><td><div style="width:6.00%;">&nbsp;</div></td></tr><tr><td>8</td><td>7.00</td><td><div style="width:7.00%;">&nbsp;</div></td></tr><tr><td>9</td><td>8.00</td><td><div style="width:8.00%;">&nbsp;</div></td></tr><tr><td>10</td><td>9.00</td><td><div style="width:9.00%;">&nbsp;</div></td></tr><tr><td>11</td><td>10.00</td><td><div style="width:10.00%;">&nbsp;</div></td></tr><tr><td>12</td><td>9.00</td><td><div style="width:9.00%;">&nbsp;</div></td></tr><tr><td>13</td><td>8.00</td><td><div style="width:8.00%;">&nbsp;</div></td></tr><tr><td>14</td><td>7.00</td><td><div style="width:7.00%;">&nbsp;</div></td></tr><tr><td>15</td><td>6.00</td><td><div style="width:6.00%;">&nbsp;</div></td></tr><tr><td>16</td><td>5.00</td><td><div style="width:5.00%;">&nbsp;</div></td></tr><tr><td>17</td><td>4.00</td><td><div style="width:4.00%;">&nbsp;</div></td></tr><tr><td>18</td><td>3.00</td><td><div style="width:3.00%;">&nbsp;</div></td></tr><tr><td>19</td><td>2.00</td><td><div style="width:2.00%;">&nbsp;</div></td></tr><tr><td>20</td><td>1.00</td><td><div style="width:1.00%;">&nbsp;</div></td></tr></tbody></table><table><caption>output 3 <i>(<span title="average">15.50</span> / <span title="standard deviation">2.87</span>)</i></caption><colgroup><col><col><col class="tableBarCell"></colgroup><thead><tr><th>#</th><th>%</th><th style="display: none;"></th></tr></thead><tbody><tr><td>11</td><td>10.00</td><td><div style="width:10.00%;">&nbsp;</div></td></tr><tr><td>12</td><td>10.00</td><td><div style="width:10.00%;">&nbsp;</div></td></tr><tr><td>13</td><td>10.00</td><td><div style="width:10.00%;">&nbsp;</div></td></tr><tr><td>14</td><td>10.00</td><td><div style="width:10.00%;">&nbsp;</div></td></tr><tr><td>15</td><td>10.00</td><td><div style="width:10.00%;">&nbsp;</div></td></tr><tr><td>16</td><td>10.00</td><td><div style="width:10.00%;">&nbsp;</div></td></tr><tr><td>17</td><td>10.00</td><td><div style="width:10.00%;">&nbsp;</div></td></tr><tr><td>18</td><td>10.00</td><td><div style="width:10.00%;">&nbsp;</div></td></tr><tr><td>19</td><td>10.00</td><td><div style="width:10.00%;">&nbsp;</div></td></tr><tr><td>20</td><td>10.00</td><td><div style="width:10.00%;">&nbsp;</div></td></tr></tbody></table><table><caption>output 4 <i>(<span title="average">12.75</span> / <span title="standard deviation">3.42</span>)</i></caption><colgroup><col><col><col class="tableBarCell"></colgroup><thead><tr><th>#</th><th>%</th><th style="display: none;"></th></tr></thead><tbody><tr><td>10</td><td>50.00</td><td><div style="width:50.00%;">&nbsp;</div></td></tr><tr><td>11</td><td>5.00</td><td><div style="width:5.00%;">&nbsp;</div></td></tr><tr><td>12</td><td>5.00</td><td><div style="width:5.00%;">&nbsp;</div></td></tr><tr><td>13</td><td>5.00</td><td><div style="width:5.00%;">&nbsp;</div></td></tr><tr><td>14</td><td>5.00</td><td><div style="width:5.00%;">&nbsp;</div></td></tr><tr><td>15</td><td>5.00</td><td><div style="width:5.00%;">&nbsp;</div></td></tr><tr><td>16</td><td>5.00</td><td><div style="width:5.00%;">&nbsp;</div></td></tr><tr><td>17</td><td>5.00</td><td><div style="width:5.00%;">&nbsp;</div></td></tr><tr><td>18</td><td>5.00</td><td><div style="width:5.00%;">&nbsp;</div></td></tr><tr><td>19</td><td>5.00</td><td><div style="width:5.00%;">&nbsp;</div></td></tr><tr><td>20</td><td>5.00</td><td><div style="width:5.00%;">&nbsp;</div></td></tr></tbody></table><table><caption>output 5 <i>(<span title="average">13.25</span> / <span title="standard deviation">4.18</span>)</i></caption><colgroup><col><col><col class="tableBarCell"></colgroup><thead><tr><th>#</th><th>%</th><th style="display: none;"></th></tr></thead><tbody><tr><td>2</td><td>0.50</td><td><div style="width:0.50%;">&nbsp;</div></td></tr><tr><td>3</td><td>1.00</td><td><div style="width:1.00%;">&nbsp;</div></td></tr><tr><td>4</td><td>1.50</td><td><div style="width:1.50%;">&nbsp;</div></td></tr><tr><td>5</td><td>2.00</td><td><div style="width:2.00%;">&nbsp;</div></td></tr><tr><td>6</td><td>2.50</td><td><div style="width:2.50%;">&nbsp;</div></td></tr><tr><td>7</td><td>3.00</td><td><div style="width:3.00%;">&nbsp;</div></td></tr><tr><td>8</td><td>3.50</td><td><div style="width:3.50%;">&nbsp;</div></td></tr><tr><td>9</td><td>4.00</td><td><div style="width:4.00%;">&nbsp;</div></td></tr><tr><td>10</td><td>4.50</td><td><div style="width:4.50%;">&nbsp;</div></td></tr><tr><td>11</td><td>10.00</td><td><div style="width:10.00%;">&nbsp;</div></td></tr><tr><td>12</td><td>9.50</td><td><div style="width:9.50%;">&nbsp;</div></td></tr><tr><td>13</td><td>9.00</td><td><div style="width:9.00%;">&nbsp;</div></td></tr><tr><td>14</td><td>8.50</td><td><div style="width:8.50%;">&nbsp;</div></td></tr><tr><td>15</td><td>8.00</td><td><div style="width:8.00%;">&nbsp;</div></td></tr><tr><td>16</td><td>7.50</td><td><div style="width:7.50%;">&nbsp;</div></td></tr><tr><td>17</td><td>7.00</td><td><div style="width:7.00%;">&nbsp;</div></td></tr><tr><td>18</td><td>6.50</td><td><div style="width:6.50%;">&nbsp;</div></td></tr><tr><td>19</td><td>6.00</td><td><div style="width:6.00%;">&nbsp;</div></td></tr><tr><td>20</td><td>5.50</td><td><div style="width:5.50%;">&nbsp;</div></td></tr></tbody></table></div>
+			<div id="graphDisplay" class="display hidden"><div id="graphCanvas"></div></div>
+			<div id="exportDisplay" class="display hidden"></div>
+			<div id="rollerDisplay" class="display hidden">
+				<select id="rollerSelect"></select>
+				<input id="rollerAmount" type="text" size="2" value="6">
+				<input type="button" id="rollerButton" value="Roll">
+				<div id="rollerOutput" readonly=""></div>
+			</div>
+		</div>
+		<div id="documentationPage" class="text page hidden"></div>
+		<div id="functionPage" class="text page hidden"></div>
+		<div id="donationPage" class="text page hidden"></div>
+		<div id="donationPopup" class="hidden">
+			Have you considered donating?
+			<button data-reply="show">Show me how and why!</button>
+			<button data-reply="remind">Remind me later.</button>
+			<button data-reply="yes">Yes, I have already donated!</button>
+			<button data-reply="no">No, and don't bother me again!</button>
+		</div>
+	
+
+</body></html>

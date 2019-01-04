@@ -1,0 +1,447 @@
+body, p, div, ul, dl, dt, dd, li, h1, h2, h3, h4, h5, h6, input, textarea, table, td, th, caption{
+	margin: 0;
+	padding: 0;
+}
+
+p{
+	margin-top: 1em;
+}
+
+body{
+	background-color: #999;
+	color: #000;
+	font: 14px Verdana, Arial, sans-serif;
+}
+
+#menu input{
+	font: 14px Verdana, Arial, sans-serif;
+}
+
+#sidebar{
+	background: #555 url(anydice-logo-light.svg) no-repeat top center;
+	background-size: 100px 100px;
+	color: #ccc;
+	font-size: 12px;
+	height: 100%;
+	left: 0;
+	padding: 100px 5px 5px;
+	position: fixed;
+	top: 0;
+	width: 190px;
+}
+
+a{
+	color: #ffc;
+	text-decoration: none;
+}
+
+a:hover{
+	text-decoration: underline;
+}
+
+#affiliate {
+	color: #888888;
+	font-size: 8px;
+	text-align: center;
+}
+
+#sidebar h1{
+	color: #ccc;
+	font-size: 25px;
+	font-weight: bold;
+	text-align: center;
+}
+
+#sidebar h2{
+	color: #ccc;
+	font-size: 12px;
+	font-weight: normal;
+	text-align: center;
+}
+
+#sidebar h3{
+	color: #ccc;
+	font-size: 14px;
+	font-weight: bold;
+	margin: 10px;
+	text-align: center;
+}
+
+#footer{
+	bottom: 0;
+	color: #999;
+	font-size: 11px;
+	left: 0;
+	padding: 5px;
+	position: fixed;
+	text-align: center;
+	width: 190px;
+}
+
+.page{
+	left: 0;
+	right: 0;
+	position: absolute;
+	margin-left: 200px;
+	padding: 5px;
+}
+
+.hidden{
+	display: none;
+}
+
+#linkField{
+	background-color: #ccc;
+	border: 1px solid #000;
+	color: #555;
+	font-style: italic;
+	width: 100%;
+}
+
+#linkField.hasLink{
+	color: #000;
+	font-style: normal;
+}
+
+#codeInput{
+	background-color: #ccc;
+	border: 1px solid #000;
+	color: #000;
+	font: 16px "Courier New", Courier, monospace;
+	height: 200px;
+	margin: 5px 0;
+	width: 100%;
+}
+
+#calculateButton{
+	background-color: #555;
+	border: 1px solid #000;
+	color: #ffc;
+	font-size: 12px;
+	padding: 2px 4px;
+}
+
+#calculateButton:hover{
+	background-color: #444;
+	border: 1px solid #000;
+	color: #ff0;
+}
+
+.option{
+	display: inline-block;
+	margin-left: 10px;
+}
+
+.option h3{
+	display: inline-block;
+	font-size: 12px;
+	font-weight: normal;
+}
+
+.option .selector{
+	background-color: #ffc;
+	border: 1px solid #000;
+	color: #555;
+	font-size: 12px;
+	padding: 2px 4px;
+}
+
+.option .selector:hover{
+	background-color: #ff0;
+	color: #444;
+}
+
+.option .selected, .option .selected:hover{
+	background-color: #555;
+	color: #ffc;
+}
+
+.display{
+	margin-top: 5px;
+}
+
+.display.hidden{
+	display: none !important;
+}
+
+#calculatingDisplay{
+	color: #444;
+	font-size: 20px;
+	font-style: italic;
+	text-align: center;
+}
+
+#warningDisplay{
+	font-style: italic;
+}
+
+#errorDisplay{
+	background-color: #ecc;
+	color: #000;
+	border: 2px solid #a00;
+	padding: 5px;
+}
+
+#errorDisplay h3{
+	color: #a00;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+#errorDisplay code{
+	display: block;
+	font: normal 14px "Courier New", Courier, monospace;
+	margin-top: 5px;
+	white-space: pre;
+}
+
+#errorDisplay b{
+	background-color: #000;
+	color: #f88;
+	font-weight: normal;
+}
+
+#errorDisplay i{
+	color: #555;
+	font-size: 12px;
+	font-style: italic;
+}
+
+#tableDisplay table{
+	border-collapse: separate;
+	border-spacing: 2px;
+	font-size: 11px;
+	width: 100%;
+}
+
+#tableDisplay caption{
+	font-size: 12px;
+	font-weight: bold;
+	margin-bottom: -19px;
+	padding: 1px 2px;
+	text-align: center;
+}
+
+#tableDisplay caption i{
+	font-style: normal;
+	font-weight: normal;
+}
+
+#tableDisplay td{
+	padding: 1px 2px;
+	text-align: right;
+	white-space: nowrap;
+}
+
+#tableDisplay th{
+	font-size: 12px;
+	font-weight: bold;
+	padding: 1px 2px;
+	text-align: right;
+}
+
+.tableBarCell{
+	 background-color: #ccc;
+	 width: 100%;
+}
+
+#tableDisplay div{
+	background-color: #555;
+}
+
+#graphCanvas{
+	height: 400px;
+	width: 100%;
+}
+
+#exportDisplay textarea{
+	background-color: #ccc;
+	border: 1px solid #000;
+	color: black;
+	font: 12px "Courier New", Courier, monospace;
+	height: 200px;
+	width: 100%;
+}
+
+#rollerDisplay{
+	text-align: center;
+}
+
+#rollerAmount{
+	background-color: #ccc;
+	border: 1px solid black;
+	color: black;
+	font: 14px Verdana, Arial, sans-serif;
+}
+
+#rollerButton{
+	background-color: #555;
+	border: 1px solid #000;
+	color: #ffc;
+	font-size: 12px;
+	padding: 2px 4px;
+}
+
+#rollerButton:hover{
+	background-color: #444;
+	border: 1px solid #000;
+	color: #ff0;
+}
+
+#rollerSelect{
+	background-color: #555;
+	border: 1px solid #000;
+	color: #ffc;
+	font-size: 12px;
+	padding: 2px 4px;
+}
+
+#rollerOutput{
+	background-color: #ccc;
+	border: 1px solid black;
+	color: black;
+	display: block;
+	font-size: 16px;
+	text-align: center;
+	margin: 5px auto;
+	padding: 10px;
+	width: 90%;
+}
+
+/* menu */
+
+#menu{
+	margin: 10px 0;
+	text-align: center;
+}
+
+#menu .selector{
+	background-color: #dda;
+	border: 1px solid #000;
+	color: #444;
+	display: block;
+	font-size: 14px;
+	padding: 2px 4px;
+	margin: 5px 0;
+	width: 100%;
+}
+
+#menu .selector:hover{
+	background-color: #dd0;
+	color: #333;
+}
+
+#menu .selected, #menu .selected:hover{
+	background-color: #444;
+	color: #dda;
+}
+
+#donationPage-selector{
+	font-weight: bold !important;
+}
+
+/* documentation page */
+
+#documentationPage div, #functionPage div{
+	margin-left: 2em;
+}
+
+.text{
+	background-color: #ccc;
+	color: #222;
+}
+
+.text h1{
+	color: black;
+	font-size: 1.4em;
+	margin: 1em 0;
+}
+
+.text h2{
+	color: #000;
+	cursor: pointer;
+	font-size: 1.2em;
+	font-weight: bold;
+	margin: 1em 0;
+}
+
+.text h2:hover{
+	color: #550;
+}
+
+.text h3{
+	font-size: 1.1em;
+	font-weight: bold;
+	margin: 1em 0;
+}
+
+.text dl{
+	margin: 1em 0.5em;
+}
+
+.text dt{
+	font-weight: bold;
+}
+
+.text dd{
+	margin: 0.5em 1.5em;
+}
+
+.text code{
+	color: #000;
+	font: bold 14px "Courier New", Courier, monospace;
+	white-space: nowrap;
+}
+
+.text p{
+	margin: 1em 0;
+}
+
+.text code.block{
+	display: block;
+	margin: 1em 0.5em;
+	white-space: pre;
+}
+
+.donation{
+	float: left;
+	font-weight: bold;
+	height: 200px;
+	width: 50%;
+	text-align: center;
+}
+
+.donation .symbol{
+	color: #888;
+	font-size: 100px;
+}
+
+#donationPopup{
+	background-color: #555;
+	border: 2px solid #000;
+	color: #ccc;
+	font-size: 20px;
+	padding: 5px;
+	position: fixed;
+	left: 250px;
+	right: 250px;
+	text-align: center;
+	top: 50px;
+	z-index: 100;
+}
+
+#donationPopup button{
+	background-color: #dda;
+	border: 1px solid #000;
+	color: #444;
+	display: block;
+	font-size: 14px;
+	padding: 2px 4px;
+	margin: 5px 0;
+	width: 100%;
+}
+
+#donationPopup button:hover{
+	background-color: #dd0;
+	color: #333;
+}

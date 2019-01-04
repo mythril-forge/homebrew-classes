@@ -285,7 +285,7 @@ You have proficiency in one skill of your choice. You can instead burn this skil
 You gain proficiency in the Intimidation skill.
 
 **Relentless Endurance:**
-When you are reduced to 0 hit points but not killed outright, you use a reaction to remain conscious and regain a number of hit points equal to half your level, rounded down (minimum of 1). You can’t use this feature again until you finish a long rest.
+When you are reduced to 0 hit points but not killed outright, you use a reaction to remain conscious and regain 10 hit points. You can’t use this feature again until you finish a long rest.
 
 **Savage Attacks:**
 When you score a critical hit with a melee weapon attack, you can roll one of the weapon’s damage dice one additional time and add it to the extra damage of the critical hit.

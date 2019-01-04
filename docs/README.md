@@ -28,3 +28,11 @@ For now, a quick-and-dirty rundown of each class is sufficient.
 	- [Giant Soul](./homebrew/classes/sorcerer/giant-soul)
 - [Paladin](./homebrew/classes/paladin)
 	- [Oath of Ancients](./homebrew/classes/ancients)
+
+### Todo:
+[ ] Print Twilight Druid
+[ ] Print Shepherd Druid
+[ ] Print Giant Sorcerer
+[ ] Make Trickster Rogue
+[ ] Make Ancient Paladin
+[ ] Create Elements Monk

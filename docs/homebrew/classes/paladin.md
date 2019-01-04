@@ -190,7 +190,7 @@ When a creature you can see attacks you, you can use a reaction to impose disadv
 When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to interpose yourself and recieve the attack instead. You swap locations with your ally, and you impose disadvantage on the incoming attack roll. You must be using a shield to gain this option.
 
 ### Two-Weapon Fighting
-When you engage in two-weapon fighting, you don't expend your bonus action to provision your offhand strikes. In addition, you can add your ability modifier to the damage of your offhand strikes.
+When you engage in two-weapon fighting, you don't expend your bonus action to provision your offhand strikes.
 
 ## Sacred Oath
 When you reach 2nd level, you swear the oath that binds you as a paladin forever. Up to this time you have been in a preparatory stage, committed to the path but not yet sworn to it. Now you choose from the list of available oaths.
