@@ -195,8 +195,10 @@ In addition, when you are subjected to an effect that allows you to make a Dexte
 ## Reliable Talent
 By 11th level, you have refined your chosen skills until they approach perfection. Whenever you make an ability check that lets you add your proficiency bonus, you can add 1d10 to your regular 1d20 if you rolled a 10 or less.
 
-## Blindsense
-Starting at 14th level, you gain blindsense so long as you can see, hear, and smell. You can detect hidden and invisible creatures that are not visible to the naked eye, and can treck through pitch darkness.
+## Tremorsense
+Starting at 14th level, you gain tremorsense so long as you can feel or hear. You can treck through pitch darkness by using the vibrations in the ground — like a mole.
+
+Your tremorsense does not obsolete stealth or illusions, although it can aid you in discovering them. Tremorsense can be obscured by an abundance or lack of vibrations in the ground, such as finding a creature who is flying or amidst a large battle.
 
 ## Slippery Mind
 By 15th level, you have acquired great mental dexterity. You gain proficiency in Wisdom saving throws.

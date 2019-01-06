@@ -65,15 +65,15 @@ Some of your ki features require your target to make a saving throw against your
 ### Flurry of Blows
 ***Cost: 1 point***
 
-You can take a bonus action to make two unarmed strikes. You can make one additional unarmed strike with this feature at 11th level.
+You can take a bonus action to make two unarmed strikes. When you reach 11th level, you can make one additional unarmed strike with this feature.
 
 ### Patient Defense
-***Cost: 2 points***
+***Cost: 1 point***
 
 You can take a bonus action to gain a +2 bonus to your Armor Class and Dexterity Saving Throws until the start of your next turn.
 
 ### Step of the Wind
-***Cost: 3 points***
+***Cost: 2 points***
 
 You can take a bonus action to use the Dash, Disengage, and Dodge actions simultaneously. Your jump distance is also doubled for the turn.
 
@@ -89,18 +89,20 @@ At 3rd level, you have practiced enough that you can spend your ki on features t
 ### Deflect Blows
 ***Cost: variable***
 
-You can use your reaction to deflect a weapon when you are hit with a weapon attack. To do so, you must spend a number of ki points. The damage is reduced by 1d6 per ki point spent.
+You can use your reaction to deflect a weapon when you are hit with a weapon attack. To do so, you must spend a number of ki points. The damage is reduced by 1d8 per ki point spent.
 
-If you reduce the damage to 0 and you have a hand free, then you can catch ranged missiles and melee weapons if they are small enough to carry and use with one hand.
+If you reduce the damage to 0, then you regain your spent reaction. If you also have a hand free, then you can catch ranged missiles and melee weapons if they are small enough to carry and use with one hand.
 
-When you catch a melee weapon in this way, you can attempt to disarm your aggressor, as a part of the same reaction. Make a Dexterity (Sleight of Hand) check against your opponent's Strength Save DC. On a success, you take the weapon in your free hand.
+When you catch a melee weapon in this way, you can attempt to disarm your aggressor, as a part of the same spent reaction. Make a Dexterity (Sleight of Hand) check against your opponent's Strength Save DC. On a success, you take the weapon in your free hand.
 
-When you catch a ranged missile in this way, you can make a ranged attack (range 20/60 feet) with the missile that you just caught, as part of the same reaction. The missile counts as a monk weapon for the attack.
+When you catch a ranged missile in this way, and you can make a ranged attack (range 20/60 feet) with the missile that you just caught, as part of the same spent reaction. The missile counts as a monk weapon for the attack.
 
 ### Graceful Fall
 ***Cost: variable***
 
-You can use your reaction when you fall to spend a number of ki points, breaking your fall. To do so, you must spend a number of ki points. The damage you take from the fall is reduced by 1d6 per ki point spent.
+You can use your reaction when you fall to spend a number of ki points, breaking your fall. To do so, you must spend a number of ki points. The damage you take from the fall is reduced by 1d8 per ki point spent.
+
+If you reduce the damage to 0, then you regain your spent reaction, and you gain a fly speed equal to the distance you fell until the end of your turn.
 
 ## Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
@@ -124,19 +126,58 @@ You have learned to empower your melee attacks with an abundance of ki energy. W
 You have learned to interfere with the flow of ki in an opponent's body using pressure points. When you hit another creature with a melee weapon attack, you can spend 1 ki point to attempt a stunning strike. The target must succeed on a Constitution saving throw against your Spell Save DC or be stunned until the end of your next turn.
 
 ## Stillness of Mind
-At 7th level, you are immune to charmed and freightened conditions. In addition, you gain resistance to psychic damage.
+Starting at 7th level, you have advantage on saving throws against magical illusions and enchantments, and on ability checks to discern whether such magic is present. You have a resistance to psychic damage.
+
+In addition, you can use your action to end one effect on yourself that is causing you to be charmed or frightened.
 
 ## Ki Adept
 At 7th level, you have learned expert Ki techniques allowing you to dodge even explosions and strokes of lightning. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw.
 
-In addition, you now know two new expert ki features: 
+In addition, you now know two new expert ki features: Matrixial Evasion and Surge of Health.
 
-### Matrixial Evasion
+### Superior Evasion
 ***Cost: variable***
 
-You can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or an ice storm spell. When you fail a Dexterity saving throw, you can use a reaction to dodge out of the effect's path. To do so, you must spend a number of ki points. The damage you take from the failed save is reduced by 1d6 per ki point spent.
+You can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or an ice storm spell. When you fail a Dexterity saving throw, you can use a reaction to dodge out of the effect's path. To do so, you must spend a number of ki points. The damage you take from the failed save is reduced by 1d8 per ki point spent.
+
+If you reduce the damage to 0, then you regain your spent reaction, and you can move up to 10 feet without provoking an opportunity attack, as a part of the same spent reaction.
 
 ### Surge of Health
-***Cost: variable***
+***Cost: 1 point***
 
-You can use your action to restore your own vitality. To do so, you can spend a number of ki points. You regain 1 hit point for each ki point spent.
+You can use your action to focus your mind and restore vitality. To do so, you can spend a number of ki points. You regain 1d4 hit points for each ki point spent.
+
+## Dash of Legends
+At 9th level, when you take the Dash action, you gain the ability to move along vertical surfaces and across liquids without falling if you are wearing no armor and not wielding a shield. This effect persists until the end of your next turn. This effect also ends when you attack, cast a spell, or take damage.
+
+## Purity of Body
+Starting at 10th level, you have ultimate control over your body. Your ki sustains you so that you suffer none of the frailty of old age, and you can't be aged magically. You can now only die of old age if you choose to do so at the end of a short or long rest.
+
+In addition, you have advantage on saving throws with potions and against diseases and poisons; you have resistance against poison damage. You can use your action to cure yourself of one disease or neutralize one poison affecting you.
+
+## Tongue of the Sun and Moon
+Starting at 13th level, you learn to touch the ki of other minds so that you understand all spoken languages. Moreover, any creature that can understand a language can understand what you say.
+
+## Blindsense
+Starting at 14th level, you gain blindsense so long as you can hear or smell. You can treck through pitch darkness by using subtle smells or echoes in the air — much like a bat.
+
+Your blindsense does not obsolete stealth or illusions, although it can aid you in discovering them. Blindsense can be obscured by liquids, walls (even glass windows), and an abundance or lack of smells and sounds, such as in a noisy, rancid tavern or somehow in outer space.
+
+## Diamond Soul
+Beginning at 15th level, your mastery of ki grants you proficiency in all saving throws.
+
+## Empty Spirit
+Beginning at 18th level, you have mastered the most difficult ki techniques. You know two new spell-like features: Greater Invisibility and Astral Projection.
+
+### Greater Invisibility
+***Cost: 6 ki points***
+
+You can use your action to spend 6 ki points and cast the *Greater Invisibility* spell on yourself at 4th-level. During this time, you have resistance to all damage but force damage.
+
+### Astral Projection
+***Cost: 12 ki points***
+
+You can use your action to spend 12 ki points and cast the *Astral Projection* spell at 9th-level. You don't need any material components to target yourself with the spell.
+
+## Perfect Self
+At 20th level, your training has reached a legendary level. Your Dexterity and Wisdom scores increase by 4. Your maximum for those scores is now 24.

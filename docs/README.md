@@ -14,20 +14,22 @@ This website is a repository of information, both old and new.
 ### Homebrew Index
 For now, a quick-and-dirty rundown of each class is sufficient.
 
-- [Bard](./homebrew/classes/bard)
-	- [College of Lore](./homebrew/classes/bard/lore)
-- [Cleric](./homebrew/classes/cleric)
-	- [Domain of Knowledge](./homebrew/classes/cleric/knowledge)
-	- [Domain of the Tempest](./homebrew/classes/cleric/tempest)
-- [Druid](./homebrew/classes/druid)
-	- [Circle of Twilight](./homebrew/classes/druid/twilight)
-	- [Circle of the Shepherd](./homebrew/classes/druid/shepherd)
-- [Rogue](./homebrew/classes/rogue)
-	- [Arcane Trickster](/homebrew/classes/rogue/arcane-trickster)
-- [Sorcerer](./homebrew/classes/sorcerer)
-	- [Giant Soul](./homebrew/classes/sorcerer/giant-soul)
-- [Paladin](./homebrew/classes/paladin)
-	- [Oath of Ancients](./homebrew/classes/ancients)
+- [Bard](/homebrew/classes/bard)
+	- [College of Lore](/homebrew/classes/bard/lore)
+- [Cleric](/homebrew/classes/cleric)
+	- [Domain of Knowledge](/homebrew/classes/cleric/knowledge)
+	- [Domain of the Tempest](/homebrew/classes/cleric/tempest)
+- [Druid](/homebrew/classes/druid)
+	- [Circle of Twilight](/homebrew/classes/druid/twilight)
+	- [Circle of the Shepherd](/homebrew/classes/druid/shepherd)
+- [Rogue](/homebrew/classes/rogue)
+	- [Arcane Trickster]/homebrew/classes/rogue/arcane-trickster)
+- [Sorcerer](/homebrew/classes/sorcerer)
+	- [Giant Soul](/homebrew/classes/sorcerer/giant-soul)
+- [Paladin](/homebrew/classes/paladin)
+	- [Oath of Ancients](/homebrew/classes/ancients)
+- [Monk](/homebrew/classes/monk)
+	- [Way of the Four Elements](/homebrew/classes/monk/four-elements)
 
 ### Todo:
 [ ] Print Twilight Druid
