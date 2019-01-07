@@ -325,7 +325,7 @@ When making a druid, consider why your character has such a close bond with natu
 
 Have you always been an adventurer as part of your druidic calling, or did you first spend time as a caretaker of a sacred grove or spring? Perhaps your homeland was befouled by evil, and you took up an adventuring life in hopes of finding a new home or purpose.
 
-> ##### Quick Build
+> ###### Quick Build
 > 
 > You can make a druid quickly by following these suggestions. First, Wisdom should be your highest ability score, followed by Constitution. Second, choose the hermit background.
 
@@ -349,7 +349,7 @@ You start with the following items, plus anything provided by your background.
 - Padded armor, an explorer's pack, an herbalism kit, and a druidic focus
 - A 250-coin capacity purse containing 2d4 × 10 sp
 
-## Table: The Druid
+## The Druid
 
 | Level | Proficiency Bonus | Features                                          | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 |:-----:|:-----------------:|:--------------------------------------------------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|

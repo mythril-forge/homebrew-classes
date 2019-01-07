@@ -21,9 +21,9 @@ As adventurers, rogues fall on both sides of the law. Some are hardened criminal
 
 ---
 
-> People forget that the entire point of venturing down into a dusty tomb is to bring back the prizes hidden away there. Fighting is for fools. Dead men can't spend their fortunes.
+> *People forget that the entire point of venturing down into a dusty tomb is to bring back the prizes hidden away there. Fighting is for fools. Dead men can't spend their fortunes.*
 > 
-> — Barnabas Bladecutter
+> *— Barnabas Bladecutter*
 
 When brute force won't get the job done, or when magic isn't available or appropriate, the rogue rises to the fore. With skills tied to stealth, subterfuge, and trickery, rogues can get into and out of trouble in ways that few other characters can emulate.
 
@@ -94,20 +94,7 @@ As you create your rogue character, consider the character's relationship to the
 What was the trigger that led you away from your previous life? Did a great con or heist gone terribly wrong cause you to reevaluate your career? Maybe you were lucky and a successful robbery gave you the coin you needed to escape the squalor of your life. Did wanderlust finally call you away from your home? Perhaps you suddenly found yourself cut off from your family or your mentor, and you had to find a new means of support. Or maybe you made a new friend—another member of your adventuring party—who showed you new possibilities for earning a living and employing your particular talents.
 
 > ###### Quick Build
-> 
 > You can make a rogue quickly by following these suggestions. First, Dexterity should be your highest ability score. Make Intelligence your next-highest if you want to excel at Investigation or plan to take up the Arcane Trickster archetype. Choose Charisma instead if you plan to emphasize deception and social interaction. Second, choose the charlatan background.
-
-Proficiencies
-Armor: light armor
-Weapons: 
-Tools: 
-Saving Throws: 
-Skills:
-Starting Equipment
-You start with the following items, plus anything provided by your background.
-
-Alternatively, you may start with 4d4 × 10 gp to buy your own equipment.
-
 
 ### Hit Points
 - **Hit Dice:** `1d8`

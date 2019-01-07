@@ -103,7 +103,6 @@ How did you experience your call to serve as a paladin? Did you hear a whisper f
 As guardians against the forces of wickedness, paladins are rarely of any evil alignment. Most of them walk the paths of charity and justice. Consider how your alignment colors the way you pursue your holy quest and the manner in which you conduct yourself before gods and mortals. Your oath and alignment might be in harmony, or your oath might represent standards of behavior that you have not yet attained.
 
 > ###### Quick Build
-> 
 > You can make a paladin quickly by following these suggestions. First, Strength should be your highest ability score, followed by Charisma. Second, choose the noble background.
 
 ### Hit Points

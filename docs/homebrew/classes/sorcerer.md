@@ -104,8 +104,7 @@ The most important question to consider when creating your sorcerer is the origi
 
 How do you feel about the magical power coursing through you? Do you embrace it, try to master it, or revel in its unpredictable nature? Is it a blessing or a curse? Did you seek it out, or did it find you? Did you have the option to refuse it, and do you wish you had? What do you intend to do with it? Perhaps you feel like you’ve been given this power for some lofty purpose. Or you might decide that the power gives you the right to do what you want, to take what you want from those who lack such power. Perhaps your power links you to a powerful individual in the world—the fey creature that blessed you at birth, the dragon who put a drop of its blood into your veins, the lich who created you as an experiment, or the deity who chose you to carry this power.
 
-> ##### Quick Build
-> 
+> ###### Quick Build
 > You can make a sorcerer quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Constitution. Second, choose the hermit background. Third, choose the light, prestidigitation, ray of frost, and shocking grasp cantrips, along with the 1st-level spells shield and magic missile.
 
 ### Hit Points
@@ -129,7 +128,7 @@ You start with the following items, plus anything provided by your background.
 - Two daggers
 - A 250-coin capacity purse containing 3d4 × 10 sp
 
-## Table: The Sorcerer
+## The Sorcerer
 
 | Level | Proficiency Bonus | Features                                      | Sorcery Points | Metamagics Known | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 |:-----:|:-----------------:|:---------------------------------------------:|:--------------:|:----------------:|:------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|

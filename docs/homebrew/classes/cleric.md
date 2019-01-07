@@ -94,8 +94,7 @@ As you create a cleric, the most important question to consider is which deity t
 
 Once you’ve chosen a deity, consider your cleric’s relationship to that god. Did you enter this service willingly? Or did the god choose you, impelling you into service with no regard for your wishes? How do the temple priests of your faith regard you: as a champion or a troublemaker? What are your ultimate goals? Does your deity have a special task in mind for you? Or are you striving to prove yourself worthy of a great quest?
 
-> ##### Quick Build
-> 
+> ###### Quick Build
 > You can make a cleric quickly by following these suggestions. First, Wisdom should be your highest ability score, followed by Strength or Constitution. Second, choose the acolyte background.
 
 ### Hit Points

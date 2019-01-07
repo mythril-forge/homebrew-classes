@@ -102,8 +102,7 @@ Bards thrive on stories, whether those stories are true or not. Your characterâ€
 
 Did you serve an apprenticeship, studying under a master, following the more experienced bard until you were ready to strike out on your own? Or did you attend a college where you studied bardic lore and practiced your musical magic? Perhaps you were a young runaway or orphan, befriended by a wandering bard who became your mentor. Or you might have been a spoiled noble child tutored by a master. Perhaps you stumbled into the clutches of a hag, making a bargain for a musical gift in addition to your life and freedom, but at what cost?
 
-> ##### Quick Build
-> 
+> ###### Quick Build
 > You can make a bard quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Dexterity. Second, choose the entertainer background. Third, choose the dancing lights and vicious mockery cantrips, along with the following 1st-level spells: charm person, detect magic, healing word, and thunderwave.
 
 ### Hit Points
@@ -127,7 +126,7 @@ You start with the following items, plus anything provided by your background.
 - Padded armor and a dagger
 - A 250-coin capacity purse containing 5d4 Ã— 10 sp
 
-## Table: The Bard
+## The Bard
 
 | Level | Proficiency Bonus | Features                                             | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 |:-----:|:-----------------:|:-----------------------------------------------------|:------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
