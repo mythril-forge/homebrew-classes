@@ -98,6 +98,8 @@ When your sorcerer character casts a spell, does the effort reveal itself in a s
 | 5   | If you are standing when you cast a spell, you rise six inches into the air and gently float back down. |
 | 6   | Illusory blue flames wreathe your head as you begin your casting, then abruptly disappear.              |
 
+---
+
 # Class Features
 ## Creating a Sorcerer
 The most important question to consider when creating your sorcerer is the origin of your power. As a starting character, you’ll choose an origin that ties to a draconic bloodline or the influence of wild magic, but the exact source of your power is up to you to decide. Is it a family curse, passed down to you from distant ancestors? Or did some extraordinary event leave you blessed with inherent magic but perhaps scarred as well?

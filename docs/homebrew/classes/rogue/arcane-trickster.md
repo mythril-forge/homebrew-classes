@@ -42,10 +42,10 @@ You know three cantrips or spells of your choice from the wizard spell list.
 
 The Spells Known column of the Arcane Trickster Spellcasting table shows when you learn more wizard cantrips or spells. Each of these spells must be either a cantrip or of a level for which you have spell slots. For instance, when you reach 8th level in this class, you can learn one new cantrip or spell of 1st or 2nd level.
 
-Whenever you gain a level in this class, you can replace one of the wizard spells you know with another spell of your choice from the wizard spell list. The new spell must be of a level for which you have spell slots, and it must be an enchantment or illusion spell, unless you're replacing the spell you gained at 8th, 14th, or 20th level.
+Whenever you gain a level in this class, you can replace one of the wizard spells you know with another spell of your choice from the wizard spell list. The new spell must be of a level for which you have spell slots.
 
 #### Magic School Limitation
-The spells that you know and learn must come from the divination, enchantment, illusion, or transmutation schools of magic.
+The spells that you know and learn from this class must come from the divination, enchantment, illusion, or transmutation schools of magic.
 
 ### Spellcasting Ability
 Intelligence is your spellcasting ability for your wizard spells, since you learn your spells through dedicated study and memorization. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one.

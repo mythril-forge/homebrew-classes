@@ -98,7 +98,7 @@ You gain a +2 bonus to your rage damage.
 While raging, You can take a bonus action to attempt to intimidate one creature within 5 feet of you.
 
 ### Eagle
-While you are in a rage, you can take a bonus action to gain a flying speed equal to your current walking speed until the end of your turn.
+While you are in a rage, you can take a bonus action to gain a flying speed equal to your current walking speed. This benefit works only in short bursts; you fall if you end your turn in the air and nothing else is holding you aloft.
 
 Even outside of your rage, any class feature that explicitly restricts its use to melee weapons can now be used with ranged and thrown weapons.
 

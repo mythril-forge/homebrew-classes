@@ -319,6 +319,8 @@ The tables include all the individual beasts that are eligible for Wild Shape (u
 | 3   | Killer whale            | Swim     |
 | 5   | Giant shark             | Swim     |
 
+---
+
 # Class Features
 ## Creating a Druid
 When making a druid, consider why your character has such a close bond with nature. Perhaps your character lives in a society where the Old Faith still thrives, or was raised by a druid after being abandoned in the depths of a forest. Perhaps your character had a dramatic encounter with the spirits of nature, coming face to face with a giant eagle or dire wolf and surviving the experience. Maybe your character was born during an epic storm or a volcanic eruption, which was interpreted as a sign that becoming a druid was part of your character's destiny.
@@ -393,7 +395,7 @@ For example, if you are a 3rd-level druid, you have two 1st-level and one 2nd-le
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of druid spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
 
 ### Spellcasting Ability
-Wisdom is your spellcasting ability for your druid spells. The power of your spells comes from your devotion to your deity. You use your Wisdom whenever a druid spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a druid spell you cast and when making an attack roll with one.
+Wisdom is your spellcasting ability for your druid spells, since your magic draws upon your devotion and attunement to nature. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a druid spell you cast and when making an attack roll with one.
 
 `Spell save DC = 9 + your proficiency bonus + your Wisdom modifier`
 

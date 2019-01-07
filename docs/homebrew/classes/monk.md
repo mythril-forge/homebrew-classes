@@ -78,6 +78,8 @@ During your studies, you were likely under the tutelage of a master who imparted
 | 5   | Your master was cold and distant. You suspect that the two of you might be related.                                                                    |
 | 6   | Your master was kind and generous, never critical of your progress. Nevertheless, you feel you never fully lived up to the expectations placed on you. |
 
+---
+
 # Class Features
 ## Creating a Monk
 As you make your monk character, think about your connection to the monastery where you learned your skills and spent your formative years. Were you an orphan or a child left on the monastery's threshold? Did your parents promise you to the monastery in gratitude for a service performed by the monks? Did you enter this secluded life to hide from a crime you committed? Or did you choose the monastic life for yourself?
@@ -156,12 +158,14 @@ Starting at 1st-level, your training allows you to harness the mystic energy of 
 
 You have 2 ki points, and you gain additional ki points every time you level up, as shown on the Monk Table. You regain all spent ki points and lose any superfluous ki points when you finish a short or long rest. You must spend at least 30 minutes of the rest meditating to regain your ki points.
 
-At 1st-level level, you are limited to using your ki points to create Spell Slots; this is only useful if you have the ability to cast a spell of 1st-level or higher. If you don't, you can ignore the proceeding *Ki Energies* subsection.
+At 1st-level level, you are limited to using your ki points to create Spell Slots; this is only useful if you have the ability to cast a spell of 1st-level or higher. If you don't, then you can ignore the proceeding *Ki Energies* subsection.
 
 You learn more practical ways to use your ki points as you reach higher levels.
 
 ### Ki Energies
-You can use your ki points to create spell slots, or sacrifice spell slots to gain additional ki points.
+You can use your ki points to create spell slots, or sacrifice spell slots to gain additional ki points. 
+
+You can only create a spell slot if it is at a level for which you know spells. If you do not know any spells, then you cannot create any spell slots.
 
 #### Converting Ki Points
 You can transform unexpended ki points into one spell slot as a bonus action on your turn. To do so, spend a number of ki points equal to the spell's conversion rate, as shown in the Ki Points Table.
@@ -228,7 +232,7 @@ When you catch a ranged missile in this way, and you can make a ranged attack (r
 ### Graceful Fall
 ***Cost: variable***
 
-You can use your reaction when you fall to spend a number of ki points, breaking your fall. To do so, you must spend a number of ki points. The damage you take from the fall is reduced by 1d8 per ki point spent.
+You can use your reaction when you fall breaking your impact. To do so, you must spend a number of ki points. The damage you take from the fall is reduced by 1d8 per ki point spent.
 
 If you reduce the damage to 0, then you regain your spent reaction, and you gain a fly speed equal to the distance you fell until the end of your turn.
 
@@ -301,15 +305,15 @@ Your blindsense does not obsolete stealth or illusions, although it can aid you 
 Beginning at 15th level, your mastery of ki grants you proficiency in all saving throws.
 
 ## Empty Spirit
-Beginning at 18th level, you have mastered the most difficult of ki techniques. You know two new spell-like features: Greater Invisibility and Astral Projection.
+Beginning at 18th level, you have mastered the most difficult of ki techniques. You know two new spell-like ki features: Greater Invisibility and Astral Projection.
 
 ### Greater Invisibility
-***Cost: 6 ki points***
+***Cost: 6 points***
 
 You can use your action to spend 6 ki points and cast the *Greater Invisibility* spell on yourself at 4th-level without expending a spell slot. During this time, you have resistance to all damage but force damage.
 
 ### Astral Projection
-***Cost: 12 ki points***
+***Cost: 12 points***
 
 You can use your action to spend 12 ki points and cast the *Astral Projection* spell at 9th-level without expending a spell slot. You don't need any material components to target yourself with the spell.
 

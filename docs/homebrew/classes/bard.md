@@ -96,6 +96,8 @@ The ways that a performance can go wrong are as varied as the fish in the sea. N
 > 
 > Conflict. Drama embodies conflict, and the best stories have conflict as a key element. From the morning-after tale of a tavern brawl to the saga of an epic battle, from a lover's spat to a rift between powerful dynasties, conflict is what inspires tale-tellers like you to create your best work. Conflict can bring out the best in some people, causing their heroic nature to shine forth and transform the world, but it can cause others to gravitate toward darkness and fall under the sway of evil. You strive to experience or witness all forms of conflict, great and small, so as to study this eternal aspect of life and immortalize it in your words and music.
 
+---
+
 # Class Features
 ## Creating a Bard
 Bards thrive on stories, whether those stories are true or not. Your character’s background and motivations are not as important as the stories that he or she tells about them. Perhaps you had a secure and mundane childhood. There’s no good story to be told about that, so you might paint yourself as an orphan raised by a hag in a dismal swamp. Or your childhood might be worthy of a story. Some bards acquire their magical music through extraordinary means, including the inspiration of fey or other supernatural creatures.

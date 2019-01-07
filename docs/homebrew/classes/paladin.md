@@ -94,6 +94,8 @@ What is the temptation that your character succumbs to or finds it difficult to 
 | 5   | Despair. You consider the great strength of the enemies you must defeat, and at times you see no way to achieve final victory.     |
 | 6   | Greed. Regardless of how much glory and treasure you amass, it's never enough for you.                                             |
 
+---
+
 # Class Features
 ## Creating a Paladin
 The most important aspect of a paladin character is the nature of his or her holy quest. Although the class features related to your oath don't appear until you reach 2nd level, plan ahead for that choice by reading the oath descriptions at the end of the class. Are you a devoted servant of good, loyal to the gods of justice and honor, a holy knight in shining armor venturing forth to smite evil? Are you a glorious champion of the light, cherishing everything beautiful that stands against the shadow, a knight whose oath descends from traditions older than many of the gods? Or are you an embittered loner sworn to take vengeance on those who have done great evil, sent as an angel of death by the gods or driven by your need for revenge? Appendix B lists many deities worshiped by paladins throughout the multiverse, such as Torm, Tyr, Heironeous, Paladine, Kiri-Jolith, Dol Arrah, the Silver Flame, Bahamut, Athena, Re-Horakhty, and Heimdall.

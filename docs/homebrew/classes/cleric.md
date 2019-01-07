@@ -88,6 +88,8 @@ If you haven't considered this aspect of your character yet, see the table entri
 > 
 > The cleric's class features often refer to your deity. If you are devoted to a pantheon, cosmic force, or philosophy, your cleric features still work for you as written. Think of the references to a god as references to the divine thing you serve that gives you your magic.
 
+---
+
 # Class Features
 ## Creating a Cleric
 As you create a cleric, the most important question to consider is which deity to serve and what principles you want your character to embody. The Gods of the Multiverse section includes lists of many of the gods of the multiverse. Check with your DM to learn which deities are in your campaign.

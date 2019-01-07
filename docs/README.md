@@ -22,19 +22,20 @@ For now, a quick-and-dirty rundown of each class is sufficient.
 - [Druid](/homebrew/classes/druid)
 	- [Circle of Twilight](/homebrew/classes/druid/twilight)
 	- [Circle of the Shepherd](/homebrew/classes/druid/shepherd)
-- [Rogue](/homebrew/classes/rogue)
-	- [Arcane Trickster]/homebrew/classes/rogue/arcane-trickster)
-- [Sorcerer](/homebrew/classes/sorcerer)
-	- [Giant Soul](/homebrew/classes/sorcerer/giant-soul)
-- [Paladin](/homebrew/classes/paladin)
-	- [Oath of Ancients](/homebrew/classes/ancients)
 - [Monk](/homebrew/classes/monk)
 	- [Way of the Four Elements](/homebrew/classes/monk/four-elements)
+- [Paladin](/homebrew/classes/paladin)
+	- [Oath of Ancients](/homebrew/classes/ancients)
+- [Rogue](/homebrew/classes/rogue)
+	- [Arcane Trickster](/homebrew/classes/rogue/arcane-trickster)
+- [Sorcerer](/homebrew/classes/sorcerer)
+	- [Giant Soul](/homebrew/classes/sorcerer/giant-soul)
 
 ### Todo:
-[ ] Print Twilight Druid
-[ ] Print Shepherd Druid
-[ ] Print Giant Sorcerer
-[ ] Make Trickster Rogue
-[ ] Make Ancient Paladin
-[ ] Create Elements Monk
+
+- [ ] Print Twilight Druid
+- [ ] Print Shepherd Druid
+- [ ] Print Giant Sorcerer
+- [ ] Make Trickster Rogue
+- [ ] Make Ancient Paladin
+- [ ] Create Elements Monk
