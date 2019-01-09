@@ -91,6 +91,7 @@ By 6th level, you have spent significant time studying and practicing the philos
 
 ### Flaming Fang
 ***Cost: 2+ points***
+
 On your turn, you can spend 2 ki points to cause tendrils of flame to stretch out from your fists and feet. Your reach with unarmed strikes increases by 10 feet until the start of your next turn. A hit with such an unarmed strike deals fire damage instead of bludgeoning damage.
 
 If you spend 1 ki point when the attack hits, it also deals an extra 1d12 fire damage.
@@ -114,7 +115,7 @@ As an action, you can spend 2 or more ki points to force creature into the earth
 At 11th level, you have gained mastery over casting elemental spells. Choose one of the elemental quartet spells that you know of 3rd level. It becomes a 2nd level spell for you, and you can cast it using spell slots at that level or higher.
 
 ## Avatar of the Elements
-
+... to be continued
 
 ---
 
@@ -135,6 +136,7 @@ At 11th level, you have gained mastery over casting elemental spells. Choose one
 *1st-level*
 - Absorb Elements
 - Burning Hands
+- Catapult
 - Create or Destroy Water
 - Earth Tremor
 - Entangle
@@ -145,6 +147,7 @@ At 11th level, you have gained mastery over casting elemental spells. Choose one
 
 *2nd-level*
 - Aganazzar's Scorcher
+- Prayer of Healing
 - Flame Blade
 - Gust of Wind
 - Hold Person
@@ -161,6 +164,7 @@ At 11th level, you have gained mastery over casting elemental spells. Choose one
 - Fly
 - Gaseous Form
 - Glyph of Warding
+- Lightning Bolt
 - Meld into Stone
 - Wall of Water
 - Wind Wall
