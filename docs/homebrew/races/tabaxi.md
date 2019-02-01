@@ -5,10 +5,10 @@
 - **Size:** Tabaxi are taller on average than humans and relatively slender. Your size is Medium.
 
 ## Feline Agility
-Your reflexes and agility allow you to move with much more quickly. Your long jump distance is increased by 20, and your high jump distance is increased by 10.
+Your reflexes and agility allow you to move with much more speed. Your long jump distance is increased by 20, and your high jump distance is increased by 10.
 
 ## Cat Climbing
-Because of your claws, you have a climbing speed of 30 feet. 
+Because of your claws, you have a climbing speed of 30 feet.
 
 ## Feline Claws
 Your feline claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.

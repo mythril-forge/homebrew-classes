@@ -43,7 +43,7 @@ Starting at 8th level, you add your Wisdom modifier to the damage you deal with 
 ## Visions of the Past
 Starting at 17th level, you can call up visions of the past that relate to an object you hold or your immediate surroundings. You spend at least 5 minutes in meditation and prayer, then receive dreamlike, shadowy glimpses of recent events. You can meditate in this way indefinately but must maintain concentration during that time, as if you were casting a spell.
 
-Once you use this feature, you can't use it again until you finish a short or long rest.
+Once you use this feature, you can't use it again until you finish a long rest.
 
 ### Object Reading
 Holding an object as you meditate, you can see visions of the object's previous owner. After meditating for 5 minutes, you learn how the owner acquired and lost the object, as well as the most recent significant event involving the object and that owner.

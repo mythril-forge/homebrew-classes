@@ -429,7 +429,7 @@ Your druid level dictates the maximum power of the beasts that you can transform
 | 8     | 2       | 2        |
 | 18    | 2       | 3        |
  
-You can stay in a beast shape for a number of hours equal to half your druid level. You then revert to your normal form unless you expend another use of this feature. You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert if you fall unconscious, drop to 0 hit points, or die.
+You can stay in a beast shape for a number of hours equal to half your druid level. You then revert to your normal form unless you expend another use of this feature. You can revert to your normal form earlier by using an action on your turn. You automatically revert if you fall unconscious, drop to 0 hit points, or die.
 
 While you are transformed, the following rules apply:
 - Your game statistics are replaced by the statistics of the beast, but you can choose to retain your...

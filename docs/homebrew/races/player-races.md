@@ -141,7 +141,6 @@ After 1d20 rounds of continuous sunlight exposure, you must make a DC 15 Constit
 If you fail the save while you are already restrained from this effect, your body becomes petrified indefinitely. Nothing short of the Greater Restoration spell (or similar magic) can free you from this fate.
 
 
-\page
 
 ## Elf
 Your elf character has a variety of natural Abilities, the result of thousands of years of elven refinement.
@@ -250,12 +249,13 @@ Your spellcasting ability for these spells depends on the class you chose.
 > *3rd Level:*
 > Clairvoyance, Dispel Magic
 > 
-> **Sunlight Sensitivity:**
-> When you are exposed to direct sunlight for too long, your flesh starts to boil and melt off.
-> 
-> After 1d20 rounds of continuous sunlight exposure, you must make a DC 15 Constitution saving throw. You take 3d6 radiant damage on a failed save, or half as much on a successful one. You must repeat this save every 1d20 rounds of continuous sunlight exposure.
-> 
-> If you die by taking damage in this way, whats left of your body continues to disintigrate over time, leaving but your skeleton remaining.
+
+**Sunlight Sensitivity:**
+When you are exposed to direct sunlight for too long, your flesh starts to boil and melt off.
+
+After 1d20 rounds of continuous sunlight exposure, you must make a DC 15 Constitution saving throw. You take 3d6 radiant damage on a failed save, or half as much on a successful one. You must repeat this save every 1d20 rounds of continuous sunlight exposure.
+
+If you die by taking damage in this way, whats left of your body continues to disintigrate over time, leaving but your skeleton remaining.
 
 ## Orc
 Orcs have a stereotype of being a savage bunch of murderers and plunderers. For the most part, this is accurate - however not every Orc likes being a part of this terrifying culture.
@@ -290,8 +290,6 @@ When you are reduced to 0 hit points but not killed outright, you use a reaction
 **Savage Attacks:**
 When you score a critical hit with a melee weapon attack, you can roll one of the weapon’s damage dice one additional time and add it to the extra damage of the critical hit.
 
-
-
 ## Halfling
 Halflings are an affable folk. Your halfling character has a number of traits in common with all other halflings.
 
@@ -322,19 +320,18 @@ You can move through the space of any creature that is of a size larger than you
 **Lucky:**
 You gain one luck die. You can use this die on any attack roll, ability check, or saving throw that directly affects you. You regain this die after a long rest. See the *Lucky Dice* infobox for the rules regarding this ability.
 
-<div class='descriptive'>
-##### Lucky Dice
-&nbsp;&nbsp;&nbsp;
-*Disadvantage:*
-Roll one additional die. Take the middle roll.
+> ##### Lucky Dice
+> &nbsp;&nbsp;&nbsp;
+> *Disadvantage:*
+> Roll one additional die. Take the middle roll.
+> 
+> *Regular:* Roll one additional die. Take the highest roll.
+> 
+> *Advantage:* 
+> Roll one additional die. Take the highest roll.
+> 
+> **Note:** Invert these effects if you are imposing disadvantage.
 
-*Regular:* Roll one additional die. Take the highest roll.
-
-*Advantage:* 
-Roll one additional die. Take the highest roll.
-
-**Note:** Invert these effects if you are imposing disadvantage.
-</div>
 
 &nbsp;&nbsp;&nbsp;
 **Subrace:**
@@ -375,8 +372,6 @@ You have proficiency in the Insight skill. You have advantage on ability checks 
 
 **Silent Speech:**
 You can speak telepathically to any creature within 30 feet of you. The creature understands you only if the two of you share a language. You can speak telepathically in this way to one creature at a time.
-
-
 
 ## Gnome
 Your gnome character has certain characteristics in common with all other gnomes.
@@ -423,20 +418,18 @@ Finally, you have advantage on saving throws against magical illusions, and on a
 
 Additionally, through sounds and gestures, you can communicate simple ideas with Small or smaller beasts. Forest gnomes love animals and often keep squirrels, badgers, rabbits, moles, woodpeckers, and other creatures as beloved pets.
 
-<div class='descriptive'>
-##### Devices
-&nbsp;&nbsp;&nbsp;
-These devices are all but examples of what you can do with this ability. Use your imagination, like your character would.
-
-*Clockwork Toy:*
-This toy is a clockwork animal, monster, or person, such as a frog, mouse, bird, dragon, or soldier. When placed on the ground, the toy moves 5 feet across the ground on each of your turns in a random direction. It makes noises as appropriate to the creature it represents.
-
-*Fire Starter:*
-The device produces a miniature flame, which you can use to light a Candle, torch, or campfire. Using the device requires your action.
-
-*Music Box:*
-When opened, this music box plays a single song at a moderate volume. The box stops playing when it reaches the song’s end or when it is closed.
-</div>
+> ##### Devices
+> &nbsp;&nbsp;&nbsp;
+> These devices are all but examples of what you can do with this ability. Use your imagination, like your character would.
+> 
+> *Clockwork Toy:*
+> This toy is a clockwork animal, monster, or person, such as a frog, mouse, bird, dragon, or soldier. When placed on the ground, the toy moves 5 feet across the ground on each of your turns in a random direction. It makes noises as appropriate to the creature it represents.
+> 
+> *Fire Starter:*
+> The device produces a miniature flame, which you can use to light a Candle, torch, or campfire. Using the device requires your action.
+> 
+> *Music Box:*
+> When opened, this music box plays a single song at a moderate volume. The box stops playing when it reaches the song’s end or when it is closed.
 
 
 ### Rock Gnome
@@ -539,10 +532,6 @@ You have resistance to the damage type associated with your draconic ancestry.
 | 92‒97 | Gold         | Fire    | 40ft line           | Dex.    | Cha.                |
 | 98‒00 | Platinum     | Radiant | 10ft sphere         | Wis.    | Wis.                |
 
-
-
-
-
 ## Tiefling
 Tieflings are humans with an infernal bloodline. Even if their infernal legacy is distant, a tiefling's appearance are just as heavy as one who is half-blooded.
 
@@ -589,3 +578,23 @@ Choose a spellcasting class.  The spell that you recieve becomes a spell for you
 | 58‒70 | Baalzebul      | Rough Skin      | Cause Fear             | Range reduced to 5ft                 | Constitution        |
 | 71‒84 | Mephistopheles | Chromatic Skin  | Detect Magic           | Takes ten minutes to cast            | Intelligance        |
 | 85‒00 | Asmodeous      | Goat Horns      | Hellish Rebuke         | Range reduced to 5ft                 | Intelligance        |
+
+## Half-Elf
+**Size:**
+Your size is Medium.
+
+**Speed:**
+Your base walking speed is 30 feet.
+
+**Ability Score Increase:**
++1 point to three different ability scores of your choice.
+<br/>+1 Dexterity.
+
+**Languages:**
+You can speak, read, and write either Common or Elvish (your choice).
+
+**Skills:**
+You have proficiency in two skills or tools of your choice. You can instead burn this skill point to learn an extra langauge.
+
+**Fey Ancestry:**
+You have advantage on saving throws against magical enchantments, and on ability checks to discern whether such magic is present. In addition, magic cannot put you to sleep.
