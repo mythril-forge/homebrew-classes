@@ -140,8 +140,6 @@ After 1d20 rounds of continuous sunlight exposure, you must make a DC 15 Constit
 
 If you fail the save while you are already restrained from this effect, your body becomes petrified indefinitely. Nothing short of the Greater Restoration spell (or similar magic) can free you from this fate.
 
-
-
 ## Elf
 Your elf character has a variety of natural Abilities, the result of thousands of years of elven refinement.
 

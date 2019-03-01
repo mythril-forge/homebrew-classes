@@ -23,7 +23,7 @@ You can use this feature a number of times equal to your Wisdom modifier (a mini
 ### Channel Divinity: Invoke Duplicity
 Starting at 2nd level, you can use your Channel Divinity to create an illusory duplicate of yourself.
 
-As an action, you create a perfect illusion of yourself that lasts for 1 hour or until it is destroyed. The illusion appears in an unoccupied space that you can see within 30 feet of you. As a bonus action on your turn, you can move the illusion up to 30 feet to a space you can see. The illusion fades if it ever leaves your sight.
+As an action, you create a perfect illusion of yourself that lasts for 1 hour. The illusion appears in an unoccupied space that you can see within 30 feet of you. As a bonus action on your turn, you can move the illusion up to 30 feet to a space you can see. The illusion fades if it ever leaves your sight.
 
 For the duration, you can cast spells as though you were in the illusion's space, but you must use your own senses. Additionally, when both you and your illusion are within 5 feet of a creature that can see the illusion, you have advantage on attack rolls against that creature, given how distracting the illusion is to the target.
 
@@ -35,7 +35,7 @@ Starting at 6th level, you can use your Channel Divinity to vanish.
 As an action, you become invisible until the end of your next turn. You become visible if you attack or cast a spell.
 
 ## Divine Strike
-At 8th level, you gain the ability to infuse your weapon strikes with poison—a gift from your deity. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 2d6 poison damage to the target. When you reach 14th level, the extra damage increases to 3d6.
+At 8th level, you gain the ability to infuse your weapon strikes with poison—a gift from your deity. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 2d6 poison damage to the target. When you reach 14th level, the extra damage increases to 4d6.
 
 ## Improved Duplicity
 At 17th level, you can create up to four duplicates of yourself, instead of one, when you use Invoke Duplicity. As a bonus action on your turn, you can move any number of them up to 30 feet, to a maximum range of 120 feet.
