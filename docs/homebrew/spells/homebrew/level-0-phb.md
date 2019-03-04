@@ -212,6 +212,7 @@ The environment you effect returns to its natural order briefly after casting th
 
 # Thorn Whip
 - [x] *Bonus Action*
+
 You create a long, vine-like whip that lashes out at your command toward a target in range. Make a melee spell attack against the target. If the attack hits, the target takes 1d6 slashing damage, and if the target is Large or smaller, you can pull the target up to 10 feet closer to you. Such a creature also becomes flatfooted until the end of your next turn.
 
 ### At Higher Levels
