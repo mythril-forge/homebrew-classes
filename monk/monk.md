@@ -66,9 +66,6 @@ At 7th level, your instinctive agility lets you dodge out of the way of certain 
 ## Stillness of Mind
 Starting at 7th level, you can use your action to end one effect on yourself that is causing you to be charmed or frightened.
 
-## Unarmored Movement Improvement
-At 9th level, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during your move.
-
 ## Purity of Body
 At 10th level, your mastery of the ki flowing through you makes you immune to disease and poison.
 
