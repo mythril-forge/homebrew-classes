@@ -60,13 +60,11 @@ Starting at 5th level, when an undead fails its saving throw against your Turn U
 
 | Cleric Level | Destroys Undead of CR...  |
 |-:-:----------|-:-:-----------------------|
-| 5th          | 1/2 or lower              |
+| 5th          | ½ or lower                |
 | 8th          | 1 or lower                |
 | 11th         | 2 or lower                |
 | 14th         | 3 or lower                |
 | 17th         | 4 or lower                |
-
-
 
 ## Divine Intervention
 Beginning at 10th level, you can call on your deity to intervene on your behalf when your need is great.

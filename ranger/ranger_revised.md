@@ -75,21 +75,10 @@ When you reach 4th level, you can increase one ability score of your choice by 2
 
 If your DM allows the use of feats, you may instead take a feat.
 
-## Ranger Conclave feature
-At 5th level, you gain a feature granted to you by your Ranger Conclave.
-
-Greater Favored Enemy
+## Greater Favored Enemy
 At 6th level, you are ready to hunt even deadlier game. Choose a type of greater favored enemy: aberrations, celestials, constructs, dragons, elementals, fiends, or giants. You gain all the benefits against this chosen enemy that you normally gain against your favored enemy, including an additional language. Your bonus to damage rolls against all your favored enemies increases to +4.
 
 Additionally, you have advantage on saving throws against the spells and abilities used by a greater favored enemy.
-
-## Ranger Conclave feature
-At 7th level, you gain a feature granted to you by your Ranger Conclave.
-
-## Ability Score Improvement
-When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
-
-If your DM allows the use of feats, you may instead take a feat.
 
 ## Fleet of Foot
 Beginning at 8th level, you can use the Dash action as a bonus action on your turn.
@@ -101,32 +90,11 @@ When you attempt to hide on your turn, you can opt to not move on that turn. If 
 
 If you are still hidden on your next turn, you can continue to remain motionless and gain this benefit until you are detected.
 
-## Ranger Conclave feature
-At 11th level, you gain a feature granted to you by your Ranger Conclave.
-
-Ability Score Improvement
-When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
-
-If your DM allows the use of feats, you may instead take a feat.
-
 ## Vanish
 Starting at 14th level, you can use the Hide action as a bonus action on your turn. Also, you can't be tracked by nonmagical means, unless you choose to leave a trail.
 
-## Ranger Conclave feature
-At 15th level, you gain a feature granted to you by your Ranger Conclave.
-
-## Ability Score Improvement
-When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
-
-If your DM allows the use of feats, you may instead take a feat.
-
 ## Feral Senses
 At 18th level, you gain preternatural senses that help you fight creatures you can't see. When you attack a creature you can't see, your inability to see it doesn't impose disadvantage on your attack rolls against it. You are also aware of the location of any invisible creature within 30 feet of you, provided that the creature isn't hidden from you and you aren't blinded or deafened.
-
-## Ability Score Improvement
-When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
-
-If your DM allows the use of feats, you may instead take a feat.
 
 ## Foe Slayer
 At 20th level, you become an unparalleled hunter. Once on each of your turns, you can add your Wisdom modifier to the attack roll or the damage roll of an attack you make. You can choose to use this feature before or after the roll, but before any effects of the roll are applied.

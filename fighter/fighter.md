@@ -19,7 +19,7 @@ When a creature you can see attacks a target other than you that is within 5 fee
 ### Two-Weapon Fighting
 When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
 
-### Second Wind
+## Second Wind
 You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to 1d10 + your fighter level. Once you use this feature, you must finish a short or long rest before you can use it again.
 
 ## Action Surge
@@ -44,11 +44,3 @@ The number of attacks increases to three when you reach 11th level in this class
 Beginning at 9th level, you can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can’t use this feature again until you finish a long rest.
 
 You can use this feature twice between long rests starting at 13th level and three times between long rests starting at 17th level.
-
-## Extra Attack
-Beginning at 11th level, you can attack three times, instead of twice, whenever you take the Attack action on your turn.
-
-The number of attacks increases to four when you reach 20th level in this class.
-
-## Extra Attack
-At 20th level, you can attack four times, instead of three, whenever you take the Attack action on your turn.

@@ -51,16 +51,8 @@ Starting at 11th level, your rage can keep you fighting despite grievous wounds.
 
 Each time you use this feature after the first, the DC increases by 5. When you finish a short or long rest, the DC resets to 10.
 
-## Brutal Critical
-At 13th level, you can roll two additional weapon damage dice when determining the extra damage for a critical hit with a melee attack.
-
-This increases to three additional dice at 17th level.
-
 ## Persistent Rage
 Beginning at 15th level, your rage is so fierce that it ends early only if you fall unconscious or if you choose to end it.
-
-## Brutal Critical
-At 17th level, you can roll three additional weapon damage dice when determining the extra damage for a critical hit with a melee attack.
 
 ## Indomitable Might
 Beginning at 18th level, if your total for a Strength check is less than your Strength score, you can use that score in place of the total.

@@ -63,27 +63,12 @@ Beginning when you reach 5th level, you regain all of your expended uses of Bard
 ## Countercharm
 At 6th level, you gain the ability to use musical notes or words of power to disrupt mind-influencing effects. As an action, you can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have advantage on saving throws against being frightened or charmed. A creature must be able to hear you to gain this benefit. The performance ends early if you are incapacitated or silenced or if you voluntarily end it (no action required).
 
-## Expertise
-At 10th level, choose two more of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
-
 ## Magical Secrets
 By 10th level, you have plundered magical knowledge from a wide spectrum of disciplines. Choose two spells from any classes, including this one. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip.
 
 The chosen spells count as bard spells for you and are included in the number in the Spells Known column of the Bard table.
 
 You learn two additional spells from any classes at 14th level and again at 18th level.
-
-## Magical Secrets
-At 14th level, you have plundered magical knowledge from a wide spectrum of disciplines. Choose two spells from any classes, including this one. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip.
-
-The chosen spells count as bard spells for you and are included in the number in the Spells Known column of the Bard table.
-
-You learn two additional spells from any classes at 18th level.
-
-## Magical Secrets
-At 18th level, you have plundered magical knowledge from a wide spectrum of disciplines. Choose two spells from any classes, including this one. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip.
-
-The chosen spells count as bard spells for you and are included in the number in the Spells Known column of the Bard table.
 
 ## Superior Inspiration
 At 20th level, when you roll initiative and have no uses of Bardic Inspiration left, you regain one use.
