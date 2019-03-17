@@ -75,17 +75,6 @@ Using the optional feats rule, you can forgo taking this feature to take a feat 
 ## Extra Attack
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
-## Favored Enemy
-At 6th level, you have significant experience studying, tracking, hunting, and even talking to a certain type of enemy.
-
-Choose an additional type of favored enemy: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can select two races of humanoid (such as gnolls and orcs) as favored enemies.
-
-You have advantage on Wisdom (Survival) checks to track your favored enemies, as well as on Intelligence checks to recall information about them.
-
-When you gain this feature, you also learn one language of your choice that is spoken by your favored enemies, if they speak one at all.
-
-You choose one additional favored enemy, as well as an associated language, at 14th level. As you gain levels, your choices should reflect the types of monsters you have encountered on your adventures.
-
 ## Land’s Stride
 Starting at 8th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
 
@@ -98,15 +87,6 @@ Once you are camouflaged in this way, you can try to hide by pressing yourself u
 
 ## Vanish
 Starting at 14th level, you can use the Hide action as a bonus action on your turn. Also, you can’t be tracked by nonmagical means, unless you choose to leave a trail.
-
-## Favored Enemy
-At 14th level, you have significant experience studying, tracking, hunting, and even talking to a certain type of enemy.
-
-Choose an additional type of favored enemy: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can select two races of humanoid (such as gnolls and orcs) as favored enemies.
-
-You have advantage on Wisdom (Survival) checks to track your favored enemies, as well as on Intelligence checks to recall information about them.
-
-When you gain this feature, you also learn one language of your choice that is spoken by your favored enemies, if they speak one at all.
 
 ## Feral Senses
 At 18th level, you gain preternatural senses that help you fight creatures you can’t see. When you attack a creature you can’t see, your inability to see it doesn’t impose disadvantage on your attack rolls against it.
