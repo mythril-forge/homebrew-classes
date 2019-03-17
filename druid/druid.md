@@ -38,9 +38,9 @@ Your druid level determines the beasts you can transform into, as shown in the B
 
 | Level | Max CR | Limitations                 | Example     |
 |-:-:---|-:-:----|-:-:-------------------------|-:-:---------|
-| 2nd   | 1/4    | No flying or swimming speed | Wolf        |
-| 4th   | 1/2    | No flying speed             | Crocodile   |
-| 8th   | 1      | —                           | Giant eagle |
+| 2nd   | ¼      | No flying or swimming speed | Wolf        |
+| 4th   | ½      | No flying speed             | Crocodile   |
+| 8th   | 1      | &mdash;                     | Giant eagle |
 
 You can stay in a beast shape for a number of hours equal to half your druid level (rounded down). You then revert to your normal form unless you expend another use of this feature. You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert if you fall unconscious, drop to 0 hit points, or die.
 
