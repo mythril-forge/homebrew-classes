@@ -1,5 +1,5 @@
 ## Primal Path
-At 3rd level, you choose a path that shapes the nature of your rage. The Path of the Berserker is detailed at the end of the class description, and additional primal paths are available in other sources. Your choice grants you features at 3rd level and again at 7th, 11th, 15th, and 19th levels.
+At 3rd level, you choose a path that shapes the nature of your rage from the list of available paths. Your choice grants you features at 3rd level and again at 7th, 11th, 15th, and 19th levels.
 
 <!--
 Changes:
