@@ -7,4 +7,7 @@ Changes:
 - before: 3 6 10 14
 -  after: 3 7 11 15 19
 - there is an extra subclass upgrade near the end.
+
+!TODO:
+- potentially replace a level with a ribbon ability in the base class.
 -->
