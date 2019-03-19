@@ -5,7 +5,9 @@ This increases to two additional rolls at 13th level and three additional rolls 
 
 <!--
 Changes:
-- increasing power from one die to double-crits.
+- increases damage from +1 weapon damage die.
+- increases damage to all damage dice + modifier.
+- all critical hits now give extra damage modifiers.
 
 Commentary:
 - this is a huge buff for brutal critical, allowing extra damage modifiers and multiple dice.
@@ -15,4 +17,5 @@ Commentary:
 !TODO:
 - displace greataxe affinity.
 - ensure concise verbiage.
+- specify new crit rules elsewhere.
 -->

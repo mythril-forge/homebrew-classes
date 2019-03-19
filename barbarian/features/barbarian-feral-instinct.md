@@ -15,8 +15,8 @@ Commentary:
 - the ragge sentance feels too conditional and adds confusion.
 - removing the rage piece doesn't add too much power and clarifies the ability.
 - adding surprised as a condition may make this much more simple.
+- originally, surprised is not a condition.
 
 !TODO:
 - add surprised as a condition.
-- originally, surprised is not a condition.
 -->

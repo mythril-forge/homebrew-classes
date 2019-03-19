@@ -5,6 +5,6 @@ You have advantage on Dexterity saving throws against effects that you can see, 
 
 <!--
 Commentary:
-- Danger Sense felt a bit misplaced when strength should be first and foremost.
+- Danger Sense felt a bit misplaced when strength should be first and foremost for a barbarian.
 - in order to offset this, a similar ability -- muscle memory -- has been added at first level.
 -->

@@ -14,4 +14,9 @@ Commentary:
 - wanted to rename this ability to unarmored movement, but didn't.
 - doing this would make it disfunctional with monk's ability.
 - this reason is because two abilities with the same name cannot stack.
+
+!TODO:
+- add fast movement column in barbarian table
+- rename fast movement to something more exciting
+- rename unarmored defense to be in line with fast movement
 -->
