@@ -1,5 +1,5 @@
 ## Fighting Style
-You adopt a particular style of fighting as your specialty. Choose one of the following options. You can’t take a Fighting Style option more than once, even if you later get to choose again.
+You adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if you later get to choose again.
 
 ### Archery
 You gain a +2 bonus to attack rolls you make with ranged weapons.
