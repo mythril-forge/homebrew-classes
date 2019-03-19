@@ -11,7 +11,7 @@ Changes:
 Commentary:
 - I love the idea of advantage on initiative.
 - the second point this ability brings is less clear:
--> "Additionally, if you are surprised at the beginning of combat and aren’t incapacitated, you can act normally on your first turn, but only if you enter your rage before doing anything else on that turn."
+-> "Additionally, if you are surprised at the beginning of combat and aren't incapacitated, you can act normally on your first turn, but only if you enter your rage before doing anything else on that turn."
 - the ragge sentance feels too conditional and adds confusion.
 - removing the rage piece doesn't add too much power and clarifies the ability.
 - adding surprised as a condition may make this much more simple.

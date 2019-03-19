@@ -23,4 +23,4 @@ Any spell slot you create with this feature vanishes when you finish a long rest
 | 5th              | 7                  |
 
 #### Converting a Spell Slot to Sorcery Points
-As a bonus action on your turn, you can expend one spell slot and gain a number of sorcery points equal to the slot’s level.
+As a bonus action on your turn, you can expend one spell slot and gain a number of sorcery points equal to the slot's level.
