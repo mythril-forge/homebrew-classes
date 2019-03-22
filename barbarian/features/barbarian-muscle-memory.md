@@ -4,13 +4,17 @@ At 1st level, you gain an impressive control over your natural strength, lending
 You have advantage on Strength saving throws against effects that you can see, such as traps and spells. To gain this benefit, you can't be incapacitated.
 
 <!--
-Changes:
-- this ability is based off of danger sense.
 
-Commentary:
-- mentions of saving throws are removed from Rage because of this ability.
+-<< CHANGES >>-
+- this is a new ability based off of danger sense
 
-!TODO:
-- check conditions for the last sentance.
-- rephrase first sentance.
+-<< TODO >>-
+- check conditions for the last sentance
+- enhance fluff in first sentance
+
+-<< COMMENTARY >>-
+- a barbarian really should always have advantage on Strength saves
+- they already always have advantage on Dexterity saves
+- how it was included with rage seemed confusing for a lesser save
+
 -->

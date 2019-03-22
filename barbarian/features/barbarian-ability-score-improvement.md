@@ -4,15 +4,22 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 20th level, you can 
 Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.
 
 <!--
-Changes:
-- moved 19th level ASI to 20th level.
 
-Commentary:
-- this is done to discourage 19th/1st level multiclasses.
-- it is also done to encourage a 16th/4th level multiclass or similar.
-- this creates a gap at level 19, especially for spellcasters.
-- other modified and additional features fill in this gap.
+-<< CHANGES >>-
+- moved 19th level ASI to 20th level
 
-!TODO:
-- check verbatim to PHB.
+-<< TODO >>-
+- compare wording to PHB - get it close to verbatim
+
+-<< COMMENTARY >>-
+- this change has been made as apart of a paradigm shift in high level games
+- 19th level abilities have been added in the ASI's wake, many of which are ribbons
+-> nerfs 19/1 multiclasses by removing final ASI
+- 20th level abilities have been buffed, making it feel like a truly epic tier
+-> getting to a 20th level class is an achievement
+-> each level-up is a temptation to multiclass
+- player's are encouraged to multiclass after they reach 16th level at the latest, instead of 19th
+-> this maximizes ASI's while still multiclassing
+- or better yet, stick through and get that 20th level ability
+
 -->

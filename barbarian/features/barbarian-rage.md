@@ -12,10 +12,15 @@ Your rage lasts for 1 minute. It ends early if you are knocked unconscious or if
 Once you have raged the number of times shown for your barbarian level in the Rages column of the Barbarian table, you must finish a long rest before you can rage again.
 
 <!--
-Changes:
-- the only thing that changes is the 'advantage on strength saving throws'.
-- this now applies even outside of rage.
 
-Commentary:
-- other than that this ability is pretty much spot on.
+-<< CHANGES >>-
+- removed 'advantage on strength saving throws'
+- added ability 'muscle memory' that does this outside of rage
+
+-<< TODO >>-
+- none
+
+-<< COMMENTARY >>-
+- none
+
 -->
