@@ -1,4 +1,18 @@
 ## Relentless Rage
-Starting at 11th level, your rage can keep you fighting despite grievous wounds. If you drop to 0 hit points while you're raging and don't die outright, you can make a DC 10 Constitution saving throw. If you succeed, you drop to 1 hit point instead.
+Starting at 10th level, your rage can keep you fighting despite grievous wounds. When you are reduced to 0 hit points while you're raging and don't die outright, you can expend one use of your Rage as a reaction to remain conscious and regain 10 hit points.
 
-Each time you use this feature after the first, the DC increases by 5. When you finish a short or long rest, the DC resets to 10.
+<!--
+
+-<< CHANGES >>-
+- changed from 11th to 10th level
+
+-<< TODO >>-
+- relentless Rage needs to become more consistant with a few other abilities
+- that includes sources like orc and paladin
+- using rage as a resource feels wierd. find an alternative
+
+-<< COMMENTARY >>-
+- the epic feeling of a barbarian slowly winding down was significant in vanilla rules
+- trying to emulate this whilst simplifying ruling will be a challenge
+
+-->
