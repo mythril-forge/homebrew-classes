@@ -41,7 +41,7 @@ On your adventures, you can add other ritual spells to your Book of Shadows. Whe
 ### Chains of Carceri
 Prerequisite: 15th level, Pact of the Chain feature
 
-You can cast hold monster at will — targeting a celestial, fiend, or elemental — without expending a spell slot or material components. You must finish a long rest before you can use this invocation on the same creature again.
+You can cast hold monster at will &mdash; targeting a celestial, fiend, or elemental &mdash; without expending a spell slot or material components. You must finish a long rest before you can use this invocation on the same creature again.
 
 ### Devil's Sight
 You can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.
