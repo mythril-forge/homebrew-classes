@@ -1,22 +1,22 @@
-| Level | Proficiency Bonus | Features                                          |
-|-------|-------------------|---------------------------------------------------|
-| 1st   | +2                | Fighting Style, Second Wind                       |
-| 2nd   | +2                | Action Surge                                      |
-| 3rd   | +2                | Martial Archetype                                 |
-| 4th   | +2                | Ability Score Improvement                         |
-| 5th   | +3                | Extra Attack                                      |
-| 6th   | +3                | Ability Score Improvement                         |
-| 7th   | +3                | Martial Archetype feature                         |
-| 8th   | +3                | Ability Score Improvement                         |
-| 9th   | +4                | Indomitable                                       |
-| 10th  | +4                | Martial Archetype feature                         |
-| 11th  | +4                | Extra Attack (2)                                  |
-| 12th  | +4                | Ability Score Improvement                         |
-| 13th  | +5                | Indomitable (two uses)                            |
-| 14th  | +5                | Ability Score Improvement                         |
-| 15th  | +5                | Martial Archetype feature                         |
-| 16th  | +5                | Ability Score Improvement                         |
-| 17th  | +6                | Action Surge (two uses), Indomitable (three uses) |
-| 18th  | +6                | Martial Archetype feature                         |
-| 19th  | +6                | Ability Score Improvement                         |
-| 20th  | +6                | Extra Attack (3)                                  |
+| Level | Features                                          |
+|-------|---------------------------------------------------|
+| 1     | Fighting Style, Defense Style                     |
+| 2     | Action Surge (1/rest), Tactician                  |
+| 3     | Martial Archetype, Second Wind (1/rest)           |
+| 4     | Ability Score Improvement                         |
+| 5     | Extra Attack (1 extra)                            |
+| 6     | Ability Score Improvement                         |
+| 7     | Martial Archetype feature                         |
+| 8     | Ability Score Improvement                         |
+| 9     | Indomitable (1/rest)                              |
+| 10    | Remarkable Athlete                                |
+| 11    | Martial Archetype feature, Extra Attack (2 extra) |
+| 12    | Ability Score Improvement                         |
+| 13    | Indomitable (2/rest)                              |
+| 14    | Ability Score Improvement                         |
+| 15    | Martial Archetype feature                         |
+| 16    | Ability Score Improvement                         |
+| 17    | Extra Attack (3 extra)                            |
+| 18    | Veteren                                           |
+| 19    | Martial Archetype feature, Second Wind (2/rest)   |
+| 20    | Ability Score Improvement, Action Surge (2/rest)  |
