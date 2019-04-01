@@ -1,22 +1,22 @@
-| Level | Proficiency Bonus | Features                      | Rages     | Rage Damage |
-|-------|-------------------|-------------------------------|-----------|-------------|
-| 1st   | +2                | Rage, Unarmored Defense       | 2         | +2          |
-| 2nd   | +2                | Danger Sense, Reckless Attack | 2         | +2          |
-| 3rd   | +2                | Primal Path                   | 3         | +2          |
-| 4th   | +2                | Ability Score Improvement     | 3         | +2          |
-| 5th   | +3                | Extra Attack, Fast Movement   | 3         | +2          |
-| 6th   | +3                | Path Feature                  | 4         | +2          |
-| 7th   | +3                | Feral Instinct                | 4         | +2          |
-| 8th   | +3                | Ability Score Improvement     | 4         | +2          |
-| 9th   | +4                | Brutal Critical (1 die)       | 4         | +3          |
-| 10th  | +4                | Path feature                  | 4         | +3          |
-| 11th  | +4                | Relentless Rage               | 4         | +3          |
-| 12th  | +4                | Ability Score Improvement     | 5         | +3          |
-| 13th  | +5                | Brutal Critical (2 dice)      | 5         | +3          |
-| 14th  | +5                | Path feature                  | 5         | +3          |
-| 15th  | +5                | Persistent Rage               | 5         | +3          |
-| 16th  | +5                | Ability Score Improvement     | 5         | +4          |
-| 17th  | +6                | Brutal Critical (3 dice)      | 6         | +4          |
-| 18th  | +6                | Indomitable Might             | 6         | +4          |
-| 19th  | +6                | Ability Score Improvement     | 6         | +4          |
-| 20th  | +6                | Primal Champion               | Unlimited | +4          |
+| Level | Features                                     | Fast Movement | Rage Damage | Rages |
+|-------|----------------------------------------------|---------------|-------------|-------|
+| 1     | Unarmored Defense, Rage, Muscle Memory       | &mdash;       | +2          | 2     |
+| 2     | Fast Movement, Reckless Attack, Danger Sense | +5 ft.        | +2          | 2     |
+| 3     | Primal Path                                  | +5 ft.        | +2          | 3     |
+| 4     | Ability Score Improvement                    | +5 ft.        | +2          | 3     |
+| 5     | Extra Attack                                 | +5 ft.        | +2          | 3     |
+| 6     | Feral Instinct                               | +5 ft.        | +3          | 4     |
+| 7     | Primal Path feature                          | +5 ft.        | +3          | 4     |
+| 8     | Ability Score Improvement                    | +10 ft.       | +3          | 4     |
+| 9     | Brutal Critical (1 extra)                    | +10 ft.       | +3          | 4     |
+| 10    | Relentless Rage                              | +10 ft.       | +3          | 5     |
+| 11    | Primal Path feature                          | +10 ft.       | +4          | 5     |
+| 12    | Ability Score Improvement                    | +10 ft.       | +4          | 5     |
+| 13    | Brutal Critical (2 extra)                    | +10 ft.       | +4          | 5     |
+| 14    | Indomitable Might                            | +15 ft.       | +4          | 5     |
+| 15    | Primal Path feature                          | +15 ft.       | +4          | 6     |
+| 16    | Ability Score Improvement                    | +15 ft.       | +5          | 6     |
+| 17    | Brutal Critical (3 extra)                    | +15 ft.       | +5          | 6     |
+| 18    | Persistent Rage                              | +15 ft.       | +5          | 6     |
+| 19    | Primal Path feature                          | +15 ft.       | +5          | 6     |
+| 20    | Ability Score Improvement, Primal Champion   | +20 ft.       | +5          | 6     |
