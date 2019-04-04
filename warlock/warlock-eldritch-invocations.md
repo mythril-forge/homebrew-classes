@@ -31,16 +31,22 @@ You can cast speak with animals at will, without expending a spell slot.
 ### Beguiling Influence
 You also become proficient in two skills of your choice from the following skills: Animal Handling, Deception, Persuasion, or Insight.
 
-### Book of Ancient Secrets
+### Book of Lost Arts
 ***Prerequisite: Pact of the Tome feature***
 
 You can now inscribe magical rituals in your Book of Shadows. Choose two 1st-level spells that have the ritual tag from any class's spell list (the two needn't be from the same list). The spells appear in the book and don't count against the number of spells you know. With your Book of Shadows in hand, you can cast the chosen spells, and can cast them as rituals.
 
-On your adventures, you can add other ritual spells to your Book of Shadows. When you find such a spell, you can add it to the book if the spell's level is equal to or less than half your warlock level (rounded up) and if you can spare the time to transcribe the spell. For each level of the spell, the transcription process takes 2 hours and costs 50 gp for the rare inks needed to inscribe it.
-<!-- TODO: review ability, convert gp to sp, and spellcheck/logic check -->
+On your adventures, you can add other ritual spells to your Book of Shadows. When you find such a spell, you can add it to the book if the spell's level is equal to or less than half your warlock level (rounded up) and if you can spare the time to transcribe the spell. For each level of the spell, the transcription process takes 2 hours and costs 50 sp for the rare inks needed to inscribe it.
 
 ### Devil's Sight
 You can see normally in both magical and nonmagical darkness.
+
+### Eldritch Secrets
+***Prerequisite: Pact of the Tome feature***
+
+You learn one spell of your choice from any class. A spell you choose must be of a level you can cast, as shown on the Warlock table. The chosen spell counts as a warlock spell for you but doesn't count against the number of warlock spells you know.
+
+You can take this invocation multiple times.
 
 ### Eldritch Sight
 You can cast detect magic at will, without expending a spell slot.
