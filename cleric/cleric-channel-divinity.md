@@ -1,7 +1,7 @@
 ## Channel Divinity
-At 2nd level, you gain the ability to channel divine energy directly from your deity, using that energy to fuel magical effects. You start with Turn Undead. You will gain additional effects determined by your domain as you advance in cleric levels, as noted in the domain description.
+At 2nd level, you gain the ability to channel divine energy directly from your deity, using that energy to fuel magical effects. You start with two such effects: Turn Undead and an effect determined by your divine domain. Your domain will grant you additional effects as you advance in cleric levels, as noted in the domain description.
 
-Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your cleric spell save DC.
+Some Channel Divinity effects require saving throws. The DC for such effects from this class equals your cleric spell save DC.
 
 When you use your Channel Divinity, you choose which effect to create. You must then finish a short or long rest to use your Channel Divinity again.
 
