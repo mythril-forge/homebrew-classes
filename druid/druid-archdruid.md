@@ -1,5 +1,5 @@
 ## Archdruid
-At 20th level, can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time, and only at the end of another creature's turn. Spent legendary actions are regained at the end of your turn.
+At 20th level, you can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time, and only at the end of another creature's turn. Spent legendary actions are regained at the end of your turn.
 
 In addition, if you transform into a creature that has legendary actions, lair actions, or regional effects, you can now utilize them. Any spent legendary actions roll over when you transform.
 
