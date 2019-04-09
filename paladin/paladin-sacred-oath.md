@@ -1,9 +1,23 @@
 ## Sacred Oath
-When you reach 3rd level, you swear the oath that binds you as a paladin forever. Up to this time you have been in a preparatory stage, committed to the path but not yet sworn to it. Now you choose the Oath of Devotion detailed at the end of the class description or one from another source.
+When you reach 2nd level, you swear the oath that binds you as a paladin forever. Up to this time you have been in a preparatory stage, committed to the path but not yet sworn to it. Now you choose from the list of available oaths.
 
-Your choice grants you features at 3rd level and again at 7th, 15th, and 20th level. Those features include oath spells and the Channel Divinity feature.
+Your choice grants you features at 2nd level and again at 5th, 8th, 11th, 14th, 17th, and 20th level. Those features include oath spells and the Channel Divinity feature.
+<!--
 
-### Oath Spells
-Each oath has a list of associated spells. You gain access to these spells at the levels specified in the oath description. Once you gain access to an oath spell, you always have it prepared. Oath spells don't count against the number of spells you can prepare each day.
+-<< CHANGES >>-
+- notice the new levels for subclasses
+-> before: 3, -, 7, --, 15, --, 20
+-> after:  2, 5, 8, 11, 14, 17, 20
 
-If you gain an oath spell that doesn't appear on the paladin spell list, the spell is nonetheless a paladin spell for you.
+-<< TODO >>-
+- none
+
+-<< COMMENTARY >>-
+- these changes are a part of a paradigm shift
+- class level-ups are being syncronized more
+- in spite of feature displacement, the structure feels worth it
+- the extra subclass levels could be replaced with dead levels or ribbons
+- this particular class now has a huge number of subclass stuff
+- level 2 and 5 are spin up levels, more or less
+
+-->
