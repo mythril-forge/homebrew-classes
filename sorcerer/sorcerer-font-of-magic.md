@@ -21,7 +21,7 @@ Superfluous sorcery points vanish at the end of a short or long rest.
 *** Sorcery Points ***
 
 | Spell Slot Level | Sorcery Point Conversion Rate |
-|:----------------:|:-----------------------------:|
+|------------------|-------------------------------|
 | Cantrip          | 0                             |
 | 1st              | 2                             |
 | 2nd              | 3                             |
