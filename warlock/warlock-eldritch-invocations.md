@@ -44,9 +44,7 @@ You can see normally in both magical and nonmagical darkness.
 ### Eldritch Secrets
 ***Prerequisite: Pact of the Tome feature***
 
-You learn one spell of your choice from any class. A spell you choose must be of a level you can cast, as shown on the Warlock table. The chosen spell counts as a warlock spell for you but doesn't count against the number of warlock spells you know.
-
-You can take this invocation multiple times.
+You learn two spells of your choice from any class. A spell you choose must be of a level you can cast, as shown on the Warlock table. The chosen spell counts as a warlock spell for you but doesn't count against the number of warlock spells you know.
 
 ### Eldritch Sight
 You can cast detect magic at will, without expending a spell slot.
@@ -68,7 +66,7 @@ You can use your action to touch a willing humanoid and perceive through its sen
 ### Lifedrinker
 ***Prerequisite: 10th level, Pact of the Blade feature***
 
-When you hit a creature with your pact weapon, the creature takes extra necrotic damage equal to your Charisma modifier (minimum 1).
+When you hit a creature with your pact weapon, the creature takes extra necrotic damage equal to your Charisma modifier.
 
 ### Mask of Many Faces
 You can cast disguise self at will, without expending a spell slot.
