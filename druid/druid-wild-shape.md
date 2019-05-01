@@ -12,7 +12,7 @@ Your druid level determines the beasts you can transform into, as shown in the B
 ***Beast Shapes***
 
 | Level | Max CR | № Uses |
-|-:-:---|-:-:----|-:------|
+|-------|--------|--------|
 | 2nd   | ¼      | 1      |
 | 4th   | ½      | 1      |
 | 6th   | 1      | 2      |
