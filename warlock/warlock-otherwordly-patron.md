@@ -1,5 +1,7 @@
 ## Otherworldly Patron
-You have struck a bargain with an otherworldly being, chosen from the list of available patrons. Your choice grants you features when you choose it at 1st level and again at 2nd, 6th, 10th, 14th, and 18th level.
+You have struck a bargain with an otherworldly being, chosen from the list of available patrons.
+
+Your choice grants you features when you choose it at 1st level and again at 2nd, 6th, 10th, 14th, and 18th level.
 
 <!--
 
