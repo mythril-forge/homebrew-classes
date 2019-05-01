@@ -1,4 +1,19 @@
 ## Arcane Recovery
-You have learned to regain some of your magical energy by studying your spellbook. Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your wizard level (rounded up), and none of the slots can be 6th level or higher.
+By 19th level you have gained the power to absorb the mana in the air around you. You now regain all expended 1st-level spell slots at the end of a short or long rest.
 
-For example, if you're a 4th-level wizard, you can recover up to two levels worth of spell slots. You can recover either a 2nd-level spell slot or two 1st-level spell slots.
+<!--
+
+-<< CHANGES >>-
+- moved from 2nd level to 19th
+- greatly improved power of ability
+- all 1st-level spells are now totally expendable
+
+-<< TODO >>-
+- ensure balance; playtest
+
+-<< COMMENTARY >>-
+- the idea is that 1st-level spells are valuable, but expendable
+- this allows high level spell slots to be used for high level spells easily
+- this allows the rapid consumption of 1st-level spell slots and upcasted cantrips
+
+-->
