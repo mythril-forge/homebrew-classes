@@ -2,6 +2,7 @@
 When you reach 2nd level, you swear the oath that binds you as a paladin forever. Up to this time you have been in a preparatory stage, committed to the path but not yet sworn to it. Now you choose from the list of available oaths.
 
 Your choice grants you features at 2nd level and again at 5th, 8th, 11th, 14th, 17th, and 20th level. Those features include oath spells and the Channel Divinity feature.
+
 <!--
 
 -<< CHANGES >>-
