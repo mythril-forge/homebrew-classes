@@ -1,5 +1,7 @@
 ## Divine Concentration
-Starting at 3rd level, you can concentrate on up to three paladin spells at a time.
+Starting at 3rd level, you can concentrate on up to two paladin spells at a time. You can end concentration on a paladin spell at any time (no action required). If you lose concentration on a spell in any other way, you lose concentration on all active paladin spells. You lose concentration on all active paladin spells if you cast a spell that requires concentration but is not on the paladin spell list. 
+
+At 7th level, you can concentrate on up to three paladin spells at a time.
 
 <!--
 
