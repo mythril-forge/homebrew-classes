@@ -29,4 +29,4 @@ Charisma is your spellcasting ability for your bard spells. Your magic comes fro
 You can cast any bard spell you know as a ritual if that spell has the ritual tag.
 
 ### Spellcasting Focus
-You can use a musical instrument (found in chapter 5) as a spellcasting focus for your bard spells.
+You can use a musical instrument (see the Tools section) as a spellcasting focus for your bard spells.
