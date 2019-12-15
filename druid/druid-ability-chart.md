@@ -1,22 +1,22 @@
-| Level | Proficiency Bonus | Features                                          | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-|:-----:|:-----------------:|:--------------------------------------------------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1     | +1d4 (+2)         | Druidic, Spellcasting                             | 1   | —   | —   | —   | —   | —   | —   | —   | —   |
-| 2     | +1d4 (+2)         | Wild Shape (CR ¼, 1/rest), Druid Circle           | 2   | —   | —   | —   | —   | —   | —   | —   | —   |
-| 3     | +1d4 (+2)         | —                                                 | 2   | 1   | —   | —   | —   | —   | —   | —   | —   |
-| 4     | +1d4 (+2)         | Wild Shape (CR ½), Ability Score Improvement      | 3   | 2   | —   | —   | —   | —   | —   | —   | —   |
-| 5     | +1d6 (+3)         | Druid's Companion                                 | 3   | 2   | 1   | —   | —   | —   | —   | —   | —   |
-| 6     | +1d6 (+3)         | Wild Shape (CR 1, 2/rest), Druid Circle feature   | 4   | 3   | 1   | —   | —   | —   | —   | —   | —   |
-| 7     | +1d6 (+3)         | —                                                 | 4   | 3   | 2   | 1   | —   | —   | —   | —   | —   |
-| 8     | +1d6 (+3)         | Wild Shape (CR 2), Ability Score Improvement      | 4   | 4   | 2   | 1   | —   | —   | —   | —   | —   |
-| 9     | +1d8 (+4)         | —                                                 | 4   | 4   | 2   | 2   | 1   | —   | —   | —   | —   |
-| 10    | +1d8 (+4)         | Druid Circle feature                              | 4   | 4   | 3   | 2   | 1   | —   | —   | —   | —   |
-| 11    | +1d8 (+4)         | Timeless Body                                     | 4   | 4   | 3   | 2   | 2   | 1   | —   | —   | —   |
-| 12    | +1d8 (+4)         | Ability Score Improvement                         | 4   | 4   | 3   | 3   | 2   | 1   | —   | —   | —   |
-| 13    | +1d10 (+5)        | —                                                 | 4   | 4   | 3   | 3   | 2   | 1   | 1   | —   | —   |
-| 14    | +1d10 (+5)        | Druid Circle feature                              | 4   | 4   | 3   | 3   | 3   | 1   | 1   | —   | —   |
-| 15    | +1d10 (+5)        | —                                                 | 4   | 4   | 3   | 3   | 3   | 1   | 1   | 1   | —   |
-| 16    | +1d10 (+5)        | Ability Score Improvement                         | 4   | 4   | 3   | 3   | 3   | 2   | 1   | 1   | —   |
-| 17    | +1d12 (+6)        | Beast Spells                                      | 4   | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
-| 18    | +1d12 (+6)        | Wild Shape (3/rest)                               | 4   | 4   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
-| 19    | +1d12 (+6)        | Ability Score Improvement                         | 4   | 4   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
-| 20    | +1d12 (+6)        | Archdruid                                         | 4   | 4   | 3   | 3   | 3   | 2   | 2   | 2   | 1   |
+| Level | Features                                        | 1st     | 2nd     | 3rd     | 4th     | 5th     | 6th     | 7th     | 8th     | 9th     |
+|-------|-------------------------------------------------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
+| 1     | Spellcasting Druidic                            | 1       | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 2     | Druid Circle, Wild Shape (CR ¼, 1/rest)         | 2       | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 3     | Primeval Awareness                              | 2       | 1       | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 4     | Ability Score Improvement, Wild Shape (CR ½)    | 3       | 2       | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 5     | &mdash;                                         | 3       | 2       | 1       | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 6     | Druid Circle feature, Wild Shape (CR 1, 2/rest) | 4       | 3       | 1       | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 7     | &mdash;                                         | 4       | 3       | 2       | 1       | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 8     | Ability Score Improvement, Wild Shape (CR 2)    | 4       | 4       | 2       | 1       | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 9     | &mdash;                                         | 4       | 4       | 2       | 2       | 1       | &mdash; | &mdash; | &mdash; | &mdash; |
+| 10    | Druid Circle feature, Timeless Body             | 4       | 4       | 3       | 2       | 1       | &mdash; | &mdash; | &mdash; | &mdash; |
+| 11    | &mdash;                                         | 4       | 4       | 3       | 2       | 2       | 1       | &mdash; | &mdash; | &mdash; |
+| 12    | Ability Score Improvement                       | 4       | 4       | 3       | 3       | 2       | 1       | &mdash; | &mdash; | &mdash; |
+| 13    | &mdash;                                         | 4       | 4       | 3       | 3       | 2       | 1       | 1       | &mdash; | &mdash; |
+| 14    | Druid Circle feature                            | 4       | 4       | 3       | 3       | 3       | 1       | 1       | &mdash; | &mdash; |
+| 15    | &mdash;                                         | 4       | 4       | 3       | 3       | 3       | 1       | 1       | 1       | &mdash; |
+| 16    | Ability Score Improvement                       | 4       | 4       | 3       | 3       | 3       | 2       | 1       | 1       | &mdash; |
+| 17    | &mdash;                                         | 4       | 4       | 3       | 3       | 3       | 2       | 1       | 1       | 1       |
+| 18    | Druid Circle feature, Wild Shape (3/rest)       | 4       | 4       | 3       | 3       | 3       | 2       | 2       | 1       | 1       |
+| 19    | Beast Spells                                    | 4       | 4       | 3       | 3       | 3       | 2       | 2       | 1       | 1       |
+| 20    | Ability Score Improvement, Archdruid            | 4       | 4       | 3       | 3       | 3       | 2       | 2       | 2       | 1       |
