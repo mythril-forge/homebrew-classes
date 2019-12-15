@@ -1,4 +1,4 @@
-## Veteren
+## Grizzled Veteren
 At 18th level, you gain proficiency in a saving throw of your choice.
 
 <!--
