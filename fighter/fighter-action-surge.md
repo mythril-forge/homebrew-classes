@@ -1,6 +1,7 @@
 ## Action Surge
 Starting at 2nd level, you can push yourself beyond your normal limits for a moment.
-On your turn, you can take one additional action.
+On your turn, you can use one additional action and bonus action.
+You can also use one additional reaction before the start of your next turn.
 
 Once you use this feature, you must finish a short or long rest before you can use it again.
 Starting at 20th level, you can use it twice before a rest, but only once on the same turn.
@@ -10,6 +11,7 @@ Starting at 20th level, you can use it twice before a rest, but only once on the
 -<< CHANGES >>-
 - second powerup moved to 20th level
 - this was swapped with extra attack 3
+- allowed an extra action and bonus action (and reaction)
 
 -<< TODO >>-
 - none
