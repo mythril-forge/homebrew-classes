@@ -1,5 +1,5 @@
 ## Grizzled Veteren
-At 18th level, you gain proficiency in a saving throw of your choice.
+At 18th level, you gain proficiency in a Saving Throw of your choice.
 
 <!--
 
@@ -17,6 +17,6 @@ At 18th level, you gain proficiency in a saving throw of your choice.
 -> already fighter has to keep track of second wind, legendary resistance, and action surge
 - this ability needs to convice a player not to multiclass
 - this ability must be dumb-simple
-- giving a saving throw proficiency of your choice is actually quite potent
+- giving a Saving Throw proficiency of your choice is actually quite potent
 
 -->

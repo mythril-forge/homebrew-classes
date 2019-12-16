@@ -5,11 +5,11 @@ See chapter 10 for the general rules of spellcasting and chapter 11 for the wiza
 ### Spellcasting Ability
 Intelligence is your spellcasting ability for your wizard spells, since you learn your wizard spells through dedicated study and memorization.
 You use your Intelligence whenever a spell refers to your spellcasting ability.
-In addition, you use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one.
+In addition, you use your Intelligence Modifier when setting the Saving Throw DC for a wizard spell you cast and when making an Attack Roll with one.
 
-`Spell save DC = 9 + your proficiency bonus + your Intelligence modifier`
+`Spell save DC = 9 + your Proficiency Bonus + your Intelligence Modifier`
 
-`Spell attack modifier = your proficiency bonus + your Intelligence modifier`
+`Spell Attack Modifier = your Proficiency Bonus + your Intelligence Modifier`
 
 ### Spell Slots
 To cast a spell, you must expend a slot of the spell's level or higher.
@@ -31,7 +31,7 @@ You prepare the list of wizard spells that are available for you to cast, choosi
 Your spellcasting ability will influence the maximum number of spells you can prepare.
 Each spell must either be a cantrip or of a level for which you have spell slots, as shown on the Wizard table.
 
-`Max. prepared spells = your wizard level + your proficiency bonus + your Intelligence modifier × 2`
+`Max. prepared spells = your wizard level + your Proficiency Bonus + your Intelligence Modifier × 2`
 
 You can change your list of prepared spells when you finish a long rest.
 Preparing a new list of wizard spells requires time spent studying your spellbook and memorizing the incantations and gestures you must make to cast the spell: at least 1 minute per spell level for each spell on your list.

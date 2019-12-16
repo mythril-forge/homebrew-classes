@@ -3,7 +3,7 @@ At 2nd level, you gain the ability to channel divine energy directly from your d
 You start with two such effects: Turn Undead and an effect determined by your divine domain.
 Your domain will grant you additional effects as you advance in cleric levels, as noted in the domain description.
 
-Some Channel Divinity effects require saving throws.
+Some Channel Divinity effects require Saving Throws.
 The DC for such effects from this class equals your cleric spell save DC.
 
 When you use your Channel Divinity, you choose which effect to create.
@@ -14,8 +14,8 @@ When you finish a short or long rest, you regain your expended uses.
 
 ### Channel Divinity: Turn Undead
 As an action, you present your holy symbol and speak a prayer censuring the undead.
-Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw.
-If the creature fails its saving throw, it is turned for 1 minute or until it faces a malevolent action.
+Each undead that can see or hear you within 30 feet of you must make a Wisdom Saving Throw.
+If the creature fails its Saving Throw, it is turned for 1 minute or until it faces a malevolent action.
 
 A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you.
 It also can't take reactions.

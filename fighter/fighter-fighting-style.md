@@ -4,7 +4,7 @@ Choose one of the following options.
 You can't take the same Fighting Style option more than once, even if you later get to choose again.
 
 ### Archery
-You gain a +1 bonus to attack and damage rolls you make with ranged weapons.
+You gain a +1 bonus to attack and s you make with ranged weapons.
 
 ### Defense
 While you are wearing armor, you gain a +1 bonus to AC.

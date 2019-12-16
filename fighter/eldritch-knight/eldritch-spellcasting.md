@@ -5,11 +5,11 @@ See chapter 10 for the general rules of spellcasting and chapter 11 for the wiza
 ### Spellcasting Ability
 Intelligence is your spellcasting ability for your wizard spells, since you learn your spells through study and memorization.
 You use your Intelligence whenever a spell refers to your spellcasting ability.
-In addition, you use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one.
+In addition, you use your Intelligence Modifier when setting the Saving Throw DC for a wizard spell you cast and when making an Attack Roll with one.
 
-`Spell save DC = 9 + your proficiency bonus + your Intelligence modifier`
+`Spell save DC = 9 + your Proficiency Bonus + your Intelligence Modifier`
 
-`Spell attack modifier = your proficiency bonus + your Intelligence modifier`
+`Spell Attack Modifier = your Proficiency Bonus + your Intelligence Modifier`
 
 ### Spell Slots
 To cast a spell, you must expend a slot of the spell's level or higher.

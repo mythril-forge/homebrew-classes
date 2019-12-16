@@ -1,5 +1,5 @@
 ## Legendary Resistance
-Beginning at 9th level, if you fail a saving throw, you can choose to succeed instead.
+Beginning at 9th level, if you fail a Saving Throw, you can choose to succeed instead.
 You can't use this feature again until you finish a short or long rest.
 
 You can use this feature twice between short rests starting at 13th level.
@@ -17,7 +17,7 @@ You can use this feature twice between short rests starting at 13th level.
 
 -<< COMMENTARY >>-
 - this is now very strong
-- absolutely deny even the most difficult of saves
+- absolutely deny even the most difficult of Saving Throws
 - does not cost a reaction
 
 -->

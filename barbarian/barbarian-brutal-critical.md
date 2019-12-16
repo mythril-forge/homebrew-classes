@@ -1,5 +1,5 @@
 ## Brutal Critical
-Beginning at 9th level, you get to roll extra dice when you score a critical hit with a melee weapon attack.
+Beginning at 9th level, you get to roll extra dice when you score a critical hit with a Melee Weapon Attack.
 Roll all of the attack's damage dice one extra time with any damage modifiers.
 
 This increases to two additional rolls at 13th level and three additional rolls at 17th level.

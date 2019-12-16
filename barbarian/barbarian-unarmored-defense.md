@@ -1,5 +1,5 @@
 ## Unarmored Defense
-While you are not wearing any armor, your Armor Class equals `9 + your Dexterity modifier + your Constitution modifier`.
+While you are not wearing any armor, your Armor Class equals `9 + your Dexterity Modifier + your Constitution Modifier`.
 You can use a shield and still gain this benefit.
 
 <!--

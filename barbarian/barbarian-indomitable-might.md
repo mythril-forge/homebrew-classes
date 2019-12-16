@@ -1,5 +1,5 @@
 ## Indomitable Might
-Beginning at 18th level, if your total for a Strength check is less than your Strength score, you can use that score in place of the total.
+Beginning at 18th level, if your total for a Strength Ability Check is less than your Strength Ability Score, you can use that score in place of the total.
 
 <!--
 

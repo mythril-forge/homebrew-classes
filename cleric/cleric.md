@@ -128,13 +128,13 @@ Did you enter this service willingly? Or did the god choose you, impelling you i
 
 > ###### Quick Build
 > You can make a cleric quickly by following these suggestions.
-> First, Wisdom should be your highest ability score, followed by Strength or Constitution.
+> First, Wisdom should be your highest Ability Score, followed by Strength or Constitution.
 > Second, choose the acolyte background.
 
 ### Hit Points
 - **Hit Dice:** `1d8`
-- **Hit Points at 1st Level:** `8 + your Constitution modifier`
-- **Hit Points at Higher Levels:** `1d8, reroll 1's (or 5) + your Constitution modifier per Cleric level after 1st`
+- **Hit Points at 1st Level:** `8 + your Constitution Modifier`
+- **Hit Points at Higher Levels:** `1d8, reroll 1's (or 5) + your Constitution Modifier per Cleric level after 1st`
 
 ### Proficiencies
 You are proficient with the following items, in addition to any proficiencies provided by your race or background.

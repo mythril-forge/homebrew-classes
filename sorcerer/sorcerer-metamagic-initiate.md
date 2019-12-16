@@ -11,10 +11,10 @@ You can use only one Metamagic option on a spell when you cast it, unless otherw
 ### Careful Spell
 ***Cost: 1—3 points / creature***
 
-When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell's full force.
+When you cast a spell that forces other creatures to make a Saving Throw, you can protect some of those creatures from the spell's full force.
 
 To do so, you must spend 1 sorcery point for each creature that you want to protect.
-A chosen creature has advantage on any saving throws directly induced by the spell until the start of your next turn.
+A chosen creature has advantage on any Saving Throws directly induced by the spell until the start of your next turn.
 
 You can instead spend 3 sorcery points per creature to completely mitigate any of the spell's direct effects against them until the start of your next turn.
 
@@ -70,24 +70,24 @@ In addition, you have advantage on any concentration checks made to maintain thi
 When you cast a spell that has a casting range that is greater than touch, you can spend 1 sorcery point to bend the spell around corners.
 When you do this, you can target creatures around such obstacles.
 
-If a creature targeted by this spell has left your field of vision before the end of your last turn, you have disadvantage on any attack rolls that this spell might require.
+If a creature targeted by this spell has left your field of vision before the end of your last turn, you have disadvantage on any Attack Rolls that this spell might require.
 
 ### Focused Spell
 ***Cost: 2 points***
 
-When you cast a spell that requires one or more attack rolls, you can spend 2 sorcery points to gain advantage on those rolls until the start of your next turn.
+When you cast a spell that requires one or more Attack Rolls, you can spend 2 sorcery points to gain advantage on those rolls until the start of your next turn.
 
 You can use Empowered Spell even if you have already used a different Metamagic option during the casting of the spell.
 
 ### Heightened Spell
 ***Cost: 3—5 points / creature***
 
-When you cast a spell that forces other creatures to make a saving throw, you can intensify the spell's full force on some of those creatures.
+When you cast a spell that forces other creatures to make a Saving Throw, you can intensify the spell's full force on some of those creatures.
 
 To do so, you must spend 3 sorcery points for each selected creature that you want to affect.
-A chosen creature has disadvantage on any saving throws directly induced by the spell until the start of your next turn.
+A chosen creature has disadvantage on any Saving Throws directly induced by the spell until the start of your next turn.
 
-You can instead spend 5 sorcery points per selected creature to make them automatically fail any saving throws directly induced by the spell until the start of your next turn.
+You can instead spend 5 sorcery points per selected creature to make them automatically fail any Saving Throws directly induced by the spell until the start of your next turn.
 
 ### Instinctive Spell
 ***Cost: variable***

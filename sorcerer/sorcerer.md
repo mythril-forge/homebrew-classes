@@ -143,14 +143,14 @@ Perhaps your power links you to a powerful individual in the world—the fey cre
 
 > ###### Quick Build
 > You can make a sorcerer quickly by following these suggestions.
-> First, Charisma should be your highest ability score, followed by Constitution.
+> First, Charisma should be your highest Ability Score, followed by Constitution.
 > Second, choose the hermit background.
 > Third, choose the light, prestidigitation, ray of frost, and shocking grasp cantrips, along with the 1st-level spells shield and magic missile.
 
 ### Hit Points
 - **Hit Dice:** 1d6
-- **Hit Points at 1st Level:** 6 + your Constitution modifier
-- **Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution modifier per Sorcerer level after 1st
+- **Hit Points at 1st Level:** 6 + your Constitution Modifier
+- **Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution Modifier per Sorcerer level after 1st
 
 ### Proficiencies
 You are proficient with the following items, in addition to any proficiencies provided by your race or background.
@@ -177,7 +177,7 @@ You start with the following items, plus anything provided by your background.
 | 3     | +1d4 (+2)         | Metamagic                                     | 5              | 2                | 5            | 2   | 1   | —   | —   | —   | —   | —   | —   | —   |
 | 4     | +1d4 (+2)         | Ability Score Improvement                     | 6              | 2                | 7            | 3   | 2   | —   | —   | —   | —   | —   | —   | —   |
 | 5     | +1d6 (+3)         | Metamagic                                     | 8              | 3                | 8            | 3   | 2   | 1   | —   | —   | —   | —   | —   | —   |
-| 6     | +1d6 (+3)         | Sorcerous Origin feature                      | 9              | 3                | 9            | 4   | 3   | 1   | —   | —   | —   | —   | —   | —   |
+| 6     | +1d6 (+3)         | Sorcerous Origin Feature                      | 9              | 3                | 9            | 4   | 3   | 1   | —   | —   | —   | —   | —   | —   |
 | 7     | +1d6 (+3)         | Metamagic                                     | 11             | 4                | 10           | 4   | 3   | 2   | 1   | —   | —   | —   | —   | —   |
 | 8     | +1d6 (+3)         | Ability Score Improvement                     | 12             | 4                | 10           | 4   | 4   | 2   | 1   | —   | —   | —   | —   | —   |
 | 9     | +1d8 (+4)         | —                                             | 14             | 4                | 11           | 4   | 4   | 2   | 2   | 1   | —   | —   | —   | —   |
@@ -185,11 +185,11 @@ You start with the following items, plus anything provided by your background.
 | 11    | +1d8 (+4)         | —                                             | 17             | 5                | 12           | 4   | 4   | 3   | 2   | 2   | 1   | —   | —   | —   |
 | 12    | +1d8 (+4)         | Ability Score Improvement                     | 18             | 5                | 12           | 4   | 4   | 3   | 3   | 2   | 1   | —   | —   | —   |
 | 13    | +1d10 (+5)        | Metamagic                                     | 20             | 6                | 13           | 4   | 4   | 3   | 3   | 2   | 1   | 1   | —   | —   |
-| 14    | +1d10 (+5)        | Sorcerous Origin feature                      | 21             | 6                | 13           | 4   | 4   | 3   | 3   | 3   | 1   | 1   | —   | —   |
+| 14    | +1d10 (+5)        | Sorcerous Origin Feature                      | 21             | 6                | 13           | 4   | 4   | 3   | 3   | 3   | 1   | 1   | —   | —   |
 | 15    | +1d10 (+5)        | —                                             | 23             | 6                | 14           | 4   | 4   | 3   | 3   | 3   | 1   | 1   | 1   | —   |
 | 16    | +1d10 (+5)        | Ability Score Improvement                     | 24             | 6                | 14           | 4   | 4   | 3   | 3   | 3   | 2   | 1   | 1   | —   |
 | 17    | +1d12 (+6)        | Metamagic                                     | 26             | 7                | 15           | 4   | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
-| 18    | +1d12 (+6)        | Sorcerous Origin feature                      | 27             | 7                | 15           | 4   | 4   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
+| 18    | +1d12 (+6)        | Sorcerous Origin Feature                      | 27             | 7                | 15           | 4   | 4   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 | 19    | +1d12 (+6)        | Ability Score Improvement                     | 29             | 7                | 16           | 4   | 4   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 | 20    | +1d12 (+6)        | Sorcerous Restoration                         | 30             | 7                | 16           | 4   | 4   | 3   | 3   | 3   | 2   | 2   | 2   | 1   |
 
@@ -222,11 +222,11 @@ Additionally, when you gain a level in this class, you can choose one of the sor
 ### Spellcasting Ability
 Charisma is your spellcasting ability for your sorcerer spells, since the power of your magic relies on your ability to project your will into the world.
 You use your Charisma whenever a spell refers to your spellcasting ability.
-In addition, you use your Charisma modifier when setting the saving throw DC for a sorcerer spell you cast and when making an attack roll with one.
+In addition, you use your Charisma Modifier when setting the Saving Throw DC for a sorcerer spell you cast and when making an Attack Roll with one.
 
-`Spell save DC = 9 + your proficiency bonus + your Charisma modifier`
+`Spell save DC = 9 + your Proficiency Bonus + your Charisma Modifier`
 
-`Spell attack modifier = your proficiency bonus + your Charisma modifier`
+`Spell Attack Modifier = your Proficiency Bonus + your Charisma Modifier`
 
 ### Spellcasting Focus
 You can use an arcane focus (found in chapter 5) as a spellcasting focus for your sorcerer spells.
@@ -295,10 +295,10 @@ You can use only one Metamagic option on a spell when you cast it, unless otherw
 ### Careful Spell
 ***Cost: 1—3 points / creature***
 
-When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell's full force.
+When you cast a spell that forces other creatures to make a Saving Throw, you can protect some of those creatures from the spell's full force.
 
 To do so, you must spend 1 sorcery point for each creature that you want to protect.
-A chosen creature has advantage on any saving throws directly induced by the spell until the start of your next turn.
+A chosen creature has advantage on any Saving Throws directly induced by the spell until the start of your next turn.
 
 You can instead spend 3 sorcery points per creature to completely mitigate any of the spell's direct effects against them until the start of your next turn.
 
@@ -354,24 +354,24 @@ In addition, you have advantage on any concentration checks made to maintain thi
 When you cast a spell that has a casting range that is greater than touch, you can spend 1 sorcery point to bend the spell around corners.
 When you do this, you can target creatures around such obstacles.
 
-If a creature targeted by this spell has left your field of vision before the end of your last turn, you have disadvantage on any attack rolls that this spell might require.
+If a creature targeted by this spell has left your field of vision before the end of your last turn, you have disadvantage on any Attack Rolls that this spell might require.
 
 ### Focused Spell
 ***Cost: 2 points***
 
-When you cast a spell that requires one or more attack rolls, you can spend 2 sorcery points to gain advantage on those rolls until the start of your next turn.
+When you cast a spell that requires one or more Attack Rolls, you can spend 2 sorcery points to gain advantage on those rolls until the start of your next turn.
 
 You can use Empowered Spell even if you have already used a different Metamagic option during the casting of the spell.
 
 ### Heightened Spell
 ***Cost: 3—5 points / creature***
 
-When you cast a spell that forces other creatures to make a saving throw, you can intensify the spell's full force on some of those creatures.
+When you cast a spell that forces other creatures to make a Saving Throw, you can intensify the spell's full force on some of those creatures.
 
 To do so, you must spend 3 sorcery points for each selected creature that you want to affect.
-A chosen creature has disadvantage on any saving throws directly induced by the spell until the start of your next turn.
+A chosen creature has disadvantage on any Saving Throws directly induced by the spell until the start of your next turn.
 
-You can instead spend 5 sorcery points per selected creature to make them automatically fail any saving throws directly induced by the spell until the start of your next turn.
+You can instead spend 5 sorcery points per selected creature to make them automatically fail any Saving Throws directly induced by the spell until the start of your next turn.
 
 ### Instinctive Spell
 ***Cost: variable***
@@ -406,8 +406,8 @@ If a creature would be effected by both castings of this spell, it is instead on
 This metamagic's cost is 1 sorcery point if the spell that you cast is a cantrip.
 
 ## Ability Score Improvement
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1.
-As normal, you can't increase an ability score above 20 using this feature.
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one Ability Score of your choice by 2, or you can increase two Ability Scores of your choice by 1.
+As normal, you can't increase an Ability Score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
 

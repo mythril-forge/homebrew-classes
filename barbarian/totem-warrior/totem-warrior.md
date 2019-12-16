@@ -23,7 +23,7 @@ At this level, the feature you gain will only take effects in your rage.
 ### Bear
 You have additional resistance to fire, cold, lightning, thunder, acid, and poison damage while you are in a rage.
 
-Also while raging, You have advantage on Constitution saving throws, and you can roll 1d10 + 10 in place of your regular 1d20 whenever you make a Constitution ability check.
+Also while raging, You have advantage on Constitution Saving Throws, and you can roll 1d10 + 10 in place of your regular 1d20 whenever you make a Constitution Ability Check.
 
 The spirit of the bear makes you tough enough to stand up to any punishment.
 
@@ -63,7 +63,7 @@ This feature will benefit you even when you aren't raging.
 ### Bear
 You gain the might of a bear.
 
-You always have advantage on Strength saving throws, and you can roll 1d10 + 10 in place of your regular 1d20 whenever you make a Strength ability check.
+You always have advantage on Strength Saving Throws, and you can roll 1d10 + 10 in place of your regular 1d20 whenever you make a Strength Ability Check.
 
 In addition, your carrying capacity (including maximum load and maximum lift) is doubled.
 
@@ -92,7 +92,7 @@ You also gain proficiency in two skills from the following list: Athletics, Acro
 ### Wolf
 You gain the hunting sensibilities of a wolf.
 
-You have advantage on group Dexterity and Wisdom ability checks.
+You have advantage on group Dexterity and Wisdom Ability Checks.
 
 You and friendly creatures traveling within 60 feet of you can track other creatures while traveling at a fast pace, and can move stealthily while traveling at a normal pace.
 
@@ -125,19 +125,19 @@ Your maneuver first lets you use the dodge action.
 Next, after the attack is resolved, you can attempt to grapple or shove your aggressor if they are within 5 feet of you.
 
 ### Tiger
-You have advantage on Dexterity saving throws, and you can roll `1d10 + 10` in place of your regular `1d20` whenever you make a Dexterity ability check.
+You have advantage on Dexterity Saving Throws, and you can roll `1d10 + 10` in place of your regular `1d20` whenever you make a Dexterity Ability Check.
 
 If you jump at least 10 feet in any direction on your turn and land within 5 feet of a creature, then you can take a bonus action to target them with a predator's strike.
 
 Your predator's strike first lets you attempt to shove your target.
-Next, once before the turn ends, you can deal bonus damage to your target when you hit it with a melee weapon attack.
+Next, once before the turn ends, you can deal bonus damage to your target when you hit it with a Melee Weapon Attack.
 This bonus equals 1d6 weapon damage per 10 feet that you jumped.
 
 ### Wolf
 When raging, you have advantage on attempts made to grapple or shove creatures.
 
-If you make a melee weapon attack against a creature and land a critical hit, you can take a bonus action to make it a coup de grâce before rolling damage.
+If you make a Melee Weapon Attack against a creature and land a critical hit, you can take a bonus action to make it a coup de grâce before rolling damage.
 
 After dealing damage, your coup de grâce knocks your target prone, without contest.
 Next, all creatures within range can use their reaction to make an opportunity attack on the target, as if it had fled from their reach.
-When a creature makes an opportunity attack in this way, they add your rage damage to their damage roll.
+When a creature makes an opportunity attack in this way, they add your rage damage to their .

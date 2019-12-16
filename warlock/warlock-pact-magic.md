@@ -4,11 +4,11 @@ See chapter 10 for the general rules of spellcasting and chapter 11 for the warl
 
 ### Spellcasting Ability
 Charisma is your spellcasting ability for your warlock spells, so you use your Charisma whenever a spell refers to your spellcasting ability.
-In addition, you use your Charisma modifier when setting the saving throw DC for a warlock spell you cast and when making an attack roll with one.
+In addition, you use your Charisma Modifier when setting the Saving Throw DC for a warlock spell you cast and when making an Attack Roll with one.
 
-`Spell save DC = 9 + your proficiency bonus + your Charisma modifier`
+`Spell save DC = 9 + your Proficiency Bonus + your Charisma Modifier`
 
-`Spell attack modifier = your proficiency bonus + your Charisma modifier`
+`Spell Attack Modifier = your Proficiency Bonus + your Charisma Modifier`
 
 ### Spell Slots
 To cast a spell, you must expend a slot of the spell's level or higher.

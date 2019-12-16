@@ -3,11 +3,11 @@ At 19th level, your otherworldly patron bestows a gift upon you for your loyal s
 You gain one of the following features of your choice.
 
 ### Improved Pact of the Blade
-Whenever you land a critical hit with a weapon, you can immediately make another weapon attack with the same weapon.
+Whenever you land a critical hit with a weapon, you can immediately make another Weapon Attack with the same weapon.
 
 ### Improved Pact of the Chain
 Your familiar gains several benefits.
-- it can allocate four ability score increases to its various stats
+- it can allocate four Ability Score increases to its various stats
 - it gains the 'action surge' feature
 
 ### Improved Pact of the Tome

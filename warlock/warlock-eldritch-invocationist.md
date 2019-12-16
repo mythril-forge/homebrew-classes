@@ -15,14 +15,14 @@ A level prerequisite refers to your level in this class.
 ### Agonizing Blast
 ***Prerequisite: eldritch blast cantrip***
 
-When you cast eldritch blast, add your Charisma modifier to the damage it deals on a hit.
+When you cast eldritch blast, add your Charisma Modifier to the damage it deals on a hit.
 
 ### Arcing Blast
 ***Prerequisite: 13th level, eldritch blast cantrip***
 
 When you cast eldritch blast, you create one more beam than normal.
 You can direct this extra beam at your original target or at a different one.
-Make a seperate attack roll for each beam.
+Make a seperate Attack Roll for each beam.
 
 ### Armor of Shadows
 You can cast mage armor on yourself at will, without expending a spell slot.
@@ -82,7 +82,7 @@ While perceiving through the other creature's senses, you benefit from any speci
 ### Lifedrinker
 ***Prerequisite: 10th level, Pact of the Blade feature***
 
-When you hit a creature with your pact weapon, the creature takes extra necrotic damage equal to your Charisma modifier.
+When you hit a creature with your pact weapon, the creature takes extra necrotic damage equal to your Charisma Modifier.
 
 ### Mask of Many Faces
 You can cast disguise self at will, without expending a spell slot.

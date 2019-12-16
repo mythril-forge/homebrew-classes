@@ -43,7 +43,7 @@ You can use Cloudborn Spell even if you have already used a different Metamagic 
 ***Cost: 1 point***
 
 When you roll fire damage for a spell, you can spend 1 sorcery point to intensify the flames.
-When you roll damage for the spell, you deal extra fire damage equal to your Charisma modifier.
+When you roll damage for the spell, you deal extra fire damage equal to your Charisma Modifier.
 
 ### Frostborn Spell
 ***Prerequisite: Frost Giant Soul***
@@ -89,7 +89,7 @@ This increase lasts for 10 minutes.
 It ends early if you die or are incapacitated.
 Until it ends, you enjoy the effects of the *Enlarge* spell.
 
-You can use this feature a number of times equal to your Charisma modifier (a minimum of once).
+You can use this feature a number of times equal to your Charisma Modifier (a minimum of once).
 You regain all expended uses when you finish a long rest.
 
 In addition, when you cast the *Enlarge* spell and target yourself, the spell no longer requires concentration.
@@ -103,9 +103,9 @@ When coming under the effects of multiple different sources of enlargement, refe
 - Your size doubles in all dimensions
 - Your mass & weight are multiplied by 8
 - Your weapons and equipment grow to match your new size
-- Your weapon attacks deal twice the damage dice and modifiers
+- Your Weapon Attacks deal twice the damage dice and modifiers
 - Your movement speed increases by 5 feet
-- You gain advantage on all strength-based ability checks and saving throws
+- You gain advantage on all Strength Ability Checks and Saving Throws
 - You can use hit dice as if a short rest has been completed
 
 #### Second Enlargement
@@ -113,24 +113,24 @@ When coming under the effects of multiple different sources of enlargement, refe
 - Your size triples in all dimensions
 - Your mass & weight are multiplied by 27
 - Your weapons and equipment grow to match your new size
-- Your weapon attacks deal thrice the damage dice and modifiers
+- Your Weapon Attacks deal thrice the damage dice and modifiers
 - Your movement speed and melee reach increase by 5 feet
-- You gain advantage on all strength-based ability checks and saving throws
-- You can use d24s instead of d20s on all strength-based attacks, ability checks and saving throws
+- You gain advantage on all Strength Ability Checks and Saving Throws
+- You can use d24s instead of d20s on all Strength-based Attack Rolls, Ability Checks and Saving Throws
 - You can use hit dice as if a short rest has been completed
-- You gain current and maximum hit points equal to your `sorcerer level + constitution score`
+- You gain current and maximum hit points equal to your `sorcerer level + Constitution Ability Score`
 
 #### Third Enlargement
 - Your size category increases by three
 - Your size quadruples in all dimensions
 - Your mass & weight are multiplied by 64
 - Your weapons and equipment grow to match your new size
-- Your weapon attacks deal four times the damage dice and modifiers
+- Your Weapon Attacks deal four times the damage dice and modifiers
 - Your movement speed and melee reach increase by 10 feet
-- You gain advantage on all strength-based ability checks and saving throws
-- You can use d30s instead of d20s on all strength-based attacks, ability checks and saving throws
+- You gain advantage on all Strength Ability Checks and Saving Throws
+- You can use d30s instead of d20s on all Strength-based Attack Rolls, Ability Checks and Saving Throws
 - You can use hit dice as if a short rest has been completed
-- You gain temporary, current and maximum hit points equal to your `sorcerer level + constitution score`
+- You gain temporary, current and maximum hit points equal to your `sorcerer level + Constitution Ability Score`
 
 ## Rage of the Fallen Sons
 Starting at 14th level, you are able to call fourth the souls of your ancestors and channel them into your physical form.
@@ -158,7 +158,7 @@ ___
 
 You cause a creature or an object that you touch to grow larger for the duration.
 Choose either a creature or an object that is neither worn nor carried.
-If the target is unwilling, it can make a Constitution saving throw.
+If the target is unwilling, it can make a Constitution Saving Throw.
 On a success, the spell has no effect.
 
 If the target is a creature, everything it is wearing and carrying changes size with it.
@@ -169,9 +169,9 @@ The creature gains the following effects:
 - The target's size doubles in all dimensions
 - The target's mass & weight are multiplied by 8
 - The target's weapons and equipment grow to match your new size
-- The target's weapon attacks deal twice the damage dice and modifiers
+- The target's Weapon Attacks deal twice the damage dice and modifiers
 - The target's movement speed increases by 5 feet
-- The target gain advantage on all strength-based ability checks and saving throws
+- The target gain advantage on all Strength Ability Checks and Saving Throws
 - The target can use hit dice as if a short rest has been completed
 
 If there isn't enough room for the target to double its size, it either shatters the environment around it, breaks itself, or becomes restrained.

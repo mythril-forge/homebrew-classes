@@ -23,7 +23,7 @@ At each indicated cleric level, you add the listed spells to your spells prepare
 At 1st level, you learn two languages of your choice.
 You also become proficient in your choice of two of the following skills: Arcana, History, Nature, or Religion.
 
-Your proficiency bonus is doubled for any ability check you make that uses either of those skills.
+Your Proficiency Bonus is doubled for any Ability Check you make that uses either of those skills.
 
 ## Eyes of the Gods
 Also at 1st level, you can use an action to mutter a prayer.
@@ -31,14 +31,14 @@ If there is something hidden within five feet of you, such as a secret door or t
 An illusionary glow and hum briefly envelops the object of importance.
 Only you can sense these effects.
 
-You can use this feature a number of times equal to your Wisdom modifier (a minimum of once).
+You can use this feature a number of times equal to your Wisdom Modifier (a minimum of once).
 You regain all expended uses when you finish a long rest.
 
 ## Channel Divinity
 ### Channel Divinity: Knowledge of the Ages
 Starting at 2nd level, you can use your Channel Divinity to tap into a divine well of knowledge.
 As an action, you choose one skill or tool.
-For 10 minutes, you replace your d20 with a d24 on ability checks using the chosen skill or tool.
+For 10 minutes, you replace your d20 with a d24 on Ability Checks using the chosen skill or tool.
 
 When you reach 14th level, you use a d30 instead.
 
@@ -50,10 +50,10 @@ As an action, you can cast the *Detect Thoughts* spell at 2nd-level without expe
 For you, its range is infinite—provided that you can see the target creature.
 
 During that time, you can use your action to end this effect and cast the *Suggestion* spell at 2nd-levels on the creature without expending a spell slot.
-If you can fully read the target's deepest thoughts, then the target automatically fails its saving throw against this spell.
+If you can fully read the target's deepest thoughts, then the target automatically fails its Saving Throw against this spell.
 
 ## Potent Spellcasting
-Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric spell.
+Starting at 8th level, you add your Wisdom Modifier to the damage you deal with any cleric spell.
 
 ## Visions of the Past
 Starting at 17th level, you can call up visions of the past that relate to an object you hold or your immediate surroundings.

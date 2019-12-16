@@ -21,7 +21,7 @@ At each indicated cleric level, you add the listed spells to your spells prepare
 Starting when you choose this domain at 1st level, you can use your action to touch a willing creature to give it advantage on Deception, Stealth, and Sleight of Hand checks.
 This blessing lasts 8 hours or until you use this feature again.
 
-You can use this feature a number of times equal to your Wisdom modifier (a minimum of once).
+You can use this feature a number of times equal to your Wisdom Modifier (a minimum of once).
 You regain all expended uses when you finish a long rest.
 
 ## Channel Divinity
@@ -34,9 +34,9 @@ As a bonus action on your turn, you can move the illusion up to 30 feet to a spa
 The illusion fades if it ever leaves your sight.
 
 For the duration, you can cast spells as though you were in the illusion's space, but you must use your own senses.
-Additionally, when both you and your illusion are within 5 feet of a creature that can see the illusion, you have advantage on attack rolls against that creature, given how distracting the illusion is to the target.
+Additionally, when both you and your illusion are within 5 feet of a creature that can see the illusion, you have advantage on Attack Rolls against that creature, given how distracting the illusion is to the target.
 
-A creature that would have physically interacted with or damaged your illusion can make a Intelligence saving throw against your spell save DC.
+A creature that would have physically interacted with or damaged your illusion can make a Intelligence Saving Throw against your spell save DC.
 On a success, it can see through your illusion.
 
 ### Channel Divinity: Cloak of Shadows
@@ -47,7 +47,7 @@ You become visible if you attack or cast a spell.
 
 ## Divine Strike
 At 8th level, you gain the ability to infuse your weapon strikes with poison—a gift from your deity.
-Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 2d6 poison damage to the target.
+Once on each of your turns when you hit a creature with a Weapon Attack, you can cause the attack to deal an extra 2d6 poison damage to the target.
 When you reach 14th level, the extra damage increases to 4d6.
 
 ## Improved Duplicity
