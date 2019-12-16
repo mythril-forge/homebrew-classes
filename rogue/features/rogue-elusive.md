@@ -1,2 +1,2 @@
 ## Elusive
-Beginning at 18th level, you are so evasive that attackers rarely gain the upper hand against you. You are immune to the grappled and prone conditions while you aren't incapacitated.
+Beginning at 18th level, you are so evasive that attackers rarely gain the upper hand against you. No attack roll has advantage against you while you aren't incapacitated.
