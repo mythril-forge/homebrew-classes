@@ -1,22 +1,20 @@
-## Armor Training
+## Armor Practice
 You are used to wearing a particular type of armor to protect yourself.
 Choose one of the following options.
-You can't take the same Armor Specialist option more than once, even if you later get to choose again.
+You can't take the same Armor Practice option more than once, even if you later get to choose again.
 
-### Unarmored
-While you are not wearing any armor, you gain an extra +3 to AC and Dexterity Saving Throws when you are in partial cover.
+### Agility
+You gain a `+3` bonus to AC and Dexterity Saving Throws while you are benefitting from partial cover and aren't wearing any armor.
 
-### Shield
-While you have a shield equipped, you can take a bonus action to gain +1 AC until the end of your next turn.
+### Rebuttal
+If you would have been hit by an attack while wearing light armor, you can use a reaction to parry the attack.
+When you do so, the attacker rerolls their attack against you, and they must use the new roll.
 
-### Lightly Armored
-While you are wearing light armor, you can take a reaction to try to dodge, imposing disadvantage on a single incoming attack.
+### Balance
+You gain a `+1` bonus to AC while you are wearing medium armor.
 
-### Balanced
-You gain an extra +1 AC while you are wearing medium armor.
-
-### Heavily Armored
-While you are wearing heavy armor, bludgeoning, piercing, and slashing damage that you take from nonmagical weapons is reduced by 2.
+### Endurance
+While you are wearing heavy armor, bludgeoning, piercing, and slashing damage that you take is reduced by `–2`.
 
 <!--
 
