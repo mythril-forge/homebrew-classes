@@ -6,38 +6,56 @@ Chanting a song of glory, a dwarf swings his axe in wide swaths to cut through t
 
 Calling down a curse upon the forces of undeath, a human lifts her holy symbol as light pours from it to drive back the zombies crowding in on her companions.
 
-Clerics are intermediaries between the mortal world and the distant planes of the gods. As varied as the gods they serve, clerics strive to embody the handiwork of their deities. No ordinary priest, a cleric is imbued with divine magic.
+Clerics are intermediaries between the mortal world and the distant planes of the gods.
+As varied as the gods they serve, clerics strive to embody the handiwork of their deities.
+No ordinary priest, a cleric is imbued with divine magic.
 
 ## Healers and Warriors
-Divine magic, as the name suggests, is the power of the gods, flowing from them into the world. Clerics are conduits for that power, manifesting it as miraculous effects. The gods don’t grant this power to everyone who seeks it, but only to those chosen to fulfill a high calling.
+Divine magic, as the name suggests, is the power of the gods, flowing from them into the world.
+Clerics are conduits for that power, manifesting it as miraculous effects.
+The gods don’t grant this power to everyone who seeks it, but only to those chosen to fulfill a high calling.
 
-Harnessing divine magic doesn’t rely on study or training. A cleric might learn formulaic prayers and ancient rites, but the ability to cast cleric spells relies on devotion and an intuitive sense of a deity’s wishes.
+Harnessing divine magic doesn’t rely on study or training.
+A cleric might learn formulaic prayers and ancient rites, but the ability to cast cleric spells relies on devotion and an intuitive sense of a deity’s wishes.
 
-Clerics combine the helpful magic of healing and inspiring their allies with spells that harm and hinder foes. They can provoke awe and dread, lay curses of plague or poison, and even call down flames from heaven to consume their enemies. For those evildoers who will benefit most from a mace to the head, clerics depend on their combat training to let them wade into melee with the power of the gods on their side.
+Clerics combine the helpful magic of healing and inspiring their allies with spells that harm and hinder foes.
+They can provoke awe and dread, lay curses of plague or poison, and even call down flames from heaven to consume their enemies.
+For those evildoers who will benefit most from a mace to the head, clerics depend on their combat training to let them wade into melee with the power of the gods on their side.
 
 ## Divine Agents
-Not every acolyte or officiant at a temple or shrine is a cleric. Some priests are called to a simple life of temple service, carrying out their gods’ will through prayer and sacrifice, not by magic and strength of arms. In some cities, priesthood amounts to a political office, viewed as a stepping stone to higher positions of authority and involving no communion with a god at all. True clerics are rare in most hierarchies.
+Not every acolyte or officiant at a temple or shrine is a cleric.
+Some priests are called to a simple life of temple service, carrying out their gods’ will through prayer and sacrifice, not by magic and strength of arms.
+In some cities, priesthood amounts to a political office, viewed as a stepping stone to higher positions of authority and involving no communion with a god at all.
+True clerics are rare in most hierarchies.
 
-When a cleric takes up an adventuring life, it is usually because his or her god demands it. Pursuing the goals of the gods often involves braving dangers beyond the walls of civilization, smiting evil or seeking holy relics in ancient tombs. Many clerics are also expected to protect their deities’ worshipers, which can mean fighting rampaging orcs, negotiating peace between warring nations, or sealing a portal that would allow a demon prince to enter the world.
+When a cleric takes up an adventuring life, it is usually because his or her god demands it.
+Pursuing the goals of the gods often involves braving dangers beyond the walls of civilization, smiting evil or seeking holy relics in ancient tombs.
+Many clerics are also expected to protect their deities’ worshipers, which can mean fighting rampaging orcs, negotiating peace between warring nations, or sealing a portal that would allow a demon prince to enter the world.
 
-Most adventuring clerics maintain some connection to established temples and orders of their faiths. A temple might ask for a cleric’s aid, or a high priest might be in a position to demand it.
+Most adventuring clerics maintain some connection to established temples and orders of their faiths.
+A temple might ask for a cleric’s aid, or a high priest might be in a position to demand it.
 
 ---
 
-> *To become a cleric is to become a messenger of the gods. The power the divine offers is great, but it always comes with tremendous responsibility.*
+> *To become a cleric is to become a messenger of the gods.
+The power the divine offers is great, but it always comes with tremendous responsibility.*
 >
 > *— Riggby the patriarch*
 
-Almost all the folk in the world who revere a deity live their lives without ever being directly touched by a divine being. As such, they can never know what it feels like to be a cleric—someone who is not only a devout worshiper, but who has also been invested with a measure of a deity's power.
+Almost all the folk in the world who revere a deity live their lives without ever being directly touched by a divine being.
+As such, they can never know what it feels like to be a cleric—someone who is not only a devout worshiper, but who has also been invested with a measure of a deity's power.
 
-The question has long been debated: Does a mortal become a cleric as a consequence of deep devotion to one's deity, thereby attracting the god's favor? Or is it the deity who sees the potential in a person and calls that individual into service? Ultimately, perhaps, the answer doesn't matter. However clerics come into being, the world needs clerics as much as clerics and deities need each other.
+The question has long been debated: Does a mortal become a cleric as a consequence of deep devotion to one's deity, thereby attracting the god's favor? Or is it the deity who sees the potential in a person and calls that individual into service? Ultimately, perhaps, the answer doesn't matter.
+However clerics come into being, the world needs clerics as much as clerics and deities need each other.
 
 If you're playing a cleric character, the following sections offer ways to add some detail to that character's history and personality.
 
 ## Temple
-Most clerics start their lives of service as priests in an order, then later realize that they have been blessed by their god with the qualities needed to become a cleric. To prepare for this new duty, candidates typically receive instruction from a cleric of a temple or another place of study devoted to their deity.
+Most clerics start their lives of service as priests in an order, then later realize that they have been blessed by their god with the qualities needed to become a cleric.
+To prepare for this new duty, candidates typically receive instruction from a cleric of a temple or another place of study devoted to their deity.
 
-Some temples are cut off from the world so that their occupants can focus on devotions, while other temples open their doors to minister to and heal the masses. What is noteworthy about the temple you studied at?
+Some temples are cut off from the world so that their occupants can focus on devotions, while other temples open their doors to minister to and heal the masses.
+What is noteworthy about the temple you studied at?
 
 ###### Temples
 
@@ -51,7 +69,8 @@ Some temples are cut off from the world so that their occupants can focus on dev
 | 6   | You served in a temple in the Outer Planes.                                                        |
 
 ## Keepsake
-Many clerics have items among their personal gear that symbolize their faith, remind them of their vows, or otherwise help to keep them on their chosen paths. Even though such an item is not imbued with divine power, it is vitally important to its owner because of what it represents.
+Many clerics have items among their personal gear that symbolize their faith, remind them of their vows, or otherwise help to keep them on their chosen paths.
+Even though such an item is not imbued with divine power, it is vitally important to its owner because of what it represents.
 
 ###### Keepsakes
 
@@ -65,8 +84,10 @@ Many clerics have items among their personal gear that symbolize their faith, re
 | 6   | A runestone said to be blessed by your god                                |
 
 ## Secret
-No mortal soul is entirely free of second thoughts or doubt. Even a cleric must grapple with dark desires or the forbidden attraction of turning against the teachings of one's deity.
-If you haven't considered this aspect of your character yet, see the table entries for some possibilities, or use them for inspiration. Your deep, dark secret might involve something you did (or are doing), or it could be rooted in the way you feel about the world and your role in it.
+No mortal soul is entirely free of second thoughts or doubt.
+Even a cleric must grapple with dark desires or the forbidden attraction of turning against the teachings of one's deity.
+If you haven't considered this aspect of your character yet, see the table entries for some possibilities, or use them for inspiration.
+Your deep, dark secret might involve something you did (or are doing), or it could be rooted in the way you feel about the world and your role in it.
 
 ###### Secrets
 
@@ -80,24 +101,35 @@ If you haven't considered this aspect of your character yet, see the table entri
 | 6   | In times of despair, you feel that you are but a plaything of the gods, and you resent their remoteness.            |
 
 > ##### Serving a Pantheon, Philosophy, or Force
-> The typical cleric is an ordained servant of a particular god and chooses a Divine Domain associated with that deity. The cleric's magic flows from the god or the god's sacred realm, and often the cleric bears a holy symbol that represents that divinity.
+> The typical cleric is an ordained servant of a particular god and chooses a Divine Domain associated with that deity.
+> The cleric's magic flows from the god or the god's sacred realm, and often the cleric bears a holy symbol that represents that divinity.
 >
-> Some clerics, especially in a world like Eberron, serve a whole pantheon, rather than a single deity. In certain campaigns, a cleric might instead serve a cosmic force, such as life or death, or a philosophy or concept, such as love, peace, or one of the nine alignments. Chapter 1 of the Dungeon Master's Guide explores options like these, in the section "Gods of Your World."
+> Some clerics, especially in a world like Eberron, serve a whole pantheon, rather than a single deity.
+> In certain campaigns, a cleric might instead serve a cosmic force, such as life or death, or a philosophy or concept, such as love, peace, or one of the nine alignments.
+> Chapter 1 of the Dungeon Master's Guide explores options like these, in the section "Gods of Your World."
 >
-> Talk with your DM about the divine options available in your campaign, whether they're gods, pantheons, philosophies, or cosmic forces. Whatever being or thing your cleric ends up serving, choose a Divine Domain that is appropriate for it, and if it doesn't have a holy symbol, work with your DM to design one.
+> Talk with your DM about the divine options available in your campaign, whether they're gods, pantheons, philosophies, or cosmic forces.
+> Whatever being or thing your cleric ends up serving, choose a Divine Domain that is appropriate for it, and if it doesn't have a holy symbol, work with your DM to design one.
 >
-> The cleric's class features often refer to your deity. If you are devoted to a pantheon, cosmic force, or philosophy, your cleric features still work for you as written. Think of the references to a god as references to the divine thing you serve that gives you your magic.
+> The cleric's class features often refer to your deity.
+> If you are devoted to a pantheon, cosmic force, or philosophy, your cleric features still work for you as written.
+> Think of the references to a god as references to the divine thing you serve that gives you your magic.
 
 ---
 
 # Class Features
 ## Creating a Cleric
-As you create a cleric, the most important question to consider is which deity to serve and what principles you want your character to embody. The Gods of the Multiverse section includes lists of many of the gods of the multiverse. Check with your DM to learn which deities are in your campaign.
+As you create a cleric, the most important question to consider is which deity to serve and what principles you want your character to embody.
+The Gods of the Multiverse section includes lists of many of the gods of the multiverse.
+Check with your DM to learn which deities are in your campaign.
 
-Once you’ve chosen a deity, consider your cleric’s relationship to that god. Did you enter this service willingly? Or did the god choose you, impelling you into service with no regard for your wishes? How do the temple priests of your faith regard you: as a champion or a troublemaker? What are your ultimate goals? Does your deity have a special task in mind for you? Or are you striving to prove yourself worthy of a great quest?
+Once you’ve chosen a deity, consider your cleric’s relationship to that god.
+Did you enter this service willingly? Or did the god choose you, impelling you into service with no regard for your wishes? How do the temple priests of your faith regard you: as a champion or a troublemaker? What are your ultimate goals? Does your deity have a special task in mind for you? Or are you striving to prove yourself worthy of a great quest?
 
 > ###### Quick Build
-> You can make a cleric quickly by following these suggestions. First, Wisdom should be your highest ability score, followed by Strength or Constitution. Second, choose the acolyte background.
+> You can make a cleric quickly by following these suggestions.
+> First, Wisdom should be your highest ability score, followed by Strength or Constitution.
+> Second, choose the acolyte background.
 
 ### Hit Points
 - **Hit Dice:** `1d8`

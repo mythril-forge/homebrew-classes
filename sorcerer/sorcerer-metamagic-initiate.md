@@ -1,5 +1,6 @@
 ## Metamagic Initiate
-At 2nd level, you gain the ability to twist your spells to suit your needs. You can expend your sorcery points to use your Metamagic options.
+At 2nd level, you gain the ability to twist your spells to suit your needs.
+You can expend your sorcery points to use your Metamagic options.
 
 You first unlock one unique Metamagic option, detailed in your chosen Sorcerous Origin.
 
@@ -12,7 +13,8 @@ You can use only one Metamagic option on a spell when you cast it, unless otherw
 
 When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell's full force.
 
-To do so, you must spend 1 sorcery point for each creature that you want to protect. A chosen creature has advantage on any saving throws directly induced by the spell until the start of your next turn.
+To do so, you must spend 1 sorcery point for each creature that you want to protect.
+A chosen creature has advantage on any saving throws directly induced by the spell until the start of your next turn.
 
 You can instead spend 3 sorcery points per creature to completely mitigate any of the spell's direct effects against them until the start of your next turn.
 
@@ -26,9 +28,11 @@ The spell's range either doubles or becomes 30ft, whichever is further.
 ### Suspended Spell
 ***Cost: 3 points***
 
-When you cast a spell, you can spend 3 sorcery points to suspend the spell midair. The spell becomes trapped in an orb of energy, which requires your concentration to maintain — as if you were casting a spell.
+When you cast a spell, you can spend 3 sorcery points to suspend the spell midair.
+The spell becomes trapped in an orb of energy, which requires your concentration to maintain — as if you were casting a spell.
 
-While you concentrate, you can use a bonus action to move the orb in any direction up to the spell's casting range, and activate it if you desire. If the spell's range is self or touch, it cannot move.
+While you concentrate, you can use a bonus action to move the orb in any direction up to the spell's casting range, and activate it if you desire.
+If the spell's range is self or touch, it cannot move.
 
 When you activate the suspended orb, it breaks, and its stored spell immediately takes effect in its place, as if you cast the stored spell in that instant.
 
@@ -63,7 +67,8 @@ In addition, you have advantage on any concentration checks made to maintain thi
 ### Flection Spell
 ***Cost: 1 point***
 
-When you cast a spell that has a casting range that is greater than touch, you can spend 1 sorcery point to bend the spell around corners. When you do this, you can target creatures around such obstacles.
+When you cast a spell that has a casting range that is greater than touch, you can spend 1 sorcery point to bend the spell around corners.
+When you do this, you can target creatures around such obstacles.
 
 If a creature targeted by this spell has left your field of vision before the end of your last turn, you have disadvantage on any attack rolls that this spell might require.
 
@@ -79,7 +84,8 @@ You can use Empowered Spell even if you have already used a different Metamagic 
 
 When you cast a spell that forces other creatures to make a saving throw, you can intensify the spell's full force on some of those creatures.
 
-To do so, you must spend 3 sorcery points for each selected creature that you want to affect. A chosen creature has disadvantage on any saving throws directly induced by the spell until the start of your next turn.
+To do so, you must spend 3 sorcery points for each selected creature that you want to affect.
+A chosen creature has disadvantage on any saving throws directly induced by the spell until the start of your next turn.
 
 You can instead spend 5 sorcery points per selected creature to make them automatically fail any saving throws directly induced by the spell until the start of your next turn.
 

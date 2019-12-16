@@ -1,5 +1,7 @@
 ## Fighting Style
-You adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take the same Fighting Style option more than once, even if you later get to choose again.
+You adopt a particular style of fighting as your specialty.
+Choose one of the following options.
+You can't take the same Fighting Style option more than once, even if you later get to choose again.
 
 ### Archery
 You gain a +1 bonus to attack and damage rolls you make with ranged weapons.
@@ -8,10 +10,12 @@ You gain a +1 bonus to attack and damage rolls you make with ranged weapons.
 While you are wearing armor, you gain a +1 bonus to AC.
 
 ### Dueling
-When you are wielding a single medium-sized or smaller melee weapon, your critical hits with that weapon do thrice the damage dice and modifiers instead of twice. The weapon must not have the heavy or two-handed property for you to gain this benefit.
+When you are wielding a single medium-sized or smaller melee weapon, your critical hits with that weapon do thrice the damage dice and modifiers instead of twice.
+The weapon must not have the heavy or two-handed property for you to gain this benefit.
 
 ### Great Weapon Fighting
-When you roll damage for an attack you make with a melee weapon that you are wielding with two hands, you can choose to reroll any number of the damage dice; but you must use the new rolls. The weapon must have the two-handed or versatile property for you to gain this benefit.
+When you roll damage for an attack you make with a melee weapon that you are wielding with two hands, you can choose to reroll any number of the damage dice; but you must use the new rolls.
+The weapon must have the two-handed or versatile property for you to gain this benefit.
 
 ### Two-Weapon Fighting
 When you engage in two-weapon fighting, you can add your ability modifier to the damage of your offhand attacks.

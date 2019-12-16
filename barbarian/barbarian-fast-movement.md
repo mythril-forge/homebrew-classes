@@ -1,5 +1,6 @@
 ## Fast Movement
-Starting at 2nd level, your speed increases by +5 feet. This bonus increases when you reach certain barbarian levels, as shown in the Barbarian table.
+Starting at 2nd level, your speed increases by +5 feet.
+This bonus increases when you reach certain barbarian levels, as shown in the Barbarian table.
 
 <!--
 

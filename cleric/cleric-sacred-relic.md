@@ -1,5 +1,6 @@
 ## Sacred Relic
-At 19th level, your connection with your deity grants you a divine affinity for sacred artifacts. You can now attune to four magical items at once.
+At 19th level, your connection with your deity grants you a divine affinity for sacred artifacts.
+You can now attune to four magical items at once.
 
 <!--
 

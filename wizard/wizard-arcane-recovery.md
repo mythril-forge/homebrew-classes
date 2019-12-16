@@ -1,5 +1,6 @@
 ## Arcane Recovery
-By 19th level you have gained the power to absorb the mana in the air around you. You now regain all expended 1st-level spell slots at the end of a short or long rest.
+By 19th level you have gained the power to absorb the mana in the air around you.
+You now regain all expended 1st-level spell slots at the end of a short or long rest.
 
 <!--
 

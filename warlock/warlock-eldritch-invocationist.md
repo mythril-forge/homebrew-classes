@@ -1,11 +1,16 @@
 ## Eldritch Invocationist
-In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability. A level prerequisite refers to your level in this class.
+In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability.
+A level prerequisite refers to your level in this class.
 
-At 2nd level, you gain two eldritch invocations of your choice. Your invocation options are detailed at the end of the class description. When you gain certain warlock levels, you gain additional invocations of your choice, as shown in the Invocations Known column of the Warlock table.
+At 2nd level, you gain two eldritch invocations of your choice.
+Your invocation options are detailed at the end of the class description.
+When you gain certain warlock levels, you gain additional invocations of your choice, as shown in the Invocations Known column of the Warlock table.
 
 Additionally, when you gain a level in this class, you can choose one of the invocations you know and replace it with another invocation that you could learn at that level.
 
-If an eldritch invocation has prerequisites, you must meet them to learn it. You can learn the invocation at the same time that you meet its prerequisites. A level prerequisite refers to your level in this class.
+If an eldritch invocation has prerequisites, you must meet them to learn it.
+You can learn the invocation at the same time that you meet its prerequisites.
+A level prerequisite refers to your level in this class.
 
 ### Agonizing Blast
 ***Prerequisite: eldritch blast cantrip***
@@ -15,7 +20,9 @@ When you cast eldritch blast, add your Charisma modifier to the damage it deals 
 ### Arcing Blast
 ***Prerequisite: 13th level, eldritch blast cantrip***
 
-When you cast eldritch blast, you create one more beam than normal. You can direct this extra beam at your original target or at a different one. Make a seperate attack roll for each beam.
+When you cast eldritch blast, you create one more beam than normal.
+You can direct this extra beam at your original target or at a different one.
+Make a seperate attack roll for each beam.
 
 ### Armor of Shadows
 You can cast mage armor on yourself at will, without expending a spell slot.
@@ -34,9 +41,14 @@ You also become proficient in two skills of your choice from the following skill
 ### Book of Lost Arts
 ***Prerequisite: Pact of the Tome feature***
 
-You can now inscribe magical rituals in your Book of Shadows. Choose two 1st-level spells that have the ritual tag from any class's spell list (the two needn't be from the same list). The spells appear in the book and don't count against the number of spells you know. With your Book of Shadows in hand, you can cast the chosen spells, and can cast them as rituals.
+You can now inscribe magical rituals in your Book of Shadows.
+Choose two 1st-level spells that have the ritual tag from any class's spell list (the two needn't be from the same list).
+The spells appear in the book and don't count against the number of spells you know.
+With your Book of Shadows in hand, you can cast the chosen spells, and can cast them as rituals.
 
-On your adventures, you can add other ritual spells to your Book of Shadows. When you find such a spell, you can add it to the book if the spell's level is equal to or less than half your warlock level (rounded up) and if you can spare the time to transcribe the spell. For each level of the spell, the transcription process takes 2 hours and costs 50 sp for the rare inks needed to inscribe it.
+On your adventures, you can add other ritual spells to your Book of Shadows.
+When you find such a spell, you can add it to the book if the spell's level is equal to or less than half your warlock level (rounded up) and if you can spare the time to transcribe the spell.
+For each level of the spell, the transcription process takes 2 hours and costs 50 sp for the rare inks needed to inscribe it.
 
 ### Devil's Sight
 You can see normally in both magical and nonmagical darkness.
@@ -44,7 +56,9 @@ You can see normally in both magical and nonmagical darkness.
 ### Eldritch Secrets
 ***Prerequisite: Pact of the Tome feature***
 
-You learn two spells of your choice from any class. A spell you choose must be of a level you can cast, as shown on the Warlock table. The chosen spell counts as a warlock spell for you but doesn't count against the number of warlock spells you know.
+You learn two spells of your choice from any class.
+A spell you choose must be of a level you can cast, as shown on the Warlock table.
+The chosen spell counts as a warlock spell for you but doesn't count against the number of warlock spells you know.
 
 ### Eldritch Sight
 You can cast detect magic at will, without expending a spell slot.
@@ -61,7 +75,9 @@ You can read all writing.
 You can cast false life on yourself at will as a 1st-level spell, without expending a spell slot.
 
 ### Gaze of Two Minds
-You can use your action to touch a willing humanoid and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can use your action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. While perceiving through the other creature's senses, you benefit from any special senses possessed by that creature, and you are blinded and deafened to your own surroundings.
+You can use your action to touch a willing humanoid and perceive through its senses until the end of your next turn.
+As long as the creature is on the same plane of existence as you, you can use your action on subsequent turns to maintain this connection, extending the duration until the end of your next turn.
+While perceiving through the other creature's senses, you benefit from any special senses possessed by that creature, and you are blinded and deafened to your own surroundings.
 
 ### Lifedrinker
 ***Prerequisite: 10th level, Pact of the Blade feature***
@@ -106,7 +122,8 @@ You can cast arcane eye at will, without expending a spell slot.
 ### Voice of the Chain Master
 ***Prerequisite: Pact of the Chain feature***
 
-You can communicate telepathically with your familiar and perceive through your familiar's senses as long as you are on the same plane of existence. Additionally, while perceiving through your familiar's senses, you can also speak through your familiar in your own voice, even if your familiar is normally incapable of speech.
+You can communicate telepathically with your familiar and perceive through your familiar's senses as long as you are on the same plane of existence.
+Additionally, while perceiving through your familiar's senses, you can also speak through your familiar in your own voice, even if your familiar is normally incapable of speech.
 
 ### Whispers of the Grave
 ***Prerequisite: 7th level***

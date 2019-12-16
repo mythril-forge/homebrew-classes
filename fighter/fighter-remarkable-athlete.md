@@ -1,5 +1,6 @@
 ## Remarkable Athlete
-Starting at 10th level, you have mastered your physical technique. From this point onwards:
+Starting at 10th level, you have mastered your physical technique.
+From this point onwards:
 - Swimming doesn't cost you extra movement.
 - Climbing doesn't cost you extra movement.
 - You can now lift and carry 100lbs more than you normally could.

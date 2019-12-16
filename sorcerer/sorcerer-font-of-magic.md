@@ -1,7 +1,9 @@
 ## Font of Magic
-Starting at 1st level, you can tap into a deep wellspring of magic within yourself. This wellspring is represented by sorcery points, which allow you to create a variety of magical effects.
+Starting at 1st level, you can tap into a deep wellspring of magic within yourself.
+This wellspring is represented by sorcery points, which allow you to create a variety of magical effects.
 
-You have 2 sorcery points, and you gain additional sorcery points every time you level up, as shown on the Sorcerer Table. You regain all spent sorcery points when you finish a long rest.
+You have 2 sorcery points, and you gain additional sorcery points every time you level up, as shown on the Sorcerer Table.
+You regain all spent sorcery points when you finish a long rest.
 
 You learn several different ways to use your sorcery points as you reach higher levels.
 
@@ -9,12 +11,15 @@ You learn several different ways to use your sorcery points as you reach higher 
 You can use your sorcery points to recover spell slots, or sacrifice spell slots to gain additional sorcery points.
 
 #### Converting Sorcery Points
-You can transform unexpended sorcery points into spell slots as a bonus action on your turn. For each spell slot that you want to make, spend a number of sorcery points equal to its sorcery point conversion rate, as shown in the Sorcery Points Table. You can use this ability to create spell slots no higher in level than 5th.
+You can transform unexpended sorcery points into spell slots as a bonus action on your turn.
+For each spell slot that you want to make, spend a number of sorcery points equal to its sorcery point conversion rate, as shown in the Sorcery Points Table.
+You can use this ability to create spell slots no higher in level than 5th.
 
 Superfluous spell slots vanish at the end of a short or long rest.
 
 #### Converting a Spell Slot
-As a bonus action on your turn, you can expend a number of spell slots to generate sorcery points. For each spell slot spent in this way, you gain a number of sorcery points equal to to its sorcery point conversion rate minus one, as shown in the Sorcery Points Table.
+As a bonus action on your turn, you can expend a number of spell slots to generate sorcery points.
+For each spell slot spent in this way, you gain a number of sorcery points equal to to its sorcery point conversion rate minus one, as shown in the Sorcery Points Table.
 
 Superfluous sorcery points vanish at the end of a short or long rest.
 

@@ -1,5 +1,7 @@
 ## Armor Training
-You are used to wearing a particular type of armor to protect yourself. Choose one of the following options. You can't take the same Armor Specialist option more than once, even if you later get to choose again.
+You are used to wearing a particular type of armor to protect yourself.
+Choose one of the following options.
+You can't take the same Armor Specialist option more than once, even if you later get to choose again.
 
 ### Unarmored
 While you are not wearing any armor, you gain an extra +3 to AC and Dexterity saving throws when you are in partial cover.

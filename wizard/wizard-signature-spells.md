@@ -1,7 +1,12 @@
 ## Signature Spell
-When you reach 20th level, you gain mastery over a powerful spell and can cast them with little effort. Choose one 3rd-level wizard spell in your spellbook as your signature spell. You always have this spell prepared, and it doesn't count against the number of spells you can prepare each day.
+When you reach 20th level, you gain mastery over a powerful spell and can cast them with little effort.
+Choose one 3rd-level wizard spell in your spellbook as your signature spell.
+You always have this spell prepared, and it doesn't count against the number of spells you can prepare each day.
 
-You also get three magic charges for use with this spell. When you cast this spell, you can expend a magic charge. If you do so for this casting, the spell counts as a cantrip for you, and you don't have to expend a spell slot. You regain these magic charges when you finish a short or long rest.
+You also get three magic charges for use with this spell.
+When you cast this spell, you can expend a magic charge.
+If you do so for this casting, the spell counts as a cantrip for you, and you don't have to expend a spell slot.
+You regain these magic charges when you finish a short or long rest.
 
 <!--
 

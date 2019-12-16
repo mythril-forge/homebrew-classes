@@ -1,5 +1,8 @@
 ## Tactician
-By 2nd level, you have the knowledge and control to hit your enemy where it hurts most. When you first make an attack with a melee weapon, you can declare a number, and take it as a penalty to hit. If your attack hits, it does extra damage equal to your initial penalty. You can only use this ability before you make your roll to hit.
+By 2nd level, you have the knowledge and control to hit your enemy where it hurts most.
+When you first make an attack with a melee weapon, you can declare a number, and take it as a penalty to hit.
+If your attack hits, it does extra damage equal to your initial penalty.
+You can only use this ability before you make your roll to hit.
 
 
 <!--

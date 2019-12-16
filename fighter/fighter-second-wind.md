@@ -1,7 +1,9 @@
 ## Second Wind
-Beginning at 3rd level, you have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to a number of d4s equal to your fighter level.
+Beginning at 3rd level, you have a limited well of stamina that you can draw on to protect yourself from harm.
+On your turn, you can use a bonus action to regain hit points equal to a number of d4s equal to your fighter level.
 
-Once you use this feature, you must finish a short or long rest before you can use it again. Starting at 19th level, you can use it twice before a rest, but only once on the same turn.
+Once you use this feature, you must finish a short or long rest before you can use it again.
+Starting at 19th level, you can use it twice before a rest, but only once on the same turn.
 
 <!--
 

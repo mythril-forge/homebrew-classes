@@ -1,5 +1,6 @@
 ## Pact Boon
-At 19th level, your otherworldly patron bestows a gift upon you for your loyal service. You gain one of the following features of your choice.
+At 19th level, your otherworldly patron bestows a gift upon you for your loyal service.
+You gain one of the following features of your choice.
 
 ### Improved Pact of the Blade
 Whenever you land a critical hit with a weapon, you can immediately make another weapon attack with the same weapon.
@@ -10,7 +11,10 @@ Your familiar gains several benefits.
 - it gains the 'action surge' feature
 
 ### Improved Pact of the Tome
-When you gain this feature, choose two spells of any level from any class's spell list to add to your book of shadows. While your book is on your person, you can cast those spells. They don't count against your number of spells known. If they don't appear on the warlock spell list, they are nonetheless warlock spells for you.
+When you gain this feature, choose two spells of any level from any class's spell list to add to your book of shadows.
+While your book is on your person, you can cast those spells.
+They don't count against your number of spells known.
+If they don't appear on the warlock spell list, they are nonetheless warlock spells for you.
 
 <!--
 
