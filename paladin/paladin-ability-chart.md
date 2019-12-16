@@ -1,22 +1,22 @@
-| Level | Proficiency Bonus | Features                                                | 1st | 2nd | 3rd | 4th | 5th |
-|:-----:|:-----------------:|:--------------------------------------------------------|:---:|:---:|:---:|:---:|:---:|
-| 1     | +1d4 (+2)         | Divine Sense, Lay on Hands                              | —   | —   | —   | —   | —   |
-| 2     | +1d4 (+2)         | Fighting Style, Sacred Oath, Spellcasting               | 1   | —   | —   | —   | —   |
-| 3     | +1d4 (+2)         | Channel Divinity, Divine Health, Divine Smite           | 2   | —   | —   | —   | —   |
-| 4     | +1d4 (+2)         | Ability Score Improvement, Sacred Oath feature          | 3   | —   | —   | —   | —   |
-| 5     | +1d6 (+3)         | Aura of Protection, Extra Attack                        | 4   | —   | —   | —   | —   |
-| 6     | +1d6 (+3)         | —                                                       | 4   | 1   | —   | —   | —   |
-| 7     | +1d6 (+3)         | Sacred Oath feature                                     | 4   | 2   | —   | —   | —   |
-| 8     | +1d6 (+3)         | Ability Score Improvement                               | 4   | 3   | —   | —   | —   |
-| 9     | +1d8 (+4)         | Aura of Courage                                         | 4   | 4   | —   | —   | —   |
-| 10    | +1d8 (+4)         | —                                                       | 4   | 4   | 1   | —   | —   |
-| 11    | +1d8 (+4)         | Divine Strike                                           | 4   | 4   | 2   | —   | —   |
-| 12    | +1d8 (+4)         | Ability Score Improvement                               | 4   | 4   | 2   | —   | —   |
-| 13    | +1d10 (+5)        | Aura of Resolution, Cleansing Touch                     | 4   | 4   | 3   | —   | —   |
-| 14    | +1d10 (+5)        | —                                                       | 4   | 4   | 3   | 1   | —   |
-| 15    | +1d10 (+5)        | Sacred Oath feature                                     | 4   | 4   | 3   | 2   | —   |
-| 16    | +1d10 (+5)        | Ability Score Improvement                               | 4   | 4   | 3   | 2   | —   |
-| 17    | +1d12 (+6)        | Aura improvements                                       | 4   | 4   | 3   | 3   | —   |
-| 18    | +1d12 (+6)        | —                                                       | 4   | 4   | 3   | 3   | 1   |
-| 19    | +1d12 (+6)        | Ability Score Improvement                               | 4   | 4   | 3   | 3   | 2   |
-| 20    | +1d12 (+6)        | Sacred Oath feature                                     | 4   | 4   | 3   | 3   | 2   |
+| Level | Features                                                               | 1st     | 2nd     | 3rd     | 4th     | 5th     |
+|-------|------------------------------------------------------------------------|---------|---------|---------|---------|---------|
+| 1     | Fighting Style, Lay on Hands, Divine Health                            | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 2     | Spellcasting, Sacred Oath, Channel Divinity (1/rest)                   | 1       | &mdash; | &mdash; | &mdash; | &mdash; |
+| 3     | Divine Concentration (1 extra)                                         | 2       | &mdash; | &mdash; | &mdash; | &mdash; |
+| 4     | Ability Score Improvement                                              | 3       | &mdash; | &mdash; | &mdash; | &mdash; |
+| 5     | Sacred Oath feature, Extra Attack, Aura of Protection                  | 4       | &mdash; | &mdash; | &mdash; | &mdash; |
+| 6     | &mdash;                                                                | 4       | 1       | &mdash; | &mdash; | &mdash; |
+| 7     | Divine Concentration (2 extra)                                         | 4       | 2       | &mdash; | &mdash; | &mdash; |
+| 8     | Ability Score Improvement, Sacred Oath feature                         | 4       | 3       | &mdash; | &mdash; | &mdash; |
+| 9     | Aura of Courage                                                        | 4       | 4       | &mdash; | &mdash; | &mdash; |
+| 10    | &mdash;                                                                | 4       | 4       | 1       | &mdash; | &mdash; |
+| 11    | Sacred Oath feature, Divine Strike, Cleansing Touch                    | 4       | 4       | 2       | &mdash; | &mdash; |
+| 12    | Ability Score Improvement                                              | 4       | 4       | 2       | &mdash; | &mdash; |
+| 13    | Aura of Resolution                                                     | 4       | 4       | 3       | &mdash; | &mdash; |
+| 14    | Sacred Oath feature                                                    | 4       | 4       | 3       | 1       | &mdash; |
+| 15    | Sacred Blood                                                           | 4       | 4       | 3       | 2       | &mdash; |
+| 16    | Ability Score Improvement                                              | 4       | 4       | 3       | 2       | &mdash; |
+| 17    | Sacred Oath feature, Aura Improvements                                 | 4       | 4       | 3       | 3       | &mdash; |
+| 18    | &mdash;                                                                | 4       | 4       | 3       | 3       | 1       |
+| 19    | Bearer of Burdens                                                      | 4       | 4       | 3       | 3       | 2       |
+| 20    | Ability Score Improvement, Sacred Oath feature, Improved Divine Strike | 4       | 4       | 3       | 3       | 2       |

@@ -17,9 +17,14 @@ You have an innate knowledge of every spell on the paladin spell list, however y
 ### Preparing Spells
 You prepare the list of paladin spells that are available for you to cast, choosing from the paladin spell list. Your spellcasting ability will influence the maximum number of spells you can prepare. Each spell must either be a cantrip or of a level for which you have spell slots, as shown on the Paladin table.
 
-`Max. prepared spells = (your paladin level + your Charisma modifier) ÷ 2`
+`Max. prepared spells = (your paladin level + your proficiency bonus + your Charisma modifier) ÷ 2`
 
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of paladin spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
 
 ### Spellcasting Focus
 You can use a holy symbol (found in chapter 5) as a spellcasting focus for your paladin spells.
+
+### Oath Spells
+Each sacred oath has a list of associated spells. You gain access to these spells at the levels specified in the oath description. Once you gain access to an oath spell, you always have it prepared. Oath spells don't count against the number of spells you can prepare each day.
+
+If you gain an oath spell that doesn't appear on the paladin spell list, the spell is nonetheless a paladin spell for you.

@@ -1,4 +1,20 @@
-## Cleansing Touch
-Beginning at 14th level, you can use your action to end one spell on yourself or on one willing creature that you touch.
+### Lay on Hands: Cleansing Touch
+Starting at 11th level, you can end magical effects on other creatures. When you use your Lay on Hands, you can expend 25 hit points from your pool of healing to end one spell or lift one curse affecting it. You can end multiple spells and lift multiple curses with a single use of Lay on Hands, expending hit points seperately for each one.
 
-You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain expended uses when you finish a long rest.
+<!--
+
+-<< CHANGES >>-
+- changed cleansing touch to an extention of lay on hands
+- now learned at level 11
+- removed dependency on charisma
+- added verbiage on curses
+
+-<< TODO >>-
+- lifting curses might be too powerful
+
+-<< COMMENTARY >>-
+- paladin can prepare lift curse at level 10
+- with such limited spell slots, paladin benefits a lot from this ability
+- gives paladin one less resource to keep track of (good!)
+
+-->
