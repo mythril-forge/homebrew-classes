@@ -10,7 +10,7 @@ You gain a +1 bonus to attack and s you make with ranged weapons.
 While you are wearing armor, you gain a +1 bonus to AC.
 
 ### Dueling
-When you are wielding a single medium-sized or smaller melee weapon, your critical hits with that weapon do thrice the damage dice and modifiers instead of twice.
+When you are wielding a single *medium*-sized or smaller melee weapon, your critical hits with that weapon do thrice the damage dice and modifiers instead of twice.
 The weapon must not have the heavy or two-handed property for you to gain this benefit.
 
 ### Great Weapon Fighting

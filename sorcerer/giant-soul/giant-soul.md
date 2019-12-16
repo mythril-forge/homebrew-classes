@@ -32,7 +32,7 @@ Based on your heritage, you gain one of the following metamagic options.
 
 ***Cost: 1 point***
 
-When you cast a spell that cannot deal direct damage, you can spend 1 sorcery point to make all sensory aspects of the spell invisible, innaudible, and otherwise unnoticeable.
+When you cast a spell that cannot deal direct damage, you can spend 1 sorcery point to make all sensory aspects of the spell **invisible**, innaudible, and otherwise unnoticeable.
 Divination magic or a similar effect will still detect the spell.
 
 You can use Cloudborn Spell even if you have already used a different Metamagic option during the casting of the spell.
@@ -60,15 +60,15 @@ You gain a number of temporary hit points equal to your Charisma Modifier.
 
 When you roll bludgeoning or thunder damage for a spell, you can spend 1 sorcery point to force opponents aside.
 Each creature damaged by this spell must make a Strength Saving Throw against your Spellcasting Save DC.
-On a failed save, they are pushed back 10 feet away from you and knocked prone.
+On a failed save, they are pushed back 10 feet away from you and knocked **prone**.
 
 ### Stoneborn Spell
 ***Prerequisite: Stone Giant Soul***
 
 ***Cost: 1 point***
 
-When you cast a spell, you can spend 1 sorcery point to become petrified.
-While you are petrified, you gain a bonus to AC equal to your Charisma Modifier, and gain tremorsense out to 10 feet.
+When you cast a spell, you can spend 1 sorcery point to become **petrified**.
+While you are **petrified**, you gain a bonus to AC equal to your Charisma Modifier, and gain tremorsense out to 10 feet.
 Throughout this duration, you are able to use an action to break out of this effect early.
 
 ### Stormborn Spell
@@ -79,14 +79,14 @@ Throughout this duration, you are able to use an action to break out of this eff
 When you roll lightning damage for a spell, you can spend 1 sorcery point to attempt to stun an opponent.
 When you do so, you can choose one affected creature to try to stun.
 That creature must make a Constitution Saving Throw against your Spellcasting Save DC.
-On a failure, that creature is stunned until the start of your next turn.
+On a failure, that creature is **stunned** until the start of your next turn.
 
 ## Soul of Lost Ostoria
 Starting at 6th level, you gain the ability to channel the arcane energies from your ancestral blood into your physical form.
-As an action, you can increase your size by one category—from Medium to Large, for example.
+As an action, you can increase your size by one category—from *medium* to *large*, for example.
 
 This increase lasts for 10 minutes.
-It ends early if you die or are incapacitated.
+It ends early if you die or are **incapacitated**.
 Until it ends, you enjoy the effects of the *Enlarge* spell.
 
 You can use this feature a number of times equal to your Charisma Modifier (a minimum of once).
@@ -174,4 +174,4 @@ The creature gains the following effects:
 - The target gain advantage on all Strength Ability Checks and Saving Throws
 - The target can use hit dice as if a short rest has been completed
 
-If there isn't enough room for the target to double its size, it either shatters the environment around it, breaks itself, or becomes restrained.
+If there isn't enough room for the target to double its size, it either shatters the environment around it, breaks itself, or becomes **restrained**.

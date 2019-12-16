@@ -28,7 +28,7 @@ Also while raging, You have advantage on Constitution Saving Throws, and you can
 The spirit of the bear makes you tough enough to stand up to any punishment.
 
 ### Eagle
-While raging, you can take a bonus action to use the dash action.
+While raging, you can take a bonus action to use the *dash* action.
 
 You also have advantage on opportunity attacks, and other creatures have disadvantage on opportunity attacks made against you.
 
@@ -117,11 +117,11 @@ This benefit works only in short bursts; you fall if you end your turn in the ai
 Even outside of your rage, any class feature that explicitly restricts its use to melee weapons can now be used with ranged and thrown weapons.
 
 ### Elk
-You can take a bonus action to use the dodge action while you're raging.
+You can take a bonus action to use the *dodge* action while you're raging.
 
 If you are targeted by an attack in your rage, then you can use your reaction to make a retaliatory maneuver.
 
-Your maneuver first lets you use the dodge action.
+Your maneuver first lets you use the *dodge* action.
 Next, after the attack is resolved, you can attempt to grapple or shove your aggressor if they are within 5 feet of you.
 
 ### Tiger
@@ -138,6 +138,6 @@ When raging, you have advantage on attempts made to grapple or shove creatures.
 
 If you make a Melee Weapon Attack against a creature and land a critical hit, you can take a bonus action to make it a coup de grâce before rolling damage.
 
-After dealing damage, your coup de grâce knocks your target prone, without contest.
+After dealing damage, your coup de grâce knocks your target **prone**, without contest.
 Next, all creatures within range can use their reaction to make an opportunity attack on the target, as if it had fled from their reach.
 When a creature makes an opportunity attack in this way, they add your rage damage to their .

@@ -4,7 +4,7 @@ From this point onwards:
 - Swimming doesn't cost you extra movement.
 - Climbing doesn't cost you extra movement.
 - You can now lift and carry 100lbs more than you normally could.
-- When you are prone, standing up does not use any of your movement.
+- When you are **prone**, standing up does not use any of your movement.
 - You can add 10 feet to your long jump distance and 5 feet to your high jump distance.
 
 <!--
