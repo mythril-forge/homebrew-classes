@@ -4,14 +4,14 @@ Choose one of the following options.
 You can't take the same Fighting Style option more than once, even if you later get to choose again.
 
 ### Archery
-You gain a `+2` nonmagical bonus on Ranged Weapon Attacks.
+You gain a `+2` nonmagical bonus to Ranged Weapon Attack Rolls.
 
 ### Defense
 While you are wearing armor, you gain a `+1` bonus to AC.
 
 ### Dueling
 When you are wielding a melee weapon in one hand and no other weapons, the critical hit multiplier for your Melee Weapon Attacks is increased by one.
-The weapon cannot have the heavy property for you to gain this benefit.
+The weapon cannot have the heavy or two-handed property for you to gain this benefit.
 
 ### Great Weapon Fighting
 When you roll damage for an attack you make with a melee weapon that you are wielding with two hands, you can choose to reroll the damage dice, but you must use the new rolls.
