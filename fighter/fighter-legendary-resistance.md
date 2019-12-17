@@ -1,8 +1,9 @@
-## Legendary Resistance
+## Unrelenting Grit 
 Beginning at 9th level, if you fail a Saving Throw, you can choose to succeed instead.
+If an attack hits you, you can choose to avoid the attack instead, causing it to miss.
 You can't use this feature again until you finish a short or long rest.
 
-You can use this feature twice between short rests starting at 13th level.
+You can use this feature twice between rests starting at 13th level.
 
 <!--
 
