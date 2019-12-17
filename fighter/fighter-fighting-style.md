@@ -18,7 +18,8 @@ When you roll damage for an attack you make with a melee weapon that you are wie
 The weapon must have the two-handed or versatile property for you to gain this benefit.
 
 ### Two-Weapon Fighting
-When you are holding a melee weapon in both of your hands, you can use your reaction to make an additional Melee Weapon Attack with one of those weapons whenever you are hit with a Melee Attack.
+You have advantage on Weapon Attacks made with light weapons while you are holding a weapon in each hand.
+Neither weapon can have the heavy or two-handed property for you to gain this benefit.
 
 <!--
 
