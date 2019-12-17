@@ -1,6 +1,6 @@
 | Level | Features                                          |
 |-------|---------------------------------------------------|
-| 1     | Fighting Style, Armor Training                    |
+| 1     | Fighting Style, Armor Practice                    |
 | 2     | Action Surge (1/rest), Tactician                  |
 | 3     | Martial Archetype, Second Wind (1/rest)           |
 | 4     | Ability Score Improvement                         |
@@ -8,11 +8,11 @@
 | 6     | Ability Score Improvement                         |
 | 7     | Martial Archetype Feature                         |
 | 8     | Ability Score Improvement                         |
-| 9     | Indomitable (1/rest)                              |
+| 9     | Unrelenting Spirit (1/rest)                       |
 | 10    | Remarkable Athlete                                |
 | 11    | Martial Archetype Feature, Extra Attack (2 extra) |
 | 12    | Ability Score Improvement                         |
-| 13    | Indomitable (2/rest)                              |
+| 13    | Unrelenting Spirit (2/rest)                       |
 | 14    | Ability Score Improvement                         |
 | 15    | Martial Archetype Feature                         |
 | 16    | Ability Score Improvement                         |

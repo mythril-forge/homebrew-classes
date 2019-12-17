@@ -1,5 +1,5 @@
 ## Extra Attack
-Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the *attack* action on your turn.
 
 The number of attacks increases to three when you reach 11th level in this class and to four when you reach 17th level in this class.
 
