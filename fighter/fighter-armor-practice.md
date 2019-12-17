@@ -8,7 +8,7 @@ You gain a `+3` bonus to AC and Dexterity Saving Throws while you are benefittin
 
 ### Rebuttal
 If you would have been hit by an attack while wearing light armor, you can use a reaction to parry the attack.
-When you do so, the attacker rerolls their attack against you, and they must use the new roll.
+When you do so, the aggressor rerolls their Attack Roll against you, and they must use the new roll.
 
 ### Balance
 You gain a `+1` bonus to AC while you are wearing medium armor.
