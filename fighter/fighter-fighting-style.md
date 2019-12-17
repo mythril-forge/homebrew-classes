@@ -18,7 +18,7 @@ When you roll damage for an attack you make with a melee weapon that you are wie
 The weapon must have the two-handed or versatile property for you to gain this benefit.
 
 ### Two-Weapon Fighting
-You have advantage on Weapon Attacks made with light weapons while you are holding a weapon in each hand.
+You gain a `+2` nonmagical bonus to damage dealt by light weapons while you are holding a weapon in each hand.
 Neither weapon can have the heavy or two-handed property for you to gain this benefit.
 
 <!--
