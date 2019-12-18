@@ -1,5 +1,5 @@
 ## Sorcerous Origin
-Choose a sorcerous origin, which describes the source of your innate magical power, from the list of available origins
+Choose a sorcerous origin, which describes the source of your innate magical power, from the list of available origins.
 
 Your choice grants you features when you choose it at 1st level and again at 2nd, 6th, 10th, 14th, and 18th level.
 
