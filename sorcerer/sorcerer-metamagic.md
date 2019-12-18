@@ -1,4 +1,4 @@
-## Metamagic Initiate
+## Metamagic
 At 2nd level, you gain the ability to twist your spells to suit your needs.
 You can expend your sorcery points to use your Metamagic options.
 
