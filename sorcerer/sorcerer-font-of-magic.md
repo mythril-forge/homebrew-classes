@@ -23,7 +23,7 @@ For each spell slot spent in this way, you gain a number of sorcery points equal
 
 Superfluous sorcery points vanish at the end of a short or long rest.
 
-*** Sorcery Points ***
+#### Sorcery Points
 
 | Spell Slot Level | Sorcery Point Conversion Rate |
 |------------------|-------------------------------|
