@@ -39,11 +39,6 @@ Preparing a new list of wizard spells requires time spent studying your spellboo
 ### Ritual Casting
 You can cast a wizard spell as a ritual if that spell has the ritual tag and you have the spell prepared.
 
-
-You can cast a wizard spell as a ritual if that spell has the ritual tag and you have the spell in your spellbook.
-You don't need to have the spell prepared.
-
-
 ### Spellcasting Focus
 You can use an arcane focus (found in chapter 5) as a spellcasting focus for your wizard spells.
 
