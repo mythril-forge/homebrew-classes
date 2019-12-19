@@ -13,7 +13,7 @@ You can use your sorcery points to recover spell slots, or sacrifice spell slots
 #### Converting Sorcery Points
 You can transform unexpended sorcery points into spell slots as a bonus action on your turn.
 For each spell slot that you want to make, spend a number of sorcery points equal to its sorcery point conversion rate, as shown in the Sorcery Points Table.
-You can use this ability to create spell slots no higher in level than 5th.
+You can use this feature to create spell slots no higher in level than 5th.
 
 Superfluous spell slots vanish at the end of a short or long rest.
 
@@ -23,7 +23,7 @@ For each spell slot spent in this way, you gain a number of sorcery points equal
 
 Superfluous sorcery points vanish at the end of a short or long rest.
 
-*** Sorcery Points ***
+#### Sorcery Points
 
 | Spell Slot Level | Sorcery Point Conversion Rate |
 |------------------|-------------------------------|

@@ -28,9 +28,8 @@ At 2nd level, you discover an ability to morph your magic.
 Based on your heritage, you gain one of the following metamagic options.
 
 ### Cloudborn Spell
-***Prerequisite: Cloud Giant Soul***
-
-***Cost: 1 point***
+- **Prerequisite:** Cloud Giant Soul
+- **Cost:** 1 point
 
 When you cast a spell that cannot deal direct damage, you can spend 1 sorcery point to make all sensory aspects of the spell **invisible**, innaudible, and otherwise unnoticeable.
 Divination magic or a similar effect will still detect the spell.
@@ -38,43 +37,38 @@ Divination magic or a similar effect will still detect the spell.
 You can use Cloudborn Spell even if you have already used a different Metamagic option during the casting of the spell.
 
 ### Flameborn Spell
-***Prerequisite: Fire Giant Soul***
-
-***Cost: 1 point***
+- **Prerequisite:** Fire Giant Soul
+- **Cost:** 1 point
 
 When you roll fire damage for a spell, you can spend 1 sorcery point to intensify the flames.
 When you roll damage for the spell, you deal extra fire damage equal to your Charisma Modifier.
 
 ### Frostborn Spell
-***Prerequisite: Frost Giant Soul***
-
-***Cost: 1 point***
+- **Prerequisite:** Frost Giant Soul
+- **Cost:** 1 point
 
 When you cast a spell that would deal cold damage, you can spend 1 sorcery point to encapsulate yourself in magical ice crystals.
 You gain a number of temporary hit points equal to your Charisma Modifier.
 
 ### Earthborn Spell
-***Prerequisite: Hill Giant Soul***
-
-***Cost: 1 point***
+- **Prerequisite:** Hill Giant Soul
+- **Cost:** 1 point
 
 When you roll bludgeoning or thunder damage for a spell, you can spend 1 sorcery point to force opponents aside.
 Each creature damaged by this spell must make a Strength Saving Throw against your Spellcasting Save DC.
 On a failed save, they are pushed back 10 feet away from you and knocked **prone**.
 
 ### Stoneborn Spell
-***Prerequisite: Stone Giant Soul***
-
-***Cost: 1 point***
+- **Prerequisite:** Stone Giant Soul
+- **Cost:** 1 point
 
 When you cast a spell, you can spend 1 sorcery point to become **petrified**.
 While you are **petrified**, you gain a bonus to AC equal to your Charisma Modifier, and gain tremorsense out to 10 feet.
 Throughout this duration, you are able to use an action to break out of this effect early.
 
 ### Stormborn Spell
-***Prerequisite: Storm Giant Soul***
-
-***Cost: 1 point***
+- **Prerequisite:** Storm Giant Soul
+- **Cost:** 1 point
 
 When you roll lightning damage for a spell, you can spend 1 sorcery point to attempt to stun an opponent.
 When you do so, you can choose one affected creature to try to stun.
