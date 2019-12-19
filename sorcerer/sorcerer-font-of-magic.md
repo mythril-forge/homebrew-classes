@@ -7,6 +7,9 @@ You regain all spent sorcery points when you finish a long rest.
 
 You learn several different ways to use your sorcery points as you reach higher levels.
 
+### Universal Energy
+If you have the Arcane Recovery or Ki Channeler feature, you can use sorcery points with those features as if they were arcana points or ki points, respectively.
+
 ### Flexible Casting
 You can use your sorcery points to recover spell slots, or sacrifice spell slots to gain additional sorcery points.
 
