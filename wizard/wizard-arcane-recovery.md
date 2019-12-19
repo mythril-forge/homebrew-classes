@@ -36,10 +36,9 @@ Superfluous spell slots vanish at the end of a short or long rest.
 
 -<< COMMENTARY >>-
 - compared to the original ability:
--> this is more powerful, but online way late.
--> you can still generate 10 first-level spells.
+-> this is more powerful, more versatile.
+-> you can still generate 1 first-level spell at 2nd level.
+-> you can still generate 10 first-level spells by 20th level.
 -> you can, however, generate more high-level spells.
--> instead of creating 3 thirds, you can make 4 thirds.
--> you also have extra leftover when you make more fifths.
 
 -->
