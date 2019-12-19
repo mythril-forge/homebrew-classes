@@ -1,5 +1,5 @@
 ## Arcane Tradition
-When you reach 2nd level, you choose an arcane tradition, shaping your practice of magic through one of eight schools: Abjuration, Conjuration, Divination, Enchantment, Evocation, Illusion, Necromancy, or Transmutation.
+When you reach 2nd level, you choose an arcane tradition, shaping your practice of magic through one of the many schools of teaching.
 
 Your choice grants you features at 2nd level and again at 6th, 10th, 14th, and 18th level.
 
