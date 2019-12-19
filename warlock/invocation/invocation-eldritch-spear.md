@@ -1,4 +1,4 @@
 ### Eldritch Spear
-**Prerequisite:** eldritch blast cantrip
+**Prerequisite:** *eldritch blast* cantrip
 
-When you cast eldritch blast, its range is 300 feet.
+When you cast *eldritch blast*, its range is 300 feet.
