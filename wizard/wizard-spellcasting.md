@@ -31,18 +31,13 @@ You prepare the list of wizard spells that are available for you to cast, choosi
 Your spellcasting ability will influence the maximum number of spells you can prepare.
 Each spell must either be a cantrip or of a level for which you have spell slots, as shown on the Wizard table.
 
-`Max. prepared spells = your wizard level + your Proficiency Bonus + your Intelligence Modifier × 2`
+`Max. prepared spells = your wizard level + your Proficiency Bonus + your Intelligence Modifier`
 
 You can change your list of prepared spells when you finish a long rest.
 Preparing a new list of wizard spells requires time spent studying your spellbook and memorizing the incantations and gestures you must make to cast the spell: at least 1 minute per spell level for each spell on your list.
 
 ### Ritual Casting
 You can cast a wizard spell as a ritual if that spell has the ritual tag and you have the spell prepared.
-
-
-You can cast a wizard spell as a ritual if that spell has the ritual tag and you have the spell in your spellbook.
-You don't need to have the spell prepared.
-
 
 ### Spellcasting Focus
 You can use an arcane focus (found in chapter 5) as a spellcasting focus for your wizard spells.
@@ -57,8 +52,8 @@ You can use an arcane focus (found in chapter 5) as a spellcasting focus for you
 >
 > Copying that spell into your spellbook involves reproducing the basic form of the spell, then deciphering the unique system of notation used by the wizard who wrote it.
 > You must practice the spell until you understand the sounds or gestures required, then transcribe it into your spellbook using your own notation.
-> <!-- price = (1 + spell level) * 35sp || time = (1 + spell level) * 2 hours -->
-> For each level of the spell, the process takes 2 hours and costs 35 sp.
+> The process takes 1 hour and costs 15 sp.
+> For each level of the spell, the process takes an additional 2 hours and costs an additional 35 sp.
 > The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it.
 > Once you have spent this time and money, you can prepare the spell just like your other spells.
 >

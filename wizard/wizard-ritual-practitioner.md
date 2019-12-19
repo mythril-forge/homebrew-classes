@@ -1,7 +1,7 @@
-## Ritualist
+## Ritual Practitioner
 By 2nd level, you have studied the arts of magic extensively, and have become adept at following spell recipes without having to memorize them.
 You can cast a wizard spell as a ritual if that spell has the ritual tag and you have the spell in your spellbook.
-You no longer need to have the spell prepared.
+You don't need to have the spell prepared.
 
 <!--
 
