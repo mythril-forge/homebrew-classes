@@ -2,9 +2,9 @@
 |-------|------------------------------------------------------------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
 | 1     | Spellcasting, Divine Domain                                | 1       | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 2     | Divine Domain feature, Channel Divinity (1/rest)           | 2       | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| 3     | &mdash;                                                    | 2       | 1       | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 3     | &mdash;                                                    | 3       | 1       | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 4     | Ability Score Improvement                                  | 3       | 2       | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| 5     | Destroy Undead (CR ½)                                      | 3       | 2       | 1       | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 5     | Destroy Undead (CR ½)                                      | 3       | 3       | 1       | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 6     | Divine Domain feature, Channel Divinity (2/rest)           | 4       | 3       | 1       | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 7     | &mdash;                                                    | 4       | 3       | 2       | 1       | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 8     | Ability Score Improvement, Destroy Undead (CR 1)           | 4       | 4       | 2       | 1       | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |

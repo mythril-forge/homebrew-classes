@@ -2,9 +2,9 @@
 |-------|-----------------------------------------------------|---------------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
 | 1     | Spellcasting, Arcane Recovery                       | 1             | 1       | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 2     | Arcane Tradition, Ritual Practitioner               | 2             | 2       | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| 3     | &mdash;                                             | 3             | 2       | 1       | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 3     | &mdash;                                             | 3             | 3       | 1       | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 4     | Ability Score Improvement                           | 4             | 3       | 2       | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| 5     | &mdash;                                             | 5             | 3       | 2       | 1       | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 5     | &mdash;                                             | 5             | 3       | 3       | 1       | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 6     | Ability Score Improvement, Arcane Tradition Feature | 6             | 4       | 3       | 1       | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 7     | &mdash;                                             | 7             | 4       | 3       | 2       | 1       | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 8     | Ability Score Improvement, Student of Magic         | 8             | 4       | 4       | 2       | 1       | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |

@@ -2,9 +2,9 @@
 |-------|--------------------------------------------------|-------------------|----------------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
 | 1     | Spellcasting, Sorcerous Origin, Font of Magic    | &mdash;           | 2              | 1       | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 2     | Sorcerous Origin Feature, Metamagic              | 2                 | 3              | 2       | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| 3     | &mdash;                                          | 3                 | 5              | 2       | 1       | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 3     | &mdash;                                          | 3                 | 5              | 3       | 1       | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 4     | Ability Score Improvement                        | 3                 | 6              | 3       | 2       | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| 5     | &mdash;                                          | 4                 | 8              | 3       | 2       | 1       | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 5     | &mdash;                                          | 4                 | 8              | 3       | 3       | 1       | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 6     | Sorcerous Origin Feature                         | 4                 | 9              | 4       | 3       | 1       | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 7     | &mdash;                                          | 5                 | 11             | 4       | 3       | 2       | 1       | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 8     | Ability Score Improvement                        | 5                 | 12             | 4       | 4       | 2       | 1       | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
