@@ -1,2 +1,2 @@
 ### Devil's Sight
-You can see normally in both magical and nonmagical darkness.
+You have darkvision, and you can see normally in both magical and nonmagical darkness.
