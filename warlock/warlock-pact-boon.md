@@ -7,7 +7,7 @@ Choose two simple or martial weapons of your choice.
 You gain proficiency with these weapons.
 
 When you gain this feature, your patron loans you the service of a magical weapon.
-This weapon usually takes the form of any +1 sword of your choice.
+This weapon usually takes the form of any `+1` sword of your choice.
 The weapon is not yours to keep; your patron can recall it at any time.
 
 You can transform one magic weapon into your pact weapon by performing a special ritual while you hold the weapon.
@@ -27,10 +27,14 @@ The weapon appears at your feet if it is in the extradimensional space when the 
 ### Pact of the Chain
 You learn the find familiar spell.
 The spell doesn't count against your number of spells known.
-Creatures summoned by your find familiar spell can make attacks on its turn.
 
 When you gain this feature, your patron loans you the service of a familiar companion.
-This familiar usually takes on one of the following special forms: imp, pseudodragon, quasit, or sprite.
+This familiar usually takes on one of the following special forms:
+- Imp
+- Pseudodragon
+- Quasit
+- Sprite
+
 Consult your DM for other potential options that could be available.
 
 If your special familiar dies, you can perform a 1-hour ceremony to receive a replacement from your patron.
