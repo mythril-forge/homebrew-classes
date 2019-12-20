@@ -1,5 +1,5 @@
 ### Empowered Spell
-**Cost:** 2 points
+- **Cost:** 2 points
 
 When you roll damage for a spell, you can spend 2 sorcery points to reroll any number of the damage dice, but you must use the new rolls.
 

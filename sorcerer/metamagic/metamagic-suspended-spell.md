@@ -1,5 +1,5 @@
 ### Suspended Spell
-**Cost:** 5 points
+- **Cost:** 5 points
 
 When you cast a spell that has a range that is greater than self, you can spend 5 sorcery points to suspend the spell midair.
 The spell becomes trapped in an orb of energy, which requires your concentration to maintain &mdash; as if you were casting a spell.

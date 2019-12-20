@@ -1,5 +1,5 @@
 ### Heightened Spell
-**Cost:** 3 points / creature
+- **Cost:** 3 points / creature
 
 When you cast a spell that forces other creatures to make a Saving Throw to resist its effects, you can intensify the spell's full force on some of those creatures.
 

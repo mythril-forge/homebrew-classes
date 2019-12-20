@@ -1,5 +1,5 @@
 ### Twinned Spell
-**Cost:** variable
+- **Cost:** variable
 
 When you cast a spell, you can spend a number of sorcery points equal to the spell's conversion rate cast the spell a second time simultaneously.
 

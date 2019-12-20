@@ -1,5 +1,5 @@
 ### Careful Spell
-**Cost:** 1 point / creature
+- **Cost:** 1 point / creature
 
 When you cast a spell that forces other creatures to make a Saving Throw, you can protect some of those creatures from the spell's full force.
 

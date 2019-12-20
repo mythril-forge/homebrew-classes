@@ -1,5 +1,5 @@
 ### Elemental Spell
-**Cost:** variable
+- **Cost:** variable
 
 When you cast a spell that deals acid, cold, fire, force, lightning, or thunder damage, you can spend a number of sorcery points equal to the spell's conversion rate to change its damage type to another one of those listed.
 
