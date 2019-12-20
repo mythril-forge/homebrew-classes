@@ -11,14 +11,14 @@ Because the Raven Queen is known to have forged the first of these weapons, many
 The Hexblade lets you choose from an expanded list of spells when you learn a warlock spell.
 The following spells are added to the warlock spell list for you.
 
-#### Hexblade Expanded Spell List
-| Spell Level | Spells                               |
-|-------------|--------------------------------------|
-| 1st         | shield, wrathful smite               |
-| 2nd         | blur, branding smite                 |
-| 3rd         | blink, elemental weapon              |
-| 4th         | phantasmal killer, staggering smite  |
-| 5th         | banishing smite, cone of cold        |
+#### Hexblade Mystic Arcanum
+| Warlock Level | Spells                                                 |
+|---------------|--------------------------------------------------------|
+| 1st           | blade ward, green-flame strike, shield, zephyr strike  |
+| 3rd           | blur, magic weapon                                     |
+| 5th           | counterspell, blinding smite                           |
+| 7th           | freedom of movement, elemental barrier (\*fire shield) |
+| 9th           | far step, steel wind strike                            |
 
 ## Hexblade's Curse
 Starting at 1st level, you gain the ability to place a baleful curse on someone.
