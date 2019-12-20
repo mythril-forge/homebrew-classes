@@ -1,7 +1,7 @@
 ### Witch Sight
-- **Prerequisite:** 17th level
+- **Prerequisite:** 13th level
 
-You have truesight.
+You can use your action to gain truesight until the end of your next turn.
 
 <!--
 
