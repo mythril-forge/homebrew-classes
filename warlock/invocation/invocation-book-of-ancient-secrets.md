@@ -1,5 +1,5 @@
 ### Book of Ancient Secrets
-**Prerequisite:** Pact of the Tome feature
+- **Prerequisite:** Pact of the Tome feature
 
 You can now inscribe magical rituals in your Book of Shadows.
 Choose two 1st-level spells that have the ritual tag from any class's spell list (the two needn't be from the same spell list).
