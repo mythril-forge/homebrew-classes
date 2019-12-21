@@ -29,3 +29,9 @@ The warlock spells that you know are always considered prepared to cast.
 
 ### Spellcasting Focus
 You can use an arcane focus (found in chapter 5) as a spellcasting focus for your warlock spells.
+
+### Patron Spells
+When you choose an otherworldy patron, you gain a list of spells &mdash; called patron spells &mdash; that you gain at the warlock levels noted in the patron description.
+Once you gain a patron spell, you know it, and it doesn't count against the number of spells that you can know.
+
+If you have a patron spell that doesn't appear on the warlock spell list, the spell is nonetheless a warlock spell for you.
