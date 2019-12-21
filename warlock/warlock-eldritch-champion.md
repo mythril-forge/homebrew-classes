@@ -6,3 +6,4 @@ Sentinals and other dwellers of your patron's home will protect you during your 
 You also know of a teleportation sigil near or in the home so that you may access it via *plane shift* or similar magic.
 
 Finally, if you give your patron atleast one week notice, they will clear up their schedule to personally meet with you in their home.
+During this meeting, you can plead for temporary boons and blessings (at the DM's discretion).
