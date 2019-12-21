@@ -5,18 +5,18 @@
 | 3     | &mdash;                                           | 2                  | 4            | 1       | 1       | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 4     | Ability Score Improvement                         | 2                  | 6            | 1       | 1       | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 5     | &mdash;                                           | 3                  | 7            | 1       | 1       | 1       | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| 6     | Otherworldly Patron Feature                       | 3                  | 9            | 1       | 1       | 1       | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| 7     | &mdash;                                           | 4                  | 10           | 1       | 1       | 1       | 1       | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| 8     | Ability Score Improvement                         | 4                  | 12           | 1       | 1       | 1       | 1       | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| 9     | &mdash;                                           | 4                  | 13           | 1       | 1       | 1       | 1       | 1       | &mdash; | &mdash; | &mdash; | &mdash; |
-| 10    | Otherworldly Patron Feature                       | 5                  | 15           | 1       | 1       | 1       | 1       | 1       | &mdash; | &mdash; | &mdash; | &mdash; |
-| 11    | &mdash;                                           | 5                  | 16           | 1       | 1       | 1       | 1       | 1       | 1       | &mdash; | &mdash; | &mdash; |
-| 12    | Ability Score Improvement                         | 5                  | 16           | 1       | 1       | 1       | 1       | 1       | 1       | &mdash; | &mdash; | &mdash; |
-| 13    | &mdash;                                           | 6                  | 17           | 1       | 1       | 1       | 1       | 1       | 1       | 1       | &mdash; | &mdash; |
-| 14    | Otherworldly Patron Feature                       | 6                  | 17           | 1       | 1       | 1       | 1       | 1       | 1       | 1       | &mdash; | &mdash; |
-| 15    | &mdash;                                           | 6                  | 18           | 1       | 1       | 1       | 1       | 1       | 1       | 1       | 1       | &mdash; |
-| 16    | Ability Score Improvement                         | 6                  | 18           | 1       | 1       | 1       | 1       | 1       | 1       | 1       | 1       | &mdash; |
-| 17    | &mdash;                                           | 7                  | 19           | 1       | 1       | 1       | 1       | 1       | 1       | 1       | 1       | 1       |
-| 18    | Otherworldly Patron Feature                       | 7                  | 19           | 1       | 1       | 1       | 1       | 1       | 1       | 1       | 1       | 1       |
-| 19    | Improved Pact Magic                               | 7                  | 20           | 1       | 1       | 1       | 1       | 1       | 1       | 1       | 1       | 1       |
-| 20    | Ability Score Improvement, Eldritch Master        | 7                  | 20           | 1       | 1       | 1       | 1       | 1       | 1       | 1       | 1       | 1       |
+| 6     | Otherworldly Patron Feature                       | 3                  | 7            | 1       | 1       | 1       | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 7     | &mdash;                                           | 4                  | 8            | 1       | 1       | 1       | 1       | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 8     | Ability Score Improvement                         | 4                  | 8            | 1       | 1       | 1       | 1       | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 9     | &mdash;                                           | 4                  | 9            | 1       | 1       | 1       | 1       | 1       | &mdash; | &mdash; | &mdash; | &mdash; |
+| 10    | Otherworldly Patron Feature                       | 5                  | 9            | 1       | 1       | 1       | 1       | 1       | &mdash; | &mdash; | &mdash; | &mdash; |
+| 11    | &mdash;                                           | 5                  | 10           | 1       | 1       | 1       | 1       | 1       | 1       | &mdash; | &mdash; | &mdash; |
+| 12    | Ability Score Improvement                         | 5                  | 10           | 1       | 1       | 1       | 1       | 1       | 1       | &mdash; | &mdash; | &mdash; |
+| 13    | &mdash;                                           | 6                  | 11           | 1       | 1       | 1       | 1       | 1       | 1       | 1       | &mdash; | &mdash; |
+| 14    | Otherworldly Patron Feature                       | 6                  | 11           | 1       | 1       | 1       | 1       | 1       | 1       | 1       | &mdash; | &mdash; |
+| 15    | &mdash;                                           | 6                  | 12           | 1       | 1       | 1       | 1       | 1       | 1       | 1       | 1       | &mdash; |
+| 16    | Ability Score Improvement                         | 6                  | 12           | 1       | 1       | 1       | 1       | 1       | 1       | 1       | 1       | &mdash; |
+| 17    | &mdash;                                           | 7                  | 13           | 1       | 1       | 1       | 1       | 1       | 1       | 1       | 1       | 1       |
+| 18    | Otherworldly Patron Feature                       | 7                  | 13           | 1       | 1       | 1       | 1       | 1       | 1       | 1       | 1       | 1       |
+| 19    | Improved Pact Magic                               | 7                  | 14           | 1       | 1       | 1       | 1       | 1       | 1       | 1       | 1       | 1       |
+| 20    | Ability Score Improvement, Eldritch Master        | 7                  | 14           | 1       | 1       | 1       | 1       | 1       | 1       | 1       | 1       | 1       |
