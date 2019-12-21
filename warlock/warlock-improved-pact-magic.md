@@ -3,6 +3,8 @@ At 19th level, you can draw on your inner reserve of mystical power while entrea
 You can spend the duration of a short rest entreating your patron for aid. 
 When you do so, you regain all of your expended spell slots from your Pact Magic feature, including those of 6th level and higher.
 
+Once you use this feature, you can't use it again until you finish a long rest.
+
 <!--
 
 -<< CHANGES >>-
