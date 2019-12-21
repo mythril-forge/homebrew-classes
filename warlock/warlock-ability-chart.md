@@ -19,4 +19,4 @@
 | 17    | &mdash;                                           | 7                  | 13           | 1       | 1       | 1       | 1       | 1       | 1       | 1       | 1       | 1       |
 | 18    | Otherworldly Patron Feature                       | 7                  | 13           | 1       | 1       | 1       | 1       | 1       | 1       | 1       | 1       | 1       |
 | 19    | Improved Pact Magic                               | 7                  | 14           | 1       | 1       | 1       | 1       | 1       | 1       | 1       | 1       | 1       |
-| 20    | Ability Score Improvement, Eldritch Master        | 7                  | 14           | 1       | 1       | 1       | 1       | 1       | 1       | 1       | 1       | 1       |
+| 20    | Ability Score Improvement, Eldritch Champion      | 7                  | 14           | 1       | 1       | 1       | 1       | 1       | 1       | 1       | 1       | 1       |
