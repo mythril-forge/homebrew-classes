@@ -7,7 +7,7 @@
 | 5th   | &mdash;                                             | 5             | 3       | 3       | 1       | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 6th   | Ability Score Improvement, Arcane Tradition Feature | 6             | 4       | 3       | 1       | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 7th   | &mdash;                                             | 7             | 4       | 3       | 2       | 1       | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| 8th   | Ability Score Improvement, Magical Tutor            | 8             | 4       | 4       | 2       | 1       | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 8th   | Ability Score Improvement, Invent Cantrip           | 8             | 4       | 4       | 2       | 1       | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 9th   | &mdash;                                             | 9             | 4       | 4       | 2       | 2       | 1       | &mdash; | &mdash; | &mdash; | &mdash; |
 | 10th  | Arcane Tradition Feature, Spell Mastery             | 10            | 4       | 4       | 3       | 2       | 1       | &mdash; | &mdash; | &mdash; | &mdash; |
 | 11th  | &mdash;                                             | 11            | 4       | 4       | 3       | 2       | 2       | 1       | &mdash; | &mdash; | &mdash; |
