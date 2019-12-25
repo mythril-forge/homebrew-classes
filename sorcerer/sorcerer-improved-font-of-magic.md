@@ -1,5 +1,5 @@
 ## Improved Font of Magic
-Starting at 19th level, you can use your Font of Magic ability to convert sorcery points into spell slots of 6th level and higher.
+Starting at 20th level, you can use your Font of Magic ability to convert sorcery points into spell slots of 6th level and higher.
 
 <!--
 

@@ -27,10 +27,9 @@ For each spell slot spent in this way, you gain a number of sorcery points equal
 Superfluous sorcery points vanish at the end of a short or long rest.
 
 #### Sorcery Points
-
 | Spell Slot Level | Sorcery Point Conversion Rate |
 |------------------|-------------------------------|
-| Cantrip          | 0                             |
+| 0th (Cantrip)    | 0                             |
 | 1st              | 2                             |
 | 2nd              | 3                             |
 | 3rd              | 5                             |
@@ -40,6 +39,7 @@ Superfluous sorcery points vanish at the end of a short or long rest.
 | 7th              | 10                            |
 | 8th              | 11                            |
 | 9th              | 12                            |
+| 10th             | 14                            |
 
 <!--
 
