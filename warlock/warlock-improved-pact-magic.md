@@ -1,5 +1,5 @@
 ## Improved Pact Magic
-At 19th level, you can draw on your inner reserve of mystical power while entreating your patron to regain expended spell slots.
+At 20th level, you can draw on your inner reserve of mystical power while entreating your patron to regain expended spell slots.
 You can spend the duration of a short rest entreating your patron for aid. 
 When you do so, you regain all of your expended spell slots from your Pact Magic feature, including those of 6th level and higher.
 
