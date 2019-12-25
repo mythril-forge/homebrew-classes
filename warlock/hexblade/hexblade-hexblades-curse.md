@@ -1,12 +1,3 @@
-## Hexblade's Curse
-Starting at 1st level, you gain the ability to place a baleful curse on someone.
-As a bonus action, choose one creature you can see within 30 feet of you.
-The target is cursed for 1 minute.
-The curse ends early if the target dies, you die, or you are incapacitated.
-Until the curse ends, you gain the following benefits:
-- You gain a bonus to damage rolls against the cursed target.
-- The bonus equals your proficiency bonus.
-- Any attack roll you make against the cursed target is a critical hit on a roll of 19–20 on the `d20`.
-- If the cursed target dies, you regain hit points equal to `your Warlock Level + your Charisma Modifier` (minimum of 0 hit points).
-
-You can't use this feature again until you finish a short or long rest.
+### Hexblade's Curse
+You know the *hex* spell, and it doesn't count against the number of spells that you can know.
+You can cast this spell at its lowest level without expending a spell slot, although its duration is reduced to 5 minutes when you do so.
