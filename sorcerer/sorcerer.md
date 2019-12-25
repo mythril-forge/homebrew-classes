@@ -44,7 +44,7 @@ Whatever their goals, sorcerers are every bit as useful to an adventuring party 
 > *Practice and study are for amateurs.*
 > *True power is a birthright.*
 > 
-> *—Hennet, scion of Tiamat*
+> *&mdash; Hennet, scion of Tiamat*
 
 When it comes to drawing forth their abilities in times of need, sorcerers have it easy compared to other characters.
 Their power not only rests within them, but it likely takes some effort to keep it at bay.
@@ -65,10 +65,11 @@ The sections below offer suggestions on how to flesh out and personalize your pe
 Some sorcerers understand where their power came from, based on how their abilities manifested.
 Others can only speculate, since their powers came to them in a way that suggests no particular cause.
 
-Does your character know the source of your magical power? Does it tie back to some distant relative, a cosmic event, or blind chance? If your sorcerer doesn't know where their power arose from, your DM can use this table (or select an origin) and reveal it to you when the information plays a role in the campaign.
+Does your character know the source of your magical power?
+Does it tie back to some distant relative, a cosmic event, or blind chance?
+If your sorcerer doesn't know where their power arose from, your DM can use this table (or select an origin) and reveal it to you when the information plays a role in the campaign.
 
-###### Arcane Origins
-
+#### Arcane Origins
 | d6  | Origin                                                                                                                             |
 |:---:|:-----------------------------------------------------------------------------------------------------------------------------------|
 | 1   | Your power arises from your family's bloodline. You are related to some powerful creature, or you inherited a blessing or a curse. |
@@ -81,10 +82,10 @@ Does your character know the source of your magical power? Does it tie back to s
 ## Reaction
 When a new sorcerer enters the world, either at birth or later when one's power becomes evident, the consequences of that event depend greatly on how its witnesses react to what they have seen.
 
-When your sorcerer's powers appeared, how did the world around you respond? Were other people supportive, fearful, or somewhere in between?
+When your sorcerer's powers appeared, how did the world around you respond?
+Were other people supportive, fearful, or somewhere in between?
 
-###### Reactions
-
+#### Reactions
 | d6  | Reaction                                                                                                                         |
 |:---:|:---------------------------------------------------------------------------------------------------------------------------------|
 | 1   | Your powers are seen as a great blessing by those around you, and you are expected to use them in service to your community.     |
@@ -100,8 +101,7 @@ Even so, many sorcerers have a subtle but telling physical trait that sets them 
 
 If your sorcerer has a supernatural mark, it might be one that's easily concealed, or it could be a source of pride that you keep on constant display.
 
-###### Supernatural Marks
-
+#### Supernatural Marks
 | d6  | Mark                                                                        |
 |:---:|:----------------------------------------------------------------------------|
 | 1   | Your eyes are an unusual color, such as red.                                |
@@ -116,10 +116,10 @@ As the world well knows, some sorcerers are better than others at controlling th
 Sometimes a wild display of magic gone awry emanates from a sorcerer who casts a spell.
 But even when one's magic goes off as planned, the act of casting is often accompanied by a telltale sign that makes it clear where that magical energy came from.
 
-When your sorcerer character casts a spell, does the effort reveal itself in a sign of sorcery? Is this sign tied to your origin or some other aspect of who you are, or is it a seemingly random phenomenon?
+When your sorcerer character casts a spell, does the effort reveal itself in a sign of sorcery?
+Is this sign tied to your origin or some other aspect of who you are, or is it a seemingly random phenomenon?
 
-###### Signs of Sorcery
-
+#### Signs of Sorcery
 | d6  | Sign                                                                                                    |
 |:---:|:--------------------------------------------------------------------------------------------------------|
 | 1   | You deliver the verbal components of your spells in the booming voice of a titan.                       |
@@ -135,13 +135,20 @@ When your sorcerer character casts a spell, does the effort reveal itself in a s
 ## Creating a Sorcerer
 The most important question to consider when creating your sorcerer is the origin of your power.
 As a starting character, you’ll choose an origin that ties to a draconic bloodline or the influence of wild magic, but the exact source of your power is up to you to decide.
-Is it a family curse, passed down to you from distant ancestors? Or did some extraordinary event leave you blessed with inherent magic but perhaps scarred as well?
+Is it a family curse, passed down to you from distant ancestors?
+Or did some extraordinary event leave you blessed with inherent magic but perhaps scarred as well?
 
-How do you feel about the magical power coursing through you? Do you embrace it, try to master it, or revel in its unpredictable nature? Is it a blessing or a curse? Did you seek it out, or did it find you? Did you have the option to refuse it, and do you wish you had? What do you intend to do with it? Perhaps you feel like you’ve been given this power for some lofty purpose.
+How do you feel about the magical power coursing through you?
+Do you embrace it, try to master it, or revel in its unpredictable nature?
+Is it a blessing or a curse?
+Did you seek it out, or did it find you?
+Did you have the option to refuse it, and do you wish you had?
+What do you intend to do with it?
+Perhaps you feel like you’ve been given this power for some lofty purpose.
 Or you might decide that the power gives you the right to do what you want, to take what you want from those who lack such power.
 Perhaps your power links you to a powerful individual in the world—the fey creature that blessed you at birth, the dragon who put a drop of its blood into your veins, the lich who created you as an experiment, or the deity who chose you to carry this power.
 
-> ###### Quick Build
+> ### Quick Build
 > You can make a sorcerer quickly by following these suggestions.
 > First, Charisma should be your highest Ability Score, followed by Constitution.
 > Second, choose the hermit background.
