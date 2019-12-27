@@ -27,3 +27,7 @@ These have been removed from the warlock invocation list:
 - Dreadful Word
 - Sculptor of Flesh
 - Minions of Chaos
+
+## Invocations Added
+These warlock invocations are brand new:
+- Hexblade's Curse
