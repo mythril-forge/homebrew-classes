@@ -1,5 +1,5 @@
-## Mystic Arcanum: Hexblade
-- **Prerequisite:** Hexblade Patron, 7th level
+## Mystic Arcanum: Hexmonger
+- **Prerequisite:** Hexmonger Patron, 7th level
 
 You bargain with your patron for advanced magical abilities.
 You uncover special spells, as shown in the table.
