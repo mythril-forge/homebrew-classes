@@ -32,3 +32,4 @@ These have been removed from the warlock invocation list:
 These warlock invocations are brand new:
 - Hexmonger's Curse
 - Unerring Hex
+- Unnatural Prowess
