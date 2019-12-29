@@ -6,4 +6,4 @@ At each indicated warlock level, you add the listed spells to the spells you kno
 |---------------|----------------------------------------------------------|
 | 1th           | green-flame strike, precognition, shield, wrathful smite |
 | 3rd           | blur, branding smite                                     |
-| 5th           | blink, elemental weapon                                  |
+| 5th           | bestow curse, elemental weapon                           |
