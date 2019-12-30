@@ -30,6 +30,7 @@ These have been removed from the warlock invocation list:
 
 ## Invocations Added
 These warlock invocations are brand new:
-- Hexmonger's Curse
+- Cursebringer
+- Star-Sponsored Soldier
 - Unerring Hex
 - Unnatural Prowess
