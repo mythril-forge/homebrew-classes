@@ -45,8 +45,9 @@ These have also been removed, but are from Xanathar's Guide to Everything:
 
 ## Invocations Added
 These warlock invocations are brand new:
+- Boon of Blood
 - Cursebringer
+- Reaper's Mercy
 - Star-Sponsored Soldier
 - Unerring Hex
 - Unnatural Prowess
-- Reaper's Mercy
