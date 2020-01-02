@@ -18,10 +18,9 @@ These have been added to warlock spell list:
 	- polymorph
 	- hold monster
 	- conjure elemental
-
-Furthermore, there have been a few new spells molded after specific warlock invocations:
-- cloak of flies
-- tomb of levistus
+- Invocation Transfers:
+	- cloak of flies
+	- tomb of levistus
 
 ## Invocations Removed
 These have been removed from the warlock invocation list:
