@@ -8,5 +8,5 @@ With your Book of Shadows in hand, you can cast the chosen spells, and can cast 
 You can also cast any other warlock spell you know as a ritual if it has the ritual tag.
 
 On your adventures, you can add other ritual spells to your Book of Shadows.
-When you find such a spell, you can add it to the book if the spell's level is equal to or less than half your warlock level (rounded up) and if you can spare the time to transcribe the spell.
+When you find such a spell, you can add it to the book if the spell's level is equal to or less than half your Warlock Level (rounded up) and if you can spare the time to transcribe the spell.
 For each level of the spell, the transcription process takes 2 hours and costs 50 sp for the rare inks needed to inscribe it.

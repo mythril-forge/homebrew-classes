@@ -1,4 +1,4 @@
-# The Hexblade
+# The Hexmonger
 You have made your pact with a mysterious entity from the Shadowfell &mdash; a force that manifests in sentient magic weapons carved from the stuff of shadow.
 The mighty sword Blackrazor is the most notable of these weapons, which have been spread across the multiverse over the ages.
 The shadowy force behind these weapons can offer power to warlocks who form pacts with it.
