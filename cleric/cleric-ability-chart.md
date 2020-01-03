@@ -19,4 +19,4 @@
 | 17th  | Destroy Undead (CR 4)                                         | 4       | 4       | 3       | 3       | 3       | 2       | 1       | 1       | 1       | &mdash; |
 | 18th  | Divine Domain Feature, Channel Divinity (3/rest)              | 4       | 4       | 3       | 3       | 3       | 2       | 2       | 1       | 1       | &mdash; |
 | 19th  | &mdash;                                                       | 4       | 4       | 3       | 3       | 3       | 2       | 2       | 1       | 1       | 1       |
-| 20th  | Ability Score Improvement, Divine Intervention Improvement    | 4       | 4       | 3       | 3       | 3       | 2       | 2       | 2       | 1       | 1       |
+| 20th  | Ability Score Improvement, Improved Divine Intervention       | 4       | 4       | 3       | 3       | 3       | 2       | 2       | 2       | 1       | 1       |
