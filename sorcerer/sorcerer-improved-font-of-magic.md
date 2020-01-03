@@ -17,7 +17,7 @@ Finally, you can convert sorcery points into spell slots of any level, including
 - none
 
 -<< COMMENTARY >>-
-- it allows sorcerer to cast more than one level 9 spell a day
-- but it is easier to convert down than convert up, casting level 9 spells is expensive
+- a meta-themed rule of meta-mechanics for metamagic -- a feature befit only for a sorcerer
+- this is actually ridiculously
 
 -->
