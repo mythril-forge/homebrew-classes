@@ -34,7 +34,7 @@ Based on your heritage, you gain one of the following metamagic options.
 When you cast a spell that cannot deal direct damage, you can spend 1 sorcery point to make all sensory aspects of the spell **invisible**, innaudible, and otherwise unnoticeable.
 Divination magic or a similar effect will still detect the spell.
 
-You can use Cloudborn Spell even if you have already used a different Metamagic option during the casting of the spell.
+You can use Cloudborn Spell even if you have already used a different metamagic option during the casting of the spell.
 
 ### Flameborn Spell
 - **Prerequisite:** Fire Giant Soul

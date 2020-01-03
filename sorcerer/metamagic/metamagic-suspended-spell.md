@@ -9,4 +9,4 @@ If the spell's range is touch, it cannot move.
 
 When you activate the suspended orb, it breaks, and its stored spell immediately takes effect in its place, as if you cast the stored spell in that instant.
 
-If you lose concentration or if the orb is outside your field of view when your turn begins, the orb is activated.
+If you lose concentration or if the orb is outside your line of sight when your turn begins, the orb is activated.
