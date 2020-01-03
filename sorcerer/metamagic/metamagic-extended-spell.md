@@ -1,5 +1,5 @@
 ### Extended Spell
-- **Cost:** variable
+- **Cost:** 3 points
 
 When you cast a spell that has a duration greater than one round, you can spend a number of sorcery points equal to the spell's conversion rate to double its duration.
 If you do so, you also have advantage on any concentration checks made to maintain this spell.
