@@ -43,7 +43,7 @@ Whatever their goals, sorcerers are every bit as useful to an adventuring party 
 
 > *Practice and study are for amateurs.*
 > *True power is a birthright.*
-> 
+>
 > *&mdash; Hennet, scion of Tiamat*
 
 When it comes to drawing forth their abilities in times of need, sorcerers have it easy compared to other characters.
@@ -157,7 +157,7 @@ Perhaps your power links you to a powerful individual in the world—the fey cre
 ### Hit Points
 - **Hit Dice:** 1d6
 - **Hit Points at 1st Level:** 6 + your Constitution Modifier
-- **Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution Modifier per Sorcerer level after 1st
+- **Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution Modifier per Sorcerer Level after 1st
 
 ### Proficiencies
 You are proficient with the following items, in addition to any proficiencies provided by your race or background.

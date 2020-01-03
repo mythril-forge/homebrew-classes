@@ -7,13 +7,13 @@ Intelligence is your spellcasting ability for your wizard spells, since you lear
 You use your Intelligence whenever a spell refers to your spellcasting ability.
 In addition, you use your Intelligence Modifier when setting the Saving Throw DC for a wizard spell you cast and when making an Attack Roll with one.
 
-`Spell save DC = 9 + your Proficiency Bonus + your Intelligence Modifier`
+`Spell Save DC = 9 + your Proficiency Bonus + your Intelligence Modifier`
 
 `Spell Attack Modifier = your Proficiency Bonus + your Intelligence Modifier`
 
 ### Spell Slots
 To cast a spell, you must expend a slot of the spell's level or higher.
-The Wizard table shows how many spell slots you have to cast your wizard spells.
+The Wizard Table shows how many spell slots you have to cast your wizard spells.
 If you cast a cantrip, or 0th level spell, you don't need to expend a spell slot unless you cast it at a higher level.
 You regain all expended spell slots when you finish a long rest.
 
@@ -22,16 +22,16 @@ At 1st level, you have a spellbook containing ten wizard spells of your choice.
 Your spellbook is the repository of the wizard spells you know.
 
 ### Learning Spells
-Each time you gain a wizard level, you can add two wizard spells of your choice to your spellbook.
-Each of these spells must either be a cantrip or of a level for which you have spell slots, as shown on the Wizard table.
+Each time you gain a Wizard Level, you can add two wizard spells of your choice to your spellbook.
+Each of these spells must either be a cantrip or of a level for which you have spell slots, as shown on the Wizard Table.
 On your adventures, you might find other spells that you can add to your spellbook (see the "Your Spellbook" sidebar).
 
 ### Preparing Spells
 You prepare the list of wizard spells that are available for you to cast, choosing from your spellbook.
 Your spellcasting ability will influence the maximum number of spells you can prepare.
-Each spell must either be a cantrip or of a level for which you have spell slots, as shown on the Wizard table.
+Each spell must either be a cantrip or of a level for which you have spell slots, as shown on the Wizard Table.
 
-`Max. prepared spells = your wizard level + your Proficiency Bonus + your Intelligence Modifier`
+`Max. prepared spells = your Wizard Level + your Proficiency Bonus + your Intelligence Modifier`
 
 You can change your list of prepared spells when you finish a long rest.
 Preparing a new list of wizard spells requires time spent studying your spellbook and memorizing the incantations and gestures you must make to cast the spell: at least 1 minute per spell level for each spell on your list.

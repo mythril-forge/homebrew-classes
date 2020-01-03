@@ -7,7 +7,7 @@ Followers of these gods study esoteric lore, collect old tomes, delve into the s
 Some gods of knowledge promote the practical knowledge of craft and invention, including smith deities like Gond, Reorx, Onatar, Moradin, Hephaestus, and Goibhniu.
 
 ## Spellcasting
-At each indicated cleric level, you add the listed spells to your spells prepared.
+At each indicated Cleric Level, you add the listed spells to your spells prepared.
 
 ###### Knowledge Domain Spells
 

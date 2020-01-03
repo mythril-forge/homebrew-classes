@@ -1,6 +1,6 @@
 ## Second Wind
 Beginning at 3rd level, you have a limited well of stamina that you can draw on to protect yourself from harm.
-On your turn, you can use a bonus action to regain hit points equal to a number of `d4`'s equal to your fighter level.
+On your turn, you can use a bonus action to regain hit points equal to a number of `d4`'s equal to your Fighter Level.
 
 Once you use this feature, you must finish a short or long rest before you can use it again.
 Starting at 19th level, you can use it twice before a rest.
@@ -10,7 +10,7 @@ Starting at 19th level, you can use it twice before a rest.
 -<< CHANGES >>-
 - this is no longer an onboarding ability
 -> moved to level 3
-- buffing ability to heal 1d4 per fighter level
+- buffing ability to heal 1d4 per Fighter Level
 -> Nd4 > 1d10 + N @ level 4
 -> leaving it at level 1 or 2 would be really anticlimatic
 -> characters could die for rolling some 1's during combat

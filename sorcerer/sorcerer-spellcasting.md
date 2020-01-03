@@ -8,22 +8,22 @@ Charisma is your spellcasting ability for your sorcerer spells, since the power 
 You use your Charisma whenever a spell refers to your spellcasting ability.
 In addition, you use your Charisma Modifier when setting the Saving Throw DC for a sorcerer spell you cast and when making an Attack Roll with one.
 
-`Spell save DC = 9 + your Proficiency Bonus + your Charisma Modifier`
+`Spell Save DC = 9 + your Proficiency Bonus + your Charisma Modifier`
 
 `Spell Attack Modifier = your Proficiency Bonus + your Charisma Modifier`
 
 ### Spell Slots
 To cast a spell, you must expend a slot of the spell's level or higher.
-The Sorcerer table shows how many spell slots you have to cast your sorcerer spells.
+The Sorcerer Table shows how many spell slots you have to cast your sorcerer spells.
 If you cast a cantrip, or 0th level spell, you don't need to expend a spell slot unless you cast it at a higher level.
 You regain all expended spell slots when you finish a long rest.
 
 ### Spells Known
-The Spells Known column of the Sorcerer table shows how many sorcerer spells you know, and how many you learn when you level up.
+The Spells Known column of the Sorcerer Table shows how many sorcerer spells you know, and how many you learn when you level up.
 You must choose these spells from the sorcerer spell list.
-Each of these spells must either be a cantrip or of a level for which you have spell slots, as shown on the Sorcerer table.
+Each of these spells must either be a cantrip or of a level for which you have spell slots, as shown on the Sorcerer Table.
 
-Additionally, when you gain a level in this class, you can choose one of the sorcerer spells you know and replace it with another spell from the sorcerer spell list, which also must either be a cantrip or of a level for which you have spell slots, as shown on the Sorcerer table.
+Additionally, when you gain a level in this class, you can choose one of the sorcerer spells you know and replace it with another spell from the sorcerer spell list, which also must either be a cantrip or of a level for which you have spell slots, as shown on the Sorcerer Table.
 
 ### Preparing Spells
 The sorcerer spells that you know are always considered prepared to cast.

@@ -6,7 +6,7 @@ In the pantheons of seafaring people, gods of this domain are ocean deities and 
 Tempest gods send their clerics to inspire fear in the common folk, either to keep those folk on the path of righteousness or to encourage them to offer sacrifices of propitiation to ward off divine wrath.
 
 ## Spellcasting
-At each indicated cleric level, you add the listed spells to your spells prepared.
+At each indicated Cleric Level, you add the listed spells to your spells prepared.
 
 ###### Tempest Domain Spells
 

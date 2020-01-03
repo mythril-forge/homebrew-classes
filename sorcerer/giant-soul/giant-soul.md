@@ -12,7 +12,7 @@ At 1st level, your hit dice size increases to 1d8.
 
 ## Mark of the Ordning
 At 1st level, you discover innate magical abilities within yourself that are based on your giant heritage.
-Select one of the giant types from the Mark of the Ordning table.
+Select one of the giant types from the Mark of the Ordning Table.
 At 1st and 3rd level, you learn the spells associated with your choice, as shown in the table.
 These spells count as sorcerer spells for you, but they don't count against your number of sorcerer spells known.
 
@@ -112,7 +112,7 @@ When coming under the effects of multiple different sources of enlargement, refe
 - You gain advantage on all Strength Ability Checks and Saving Throws
 - You can use d24s instead of d20s on all Strength-based Attack Rolls, Ability Checks and Saving Throws
 - You can use hit dice as if a short rest has been completed
-- You gain current and maximum hit points equal to your `sorcerer level + Constitution Ability Score`
+- You gain current and maximum hit points equal to your `Sorcerer Level + Constitution Ability Score`
 
 #### Third Enlargement
 - Your size category increases by three
@@ -124,7 +124,7 @@ When coming under the effects of multiple different sources of enlargement, refe
 - You gain advantage on all Strength Ability Checks and Saving Throws
 - You can use d30s instead of d20s on all Strength-based Attack Rolls, Ability Checks and Saving Throws
 - You can use hit dice as if a short rest has been completed
-- You gain temporary, current and maximum hit points equal to your `sorcerer level + Constitution Ability Score`
+- You gain temporary, current and maximum hit points equal to your `Sorcerer Level + Constitution Ability Score`
 
 ## Rage of the Fallen Sons
 Starting at 14th level, you are able to call fourth the souls of your ancestors and channel them into your physical form.
