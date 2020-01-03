@@ -8,15 +8,15 @@
 | 6th   | Feral Instinct                                                  | +5 ft.            | +3              | 4         |
 | 7th   | Primal Path Feature                                             | +5 ft.            | +3              | 4         |
 | 8th   | Ability Score Improvement                                       | +10 ft.           | +3              | 4         |
-| 9th   | Brutal Critical (1 extra)                                       | +10 ft.           | +3              | 4         |
+| 9th   | Brutal Critical (+1 multiplier)                                 | +10 ft.           | +3              | 4         |
 | 10th  | Undying Fury                                                    | +10 ft.           | +3              | 5         |
 | 11th  | Primal Path Feature                                             | +10 ft.           | +4              | 5         |
 | 12th  | Ability Score Improvement                                       | +10 ft.           | +4              | 5         |
-| 13th  | Brutal Critical (2 extra)                                       | +10 ft.           | +4              | 5         |
+| 13th  | Brutal Critical (+2 multiplier)                                 | +10 ft.           | +4              | 5         |
 | 14th  | Persistent Rage                                                 | +15 ft.           | +4              | 5         |
 | 15th  | Primal Path Feature                                             | +15 ft.           | +4              | 6         |
 | 16th  | Ability Score Improvement                                       | +15 ft.           | +5              | 6         |
-| 17th  | Brutal Critical (3 extra)                                       | +15 ft.           | +5              | 6         |
+| 17th  | Brutal Critical (+3 multiplier)                                 | +15 ft.           | +5              | 6         |
 | 18th  | Indomitable Might                                               | +15 ft.           | +5              | 6         |
 | 19th  | Primal Path Feature                                             | +15 ft.           | +5              | 6         |
 | 20th  | Ability Score Improvement, Primal Champion, Unmatched Fortitude | +20 ft.           | +5              | 6         |
