@@ -1,5 +1,5 @@
 ## Destroy Undead
-Starting at 5th level, when an undead fails its Saving Throw against your Turn Undead feature, the creature is instantly destroyed if its challenge rating is at or below a certain threshold, as shown in the Destroy Undead table.
+Starting at 5th level, when an undead fails its Saving Throw against your Turn Undead feature, the creature is instantly destroyed if its challenge rating is at or below a certain threshold, as shown in the Destroy Undead Table.
 
 ***Destroy Undead Table***
 

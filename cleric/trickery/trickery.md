@@ -5,7 +5,7 @@ Their clerics are a disruptive force in the world, puncturing pride, mocking tyr
 They prefer subterfuge, pranks, deception, and theft rather than direct confrontation.
 
 ## Spellcasting
-At each indicated cleric level, you add the listed spells to your spells prepared.
+At each indicated Cleric Level, you add the listed spells to your spells prepared.
 
 ###### Trickery Domain Spells
 
@@ -36,7 +36,7 @@ The illusion fades if it ever leaves your sight.
 For the duration, you can cast spells as though you were in the illusion's space, but you must use your own senses.
 Additionally, when both you and your illusion are within 5 feet of a creature that can see the illusion, you have advantage on Attack Rolls against that creature, given how distracting the illusion is to the target.
 
-A creature that would have physically interacted with or damaged your illusion can make a Intelligence Saving Throw against your spell save DC.
+A creature that would have physically interacted with or damaged your illusion can make a Intelligence Saving Throw against your Spell Save DC.
 On a success, it can see through your illusion.
 
 ### Channel Divinity: Cloak of Shadows

@@ -134,7 +134,7 @@ Did you enter this service willingly? Or did the god choose you, impelling you i
 ### Hit Points
 - **Hit Dice:** `1d8`
 - **Hit Points at 1st Level:** `8 + your Constitution Modifier`
-- **Hit Points at Higher Levels:** `1d8, reroll 1's (or 5) + your Constitution Modifier per Cleric level after 1st`
+- **Hit Points at Higher Levels:** `1d8, reroll 1's (or 5) + your Constitution Modifier per Cleric Level after 1st`
 
 ### Proficiencies
 You are proficient with the following items, in addition to any proficiencies provided by your race or background.
