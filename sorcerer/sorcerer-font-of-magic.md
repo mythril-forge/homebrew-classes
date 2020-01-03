@@ -8,6 +8,22 @@ You regain all spent sorcery points when you finish a long rest.
 
 You can expend your sorcery points to create spell slots and vice-versa.
 You learn other ways to use your sorcery points as you reach higher levels.
+Refer to the Sorcery Points Table in the sections that call for a spell slot's sorcery point conversion rate.
+
+#### Sorcery Points Table
+| Spell Slot Level | Sorcery Point Conversion Rate |
+|------------------|-------------------------------|
+| 0th (Cantrip)    | 0                             |
+| 1st              | 2                             |
+| 2nd              | 3                             |
+| 3rd              | 5                             |
+| 4th              | 6                             |
+| 5th              | 7                             |
+| 6th              | 9                             |
+| 7th              | 10                            |
+| 8th              | 11                            |
+| 9th              | 12                            |
+| 10th             | 14                            |
 
 ### Universal Energy
 Sorcery points are a variant of spell points.
@@ -26,21 +42,6 @@ As a bonus action on your turn, you can expend a number of spell slots to genera
 For each spell slot spent in this way, you gain a number of sorcery points equal to the spell slot's sorcery point conversion rate minus one, as shown in the Sorcery Points Table.
 
 Superfluous sorcery points vanish at the end of a short or long rest.
-
-#### Sorcery Points
-| Spell Slot Level | Sorcery Point Conversion Rate |
-|------------------|-------------------------------|
-| 0th (Cantrip)    | 0                             |
-| 1st              | 2                             |
-| 2nd              | 3                             |
-| 3rd              | 5                             |
-| 4th              | 6                             |
-| 5th              | 7                             |
-| 6th              | 9                             |
-| 7th              | 10                            |
-| 8th              | 11                            |
-| 9th              | 12                            |
-| 10th             | 14                            |
 
 <!--
 
