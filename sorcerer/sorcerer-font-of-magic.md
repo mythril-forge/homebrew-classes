@@ -2,27 +2,28 @@
 Starting at 1st level, you can tap into a deep wellspring of magic within yourself.
 This wellspring is represented by sorcery points, which allow you to create a variety of magical effects.
 
+### Sorcery Points
 You have 2 sorcery points, and you gain additional sorcery points every time you level up, as shown on the Sorcerer Table.
 You regain all spent sorcery points when you finish a long rest.
 
-You learn several different ways to use your sorcery points as you reach higher levels.
+You can expend your sorcery points to create spell slots and vice-versa.
+You learn other ways to use your sorcery points as you reach higher levels.
 
 ### Universal Energy
-If you have the Arcane Recovery or Ki Channeler feature, you can use sorcery points with those features as if they were arcana points or ki points, respectively.
+Sorcery points are a variant of spell points.
+They can be used with other features that utilize spell points.
+Likewise, other sources of spell points can fuel Sorcerer features that call for sorcery points.
 
-### Flexible Casting
-You can use your sorcery points to recover spell slots, or sacrifice spell slots to gain additional sorcery points.
-
-#### Converting Sorcery Points
+### Converting Sorcery Points
 You can transform unexpended sorcery points into spell slots as a bonus action on your turn.
-For each spell slot that you want to make, spend a number of sorcery points equal to its sorcery point conversion rate, as shown in the Sorcery Points Table.
+For each spell slot that you want to make, spend a number of sorcery points equal to the spell slot's sorcery point conversion rate, as shown in the Sorcery Points Table.
 You can use this feature to create spell slots no higher in level than 5th.
 
 Superfluous spell slots vanish at the end of a short or long rest.
 
-#### Converting a Spell Slot
+### Converting Spell Slots
 As a bonus action on your turn, you can expend a number of spell slots to generate sorcery points.
-For each spell slot spent in this way, you gain a number of sorcery points equal to to its sorcery point conversion rate minus one, as shown in the Sorcery Points Table.
+For each spell slot spent in this way, you gain a number of sorcery points equal to the spell slot's sorcery point conversion rate minus one, as shown in the Sorcery Points Table.
 
 Superfluous sorcery points vanish at the end of a short or long rest.
 
@@ -49,7 +50,7 @@ Superfluous sorcery points vanish at the end of a short or long rest.
 - you can now convert multiple spell slots at once
 - you can now generate multiple spell slots at once
 - but you can't do both at once
-- increased pool of sorcery points to 1.5 times your level
+- increased pool of sorcery points to twice your level
 
 -<< TODO >>-
 - reword confusing rules
