@@ -1,3 +1,5 @@
+![tavern][tavern]
+
 # Homebrew Classes
 ## `WARNING`: Under Construction
 You need to set up this repo by adding several remotes:
@@ -25,3 +27,5 @@ Comments must be formatted in this way:
 
 -->
 ```
+
+[tavern]: ./images/tavern.jpg
