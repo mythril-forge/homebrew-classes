@@ -9,6 +9,8 @@ The DM chooses the nature of the intervention; the effect of any cleric spell or
 If your deity intervenes, you can't use this feature again until you finish a long rest.
 Otherwise, you can use it again after you finish a short rest.
 
+By 20th level, your call for intervention succeeds automatically, no roll required.
+
 <!--
 
 -<< CHANGES >>-
