@@ -6,8 +6,8 @@ Describe the assistance you seek, and roll `1d120 + your Wisdom Ability Score + 
 If the result is higher than 120, your deity intervenes.
 The DM chooses the nature of the intervention; the effect of any cleric spell or cleric domain spell would be appropriate.
 
-If your deity intervenes, you can't use this feature again until you finish a long rest.
-Otherwise, you can use it again after you finish a short rest.
+If your deity intervenes, you can't use this feature again for 30 days.
+Otherwise, you can use it again after you finish a long rest.
 
 By 20th level, your call for intervention succeeds automatically, no roll required.
 
