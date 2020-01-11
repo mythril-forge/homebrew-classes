@@ -9,3 +9,7 @@ While *frightened*, a creature must spend its turns trying to move as far away f
 It also can't take reactions.
 For its action, it can use only the *dash* action or try to escape from an effect that prevents it from moving.
 If there's nowhere to move, the creature can use the *dodge* action.
+
+### Destory Undead
+When an undead fails its Saving Throw against your Turn Undead feature, the creature is instantly destroyed if its Challenge Rating is at or below 0.
+This threshold increases as you level up, as shown on the Cleric Table.
