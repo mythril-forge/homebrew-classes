@@ -1,7 +1,7 @@
 ## Improved Pact Magic
-At 20th level, you can draw on your inner reserve of mystical power while entreating your patron to regain expended spell slots.
+At 20th level, you can draw on your inner reserve of mystical power while entreating your patron to implore them use your body and spirit as a catalyst.
 You can spend the duration of a short rest entreating your patron for aid.
-When you do so, you regain all of your expended spell slots from your Pact Magic feature, including those of 6th level and higher.
+When you do so, you turn into an aspect of your patron, utterly transforming your body in weird and terrible ways.
 
 Once you use this feature, you can't use it again until you finish a long rest.
 
