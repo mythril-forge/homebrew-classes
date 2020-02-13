@@ -1,7 +1,7 @@
 | Level | Features                                          |
 |-------|---------------------------------------------------|
-| 1st   | Fighting Style, Armor Practice                    |
-| 2nd   | Action Surge (1/rest), Tactician                  |
+| 1st   | Fighting Style, Tactician                         |
+| 2nd   | Action Surge (1/rest), Martial Stance             |
 | 3rd   | Martial Archetype, Second Wind (1/rest)           |
 | 4th   | Ability Score Improvement                         |
 | 5th   | Extra Attack (1 extra)                            |
