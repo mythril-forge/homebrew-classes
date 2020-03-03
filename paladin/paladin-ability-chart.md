@@ -1,22 +1,22 @@
-| Level | Features                                                               | 1st     | 2nd     | 3rd     | 4th     | 5th     |
-|-------|------------------------------------------------------------------------|---------|---------|---------|---------|---------|
-| 1     | Fighting Style, Lay on Hands, Divine Health                            | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| 2     | Spellcasting, Sacred Oath, Channel Divinity (1/rest)                   | 1       | &mdash; | &mdash; | &mdash; | &mdash; |
-| 3     | Divine Concentration (1 extra)                                         | 2       | &mdash; | &mdash; | &mdash; | &mdash; |
-| 4     | Ability Score Improvement                                              | 3       | &mdash; | &mdash; | &mdash; | &mdash; |
-| 5     | Sacred Oath feature, Extra Attack, Aura of Protection                  | 4       | &mdash; | &mdash; | &mdash; | &mdash; |
-| 6     | &mdash;                                                                | 4       | 1       | &mdash; | &mdash; | &mdash; |
-| 7     | Divine Concentration (2 extra)                                         | 4       | 2       | &mdash; | &mdash; | &mdash; |
-| 8     | Ability Score Improvement, Sacred Oath feature                         | 4       | 3       | &mdash; | &mdash; | &mdash; |
-| 9     | Aura of Courage                                                        | 4       | 4       | &mdash; | &mdash; | &mdash; |
-| 10    | &mdash;                                                                | 4       | 4       | 1       | &mdash; | &mdash; |
-| 11    | Sacred Oath feature, Divine Strike, Cleansing Touch                    | 4       | 4       | 2       | &mdash; | &mdash; |
-| 12    | Ability Score Improvement                                              | 4       | 4       | 2       | &mdash; | &mdash; |
-| 13    | Aura of Resolution                                                     | 4       | 4       | 3       | &mdash; | &mdash; |
-| 14    | Sacred Oath feature                                                    | 4       | 4       | 3       | 1       | &mdash; |
-| 15    | Sacred Blood                                                           | 4       | 4       | 3       | 2       | &mdash; |
-| 16    | Ability Score Improvement                                              | 4       | 4       | 3       | 2       | &mdash; |
-| 17    | Sacred Oath feature, Aura Improvements                                 | 4       | 4       | 3       | 3       | &mdash; |
-| 18    | &mdash;                                                                | 4       | 4       | 3       | 3       | 1       |
-| 19    | Bearer of Burdens                                                      | 4       | 4       | 3       | 3       | 2       |
-| 20    | Ability Score Improvement, Sacred Oath feature, Improved Divine Strike | 4       | 4       | 3       | 3       | 2       |
+| Level | Features                                                                  | Pool of Healing | 1st     | 2nd     | 3rd     | 4th     | 5th     |
+|-------|---------------------------------------------------------------------------|-----------------|---------|---------|---------|---------|---------|
+| 1st   | Lay on Hands, Grasp of Remedy                                             | 5               | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 2nd   | Spellcasting, Sacred Oath, Channel Divinity (1/rest)                      | 10              | 1       | &mdash; | &mdash; | &mdash; | &mdash; |
+| 3rd   | Fighting Style                                                            | 15              | 2       | &mdash; | &mdash; | &mdash; | &mdash; |
+| 4th   | Ability Score Improvement                                                 | 20              | 3       | &mdash; | &mdash; | &mdash; | &mdash; |
+| 5th   | Sacred Oath Feature, Extra Attack                                         | 25              | 4       | &mdash; | &mdash; | &mdash; | &mdash; |
+| 6th   | Radiant Strike                                                            | 30              | 4       | 1       | &mdash; | &mdash; | &mdash; |
+| 7th   | Aura of Protection                                                        | 35              | 5       | 2       | &mdash; | &mdash; | &mdash; |
+| 8th   | Ability Score Improvement, Sacred Oath Feature, Turn Undead               | 40              | 5       | 3       | &mdash; | &mdash; | &mdash; |
+| 9th   | Animal Companion                                                          | 45              | 5       | 4       | &mdash; | &mdash; | &mdash; |
+| 10th  | Divine Health                                                             | 50              | 5       | 4       | 1       | &mdash; | &mdash; |
+| 11th  | Sacred Oath Feature, Improved Radiant Strike                              | 55              | 5       | 5       | 2       | &mdash; | &mdash; |
+| 12th  | Ability Score Improvement                                                 | 60              | 5       | 5       | 3       | &mdash; | &mdash; |
+| 13th  | Aura of Courage                                                           | 65              | 5       | 5       | 3       | &mdash; | &mdash; |
+| 14th  | Sacred Oath Feature, Cleansing Touch                                      | 70              | 5       | 5       | 3       | 1       | &mdash; |
+| 15th  | Saddleborn Warrior                                                        | 75              | 5       | 5       | 3       | 2       | &mdash; |
+| 16th  | Ability Score Improvement                                                 | 80              | 5       | 5       | 3       | 3       | &mdash; |
+| 17th  | Sacred Oath Feature, Holy Hyperfocus                                      | 85              | 6       | 5       | 3       | 3       | &mdash; |
+| 18th  | Transfer Vitality                                                         | 90              | 6       | 5       | 3       | 3       | 1       |
+| 19th  | Aura Improvements                                                         | 95              | 6       | 5       | 3       | 3       | 2       |
+| 20th  | Ability Score Improvement, Sacred Oath Feature, Channel Divinity (2/rest) | 100             | 6       | 5       | 3       | 3       | 3       |
