@@ -16,7 +16,7 @@
 | 14th  | Sacred Oath Feature, Cleansing Touch                                      | 70              | 5       | 5       | 3       | 1       | &mdash; |
 | 15th  | Saddleborn Warrior                                                        | 75              | 5       | 5       | 3       | 2       | &mdash; |
 | 16th  | Ability Score Improvement                                                 | 80              | 5       | 5       | 3       | 3       | &mdash; |
-| 17th  | Sacred Oath Feature, Holy Hyperfocus                                      | 85              | 6       | 5       | 3       | 3       | &mdash; |
+| 17th  | Sacred Oath Feature, Righteous Hyperfocus                                 | 85              | 6       | 5       | 3       | 3       | &mdash; |
 | 18th  | Transfer Vitality                                                         | 90              | 6       | 5       | 3       | 3       | 1       |
 | 19th  | Aura Improvements                                                         | 95              | 6       | 5       | 3       | 3       | 2       |
 | 20th  | Ability Score Improvement, Sacred Oath Feature, Channel Divinity (2/rest) | 100             | 6       | 5       | 3       | 3       | 3       |

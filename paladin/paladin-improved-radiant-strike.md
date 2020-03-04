@@ -1,7 +1,6 @@
-## Improved Divine Health
-At 20th level, the blood in your veins course with pure divine energy. You are immune to poison.
-
-Even as you lay dead, your body is filled with a righteous passion. Your body will not decay, and is perserved perfectly through the echos of time. You cannot become undead, and a spellcaster ignores any time limits when trying to bring you back to life.
+## Improved Radiant Strike
+By 11th level, you are so suffused with righteous might that all your melee weapon strikes carry divine power with them.
+Whenever you hit a creature with a melee weapon, the creature takes an extra `1d8` radiant damage.
 
 <!--
 
