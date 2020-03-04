@@ -1,5 +1,5 @@
 ## Divine Health
-At 1st level, the divine magic flowing through you makes you immune to disease.
+At 10th level, the divine magic flowing through you makes you immune to disease.
 
 <!--
 
