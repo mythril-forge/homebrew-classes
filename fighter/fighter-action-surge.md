@@ -11,10 +11,7 @@ Starting at 20th level, you can use it twice before a rest, but only once on the
 -<< CHANGES >>-
 - second powerup moved to 20th level
 - this was swapped with extra attack 3
-- allowed an extra action and bonus action (and reaction)
-
--<< TODO >>-
-- none
+- allowed an extra action and bonus action (and reaction).
 
 -<< COMMENTARY >>-
 - action surge is more useful for non-martial characters than extra attack 3
